@@ -37,6 +37,6 @@ Arcade | | 0%
 街机 世嘉Sammy Atomiswave | | 0%
 街机 SNK NeoGeo | | 0%
 SNK NEO CD | | 0%
-SNK NGP | | 0%
-SNK NGPC | | 0%
+SNK NGP | 10/10 | 100%
+SNK NGPC | 116/116 | 100%
 松下 3DO | | 0%
