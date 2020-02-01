@@ -1,7 +1,8 @@
 # ROM Name CN
-![](https://img.shields.io/badge/In%20Progress-22-yellow)
-![](https://img.shields.io/badge/Completed-7-brightgreen)
-![](https://img.shields.io/badge/Not%20Started-9-red)
+
+![In Progress](https://img.shields.io/badge/In%20Progress-18-yellow)
+![Completed](https://img.shields.io/badge/Completed-11-brightgreen)
+![Not Started](https://img.shields.io/badge/Not%20Started-9-red)
 
 基于 [no-intro](https://datomatic.no-intro.org/) 的英文版 ROM 名称的中英文对照。也希望大家一起[贡献](./CONTRIBUTING.md)。
 
@@ -20,7 +21,6 @@
 世嘉 DC | | ![Not Started][Not Started]
 世嘉 SEGA32x | 0/206 | ![In Progress][In Progress]
 世嘉 SEGA CD* | | ![Not Started][Not Started]
-[世嘉 GG](./Sega%20-%20Game%20Gear.csv) | 730/780 | ![Completed 94%](https://img.shields.io/badge/Completed-94%25-green)
 微软 MSX1 | 0/936 | ![In Progress][In Progress]
 [微软 MSX2](./Microsoft%20-%20MSX2.csv) | 195/195 | ![Completed 100%][Completed 100]
 SNK NEO CD | | ![Not Started][Not Started]
@@ -41,6 +41,7 @@ SNK NEO CD | | ![Not Started][Not Started]
 任天堂 New 3DS | 0/10 | ![In Progress][In Progress]
 索尼 PSP | 0/3451 | ![In Progress][In Progress]
 索尼 PSP(PSN) | 0/2019 | ![In Progress][In Progress]
+[世嘉 GG](./Sega%20-%20Game%20Gear.csv) | 730/780 | ![Completed 94%](https://img.shields.io/badge/Completed-94%25-green)
 [万代 WS](./Bandai%20-%20WonderSwan.csv) | 125/125 | ![Completed 100%][Completed 100]
 [万代 WSC](./Bandai%20-%20WonderSwan%20Color.csv) | 100/100 | ![Completed 100%][Completed 100]
 [SNK NGP](./SNK%20-%20Neo%20Geo%20Pocket.csv) | 10/10 | ![Completed 100%][Completed 100]
@@ -50,13 +51,13 @@ SNK NEO CD | | ![Not Started][Not Started]
 
 平台 | ROM 数 | 完成度
 ---|---|---
-街机 MAME<br/>0.37b5, 0.78, 0.139, 0.159 | | ![Not Started][Not Started]
-街机 CAPCOM CPS1 | | ![In Progress][In Progress]
-街机 CAPCOM CPS2 | | ![In Progress][In Progress]
-街机 CAPCOM CPS3 | | ![In Progress][In Progress]
-街机 SNK NeoGeo | | ![In Progress][In Progress]
-街机 世嘉 Naomi | | ![In Progress][In Progress]
-街机 世嘉Sammy Atomiswave | | ![In Progress][In Progress]
+MAME | | ![Not Started][Not Started]
+[CAPCOM CPS1](./Arcade%20-%20CPS1.csv) | 185/185 | ![Completed 100%][Completed 100]
+[CAPCOM CPS2](./Arcade%20-%20CPS2.csv) | 299/299 | ![Completed 100%][Completed 100]
+[CAPCOM CPS3](./Arcade%20-%20CPS3.csv) | 37/37 | ![Completed 100%][Completed 100]
+[SNK NeoGeo](./Arcade%20-%20NEOGEO.csv) | 257/257 | ![Completed 100%][Completed 100]
+世嘉 Naomi | | ![In Progress][In Progress]
+世嘉Sammy Atomiswave | | ![In Progress][In Progress]
 
 英文数据主要来源：
 
