@@ -32,7 +32,7 @@ SNK NEO CD | | ![Not Started][Not Started]
 ---|---|---
 任天堂 GB | 0/1645 | ![In Progress][In Progress]
 任天堂 GBC | 0/1471 | ![In Progress][In Progress]
-[任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2843/3173 | ![In Progress](https://img.shields.io/badge/In%20Progress-89%25-yellow)
+[任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 3048/3173 | ![Completed 96%](https://img.shields.io/badge/Completed-96%25-green)
 任天堂 Game & Watch | 21/59 | ![In Progress 35%](https://img.shields.io/badge/In%20Progress-35%25-yellowgreen)
 任天堂 NDS | 0/7180 | ![In Progress][In Progress]
 任天堂 NDSi | 0/1069 | ![In Progress][In Progress]
