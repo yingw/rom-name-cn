@@ -28,11 +28,11 @@ SNK NEO CD | | ![Not Started][Not Started]
 
 掌机：
 
-平台 | ROM 数 | 完成度
----|---|---
+平台 | ROM 数 | 完成度 | 数据源
+---|---|---|---
 任天堂 GB | 0/1645 | ![In Progress][In Progress]
 任天堂 GBC | 0/1471 | ![In Progress][In Progress]
-[任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 3048/3173 | ![Completed 96%](https://img.shields.io/badge/Completed-96%25-green)
+[任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2850/2850 | ![Completed 100%][Completed 100] | No-Intro:</br>`Nintendo - Game Boy Advance (#3120 + x462).dat`
 任天堂 Game & Watch | 21/59 | ![In Progress 35%](https://img.shields.io/badge/In%20Progress-35%25-yellowgreen)
 [任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv) | 6172/7180 | ![Completed 86%](https://img.shields.io/badge/Completed-86%25-green)
 任天堂 NDSi | 0/1069 | ![In Progress][In Progress]
@@ -41,7 +41,7 @@ SNK NEO CD | | ![Not Started][Not Started]
 任天堂 New 3DS | 0/10 | ![In Progress][In Progress]
 索尼 PSP | 0/3451 | ![In Progress][In Progress]
 索尼 PSP(PSN) | 0/2019 | ![In Progress][In Progress]
-[世嘉 GG](./Sega%20-%20Game%20Gear.csv) | 730/780 | ![Completed 94%](https://img.shields.io/badge/Completed-94%25-green)
+[世嘉 GG](./Sega%20-%20Game%20Gear.csv) | 469/469 | ![Completed 100%][Completed 100] | No-Intro: </br>`Sega - Game Gear (20240827-211557)`
 [万代 WS](./Bandai%20-%20WonderSwan.csv) | 125/125 | ![Completed 100%][Completed 100]
 [万代 WSC](./Bandai%20-%20WonderSwan%20Color.csv) | 100/100 | ![Completed 100%][Completed 100]
 [SNK NGP](./SNK%20-%20Neo%20Geo%20Pocket.csv) | 10/10 | ![Completed 100%][Completed 100]
@@ -58,6 +58,9 @@ MAME | | ![Not Started][Not Started]
 [SNK NeoGeo](./Arcade%20-%20NEOGEO.csv) | 257/257 | ![Completed 100%][Completed 100]
 世嘉 Naomi | | ![In Progress][In Progress]
 世嘉Sammy Atomiswave | | ![In Progress][In Progress]
+
+Dat 数据源过滤规则（一般）：
+No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS...
 
 英文数据主要来源：
 
