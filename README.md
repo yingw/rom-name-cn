@@ -16,7 +16,7 @@
 任天堂 N64 | 0/1028 | ![In Progress][In Progress]
 索尼 PS1 | 0/10066 | ![Not Started][Not Started]
 索尼 PS2 | 0/10835 | ![Not Started][Not Started]
-世嘉 MD/Gensis | 0/2382 | ![In Progress][In Progress]
+[世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv) | 1698/1698 | ![Completed 100%][Completed 100]
 世嘉 SS | | ![Not Started][Not Started]
 世嘉 DC | | ![Not Started][Not Started]
 世嘉 SEGA32x | 0/206 | ![In Progress][In Progress]
@@ -28,11 +28,11 @@ SNK NEO CD | | ![Not Started][Not Started]
 
 掌机：
 
-平台 | ROM 数 | 完成度 | 数据源
----|---|---|---
+平台 | ROM 数 | 完成度
+---|---|---
 任天堂 GB | 0/1645 | ![In Progress][In Progress]
 任天堂 GBC | 0/1471 | ![In Progress][In Progress]
-[任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2850/2850 | ![Completed 100%][Completed 100] | No-Intro:</br>`Nintendo - Game Boy Advance (#3120 + x462).dat`
+[任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2850/2850 | ![Completed 100%][Completed 100]
 任天堂 Game & Watch | 21/59 | ![In Progress 35%](https://img.shields.io/badge/In%20Progress-35%25-yellowgreen)
 [任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv) | 6172/7180 | ![Completed 86%](https://img.shields.io/badge/Completed-86%25-green)
 任天堂 NDSi | 0/1069 | ![In Progress][In Progress]
@@ -41,7 +41,7 @@ SNK NEO CD | | ![Not Started][Not Started]
 任天堂 New 3DS | 0/10 | ![In Progress][In Progress]
 索尼 PSP | 0/3451 | ![In Progress][In Progress]
 索尼 PSP(PSN) | 0/2019 | ![In Progress][In Progress]
-[世嘉 GG](./Sega%20-%20Game%20Gear.csv) | 469/469 | ![Completed 100%][Completed 100] | No-Intro: </br>`Sega - Game Gear (20240827-211557)`
+[世嘉 GG](./Sega%20-%20Game%20Gear.csv) | 469/469 | ![Completed 100%][Completed 100]
 [万代 WS](./Bandai%20-%20WonderSwan.csv) | 125/125 | ![Completed 100%][Completed 100]
 [万代 WSC](./Bandai%20-%20WonderSwan%20Color.csv) | 100/100 | ![Completed 100%][Completed 100]
 [SNK NGP](./SNK%20-%20Neo%20Geo%20Pocket.csv) | 10/10 | ![Completed 100%][Completed 100]
@@ -80,3 +80,9 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 [In Progress]: https://img.shields.io/badge/In%20Progress-0%25-yellow
 [Not Started]: https://img.shields.io/badge/Not%20Started-0%25-red
 [Completed 100]: https://img.shields.io/badge/Completed-100%25-brightgreen
+
+各平台使用的数据源：
+
+- 世嘉 MD/Gensis - `Sega - Mega Drive - Genesis (20240907-224108).dat` 除去 Demo 等：1714；Retool 除去 15 个 promram、1 个 HeartBeat Catalyst，最终：1698
+- 世嘉 GameGear - 469 `Sega - Game Gear (20240827-211557)` 812；除去 Demo 等后：469
+- 任天堂 GBA - `Nintendo - Game Boy Advance (#3120 + x462).dat` 3562；除去 xXXX、Demo 后：2850
