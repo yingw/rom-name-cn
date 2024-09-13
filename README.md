@@ -10,7 +10,7 @@
 
 平台 | ROM 数 | 完成度
 ---|---|---
-任天堂 FC/NES | 0/3006 | ![In Progress][In Progress]
+[任天堂 FC/NES](./Nintendo%20-%20Nintendo%20Entertainment%20System.csv) | 2247/2247 | ![Completed 100%][Completed 100]
 任天堂 SFC/SNES | 0/3625 | ![In Progress][In Progress]
 [任天堂 FDC](./Nintendo%20-%20Family%20Computer%20Disk%20System.csv) | 315/323 | ![Completed 98%](https://img.shields.io/badge/Completed-98%25-green)
 任天堂 N64 | 0/1028 | ![In Progress][In Progress]
@@ -86,3 +86,4 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - 世嘉 MD/Gensis - `Sega - Mega Drive - Genesis (20240907-224108).dat` 除去 Demo 等：1714；Retool 除去 15 个 promram、1 个 HeartBeat Catalyst，最终：1698
 - 世嘉 GameGear - 469 `Sega - Game Gear (20240827-211557)` 812；除去 Demo 等后：469
 - 任天堂 GBA - `Nintendo - Game Boy Advance (#3120 + x462).dat` 3562；除去 xXXX、Demo 后：2850
+- 任天堂 FC/NES - `Nintendo - Nintendo Entertainment System (Headerless) (20240829-004657).dat` 4170，去除各种后 2247
