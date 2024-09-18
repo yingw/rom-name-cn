@@ -11,7 +11,7 @@
 平台 | ROM 数 | 完成度
 ---|---|---
 [任天堂 FC/NES](./Nintendo%20-%20Nintendo%20Entertainment%20System.csv) | 2247/2247 | ![Completed 100%][Completed 100]
-任天堂 SFC/SNES | 0/3625 | ![In Progress][In Progress]
+[任天堂 SFC/SNES](./Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.csv) | 3145/3145 | ![Completed 100%][Completed 100]
 [任天堂 FDC](./Nintendo%20-%20Family%20Computer%20Disk%20System.csv) | 315/323 | ![Completed 98%](https://img.shields.io/badge/Completed-98%25-green)
 [任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv) | 896/896 | ![Completed 100%][Completed 100]
 索尼 PS1 | 0/10066 | ![Not Started][Not Started]
@@ -76,6 +76,11 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - [维基百科](https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F)
 - [A9VG 论坛](https://bbs.a9vg.com/)
 - [琵琶行论坛](https://www.ppxclub.com/)
+- [豆瓣](https://www.douban.com/game/explore)
+- [篝火营地](https://gouhuo.qq.com/games/library)
+- [浮游城](http://bbs.chinaemu.org/read-htm-tid-18465.html)
+- [巴哈姆特 j9y6638的小屋](https://home.gamer.com.tw/creationCategory.php?owner=j9y6638&c=435712)
+- [精英模拟网](http://emu.jy6d.com/dz/)
 
 [In Progress]: https://img.shields.io/badge/In%20Progress-0%25-yellow
 [Not Started]: https://img.shields.io/badge/Not%20Started-0%25-red
@@ -84,7 +89,8 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 各平台使用的数据源：
 
 - 世嘉 MD/Gensis - `Sega - Mega Drive - Genesis (20240907-224108).dat` 除去 Demo 等：1714；Retool 除去 15 个 promram、1 个 HeartBeat Catalyst，最终：1698
-- 世嘉 GameGear - 469 `Sega - Game Gear (20240827-211557)` 812；除去 Demo 等后：469
+- 世嘉 GameGear - `Sega - Game Gear (20240827-211557)` 812；除去 Demo 等后：469
 - 任天堂 GBA - `Nintendo - Game Boy Advance (#3120 + x462).dat` 3562；除去 xXXX、Demo 后：2850
 - 任天堂 FC/NES - `Nintendo - Nintendo Entertainment System (Headerless) (20240829-004657).dat` 4170，去除各种后 2247
+- 任天堂 SFC/SNES - `Nintendo - Super Nintendo Entertainment System (20240830-122750).dat` 去掉各种 Demo 后，3145
 - 任天堂 N64 - `Nintendo - Nintendo 64 (BigEndian) (20240908-020954).dat` 去掉各种 Demo、Beta 等：962；再用 Retool 去掉 (Wii Virtual Console)，(GameCube)，(LodgeNet) ，(Switch Online)、Wide-Boy64，最后：896 个
