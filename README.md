@@ -13,7 +13,7 @@
 [任天堂 FC/NES](./Nintendo%20-%20Nintendo%20Entertainment%20System.csv) | 2247/2247 | ![Completed 100%][Completed 100]
 任天堂 SFC/SNES | 0/3625 | ![In Progress][In Progress]
 [任天堂 FDC](./Nintendo%20-%20Family%20Computer%20Disk%20System.csv) | 315/323 | ![Completed 98%](https://img.shields.io/badge/Completed-98%25-green)
-任天堂 N64 | 0/1028 | ![In Progress][In Progress]
+[任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv) | 896/896 | ![Completed 100%][Completed 100]
 索尼 PS1 | 0/10066 | ![Not Started][Not Started]
 索尼 PS2 | 0/10835 | ![Not Started][Not Started]
 [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv) | 1698/1698 | ![Completed 100%][Completed 100]
@@ -87,3 +87,4 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - 世嘉 GameGear - 469 `Sega - Game Gear (20240827-211557)` 812；除去 Demo 等后：469
 - 任天堂 GBA - `Nintendo - Game Boy Advance (#3120 + x462).dat` 3562；除去 xXXX、Demo 后：2850
 - 任天堂 FC/NES - `Nintendo - Nintendo Entertainment System (Headerless) (20240829-004657).dat` 4170，去除各种后 2247
+- 任天堂 N64 - `Nintendo - Nintendo 64 (BigEndian) (20240908-020954).dat` 去掉各种 Demo、Beta 等：962；再用 Retool 去掉 (Wii Virtual Console)，(GameCube)，(LodgeNet) ，(Switch Online)、Wide-Boy64，最后：896 个
