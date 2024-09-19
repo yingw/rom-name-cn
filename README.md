@@ -17,7 +17,7 @@
 索尼 PS1 | 0/10066 | ![Not Started][Not Started]
 索尼 PS2 | 0/10835 | ![Not Started][Not Started]
 [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv) | 1698/1698 | ![Completed 100%][Completed 100]
-世嘉 SS | | ![Not Started][Not Started]
+[世嘉 SS](./Sega%20-%20Saturn.csv) | 1956/1956 | ![Completed 100%][Completed 100]
 世嘉 DC | | ![Not Started][Not Started]
 世嘉 SEGA32x | 0/206 | ![In Progress][In Progress]
 世嘉 SEGA CD* | | ![Not Started][Not Started]
@@ -81,6 +81,10 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - [浮游城](http://bbs.chinaemu.org/read-htm-tid-18465.html)
 - [巴哈姆特 j9y6638的小屋](https://home.gamer.com.tw/creationCategory.php?owner=j9y6638&c=435712)
 - [精英模拟网](http://emu.jy6d.com/dz/)
+- [INDIENOVA](https://ld0.indienova.com/gamedb/platform/saturn/p/1)
+- [ピコピコ大百科](https://www.gavas.jp/) - 查日语游戏名
+- [Screen Scraper](https://www.screenscraper.fr/) - 查游戏图片、视频
+- 百度、谷歌
 
 [In Progress]: https://img.shields.io/badge/In%20Progress-0%25-yellow
 [Not Started]: https://img.shields.io/badge/Not%20Started-0%25-red
@@ -94,3 +98,4 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - 任天堂 FC/NES - `Nintendo - Nintendo Entertainment System (Headerless) (20240829-004657).dat` 4170，去除各种后 2247
 - 任天堂 SFC/SNES - `Nintendo - Super Nintendo Entertainment System (20240830-122750).dat` 去掉各种 Demo 后，3145
 - 任天堂 N64 - `Nintendo - Nintendo 64 (BigEndian) (20240908-020954).dat` 去掉各种 Demo、Beta 等：962；再用 Retool 去掉 (Wii Virtual Console)，(GameCube)，(LodgeNet) ，(Switch Online)、Wide-Boy64，最后：896 个
+- 世嘉 Saturn（土星） - ReDump 数据：`Sega - Saturn - Datfile (2370) (2024-09-17 15-43-36).dat`，2370，去掉各种程序、Demo，各种乱数据，最后 1956
