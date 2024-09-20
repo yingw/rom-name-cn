@@ -18,7 +18,7 @@
 索尼 PS2 | 0/10835 | ![Not Started][Not Started]
 [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv) | 1698/1698 | ![Completed 100%][Completed 100]
 [世嘉 SS](./Sega%20-%20Saturn.csv) | 1956/1956 | ![Completed 100%][Completed 100]
-世嘉 DC | | ![Not Started][Not Started]
+[世嘉 DC](./Sega%20-%20Dreamcast.csv) | 1124/1124 | ![Completed 100%][Completed 100]
 世嘉 SEGA32x | 0/206 | ![In Progress][In Progress]
 世嘉 SEGA CD* | | ![Not Started][Not Started]
 微软 MSX1 | 0/936 | ![In Progress][In Progress]
@@ -99,3 +99,20 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - 任天堂 SFC/SNES - `Nintendo - Super Nintendo Entertainment System (20240830-122750).dat` 去掉各种 Demo 后，3145
 - 任天堂 N64 - `Nintendo - Nintendo 64 (BigEndian) (20240908-020954).dat` 去掉各种 Demo、Beta 等：962；再用 Retool 去掉 (Wii Virtual Console)，(GameCube)，(LodgeNet) ，(Switch Online)、Wide-Boy64，最后：896 个
 - 世嘉 Saturn（土星） - ReDump 数据：`Sega - Saturn - Datfile (2370) (2024-09-17 15-43-36).dat`，2370，去掉各种程序、Demo，各种乱数据，最后 1956
+- 世嘉 Dreamcast(DC) - ReDump 数据： `Sega - Dreamcast - Datfile (1488) (2024-09-13 14-42-29).dat`，1488，去掉各种程序、Demo，最终：1224
+
+整理用到的一部分工具
+
+- RomCenter
+- Retool
+- Easy XML Editor
+- WPS表格
+- Pentaho Data Integration (Kettle) v9.4
+- VSCode
+- Beyond Compare
+
+测试平台
+
+- RetroArch
+- EmuELEC
+- ES-DS
