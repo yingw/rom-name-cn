@@ -35,7 +35,7 @@ PICO-8、ONS、PortMaster
 平台 | ROM 数 | 完成度
 ---|---|---
 [任天堂 GB](./Nintendo%20-%20Game%20Boy.csv) | 1621/1621 | ![Completed 100%][Completed 100]
-任天堂 GBC | 0/1471 | ![In Progress][In Progress]
+[任天堂 GBC](./Nintendo%20-%20Game%20Boy%20Color.csv) | 1394/1394 | ![Completed 100%][Completed 100]
 [任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2850/2850 | ![Completed 100%][Completed 100]
 任天堂 Game & Watch | 21/59 | ![In Progress 35%](https://img.shields.io/badge/In%20Progress-35%25-yellowgreen)
 [任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv) | 6172/7180 | ![Completed 86%](https://img.shields.io/badge/Completed-86%25-green)
@@ -106,6 +106,7 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - 世嘉 Dreamcast(DC) - ReDump 数据： `Sega - Dreamcast - Datfile (1488) (2024-09-13 14-42-29).dat`，1488，去掉各种程序、Demo，最终：1224
 - PS1 目前还没头绪，10000多个游戏，去重后还有 6000 多，再去掉非美区、日区（因为一样的游戏不一样名称），巴哈有 2000 多翻译
 - 任天堂 GB - `Nintendo - Game Boy (20240914-013134).dat` 1931，处理后 1621，删掉了 (Limited Run Games)、(Retro Collection)、(QUByte Classics) 三个在线平台
+- 任天堂 GBC - `Nintendo - Game Boy Color (20240919-003154).dat` 1946，去除各种后 1394
 
 整理用到的一部分工具
 
