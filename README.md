@@ -14,23 +14,27 @@
 [任天堂 SFC/SNES](./Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.csv) | 3145/3145 | ![Completed 100%][Completed 100]
 [任天堂 FDC](./Nintendo%20-%20Family%20Computer%20Disk%20System.csv) | 315/323 | ![Completed 98%](https://img.shields.io/badge/Completed-98%25-green)
 [任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv) | 896/896 | ![Completed 100%][Completed 100]
-索尼 PS1 | 0/10066 | ![Not Started][Not Started]
-索尼 PS2 | 0/10835 | ![Not Started][Not Started]
+索尼 PS1? | 0/10066 | ![Not Started][Not Started]
 [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv) | 1698/1698 | ![Completed 100%][Completed 100]
 [世嘉 SS](./Sega%20-%20Saturn.csv) | 1956/1956 | ![Completed 100%][Completed 100]
 [世嘉 DC](./Sega%20-%20Dreamcast.csv) | 1124/1124 | ![Completed 100%][Completed 100]
-世嘉 SEGA32x | 0/206 | ![In Progress][In Progress]
-世嘉 SEGA CD* | | ![Not Started][Not Started]
 微软 MSX1 | 0/936 | ![In Progress][In Progress]
 [微软 MSX2](./Microsoft%20-%20MSX2.csv) | 195/195 | ![Completed 100%][Completed 100]
-SNK NEO CD | | ![Not Started][Not Started]
 松下 3DO | | ![Not Started][Not Started]
+
+<!-- 
+索尼 PS2* | 0/10835 | ![Not Started][Not Started]
+世嘉 SEGA32x* | 0/206 | ![In Progress][In Progress]
+世嘉 SEGA CD* | | ![Not Started][Not Started]
+SNK NEO CD | | ![Not Started][Not Started]
+PICO-8、ONS、PortMaster
+ -->
 
 掌机：
 
 平台 | ROM 数 | 完成度
 ---|---|---
-任天堂 GB | 0/1645 | ![In Progress][In Progress]
+[任天堂 GB](./Nintendo%20-%20Game%20Boy.csv) | 1621/1621 | ![Completed 100%][Completed 100]
 任天堂 GBC | 0/1471 | ![In Progress][In Progress]
 [任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2850/2850 | ![Completed 100%][Completed 100]
 任天堂 Game & Watch | 21/59 | ![In Progress 35%](https://img.shields.io/badge/In%20Progress-35%25-yellowgreen)
@@ -100,6 +104,8 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - 任天堂 N64 - `Nintendo - Nintendo 64 (BigEndian) (20240908-020954).dat` 去掉各种 Demo、Beta 等：962；再用 Retool 去掉 (Wii Virtual Console)，(GameCube)，(LodgeNet) ，(Switch Online)、Wide-Boy64，最后：896 个
 - 世嘉 Saturn（土星） - ReDump 数据：`Sega - Saturn - Datfile (2370) (2024-09-17 15-43-36).dat`，2370，去掉各种程序、Demo，各种乱数据，最后 1956
 - 世嘉 Dreamcast(DC) - ReDump 数据： `Sega - Dreamcast - Datfile (1488) (2024-09-13 14-42-29).dat`，1488，去掉各种程序、Demo，最终：1224
+- PS1 目前还没头绪，10000多个游戏，去重后还有 6000 多，再去掉非美区、日区（因为一样的游戏不一样名称），巴哈有 2000 多翻译
+- 任天堂 GB - `Nintendo - Game Boy (20240914-013134).dat` 1931，处理后 1621，删掉了 (Limited Run Games)、(Retro Collection)、(QUByte Classics) 三个在线平台
 
 整理用到的一部分工具
 
