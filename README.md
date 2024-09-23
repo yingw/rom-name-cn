@@ -38,10 +38,8 @@ PICO-8、ONS、PortMaster
 [任天堂 GBC](./Nintendo%20-%20Game%20Boy%20Color.csv) | 1394/1394 | ![Completed 100%][Completed 100]
 [任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2850/2850 | ![Completed 100%][Completed 100]
 任天堂 Game & Watch | 21/59 | ![In Progress 35%](https://img.shields.io/badge/In%20Progress-35%25-yellowgreen)
-[任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv) | 6172/7180 | ![Completed 86%](https://img.shields.io/badge/Completed-86%25-green)
-任天堂 NDSi | 0/1069 | ![In Progress][In Progress]
-任天堂 3DS | 0/1942 | ![In Progress][In Progress]
-任天堂 3DS eShop | 0/975 | ![In Progress][In Progress]
+[任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv) | 6172/7180 | ![In Progress 86%](https://img.shields.io/badge/In%20Progress-80%25-yellowgreen)
+[任天堂 3DS](./Nintendo%20-%20Nintendo%203DS.csv) | 1870/1870 | ![Completed 100%][Completed 100]
 任天堂 New 3DS | 0/10 | ![In Progress][In Progress]
 索尼 PSP | 0/3451 | ![In Progress][In Progress]
 索尼 PSP(PSN) | 0/2019 | ![In Progress][In Progress]
@@ -51,6 +49,12 @@ PICO-8、ONS、PortMaster
 [SNK NGP](./SNK%20-%20Neo%20Geo%20Pocket.csv) | 10/10 | ![Completed 100%][Completed 100]
 [SNK NGPC](./SNK%20-%20Neo%20Geo%20Pocket%20Color.csv) | 116/116 | ![Completed 100%][Completed 100]
 
+<!-- 
+NDSi的可能要实机测试
+任天堂 NDSi | 0/1069 | ![In Progress][In Progress]
+任天堂 3DS eShop | 0/975 | ![In Progress][In Progress] -->
+
+\
 街机：
 
 平台 | ROM 数 | 完成度
@@ -107,6 +111,7 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - PS1 目前还没头绪，10000多个游戏，去重后还有 6000 多，再去掉非美区、日区（因为一样的游戏不一样名称），巴哈有 2000 多翻译
 - 任天堂 GB - `Nintendo - Game Boy (20240914-013134).dat` 1931，处理后 1621，删掉了 (Limited Run Games)、(Retro Collection)、(QUByte Classics) 三个在线平台
 - 任天堂 GBC - `Nintendo - Game Boy Color (20240919-003154).dat` 1946，去除各种后 1394
+- 任天堂 3DS - `Nintendo - Nintendo 3DS (Decrypted) (#1870 + x062 + z207).dat` 去掉 x### 和 z### 后 1870
 
 整理用到的一部分工具
 
