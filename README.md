@@ -8,19 +8,19 @@
 
 家用机：
 
-平台 | ROM 数 | 完成度
----|---|---
-[任天堂 FC/NES](./Nintendo%20-%20Nintendo%20Entertainment%20System.csv) | 2247/2247 | ![Completed 100%][Completed 100]
-[任天堂 SFC/SNES](./Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.csv) | 3145/3145 | ![Completed 100%][Completed 100]
-[任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv) | 896/896 | ![Completed 100%][Completed 100]
-任天堂 NGC | 0/1999 | ![Not Started][Not Started]
-任天堂 Wii/WiiU | 3772/3772 | ![Not Started][Not Started]
-索尼 PS1? | 0/10066 | ![Not Started][Not Started]
-[世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv) | 1698/1698 | ![Completed 100%][Completed 100]
-[世嘉 SS](./Sega%20-%20Saturn.csv) | 1956/1956 | ![Completed 100%][Completed 100]
-[世嘉 DC](./Sega%20-%20Dreamcast.csv) | 1124/1124 | ![Completed 100%][Completed 100]
-微软 MSX1 | 0/936 | ![In Progress][In Progress]
-[微软 MSX2](./Microsoft%20-%20MSX2.csv) | 195/195 | !
+| 平台                                                                              | ROM 数    | 完成度                           |
+| --------------------------------------------------------------------------------- | --------- | -------------------------------- |
+| [任天堂 FC/NES](./Nintendo%20-%20Nintendo%20Entertainment%20System.csv)           | 2247/2247 | ![Completed 100%][Completed 100] |
+| [任天堂 SFC/SNES](./Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.csv) | 3145/3145 | ![Completed 100%][Completed 100] |
+| [任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv)                                  | 896/896   | ![Completed 100%][Completed 100] |
+| 任天堂 NGC                                                                        | 0/1999    | ![Not Started][Not Started]      |
+| 任天堂 Wii/WiiU                                                                   | 3772/3772 | ![Not Started][Not Started]      |
+| 索尼 PS1?                                                                         | 0/10066   | ![Not Started][Not Started]      |
+| [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv)                     | 1698/1698 | ![Completed 100%][Completed 100] |
+| [世嘉 SS](./Sega%20-%20Saturn.csv)                                                | 1956/1956 | ![Completed 100%][Completed 100] |
+| [世嘉 DC](./Sega%20-%20Dreamcast.csv)                                             | 1124/1124 | ![Completed 100%][Completed 100] |
+| 微软 MSX1                                                                         | 0/936     | ![In Progress][In Progress]      |
+| [微软 MSX2](./Microsoft%20-%20MSX2.csv)                                           | 195/195   | !                                |
 
 <!-- 
 [任天堂 FDC](./Nintendo%20-%20Family%20Computer%20Disk%20System.csv) | 315/323 | ![Completed 98%](https://img.shields.io/badge/Completed-98%25-green)
@@ -35,20 +35,20 @@ PICO-8、ONS、PortMaster
 
 掌机：
 
-平台 | ROM 数 | 完成度
----|---|---
-[任天堂 GB](./Nintendo%20-%20Game%20Boy.csv) | 1621/1621 | ![Completed 100%][Completed 100]
-[任天堂 GBC](./Nintendo%20-%20Game%20Boy%20Color.csv) | 1394/1394 | ![Completed 100%][Completed 100]
-[任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2850/2850 | ![Completed 100%][Completed 100]
-[任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv) | 6172/7180 | ![In Progress 86%](https://img.shields.io/badge/In%20Progress-80%25-yellowgreen)
-[任天堂 3DS](./Nintendo%20-%20Nintendo%203DS.csv) | 1870/1870 | ![Completed 100%][Completed 100]
-任天堂 New 3DS | 0/10 | ![In Progress][In Progress]
-索尼 PSP | 0/3451 | ![In Progress][In Progress]
-[世嘉 GG](./Sega%20-%20Game%20Gear.csv) | 469/469 | ![Completed 100%][Completed 100]
-[万代 WS](./Bandai%20-%20WonderSwan.csv) | 125/125 | ![Completed 100%][Completed 100]
-[万代 WSC](./Bandai%20-%20WonderSwan%20Color.csv) | 100/100 | ![Completed 100%][Completed 100]
-[SNK NGP](./SNK%20-%20Neo%20Geo%20Pocket.csv) | 10/10 | ![Completed 100%][Completed 100]
-[SNK NGPC](./SNK%20-%20Neo%20Geo%20Pocket%20Color.csv) | 116/116 | ![Completed 100%][Completed 100]
+| 平台                                                    | ROM 数    | 完成度                                                                           |
+| ------------------------------------------------------- | --------- | -------------------------------------------------------------------------------- |
+| [任天堂 GB](./Nintendo%20-%20Game%20Boy.csv)            | 1621/1621 | ![Completed 100%][Completed 100]                                                 |
+| [任天堂 GBC](./Nintendo%20-%20Game%20Boy%20Color.csv)   | 1394/1394 | ![Completed 100%][Completed 100]                                                 |
+| [任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv) | 2850/2850 | ![Completed 100%][Completed 100]                                                 |
+| [任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv)        | 6172/7180 | ![In Progress 86%](https://img.shields.io/badge/In%20Progress-80%25-yellowgreen) |
+| [任天堂 3DS](./Nintendo%20-%20Nintendo%203DS.csv)       | 1870/1870 | ![Completed 100%][Completed 100]                                                 |
+| 任天堂 New 3DS                                          | 0/10      | ![In Progress][In Progress]                                                      |
+| 索尼 PSP                                                | 0/3451    | ![In Progress][In Progress]                                                      |
+| [世嘉 GG](./Sega%20-%20Game%20Gear.csv)                 | 469/469   | ![Completed 100%][Completed 100]                                                 |
+| [万代 WS](./Bandai%20-%20WonderSwan.csv)                | 125/125   | ![Completed 100%][Completed 100]                                                 |
+| [万代 WSC](./Bandai%20-%20WonderSwan%20Color.csv)       | 100/100   | ![Completed 100%][Completed 100]                                                 |
+| [SNK NGP](./SNK%20-%20Neo%20Geo%20Pocket.csv)           | 10/10     | ![Completed 100%][Completed 100]                                                 |
+| [SNK NGPC](./SNK%20-%20Neo%20Geo%20Pocket%20Color.csv)  | 116/116   | ![Completed 100%][Completed 100]                                                 |
 
 <!-- 
 NDSi的可能要实机测试
@@ -61,15 +61,15 @@ NDSi的可能要实机测试
 \
 街机：
 
-平台 | ROM 数 | 完成度
----|---|---
-MAME | | ![Not Started][Not Started]
-[CAPCOM CPS1](./Arcade%20-%20CPS1.csv) | 185/185 | ![Completed 100%][Completed 100]
-[CAPCOM CPS2](./Arcade%20-%20CPS2.csv) | 299/299 | ![Completed 100%][Completed 100]
-[CAPCOM CPS3](./Arcade%20-%20CPS3.csv) | 37/37 | ![Completed 100%][Completed 100]
-[SNK NeoGeo](./Arcade%20-%20NEOGEO.csv) | 257/257 | ![Completed 100%][Completed 100]
-世嘉 Naomi | | ![In Progress][In Progress]
-世嘉Sammy Atomiswave | | ![In Progress][In Progress]
+| 平台                                    | ROM 数  | 完成度                           |
+| --------------------------------------- | ------- | -------------------------------- |
+| MAME                                    |         | ![Not Started][Not Started]      |
+| [CAPCOM CPS1](./Arcade%20-%20CPS1.csv)  | 185/185 | ![Completed 100%][Completed 100] |
+| [CAPCOM CPS2](./Arcade%20-%20CPS2.csv)  | 299/299 | ![Completed 100%][Completed 100] |
+| [CAPCOM CPS3](./Arcade%20-%20CPS3.csv)  | 37/37   | ![Completed 100%][Completed 100] |
+| [SNK NeoGeo](./Arcade%20-%20NEOGEO.csv) | 257/257 | ![Completed 100%][Completed 100] |
+| 世嘉 Naomi                              |         | ![In Progress][In Progress]      |
+| 世嘉Sammy Atomiswave                    |         | ![In Progress][In Progress]      |
 
 Dat 数据源过滤规则（一般）：
 No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS...
