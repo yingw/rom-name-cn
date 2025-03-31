@@ -1,10 +1,22 @@
 # ROM Name CN
 
+项目介绍：
+
+翻译范围：
+卡带类游戏（FC、SFC、MD、GB、GBC、GBA、NDS、3DS）基于 [no-intro](https://datomatic.no-intro.org/) 的英文版 ROM 名称的中英文对照。
+光碟类平台游戏（PS1、PSP、SS、DC、Wii、NGC、Sega-32X、Saturn）基于 ReDump
+街机基于 Mame
+
+翻译格式：
+有2个版本：
+1. 仅翻译游戏名称
+2. 翻译名称+代码，代码采用项目：里面的默认设置，可用工具自行翻译
+
 ![In Progress](https://img.shields.io/badge/In%20Progress-16-yellow)
 ![Completed](https://img.shields.io/badge/Completed-13-brightgreen)
 ![Not Started](https://img.shields.io/badge/Not%20Started-9-red)
 
-基于 [no-intro](https://datomatic.no-intro.org/) 的英文版 ROM 名称的中英文对照。也希望大家一起[贡献](./CONTRIBUTING.md)。
+也希望大家一起[贡献](./CONTRIBUTING.md)。
 
 家用机：
 
