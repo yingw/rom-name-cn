@@ -1,5 +1,7 @@
 # ROM Name CN
 
+项目介绍：
+
 这是一个2020年起源的项目，旨在为 no-intro, rmdump 等 ROM 数据整理网站提供的 dat ROM 数据提供一个相对统一的中文译名。
 
 No-Intro 和 Redump 是两个非常专业的 ROM 数据网站，一个专注于卡带类平台的 ROM 数据，一个专注于光碟镜像 ROM 数据。很多年前我就开始用各种工具收集和整理自己的 romset，但是一直以来，这样的 romset 在使用到实际平台时，都有一个痛点：只有英文名。
@@ -10,11 +12,24 @@ No-Intro 和 Redump 是两个非常专业的 ROM 数据网站，一个专注于�
 
  ROM 提供中文名称。
 
+翻译范围：
+
+卡带类游戏（FC、SFC、MD、GB、GBC、GBA、NDS、3DS）基于 [no-intro](https://datomatic.no-intro.org/) 的英文版 ROM 名称的中英文对照。
+光碟类平台游戏（PS1、PSP、SS、DC、Wii、NGC、Sega-32X、Saturn）基于 ReDump
+街机基于 Mame
+
+翻译格式：
+
+有2个版本：
+
+1. 仅翻译游戏名称
+2. 翻译名称+代码，代码采用项目：里面的默认设置，可用工具自行翻译（已废弃，只用格式1，code 的处理可以参考我做的另一个 APP（即将发布））
+
 ![In Progress](https://img.shields.io/badge/In%20Progress-16-yellow)
 ![Completed](https://img.shields.io/badge/Completed-13-brightgreen)
 ![Not Started](https://img.shields.io/badge/Not%20Started-9-red)
 
-基于 [no-intro](https://datomatic.no-intro.org/) 的英文版 ROM 名称的中英文对照。也希望大家一起[贡献](./CONTRIBUTING.md)。
+也希望大家一起[贡献](./CONTRIBUTING.md)。
 
 家用机：
 
