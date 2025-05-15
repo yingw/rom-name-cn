@@ -1,0 +1,2322 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>12</id>
+		<name>NEC - PC Engine - TurboGrafx-16</name>
+		<description>NEC - PC Engine - TurboGrafx-16</description>
+		<version>20250224-150029</version>
+		<author>Arctic Circle System, bikerspade, C. V. Reynolds, fuzzball, Gefflon, Hiccup, kazumi213, Lesserkuma, MeguCocoa, Money_114, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, Rifu, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] CD-ROM System (Japan) (En) (v1.0)" id="0003">
+		<category>Miscellaneous</category>
+		<description>[BIOS] CD-ROM System (Japan) (En) (v1.0)</description>
+		<rom name="[BIOS] CD-ROM System (Japan) (En) (v1.0).pce" size="262144" crc="3f9f95a4" md5="2b7ccb3d86baa18f6402c176f3065082" sha1="a39a66da7de6ba94ab84d04eef7afeec7d4ee66a" sha256="afe9f27f91ac918348555b86298b4f984643eafa2773196f2c5441ea84f0c3bb" status="verified"/>
+	</game>
+	<game name="[BIOS] CD-ROM System (Japan) (En) (v2.0)" id="0004">
+		<category>Miscellaneous</category>
+		<description>[BIOS] CD-ROM System (Japan) (En) (v2.0)</description>
+		<rom name="[BIOS] CD-ROM System (Japan) (En) (v2.0).pce" size="262144" crc="52520bc6" md5="3a456f0eccff039eb5ff045f56ec1c3b" sha1="f92ea593c8a935f58f8e1c3b2fc730951ec4fa71" sha256="909f2153e624b76392684434ba5aa3e394cbba0318a0dda350140cb61ce9bc49" status="verified"/>
+	</game>
+	<game name="[BIOS] CD-ROM System (Japan) (En) (v2.1)" id="0005">
+		<category>Miscellaneous</category>
+		<description>[BIOS] CD-ROM System (Japan) (En) (v2.1)</description>
+		<rom name="[BIOS] CD-ROM System (Japan) (En) (v2.1).pce" size="262144" crc="283b74e0" md5="3cdd6614a918616bfc41c862e889dd79" sha1="88da02e2503f7c32810f5d93a34849d470742b6d" sha256="0deb13845c7e44ea78a25bbbe324afd60a0ec29ea5a4cf5780349f1598d24cd3" status="verified"/>
+	</game>
+	<game name="[BIOS] Games Express CD Card (Japan) (En) (Blue Version) (Unl)" id="0006">
+		<category>Miscellaneous</category>
+		<description>[BIOS] Games Express CD Card (Japan) (En) (Blue Version) (Unl)</description>
+		<rom name="[BIOS] Games Express CD Card (Japan) (En) (Blue Version) (Unl).pce" size="32768" crc="51a12d90" md5="6d2cb14fc3e1f65ceb135633d1694122" sha1="014881a959e045e00f4db8f52955200865d40280" sha256="4b86bb96a48a4ca8375fc0109631d0b1d64f255a03b01de70594d40788ba6c3d" status="verified"/>
+	</game>
+	<game name="[BIOS] Games Express CD Card (Japan) (En) (Green Version) (Unl)" id="0420">
+		<category>Miscellaneous</category>
+		<description>[BIOS] Games Express CD Card (Japan) (En) (Green Version) (Unl)</description>
+		<rom name="[BIOS] Games Express CD Card (Japan) (En) (Green Version) (Unl).pce" size="16384" crc="20e0a364" md5="cf1e3734188629a7c5a946c3e1a41cf0" sha1="2deab749901d41072fb8bd7380c61a161aaf8ec0" sha256="da173b20694c2b52087b099b8c44e471d3ee08a666c90d4afd997f8e1382add8" status="verified"/>
+	</game>
+	<game name="[BIOS] Super CD-ROM System (Japan) (En) (v3.0)" id="0007">
+		<category>Miscellaneous</category>
+		<description>[BIOS] Super CD-ROM System (Japan) (En) (v3.0)</description>
+		<rom name="[BIOS] Super CD-ROM System (Japan) (En) (v3.0).pce" size="262144" crc="6d9a73ef" md5="38179df8f4ac870017db21ebcbf53114" sha1="79f5ff55dd10187c7fd7b8daab0b3ffbd1f56a2c" sha256="e11527b3b96ce112a037138988ca72fd117a6b0779c2480d9e03eaebece3d9ce" status="verified"/>
+	</game>
+	<game name="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)" id="0008">
+		<category>Miscellaneous</category>
+		<description>[BIOS] TurboGrafx CD Super System Card (USA) (v3.0)</description>
+		<rom name="[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).pce" size="262144" crc="2b5b75fe" md5="0754f903b52e3b3342202bdafb13efa5" sha1="d02611d99921986147c753df14c7349b31d71950" sha256="cadac2725711b3c442bcf237b02f5a5210c96f17625c35fa58f009e0ed39e4db"/>
+	</game>
+	<game name="[BIOS] TurboGrafx CD System Card (USA) (v2.0)" id="0009">
+		<category>Miscellaneous</category>
+		<description>[BIOS] TurboGrafx CD System Card (USA) (v2.0)</description>
+		<rom name="[BIOS] TurboGrafx CD System Card (USA) (v2.0).pce" size="262144" crc="ff2a5ec3" md5="94279f315e8b52904f65ab3108542afe" sha1="2bea3dac98f84b2f2f469fa77ea720b8770d598d" sha256="edba5be43803b180e1d64ca678c3f8bdbf07180c9e2a65a5db69ad635951e6cc"/>
+	</game>
+	<game name="1943 Kai (Japan)" id="0001">
+		<category>Games</category>
+		<description>1943 Kai (Japan)</description>
+		<rom name="1943 Kai (Japan).pce" size="524288" crc="fde08d6d" md5="42cfdf8495ce8338d83c73b38ae274b6" sha1="3ac86354155ca01859c53e2f2287a715cd3fca13" sha256="a733390f431744b9bf7f9ad06e849b67b909ffb19067624fd6c22bcf7408044f" status="verified"/>
+	</game>
+	<game name="21 Emon - Mezase! Hotel Ou (Japan)" id="0002">
+		<category>Games</category>
+		<description>21 Emon - Mezase! Hotel Ou (Japan)</description>
+		<rom name="21 Emon - Mezase! Hotel Ou (Japan).pce" size="524288" crc="73614660" md5="86e3ed839f053bb99ebf1760439c3a3c" sha1="de80a0d266916799ee5666815d9fd11602bdbdec" sha256="f5b749b382d133ec69be06468dc694e47d83dd943d651d1693e6104dcf373514"/>
+	</game>
+	<game name="Adventure Island (Japan)" id="0010" cloneofid="0106">
+		<category>Games</category>
+		<description>Adventure Island (Japan)</description>
+		<rom name="Adventure Island (Japan).pce" size="262144" crc="8e71d4f3" md5="65ea7bebc2ecaeda8cee373ff2a83534" sha1="01ad5bbd7316740409e01917c19494cb26173ff5" sha256="fbe3f6347639a50e84de61fa23b126e3a2fb11c21cd7a735fad99de2b2227fac" status="verified"/>
+	</game>
+	<game name="Aero Blasters (Japan) (En)" id="0011" cloneofid="0012">
+		<category>Games</category>
+		<description>Aero Blasters (Japan) (En)</description>
+		<rom name="Aero Blasters (Japan) (En).pce" size="524288" crc="25be2b81" md5="3d3b872d9031fa3227d68f2239b00b82" sha1="748ec92246140565d95f6fb727de6167227b85d3" sha256="5d935d9c122c9fd851770428de21ebe82fd4d10553f485b9dfd7e694f43cf024" status="verified"/>
+	</game>
+	<game name="Aero Blasters (USA)" id="0012">
+		<category>Games</category>
+		<description>Aero Blasters (USA)</description>
+		<rom name="Aero Blasters (USA).pce" size="524288" crc="b03e0b32" md5="b2b62baab5fefafc5db6538720b503c3" sha1="23b7da6a6067563af5fdf303d83adeae818cdcdf" sha256="d2fe59cf24053bbbb1b5da2521a958e38a981cce9baba0af825ea5189d8408dc"/>
+	</game>
+	<game name="After Burner II (Japan) (En)" id="0013">
+		<category>Games</category>
+		<description>After Burner II (Japan) (En)</description>
+		<rom name="After Burner II (Japan) (En).pce" size="524288" crc="ca72a828" md5="ac0cdee014e725e428fde5774751ff8d" sha1="50b9d22fe5179aee5cb95022472714ef8483841f" sha256="53416fb12207212b5206d359b951a41566725c9bd8b9151e08c0e74bc0e36c2f" status="verified"/>
+	</game>
+	<game name="Air Zonk (USA)" id="0014">
+		<category>Games</category>
+		<description>Air Zonk (USA)</description>
+		<rom name="Air Zonk (USA).pce" size="524288" crc="933d5bcc" md5="406bec60ffca9ac151a793969b0c10c6" sha1="1ee94b6016ffdf996409955287e8799019a68658" sha256="a571109b0d6de9c8949403b0a90f79dff6e309268d84f6da8cb42754137c06ac" status="verified"/>
+	</game>
+	<game name="Air Zonk (USA, Europe) (Wii U Virtual Console)" id="2470" cloneofid="0014">
+		<category>Games</category>
+		<description>Air Zonk (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Air Zonk (USA, Europe) (Wii U Virtual Console).pce" size="524288" crc="d76c4169" md5="f0b6cc101007ed7a6878f7f9cee5ebdd" sha1="39439c11275269fa8a7ec7c29153ff674f0ab4a1" sha256="7feae7e8f53a011c60364e7e5aac907631b623b52b05386232ce2af57d5c954e"/>
+	</game>
+	<game name="Alien Crush (USA)" id="0016">
+		<category>Games</category>
+		<description>Alien Crush (USA)</description>
+		<rom name="Alien Crush (USA).pce" size="262144" crc="ea488494" md5="0088d1d20861490677edb147d2de60bd" sha1="1bfa4b5139612b0c33e3282c23e56c1dfc08ed52" sha256="1af27c808be34e0c2fe435c169f5169417d6362dee0e928413581a1f6126557f"/>
+	</game>
+	<game name="Alien Crush (Japan) (En)" id="0015" cloneofid="0016">
+		<category>Games</category>
+		<description>Alien Crush (Japan) (En)</description>
+		<rom name="Alien Crush (Japan) (En).pce" size="262144" crc="60edf4e1" md5="6697cf388dd28e67c92276ce598dbec8" sha1="a1e6ad82b66a82c25e0a9e25fb8be370f49c8c2d" sha256="0539f2ab4b72f4221383affcf84d9a0bcd1f507cdeb9023a0123f1e5540d1965" status="verified"/>
+	</game>
+	<game name="All Star Power League (Japan)" id="0286">
+		<category>Games</category>
+		<description>All Star Power League (Japan)</description>
+		<rom name="All Star Power League (Japan).pce" size="262144" crc="04a85769" md5="e5e1031c335221d57ad025fe9e61e698" sha1="3b66b7273e7b04cdb16d6e333e764f9462dd8f26" sha256="c9fe63c48b24c99e0f59ea5f62b541797a3e7bb0022ad984bee746a33743fc1d"/>
+	</game>
+	<game name="Andre Panza Kick Boxing (USA)" id="0264">
+		<category>Games</category>
+		<description>Andre Panza Kick Boxing (USA)</description>
+		<rom name="Andre Panza Kick Boxing (USA).pce" size="524288" crc="a980e0e9" md5="f9fdabcefa6e69aba547b1a5113a133f" sha1="b21023fcf1b16b8ef9890e8087bab71a43253700" sha256="90e04d9fcd0a57ad07ba995352f0061e396e8a51c470e1f164739fb4b86139ca" status="verified"/>
+	</game>
+	<game name="Ankoku Densetsu (Japan)" id="0017" cloneofid="0197">
+		<category>Games</category>
+		<description>Ankoku Densetsu (Japan)</description>
+		<rom name="Ankoku Densetsu (Japan).pce" size="262144" crc="cacc06fb" md5="cc264acf289ab120f52457d5311d7aec" sha1="b6ae249f0a4954df6e53c21ba81646ecbc7c2945" sha256="d32de47c54e5d328aa2fab69285dabb59666df7fa70c0edb9a216fa754e6383b"/>
+	</game>
+	<game name="Aoi Blink (Japan)" id="0018">
+		<category>Games</category>
+		<description>Aoi Blink (Japan)</description>
+		<rom name="Aoi Blink (Japan).pce" size="393216" crc="08a09b9a" md5="f1a8431d75e05812590d0f23135eecaa" sha1="367aa348fca42a2aa1ce28bb88800d2fb0cd0ed7" sha256="789efd169617f2a3343319d676736fb6ff4369ed45c17c5d124b3fe71272dd74" status="verified"/>
+	</game>
+	<game name="Appare! Gateball (Japan)" id="0019">
+		<category>Games</category>
+		<description>Appare! Gateball (Japan)</description>
+		<rom name="Appare! Gateball (Japan).pce" size="262144" crc="2b54cba2" md5="3f2f9b623fb76e272561a6db1ea0f875" sha1="5efee117bb8fd24ccbc8ed68ae5d36cea960f37e" sha256="204347aa8bb5fe51095d6d0b469a5d52bc2bd7c726baf47e52f68a11c4e50cd1" status="verified"/>
+	</game>
+	<game name="Armed F (Japan) (En)" id="0020">
+		<category>Games</category>
+		<description>Armed F (Japan) (En)</description>
+		<rom name="Armed F (Japan) (En).pce" size="262144" crc="20ef87fd" md5="c9efecc5c9854bfe79db25cd01614802" sha1="a326c9cece6f14b82629c4c79b34df819b022dce" sha256="12a6060b9ab618345f9527122ef1b7b4136476f97224f4006376e0beb5eececd" status="verified"/>
+	</game>
+	<game name="Artist Tool (Japan)" id="0021">
+		<category>Applications</category>
+		<description>Artist Tool (Japan)</description>
+		<rom name="Artist Tool (Japan).pce" size="262144" crc="5e4fa713" md5="549d32279281af79c104f51a3c603628" sha1="691ac36ccfcade010e34e2d1dedbcc9af6ed5cd4" sha256="326b394257df7cf6bdd6f11e8a672cd5fdf5fc9b602fb1544c308d3b71f62fa2"/>
+	</game>
+	<game name="Atomic Robo-Kid Special (Japan) (En)" id="0022">
+		<category>Games</category>
+		<description>Atomic Robo-Kid Special (Japan) (En)</description>
+		<rom name="Atomic Robo-Kid Special (Japan) (En).pce" size="524288" crc="dd175efd" md5="548ca5eb135f526f3a2837f5259d795f" sha1="1ea46287855ef25e4614a3f37a7037baa5a49545" sha256="538ee65174b39b792620a613b7c39cc5dc55dae2fda1af73ee79228035161a38" status="verified"/>
+	</game>
+	<game name="AV Poker - World Gambler (Japan) (Unl)" id="0023">
+		<category>Games</category>
+		<description>AV Poker - World Gambler (Japan) (Unl)</description>
+		<rom name="AV Poker - World Gambler (Japan) (Unl).pce" size="524288" crc="b866d282" md5="d395beb4a1e3fc80831870995b169358" sha1="9d71b3dca401ea02595917ce5a3dbe8fb6edb7bb" sha256="532f3724065d0ab28aed90cb3249f810912d964e8e6cf8acc20346df43fb90e9" status="verified"/>
+	</game>
+	<game name="Ballistix (Japan) (En)" id="0024" cloneofid="0025">
+		<category>Games</category>
+		<description>Ballistix (Japan) (En)</description>
+		<rom name="Ballistix (Japan) (En).pce" size="262144" crc="8acfc8aa" md5="6de6635138b034e133720d11279b8ea7" sha1="e687abeb0f94e85fafa52e92b0beb82542f0c368" sha256="1a965c5a290540debfd81bf68929f0b0a0a877a0bcfa340d12adab95552ff2ec" status="verified"/>
+	</game>
+	<game name="Ballistix (USA)" id="0025">
+		<category>Games</category>
+		<description>Ballistix (USA)</description>
+		<rom name="Ballistix (USA).pce" size="262144" crc="420fa189" md5="9610910760ed0c034961866ceb7d4e23" sha1="8f65c5b459b477adc97ab7809ca8e85329f25769" sha256="18d520f082517a34b420676fe94803cb38244e41e0d6c57f2f087087d4a3018d"/>
+	</game>
+	<game name="Bari Bari Densetsu (Japan)" id="0026">
+		<category>Games</category>
+		<description>Bari Bari Densetsu (Japan)</description>
+		<rom name="Bari Bari Densetsu (Japan).pce" size="393216" crc="c267e25d" md5="539eb9333d3e39f597786288872917dc" sha1="d063cf1b378a4741e4eb01e9de99d6f618b077da" sha256="924ddf6db6c9eefc3218cf691abc18ee28e41afd04ab9dc5d4536f8fd32b60e4" status="verified"/>
+	</game>
+	<game name="Barunba (Japan)" id="0027">
+		<category>Games</category>
+		<description>Barunba (Japan)</description>
+		<rom name="Barunba (Japan).pce" size="524288" crc="4a3df3ca" md5="a39fba5fe056ae0fb25ded19f1cdaeed" sha1="5f110864af252462e144aa01a7a6ecb88d2a4eb1" sha256="4629ed7f26d8b4ae3d4d402ab43917556a0e810ee38f4bb831503b70159008fe" status="verified"/>
+	</game>
+	<game name="Batman (Japan) (En)" id="0028">
+		<category>Games</category>
+		<description>Batman (Japan) (En)</description>
+		<rom name="Batman (Japan) (En).pce" size="393216" crc="106bb7b2" md5="6c35cbaf97b7285a9373b9ae9f553411" sha1="87e93e23c0c3ef960e9a226fc10a5fc9625d43a7" sha256="5bb7b6cf9c3fdc97eaaf6fa923ad524f2b751bbc1a11bfc06e85fc5f3171d06a" status="verified"/>
+	</game>
+	<game name="Battle Lode Runner (Japan) (En)" id="0029">
+		<category>Games</category>
+		<description>Battle Lode Runner (Japan) (En)</description>
+		<rom name="Battle Lode Runner (Japan) (En).pce" size="262144" crc="59e44f45" md5="52ac9b2e9f552558b8658cabae4639a3" sha1="0907d3a3503bd7dc2cae0d1b88c1f3f5be56fa22" sha256="523722e400c607428f5131f3c7d38f81721fed46d3e6acc24370e4a9a6ac610f" status="verified"/>
+	</game>
+	<game name="Battle Royale (USA)" id="0030">
+		<category>Games</category>
+		<description>Battle Royale (USA)</description>
+		<rom name="Battle Royale (USA).pce" size="524288" crc="e70b01af" md5="beb2b4486ed8a66f0df10e260bdc5224" sha1="07b39d5315aa07bf880b89b10dc3c01ed7ced5ab" sha256="dc624288e426dc7663b5112494c37cc401fe00c97476a5eec6741767395057fe"/>
+	</game>
+	<game name="Be Ball (Japan)" id="0031" cloneofid="0062">
+		<category>Games</category>
+		<description>Be Ball (Japan)</description>
+		<rom name="Be Ball (Japan).pce" size="262144" crc="261f1013" md5="5c6227a91d252a12bf2a0d3d5b5fe65d" sha1="55d8815a4a432e587fc7483b63b73114fe40e710" sha256="e16aacab6731e490ffd16f9893f52c6e1cc6c97ffe9950fce67c68283ef38a6a" status="verified"/>
+	</game>
+	<game name="Be Ball (Hong Kong) (Ja) (Unl)" id="2532" cloneofid="0062">
+		<category>Games</category>
+		<description>Be Ball (Hong Kong) (Ja) (Unl)</description>
+		<rom name="Be Ball (Hong Kong) (Ja) (Unl).pce" size="262144" crc="968770f6" md5="e2052e10cbb199a841565772be6bb81a" sha1="c0ad1d104c41ff742c0529b7699cff7a26055d0c" sha256="949f538e6c1ab1b6a1fee1078e2fbfe267670144eb29491332a18b811e2eec2f"/>
+	</game>
+	<game name="Benkei Gaiden (Japan)" id="0033">
+		<category>Games</category>
+		<description>Benkei Gaiden (Japan)</description>
+		<rom name="Benkei Gaiden (Japan).pce" size="393216" crc="e1a73797" md5="fe54ee82279992cef3aeb14aa3f795d9" sha1="4bc46592f3707a7c3e514abc23e640e3194879ad" sha256="a909ab9d823d2d8d5e9b9c6f87a40eb93d18195c6b4229b936d44023a90137e6" status="verified"/>
+	</game>
+	<game name="Benkei Gaiden (Japan) (Wii Virtual Console)" id="2465" cloneofid="0033">
+		<category>Games</category>
+		<description>Benkei Gaiden (Japan) (Wii Virtual Console)</description>
+		<rom name="Benkei Gaiden (Japan) (Wii Virtual Console).pce" size="393216" crc="c9626a43" md5="41e5131613fd41b9cab87191cee474a5" sha1="0be41c774e7ee75b84efdc2b05a7a45ec0201503" sha256="6d9f7437ae8bfb4efc3316bca87ba95737fc372b57da0251fc9524158b2be962"/>
+	</game>
+	<game name="Bikkuriman World (Japan)" id="0034">
+		<category>Games</category>
+		<description>Bikkuriman World (Japan)</description>
+		<rom name="Bikkuriman World (Japan).pce" size="262144" crc="2841fd1e" md5="7822065caf6c6b5cd8f16189915b4e21" sha1="5c09536bbd46337bd563818f637afe2a609bb08b" sha256="28ad456399f90ebf45f12143481e87860afd6568c2f62b6ec3723c9a7a72b366" status="verified"/>
+	</game>
+	<game name="Blazing Lazers (USA)" id="0036">
+		<category>Games</category>
+		<description>Blazing Lazers (USA)</description>
+		<rom name="Blazing Lazers (USA).pce" size="393216" crc="b4a1b0f6" md5="3c2f85fc7898de73a7c789033d22b8f5" sha1="13712aaee596ad96ab743d5e82ed96895089afeb" sha256="a862c29dbed67b10f847401da4858ff4877f4f58093c4beaa230e7065a0b5005"/>
+	</game>
+	<game name="Blazing Lazers (World) (Wii U Virtual Console)" id="2472" cloneofid="0036">
+		<category>Games</category>
+		<description>Blazing Lazers (World) (Wii U Virtual Console)</description>
+		<rom name="Blazing Lazers (World) (Wii U Virtual Console).pce" size="393216" crc="e52be33e" md5="95b746797cee1976e3a84e1538dad6c1" sha1="42d6b4f80a225951200f7263d33fd7209162fbe8" sha256="99125740a2b593c281ed3840aa42634ebd50aec8ca25c59c69f27b890d2eaa11"/>
+	</game>
+	<game name="Blodia (Japan) (En)" id="0037" cloneofid="0374">
+		<category>Games</category>
+		<description>Blodia (Japan) (En)</description>
+		<rom name="Blodia (Japan) (En).pce" size="131072" crc="958bcd09" md5="f00d36670099ff22488315c94de39931" sha1="bcb3070f617059c9d0d781ece2aee9ae74951f6a" sha256="3d71fd9d81c75ff4204add901c4369aa71541bfcd8710f8f03e353846a061673" status="verified"/>
+	</game>
+	<game name="Bloody Wolf (USA)" id="0038">
+		<category>Games</category>
+		<description>Bloody Wolf (USA)</description>
+		<rom name="Bloody Wolf (USA).pce" size="524288" crc="37baf6bc" md5="f19869d1823a28e8472452baf697cf56" sha1="45f8762414fb6b581b6159908cc35b2607ecf237" sha256="1382d4a68acb30362346946fd790b7c270d0afdf99b84deb46e24ef56152d8fd" status="verified"/>
+	</game>
+	<game name="Bodycon Quest II - Kyuseishu (Japan) (Unl)" id="0039">
+		<category>Games</category>
+		<description>Bodycon Quest II - Kyuseishu (Japan) (Unl)</description>
+		<rom name="Bodycon Quest II - Kyuseishu (Japan) (Unl).pce" size="524288" crc="ffd92458" md5="ac341b143c8a35a9efd5e8d3c803e543" sha1="72edaf529c41f7c81d1e1fc7dc27bae8e598da9b" sha256="1b0aa445a74a658c60105c5bef3bfe9ba6939309a033192e32442e259395656b"/>
+	</game>
+	<game name="Bomberman (USA)" id="0045">
+		<category>Games</category>
+		<description>Bomberman (USA)</description>
+		<rom name="Bomberman (USA).pce" size="262144" crc="5f6f3c2a" md5="22945308eb41396f39c00444be9f251f" sha1="dc63680e579764bbacb7f07514f4f49ab888d3b1" sha256="b9f98ce3d8b8baf1c6d02c2c0af72f8c0c554e533f13deb8f389853fe33bbf9e"/>
+	</game>
+	<game name="Bomberman (Japan) (En)" id="0044" cloneofid="0045">
+		<category>Games</category>
+		<description>Bomberman (Japan) (En)</description>
+		<rom name="Bomberman (Japan) (En).pce" size="262144" crc="9abb4d1f" md5="4bece0e426eec02f894399219f1951cf" sha1="738bbced47d87cd438d7972eba58c08f5c031a74" sha256="43898012a25d837a94ea988e254edfbaa77a82465575d7a52c5ba1dba920362d" status="verified"/>
+	</game>
+	<game name="Bomberman (USA) (Bomberman Collection)" id="2466" cloneofid="0045">
+		<category>Games</category>
+		<description>Bomberman (USA) (Bomberman Collection)</description>
+		<rom name="Bomberman (USA) (Bomberman Collection).pce" size="262144" crc="3d1f8ece" md5="ee98dbf64d0e9e1d30b781dc84e6c485" sha1="98ad40e638ab27bcb8ec19b2189ce505f63f2749" sha256="9658f2dd249cdcc676824fcf11da96f1392e30711b74f066c0f11cbc13e77b95"/>
+	</game>
+	<game name="Bomberman - Users Battle (Japan)" id="0046">
+		<category>Games</category>
+		<description>Bomberman - Users Battle (Japan)</description>
+		<rom name="Bomberman - Users Battle (Japan).pce" size="262144" crc="1489fa51" md5="dccedf6d85ea5cf9c37c1c963b328735" sha1="96ba02050843cacb149859128a8f3313bff44358" sha256="48f1521e854a79824bc21de8cdc94b3358d90e986b4f211c289895f824a3aad6"/>
+	</game>
+	<game name="Bomberman '93 (Japan)" id="0040" cloneofid="0042">
+		<category>Games</category>
+		<description>Bomberman '93 (Japan)</description>
+		<rom name="Bomberman '93 (Japan).pce" size="524288" crc="b300c5d0" md5="17a08fca7468a24039f1a6c97015807f" sha1="64131aeb6753bffde2910d641c73b56108874320" sha256="ab9a65070da8becd5975f5ce1d30f3742018f1171fa881c370d4806873624efb" status="verified"/>
+	</game>
+	<game name="Bomberman '93 (USA)" id="0042">
+		<category>Games</category>
+		<description>Bomberman '93 (USA)</description>
+		<rom name="Bomberman '93 (USA).pce" size="524288" crc="56171c1c" md5="795321485b7d58701cd5b661d6ad636a" sha1="709b47de6e0ebc18fb80c951d5cfaa6ce82d6ce0" sha256="678a097de779f3b24fc535e1de55448b754be6abe203a060e8f43c5c78899c8e"/>
+	</game>
+	<game name="Bomberman '93 (USA, Europe) (Wii U Virtual Console)" id="0422" cloneofid="0042">
+		<description>Bomberman '93 (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Bomberman '93 (USA, Europe) (Wii U Virtual Console).pce" size="524288" crc="4c7ba73b" md5="32e20c5b317f599060195d3276daddd2" sha1="b5e2fc745723634d9955a3d3418ba21859893a7b" sha256="86cfb753ccc9c47f41d5dc7dda6e10cc4b35ccc4312bcc09dfde6486a8671056" status="verified"/>
+	</game>
+	<game name="Bomberman '93 (Japan) (Wii U Virtual Console)" id="2473" cloneofid="0042">
+		<category>Games</category>
+		<description>Bomberman '93 (Japan) (Wii U Virtual Console)</description>
+		<rom name="Bomberman '93 (Japan) (Wii U Virtual Console).pce" size="524288" crc="37c9114f" md5="30d49af2d65d39ed1dcc1b2b7f0814ab" sha1="bbbbb83c7666dc2920170982a271067d844c0f68" sha256="ce69d882fc492cec2ab1431edc244000f58cafbe734218a3a6f20cab2aef2f96"/>
+	</game>
+	<game name="Bomberman '93 - Special Version (Japan)" id="0041">
+		<category>Games</category>
+		<description>Bomberman '93 - Special Version (Japan)</description>
+		<rom name="Bomberman '93 - Special Version (Japan).pce" size="524288" crc="02309aa0" md5="8930d24e64be677b898423a295b2bde0" sha1="79af6d5987267238cf8f729af79e25349cb0bf03" sha256="60f5aef4d7a9cc9a30ef89a4c7d2c02170531ba3923a206eb1b94e7c630785fb"/>
+	</game>
+	<game name="Bomberman '94 (Japan)" id="0043">
+		<category>Games</category>
+		<description>Bomberman '94 (Japan)</description>
+		<rom name="Bomberman '94 (Japan).pce" size="1048576" crc="05362516" md5="31a21937e7bda97ee54fd49f2475b6d3" sha1="9085b474199531259b4ebbc05a279ae96cb7c5bd" sha256="68b88ae5ad1bf393ddb95d4d3880bb1d97e3f83e2332708cb666997bd58bc126" status="verified"/>
+	</game>
+	<game name="Bomberman '94 (World) (Ja) (Wii U Virtual Console)" id="2474" cloneofid="0043">
+		<category>Games</category>
+		<description>Bomberman '94 (World) (Ja) (Wii U Virtual Console)</description>
+		<rom name="Bomberman '94 (World) (Ja) (Wii U Virtual Console).pce" size="1048576" crc="1aab222e" md5="b8e9de07aadef68fdb306e4b1d97b928" sha1="0f933199f5dbc01bff200cf9aeb9fcfffbd98a00" sha256="cd8c8ae641f05b75cdd83f08ad03bf6da6b8a8699bc643394c677e3cb980738a"/>
+	</game>
+	<game name="Bonk 3 - Bonk's Big Adventure (USA)" id="0047">
+		<category>Games</category>
+		<description>Bonk 3 - Bonk's Big Adventure (USA)</description>
+		<rom name="Bonk 3 - Bonk's Big Adventure (USA).pce" size="1048576" crc="5a3f76d8" md5="f4922bc12ac5c46c29d18d21e34f910f" sha1="b966df0281f7fab4536afc166278e1bec0d926c4" sha256="de40e6780d07832cbc7f4eed43267ee2241fd30f7a1bcf92346b58687fdad741"/>
+	</game>
+	<game name="Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console)" id="2475" cloneofid="0047">
+		<category>Games</category>
+		<description>Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console).pce" size="1048576" crc="1f6511d7" md5="73b3ef4925207683f83598288a00b1d3" sha1="4cfb1f9150bde55066dc450ec93aab16b869ca45" sha256="53fdf011b4e9e428a9b2e724302b79bc40ab4e31d5a949d6582e5a9691ce74fe"/>
+	</game>
+	<game name="Bonk's Adventure (USA)" id="0048">
+		<category>Games</category>
+		<description>Bonk's Adventure (USA)</description>
+		<rom name="Bonk's Adventure (USA).pce" size="393216" crc="599ead9b" md5="3aa21326050c489ea867de05dd6cb7e5" sha1="403c4fbdb617cea5b8cd0c8d06ae988f6aef93bd" sha256="457a14f5de9f22f23bab3d1b0e811d21c77e3617c164087271f952e6b2f8d110" status="verified"/>
+	</game>
+	<game name="Bonk's Adventure (USA, Europe) (Wii U Virtual Console)" id="2477" cloneofid="0048">
+		<category>Games</category>
+		<description>Bonk's Adventure (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Bonk's Adventure (USA, Europe) (Wii U Virtual Console).pce" size="393216" crc="704c801e" md5="cc7721fcd414095c810edf8d95c85c52" sha1="0c15c2e532964bb42120685db19f6205ae5eb6ad" sha256="1fe01690b68d58011a26f8088bae5b9fabd23f441f7a9a0675c2622aac6267ff"/>
+	</game>
+	<game name="Bonk's Revenge (USA)" id="0049">
+		<category>Games</category>
+		<description>Bonk's Revenge (USA)</description>
+		<rom name="Bonk's Revenge (USA).pce" size="524288" crc="f36ffee1" md5="34e8b8c01d7721a33c7d131f77c8c082" sha1="a9908331d835ce3f6ae301e2a6232fe59861c454" sha256="9b3ed03329b7a77733ea143014687b744a44f3f0d97b5228621e217e27da78c7" status="verified"/>
+	</game>
+	<game name="Bonk's Revenge (USA) (Alt 2)" id="0429" cloneofid="0049">
+		<category>Games</category>
+		<description>Bonk's Revenge (USA) (Alt 2)</description>
+		<rom name="Bonk's Revenge (USA) (Alt 2).pce" size="524288" crc="14250f9a" md5="dd97fe7e1572fe65fcb44e2757764b16" sha1="1f6c2766507d72fb55fbf84d2a8b45cf86709c0b" sha256="fe791199e5e4b178f25ec3ca1cf7dc1795296f3123c935c0f2684c0390ad9d36"/>
+	</game>
+	<game name="Bonk's Revenge (USA, Europe) (Wii U Virtual Console)" id="2479" cloneofid="0049">
+		<category>Games</category>
+		<description>Bonk's Revenge (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Bonk's Revenge (USA, Europe) (Wii U Virtual Console).pce" size="524288" crc="2020817a" md5="d837420442bfce0b1d10dfe3901da0a7" sha1="be90e3c59586268d10962880497a110a0c5cb5c8" sha256="74c466ffc7877dbafaa310aa365503c761220f5687fd4691c03d4ee2bcb95583"/>
+	</game>
+	<game name="Bonk's Revenge (USA) (Alt)" id="2526" cloneofid="0049">
+		<category>Games</category>
+		<description>Bonk's Revenge (USA) (Alt)</description>
+		<rom name="Bonk's Revenge (USA) (Alt).pce" size="524288" crc="68782a2f" md5="bbe5e014f8e2ed849bc844088d9c4c4b" sha1="89d2540df8e761d2c2387cc082ca8c826e143491" sha256="a0dbe6805f3eb4dd3d7ace579435c5cc61476f9648b90b72c78b74c488efc973" status="verified"/>
+	</game>
+	<game name="Bouken Danshaku Don - The Lost Sunheart (Japan)" id="0050">
+		<category>Games</category>
+		<description>Bouken Danshaku Don - The Lost Sunheart (Japan)</description>
+		<rom name="Bouken Danshaku Don - The Lost Sunheart (Japan).pce" size="524288" crc="8f4d9f94" md5="85e073902278ac45b52adfec1ab1535a" sha1="a0ae06b1ced94a2dea20b8c62ad64dcf701e1a25" sha256="061502205cbbf8e7b2cd5ba73f61b5d755cc94dfb2b0d4dedc8bc1f2c5db618c" status="verified"/>
+	</game>
+	<game name="Boxyboy (USA)" id="0051">
+		<category>Games</category>
+		<description>Boxyboy (USA)</description>
+		<rom name="Boxyboy (USA).pce" size="131072" crc="605be213" md5="c316ad2e57400feaf16fcaff67935b00" sha1="7e165324d735a20156fd90ac97d0bf1c115e0a02" sha256="2810bf5022e23859086ba4d8ca5c9800715b41ed65b59aac233d26693fd5dd7e"/>
+	</game>
+	<game name="Bravoman (USA)" id="0052">
+		<category>Games</category>
+		<description>Bravoman (USA)</description>
+		<rom name="Bravoman (USA).pce" size="524288" crc="cca08b02" md5="f60f3d46b7fab6060c3be9aad2103558" sha1="6fb31af03a5370c5c9bc280e0f8f8169d114150b" sha256="049253b3faf564d34a61ae4a2b275518af43e7de8071bf44b6e502e846dded31"/>
+	</game>
+	<game name="Break In (Japan) (En)" id="0053">
+		<category>Games</category>
+		<description>Break In (Japan) (En)</description>
+		<rom name="Break In (Japan) (En).pce" size="262144" crc="c9d7426a" md5="ccf0795c95150fc3246926312fecf842" sha1="2a409cbe09529c6995954b3985168882bad80aa4" sha256="8e735c2522c7873a0164002559e9394415c11439104182a27448847526e5262a" status="verified"/>
+	</game>
+	<game name="Bubblegum Crash! (Japan)" id="0054">
+		<category>Games</category>
+		<description>Bubblegum Crash! (Japan)</description>
+		<rom name="Bubblegum Crash! (Japan).pce" size="524288" crc="0d766139" md5="8aa27a2cdc063b278e063166a168a307" sha1="03d0638f27d35b28b7e5e7db16f823de0726c2c5" sha256="e96600058f35178c78a88eb9596678c973e0095ae8bd9cb060668065197f8895" status="verified"/>
+	</game>
+	<game name="Bull Fight - Ring no Hasha (Japan)" id="0055">
+		<category>Games</category>
+		<description>Bull Fight - Ring no Hasha (Japan)</description>
+		<rom name="Bull Fight - Ring no Hasha (Japan).pce" size="393216" crc="5c4d1991" md5="7a48865eddcc5ef4bd998a5bfea05ae4" sha1="6cd94e6209da2939752ab6b1c2d46e5b48c8e0cb" sha256="2a76afee281e128a9a27c5540c77f1439a96b6f3c2ae7a1be466d554f8bbcb6a" status="verified"/>
+	</game>
+	<game name="Burning Angels (Japan)" id="0056">
+		<category>Games</category>
+		<description>Burning Angels (Japan)</description>
+		<rom name="Burning Angels (Japan).pce" size="393216" crc="d233c05a" md5="214a55e19aed90a0095ca0d65894b7d3" sha1="d34f38058ac1d8276e145a47fc4fdc1310f49a60" sha256="b37db9e2eaa473a3b7104de65f9e2b957b5c18b4c8934309f178e5388632622f"/>
+	</game>
+	<game name="Cadash (USA)" id="0059">
+		<category>Games</category>
+		<description>Cadash (USA)</description>
+		<rom name="Cadash (USA).pce" size="524288" crc="bb0b3aef" md5="617a4254c05e88145110718951039e61" sha1="31c9692ba8c7eab995a6d3ab1e2079b69b47847f" sha256="04d9978d41ec53e3bc346aa6ec53ec9a473851ee8ed1d7196a3ef9859a8b69ab"/>
+	</game>
+	<game name="Cadash (Japan)" id="0058" cloneofid="0059">
+		<category>Games</category>
+		<description>Cadash (Japan)</description>
+		<rom name="Cadash (Japan).pce" size="393216" crc="8dc0d85f" md5="d42cf9bda2b8691a63c3f8337daa9b1d" sha1="3755cb2b883bc106e58019e1cd82708a63394f35" sha256="d6fd957b5f7648cb2ace2410908fac4ee0341445843433e46fa8def8f1a4cbec" status="verified"/>
+	</game>
+	<game name="Champion Wrestler (Japan) (En)" id="0060">
+		<category>Games</category>
+		<description>Champion Wrestler (Japan) (En)</description>
+		<rom name="Champion Wrestler (Japan) (En).pce" size="393216" crc="9edc0aea" md5="337b0aa40e3c133b6242aa0b71a4fd20" sha1="c865834d69b765bfb9f7730d98dfc167c360e964" sha256="dca83533c5479d74c138a8cddff6f4a6b0c12dd116a7273c07e1baa4c34ee474" status="verified"/>
+	</game>
+	<game name="Champions Forever Boxing (USA)" id="0061">
+		<category>Games</category>
+		<description>Champions Forever Boxing (USA)</description>
+		<rom name="Champions Forever Boxing (USA).pce" size="524288" crc="15ee889a" md5="fcd3e7f105514b61ff25dc3477f8b138" sha1="db7005b4679276bc65d04a45da131db7b47bae75" sha256="373de7a245a252c2f3d55dbed68d480b9098fcac6cc69be2d2c88f5b4c7a0a3e"/>
+	</game>
+	<game name="Chase H.Q. (USA)" id="0358">
+		<category>Games</category>
+		<description>Chase H.Q. (USA)</description>
+		<rom name="Chase H.Q. (USA).pce" size="393216" crc="9298254c" md5="b6098cef5a4729009d446603c650e323" sha1="d29a7440573324b5560185e6e012cb54a77e88f2" sha256="b224e8d4feb15c77e1478cdd4f0d0c65750f7f11af8811c217e8b839e5ed7cf9"/>
+	</game>
+	<game name="Chew-Man-Fu (USA)" id="0062">
+		<category>Games</category>
+		<description>Chew-Man-Fu (USA)</description>
+		<rom name="Chew-Man-Fu (USA).pce" size="262144" crc="8cd13e9a" md5="ff32565f935af07372e1dfd0ac7fbe78" sha1="5c742fe5d5af5628ba0e598cb88abd892dc87682" sha256="4766db13b679c72d70912e68da83dd02e21b0028529df95a50d3557e995d4ddd"/>
+	</game>
+	<game name="Chibi Maruko-chan - Quiz de Piihyara (Japan)" id="0063">
+		<category>Games</category>
+		<description>Chibi Maruko-chan - Quiz de Piihyara (Japan)</description>
+		<rom name="Chibi Maruko-chan - Quiz de Piihyara (Japan).pce" size="524288" crc="951ed380" md5="0d1e37aa94d82ef48f94f11f04fe7db1" sha1="de35c38944c42f2c14581e3ea003c1168b609aa6" sha256="bf74a107acc85a5935c3a1ca214208e1c7247e5b21af9f56a21a4ea2855f85d8" status="verified"/>
+	</game>
+	<game name="Chikudenya Toubei - Kubikiri Yakata Yori (Japan)" id="0064">
+		<category>Games</category>
+		<description>Chikudenya Toubei - Kubikiri Yakata Yori (Japan)</description>
+		<rom name="Chikudenya Toubei - Kubikiri Yakata Yori (Japan).pce" size="524288" crc="cab21b2e" md5="230232534784e6b36c0e8b5df1572cbc" sha1="75805bfd024c105bf450d5367953d0f9d4517eef" sha256="858f8dbe72c0a3771ae4a2b93d148737e5d4c822bcf0cf07dcf65b1c5cf42e41" status="verified"/>
+	</game>
+	<game name="China Warrior (USA)" id="0066">
+		<category>Games</category>
+		<description>China Warrior (USA)</description>
+		<rom name="China Warrior (USA).pce" size="262144" crc="a2ee361d" md5="60bb0116b706fc30a76840ed0b5da458" sha1="1933869f66f30da4bc07b9ff6b6c2897b32088f2" sha256="3b9f459c864b1274861dd0cd9dd77928769553f69a8403cc5f4d984631ffbc36"/>
+	</game>
+	<game name="Chou Zetsurinjin Bravoman (Japan)" id="0067" cloneofid="0052">
+		<category>Games</category>
+		<description>Chou Zetsurinjin Bravoman (Japan)</description>
+		<rom name="Chou Zetsurinjin Bravoman (Japan).pce" size="524288" crc="0df57c90" md5="2cb4b55b6c4883530cdd452552b277c4" sha1="9abb7d96a4dba96a26f7073ea06cb8b2deb24a43" sha256="340562a7019cfaab2b5f2f66614e7d4b6e2c8155c93adc070d25fdeab4b3de8e" status="verified"/>
+	</game>
+	<game name="Circus Lido (Japan) (En)" id="0068">
+		<category>Games</category>
+		<description>Circus Lido (Japan) (En)</description>
+		<rom name="Circus Lido (Japan) (En).pce" size="262144" crc="c3212c24" md5="bb10ab1d4e671e4c4adf7674acd7115f" sha1="b7a4157ad47d1f89ede201b56d5cd57650bcf18e" sha256="7fd0759fc9489950ec1a9029f958ec668915972fa9788597104f427b653867fb" status="verified"/>
+	</game>
+	<game name="City Hunter (Japan)" id="0069">
+		<category>Games</category>
+		<description>City Hunter (Japan)</description>
+		<rom name="City Hunter (Japan).pce" size="393216" crc="f91b055f" md5="32a6a97aa9e69fa8091bfda374609922" sha1="8265cb33901609ec1cf156b8e0c7fc3884bc1acd" sha256="c3535dadea5e8cc425fe9a8b76da0309e2d572233851fc1c9f9a8fcc4c3d21c6" status="verified"/>
+	</game>
+	<game name="Columns (Japan)" id="0070">
+		<category>Games</category>
+		<description>Columns (Japan)</description>
+		<rom name="Columns (Japan).pce" size="131072" crc="99f7a572" md5="a3a1be9fc3baef5e7bc6554962aea55b" sha1="238f9ee6cc80b31c5c93a4f43281e690200bdea3" sha256="97ced35eee9f3d076a93ca8cc92ad48267d7a825df7f99c059cad4603f380b8e" status="verified"/>
+	</game>
+	<game name="Coryoon (Japan)" id="0071">
+		<category>Games</category>
+		<description>Coryoon (Japan)</description>
+		<rom name="Coryoon (Japan).pce" size="524288" crc="b4d29e3b" md5="a02c4e74d78c7e02f1ff1dbf13aca711" sha1="709595f04defcc55181f7502a0065e4c22d5fb19" sha256="e2537e85f347dbe9e5e072d48eefeb10ff5727ac9321e8d4b5677ab6b9ccaa2e"/>
+	</game>
+	<game name="Cratermaze (USA)" id="0073">
+		<category>Games</category>
+		<description>Cratermaze (USA)</description>
+		<rom name="Cratermaze (USA).pce" size="262144" crc="9033e83a" md5="653c1be1f0f5e032bc3ec6b4e2823b98" sha1="2fa767e37f3d2a272861f969bdc7a3435f207fbf" sha256="ab228a16877b457a6c35934f6f95abf10cbb1ef52dd469f2bae4b52368ef7edf"/>
+	</game>
+	<game name="Cross Wiber - Cyber Combat Police (Japan) (En)" id="0074">
+		<category>Games</category>
+		<description>Cross Wiber - Cyber Combat Police (Japan) (En)</description>
+		<rom name="Cross Wiber - Cyber Combat Police (Japan) (En).pce" size="524288" crc="2df97bd0" md5="abf5d536a648dd2dd2281580eea8c2d5" sha1="9eed16c7df8e00faf9758cd5987fb06dbdf99cef" sha256="6da52da5dc3d6d62449e2e8eba66a8c946f78e06fd120f3baa8a18f2b47ba1e2" status="verified"/>
+	</game>
+	<game name="Cyber Core (Japan) (En)" id="0075" cloneofid="0076">
+		<category>Games</category>
+		<description>Cyber Core (Japan) (En)</description>
+		<rom name="Cyber Core (Japan) (En).pce" size="393216" crc="a98d276a" md5="a389bc9609008c30a1eb5c6eb983751c" sha1="75bbd695e55a01a423a6c2404335d75f5bb65437" sha256="19ae4ff379a3f764e07bdd3dfd98395777fb10e468f9daafc1d8c3e4fd5f8932" status="verified"/>
+	</game>
+	<game name="Cyber Cross (Japan)" id="0057">
+		<category>Games</category>
+		<description>Cyber Cross (Japan)</description>
+		<rom name="Cyber Cross (Japan).pce" size="393216" crc="d0c250ca" md5="d11ceaccd53d005329febde8683192c7" sha1="902deeca17b897091d6f581d1d5db916ba0cb0f7" sha256="0d5a3cc794810c87c9b7ac4258eb79b33c991325288046aba00311488092b9ab" status="verified"/>
+	</game>
+	<game name="Cyber Dodge (Japan) (En)" id="0077">
+		<category>Games</category>
+		<description>Cyber Dodge (Japan) (En)</description>
+		<rom name="Cyber Dodge (Japan) (En).pce" size="524288" crc="b5326b16" md5="cbc880d19c5a996d58d8a8d9c468d31b" sha1="fd6e6ed4f8124a6db42dcddd34d08beacbb6dd52" sha256="1fd07d528b1db4869b44dbdd8ceb50fdab748e28be8bbe48273a7a1a395cb25c" status="verified"/>
+	</game>
+	<game name="Cyber Knight (Japan)" id="0078">
+		<category>Games</category>
+		<description>Cyber Knight (Japan)</description>
+		<rom name="Cyber Knight (Japan).pce" size="524288" crc="a594fac0" md5="dad257d4984635f70580b10f1ae1b75c" sha1="3a860735700dcf7b5dfd83e63b2a50c715abccb5" sha256="6e5436c8afb2c05789f130750068d83cf0335b3b9ddd3155a40b358f5182d313" status="verified"/>
+	</game>
+	<game name="Cyber-Core (USA)" id="0076">
+		<category>Games</category>
+		<description>Cyber-Core (USA)</description>
+		<rom name="Cyber-Core (USA).pce" size="393216" crc="4cfb6e3e" md5="c16b1aee2d7023b410dd5e513c4aec0b" sha1="d0765259b06b12dfda66d8b861954ebc62022440" sha256="97af9839a457f5359bc2bc1d8945f6fd5deda55373d17e40a5e1255fcd812b84"/>
+	</game>
+	<game name="Daichi-kun Crisis - Do Natural (Japan)" id="0080">
+		<category>Games</category>
+		<description>Daichi-kun Crisis - Do Natural (Japan)</description>
+		<rom name="Daichi-kun Crisis - Do Natural (Japan).pce" size="393216" crc="61a2935f" md5="4a1f595eec378e553506fcfdca5a2c8a" sha1="5bbf5e6bd3d2cda38c3a6ef8189a159aaf709a98" sha256="5acd00d5b617d76efe26f9f1ba0fa8496091466fd9f6964e4b861ab2856738b3" status="verified"/>
+	</game>
+	<game name="Daisenpuu (Japan) (En)" id="0079">
+		<category>Games</category>
+		<description>Daisenpuu (Japan) (En)</description>
+		<rom name="Daisenpuu (Japan) (En).pce" size="524288" crc="9107bcc8" md5="677302bdec15a9c56ef6b7aade125fad" sha1="81f8c8f01530bb3d22e2dd463202d0e26e7faf24" sha256="dc430f55e43624bafdd6ea6b5fe3bd97cb3cf208613bcf5ef40cd27da098d0c5" status="verified"/>
+	</game>
+	<game name="Darius Alpha (Japan) (En) (SG Enhanced)" id="0081">
+		<category>Games</category>
+		<description>Darius Alpha (Japan) (En) (SG Enhanced)</description>
+		<rom name="Darius Alpha (Japan) (En) (SG Enhanced).pce" size="393216" crc="b0ba689f" md5="c87135a6af3344c9316fe06fccbcfd97" sha1="f59c538fa632f687c356af70659fb07b37933f78" sha256="d1548a17e4a4fc8552cf9d8fd5626e98936ff92033d94df5b6d8b80d2f42ab8f"/>
+	</game>
+	<game name="Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)" id="2467" cloneofid="0081">
+		<category>Games</category>
+		<description>Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)</description>
+		<rom name="Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection).pce" size="393216" crc="eb2466f9" md5="f98df7740f72fbab06e9252a0160a807" sha1="a31340575de9aaad33338a807baa5fca33d18767" sha256="a60381029ddf764de751aae63c518f2e6a9a28efc60f265ba2c096a49771b258"/>
+	</game>
+	<game name="Darius Plus (Japan) (En) (SG Enhanced)" id="0082">
+		<category>Games</category>
+		<description>Darius Plus (Japan) (En) (SG Enhanced)</description>
+		<rom name="Darius Plus (Japan) (En) (SG Enhanced).pce" size="786432" crc="bebfe042" md5="3274eee61dae966e15822558940e5d4d" sha1="a362c06e4466b2b3dc7a682f892988189117ef62" sha256="db6c847145f7fdfb98a21ac86f2a515a4bac884972297244e144b9f58ee4e240" status="verified"/>
+	</game>
+	<game name="Darkwing Duck (USA)" id="0083">
+		<category>Games</category>
+		<description>Darkwing Duck (USA)</description>
+		<rom name="Darkwing Duck (USA).pce" size="524288" crc="4ac97606" md5="d2a603fad8df15b3c617b7e8b24e8606" sha1="8c0cf2b058daef3ff5438808bfd48b9393c23b58" sha256="67400494a7940b1a8c2c6c3d9ea371e3a3cbd7523b2435af4e967a45caa7afa4"/>
+	</game>
+	<game name="Davis Cup Tennis (USA)" id="0084">
+		<category>Games</category>
+		<description>Davis Cup Tennis (USA)</description>
+		<rom name="Davis Cup Tennis (USA).pce" size="524288" crc="9edab596" md5="b45d198d7895d10e41f308427dab6b3f" sha1="7e3ad77375d9c62e060cd6f6e57493196a4a739d" sha256="eb9cc11ba7de7da8b3c1204fb42b16244203b7577d687801a7ef1d18ebba4ba9"/>
+	</game>
+	<game name="Dead Moon (USA)" id="0086">
+		<category>Games</category>
+		<description>Dead Moon (USA)</description>
+		<rom name="Dead Moon (USA).pce" size="524288" crc="f5d98b0b" md5="47e3d20a759659e30cef20aaaa5731b0" sha1="b289533a795ef874cc9bac158e3035101f892475" sha256="71a23db8100624451e020eb7fdb9275194783ce745603016e91247cbc1e0a709"/>
+	</game>
+	<game name="Dead Moon - Getsu Sekai no Akumu (Japan) (En)" id="0085" cloneofid="0086">
+		<category>Games</category>
+		<description>Dead Moon - Getsu Sekai no Akumu (Japan) (En)</description>
+		<rom name="Dead Moon - Getsu Sekai no Akumu (Japan) (En).pce" size="524288" crc="56739bc7" md5="e133de02b11031cf8a010e07bd772f3f" sha1="d86ba171b459c286243306407311d85d013a2833" sha256="a5de15f1b5be3ae4fcacb0e26224414febcbeff5602d3a38bbd26f7e44496507"/>
+	</game>
+	<game name="Deep Blue (USA)" id="0087">
+		<category>Games</category>
+		<description>Deep Blue (USA)</description>
+		<rom name="Deep Blue (USA).pce" size="262144" crc="16b40b44" md5="ae3165e430f12fd57de382ab34e16dee" sha1="91b8dd861d848033bb95b0c8c5e878ee827fef41" sha256="1bf44c8ccbebdbd2f80ce3a318cc0e2140c934e122b3460e6a530623349e0489"/>
+	</game>
+	<game name="Deep Blue - Kaitei Shinwa (Japan) (En)" id="0088" cloneofid="0087">
+		<category>Games</category>
+		<description>Deep Blue - Kaitei Shinwa (Japan) (En)</description>
+		<rom name="Deep Blue - Kaitei Shinwa (Japan) (En).pce" size="262144" crc="053a0f83" md5="12c28460b65b5e1d898ac77c30124122" sha1="f9cb1e26b4274759890844c36d8fd8e9cd1a195c" sha256="18617146374a8cbc74a06398a7a95e2e6428a6a6805415fca5c261136efadaef" status="verified"/>
+	</game>
+	<game name="Detana!! TwinBee (Japan)" id="0089">
+		<category>Games</category>
+		<description>Detana!! TwinBee (Japan)</description>
+		<rom name="Detana!! TwinBee (Japan).pce" size="524288" crc="5cf59d80" md5="c42ad354e906d5a4741349002b94b9c2" sha1="e1d07a2f71c695b53755bade6fe81e46e4c4828c" sha256="122d9b8ebc6348d7d29bbd11aafbfc5bb9fe1967bc0383e33487c45d61d0c201" status="verified"/>
+	</game>
+	<game name="Devil Crash - Naxat Pinball (Japan) (En)" id="0090" cloneofid="0091">
+		<category>Games</category>
+		<description>Devil Crash - Naxat Pinball (Japan) (En)</description>
+		<rom name="Devil Crash - Naxat Pinball (Japan) (En).pce" size="393216" crc="4ec81a80" md5="f677b6d9475fca8a07b66068ead12c24" sha1="808638c33e110285d0d9415bc046b94a84b02c6a" sha256="91475d2e7c993045cd5738fd43c9193399b251135e4b10276bf1309dc6aeaf09" status="verified"/>
+	</game>
+	<game name="Devil Crash - Naxat Pinball (Japan) (En) (Wii U Virtual Console)" id="2482" cloneofid="0091">
+		<category>Games</category>
+		<description>Devil Crash - Naxat Pinball (Japan) (En) (Wii U Virtual Console)</description>
+		<rom name="Devil Crash - Naxat Pinball (Japan) (En) (Wii U Virtual Console).pce" size="393216" crc="38bbb515" md5="f376674ece7932ca729b2c60b7b1d682" sha1="04787bc1dcadf4b104d1e09a5f14cb64320f1b31" sha256="71c4d130b57005dcf834224f0534dc2d2ac1541e2156987e25af0dbf408a01ed"/>
+	</game>
+	<game name="Devil's Crush (USA)" id="0091">
+		<category>Games</category>
+		<description>Devil's Crush (USA)</description>
+		<rom name="Devil's Crush (USA).pce" size="393216" crc="157b4492" md5="92fbe89d4c87bf283dbfbeac69a64e6e" sha1="1c54fb80e5acf82d7346dd7f2e8db8c74c58f4ba" sha256="9ad122903ec34cb8e62ba1aae1cfddbfcb06657d0fba55d6d0b1d280f88e30f9" status="verified"/>
+	</game>
+	<game name="Devil's Crush (USA, Europe) (Wii U Virtual Console)" id="2481" cloneofid="0091">
+		<category>Games</category>
+		<description>Devil's Crush (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Devil's Crush (USA, Europe) (Wii U Virtual Console).pce" size="393216" crc="6308eb07" md5="469d79940731a034d26b3899ee434bbb" sha1="f1e6829bab3306486eccca39c7d11cc0b8435c62" sha256="45bdfb4a660c1a71fddd053f2c5881e8a66af956ee76d65655f2e6981e77393d"/>
+	</game>
+	<game name="Die Hard (Japan)" id="0092">
+		<category>Games</category>
+		<description>Die Hard (Japan)</description>
+		<rom name="Die Hard (Japan).pce" size="524288" crc="1b5b1cb1" md5="7dd298a6e9f2abce6f85d262ec37f483" sha1="96aeca126bb6ac0ca0df5ee260a8a1ee25f44d6d" sha256="81628ce2517f6c5af05812f67a8cffe360525c11feb6a70d2650fc2badea8e22"/>
+	</game>
+	<game name="Digital Champ - Battle Boxing (Japan)" id="0093">
+		<category>Games</category>
+		<description>Digital Champ - Battle Boxing (Japan)</description>
+		<rom name="Digital Champ - Battle Boxing (Japan).pce" size="262144" crc="17ba3032" md5="ac5290f448ee230ff9337b437557af52" sha1="e0af39b67be8c5086795b3dca95f469624aca428" sha256="a2c9ee55b35f60c4fd8bf5de5f688722f956c6b2c5e485eb72132759d4955a6c" status="verified"/>
+	</game>
+	<game name="Don Doko Don! (Japan)" id="0094">
+		<category>Games</category>
+		<description>Don Doko Don! (Japan)</description>
+		<rom name="Don Doko Don! (Japan).pce" size="393216" crc="f42aa73e" md5="5d27b090b2e630a30b60341cb47606a7" sha1="a32d06bf7951607059d0eb789d74009b865b6764" sha256="be9d93178e802f675fb444e0c85297316b45d37065ee6104a4eccdc366394587" status="verified"/>
+	</game>
+	<game name="Doraemon - Meikyuu Daisakusen (Japan)" id="0095" cloneofid="0073">
+		<category>Games</category>
+		<description>Doraemon - Meikyuu Daisakusen (Japan)</description>
+		<rom name="Doraemon - Meikyuu Daisakusen (Japan).pce" size="262144" crc="dc760a07" md5="77cf3e53c5e4fbef73087893cdeec84f" sha1="81769dc4e2e669f6ae98872d22c52ac290530a28" sha256="f92771b8b81b5aa618dc4ba12eabc3f48062cc66e7a241b47ca5a1919ec89b03" status="verified"/>
+	</game>
+	<game name="Doraemon - Nobita no Dorabian Night (Japan)" id="0096">
+		<category>Games</category>
+		<description>Doraemon - Nobita no Dorabian Night (Japan)</description>
+		<rom name="Doraemon - Nobita no Dorabian Night (Japan).pce" size="524288" crc="013a747f" md5="14813eff2b436fa5eb1c3e95e99993a9" sha1="feea7cb74d4e256eb75ab46fcfc40c21743d5487" sha256="3e81907b152d6c4644f1ba07e321455c8abbeefd9b50b8f59cc80343a0024181" status="verified"/>
+	</game>
+	<game name="Double Dungeons (USA)" id="0098">
+		<category>Games</category>
+		<description>Double Dungeons (USA)</description>
+		<rom name="Double Dungeons (USA).pce" size="262144" crc="4a1a8c60" md5="5ba010cd617c6f2b0f6e926fd4ef8a42" sha1="4e81f6cfa47ed941922492889be432041ff99e25" sha256="39fde08a056ccc10d9fdf3cd4ef79561ba21c35bc71e8a7ffe24a402df4d464f"/>
+	</game>
+	<game name="Double Dungeons (Japan)" id="0097" cloneofid="0098">
+		<category>Games</category>
+		<description>Double Dungeons (Japan)</description>
+		<rom name="Double Dungeons (Japan).pce" size="262144" crc="86087b39" md5="990b1d0ae114c8da37ce0fe932c26cff" sha1="a5a032283f24a4e487715ffb36b3fc4615656b37" sha256="ac4c1d7df27943cb4dd0c5111332d8bb453ad21efff0ba4e1def2e6fc5a40e87" status="verified"/>
+	</game>
+	<game name="Double Dungeons (USA, Europe) (Wii U Virtual Console)" id="2483" cloneofid="0098">
+		<category>Games</category>
+		<description>Double Dungeons (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Double Dungeons (USA, Europe) (Wii U Virtual Console).pce" size="262144" crc="d189b4ad" md5="2b7a15ec3c5a5318cf76d9b162146501" sha1="b33f24c74104c8f138e989cd6bd75d2fa389aa34" sha256="920015fc076500cb9e0071bdfce661cf18a9f2d3ddad16ee3a764a9803ae8cba"/>
+	</game>
+	<game name="Double Dungeons (Japan) (Wii U Virtual Console)" id="2484" cloneofid="0098">
+		<category>Games</category>
+		<description>Double Dungeons (Japan) (Wii U Virtual Console)</description>
+		<rom name="Double Dungeons (Japan) (Wii U Virtual Console).pce" size="262144" crc="d7bf80cc" md5="ff3b3e3d3fb91283264735042309983a" sha1="c9644c2d30641baa38b4f38f2ca5cbc5b676a030" sha256="b86960411d661e48c9c74995a3c4c22ffac9ea37a67c304230a877fe928765d7"/>
+	</game>
+	<game name="Down Load (Japan)" id="0099">
+		<category>Games</category>
+		<description>Down Load (Japan)</description>
+		<rom name="Down Load (Japan).pce" size="524288" crc="85101c20" md5="10de08141486e768e6743d9a1c2c57f4" sha1="847bd22cccdf929def8fc348b973faee2688e648" sha256="b9c96a94a5999abe6d37121483927167ceb269da32a9384e07c743a788651e5b" status="verified"/>
+	</game>
+	<game name="Dragon Egg! (Japan)" id="0101">
+		<category>Games</category>
+		<description>Dragon Egg! (Japan)</description>
+		<rom name="Dragon Egg! (Japan).pce" size="524288" crc="442405d5" md5="51fefc9b576f23ab0245baeb64a7ab17" sha1="56c69f24b542fea72cc753ddf0e4bb23974adbdf" sha256="02465b0e5e21b49a398cc9276201c3271c86cfefd48215c226a819ee147f56b2" status="verified"/>
+	</game>
+	<game name="Dragon Saber (Japan) (En)" id="0102">
+		<category>Games</category>
+		<description>Dragon Saber (Japan) (En)</description>
+		<rom name="Dragon Saber (Japan) (En).pce" size="524288" crc="3219849c" md5="a8dbe74d6cb012951478202e3b5ea08a" sha1="6d94cd3e27dbe1694229f7f006dc821be4764aa2" sha256="96f66ce375d9eef9bc3abfcec96bbf7a4cac8de81891dcebe783e78cb7759200" status="verified"/>
+	</game>
+	<game name="Dragon Spirit (Japan) (En)" id="0104" cloneofid="0105">
+		<category>Games</category>
+		<description>Dragon Spirit (Japan) (En)</description>
+		<rom name="Dragon Spirit (Japan) (En).pce" size="262144" crc="01a76935" md5="0a459d74f0545f4538705276422be34e" sha1="09b037fde801b71d1ff343c40ff5a58372b9a514" sha256="f912b281be21b72f403dfc56ffb4123581c5a703fe058cd0b0665f78e06aea0c" status="verified"/>
+	</game>
+	<game name="Dragon Spirit (USA)" id="0105">
+		<category>Games</category>
+		<description>Dragon Spirit (USA)</description>
+		<rom name="Dragon Spirit (USA).pce" size="262144" crc="086f148c" md5="1fe13078c7aba4ef0777d5a470d56986" sha1="3bdd082360335232715633b469da71ab2597279d" sha256="f502fd6aa604c8ac42a1808f656355994a1424dcca3ebef9d4d899565f7da99b"/>
+	</game>
+	<game name="Dragon's Curse (USA)" id="0106">
+		<category>Games</category>
+		<description>Dragon's Curse (USA)</description>
+		<rom name="Dragon's Curse (USA).pce" size="262144" crc="7d2c4b09" md5="55153240fe1d0076c4f759b82f2d7e3e" sha1="39b382725e38d6303ae2b19f1cabbd96ca661b07" sha256="549741dedb9a78a1d093f32449f0e51a6fcc2c40e99baddd1b626f6fac46ea17"/>
+	</game>
+	<game name="Drop Off (USA)" id="0109">
+		<category>Games</category>
+		<description>Drop Off (USA)</description>
+		<rom name="Drop Off (USA).pce" size="262144" crc="fea27b32" md5="7df6342574ed3e0241029a11f1f5c4da" sha1="54bb6ea11aca4ca6a16ba439828ba1f6fada3623" sha256="82ac6b4ca829b15ffec8f7a1739b828adf42c3cf60f37dd1d113a824a7070498"/>
+	</game>
+	<game name="Drop Rock Hora Hora (Japan) (En)" id="0107" cloneofid="0109">
+		<category>Games</category>
+		<description>Drop Rock Hora Hora (Japan) (En)</description>
+		<rom name="Drop Rock Hora Hora (Japan) (En).pce" size="262144" crc="67ec5ec4" md5="5e19ade2ef645d500357b2014813ab68" sha1="b1b28d6dac76c3e3547f0a5a695110fd506643e0" sha256="cb3afaabe6ea2d5d03b72d76f9711d3423ca8d5e89ca1ddebfd5e4cc149f5d47" status="verified"/>
+	</game>
+	<game name="Dungeon Explorer (Japan)" id="0110" cloneofid="0111">
+		<category>Games</category>
+		<description>Dungeon Explorer (Japan)</description>
+		<rom name="Dungeon Explorer (Japan).pce" size="393216" crc="1b1a80a2" md5="414a24f02a45bb04360d80d49c0d9a8b" sha1="77caece9655a0e14330884673ffb41ff2bb625c4" sha256="d8e80e9ba4a10bd5efa9bae397db7371e05a9bfc44fcec4c3c1f55bd08889510" status="verified"/>
+	</game>
+	<game name="Dungeon Explorer (USA)" id="0111">
+		<category>Games</category>
+		<description>Dungeon Explorer (USA)</description>
+		<rom name="Dungeon Explorer (USA).pce" size="393216" crc="4ff01515" md5="a07c43bea439c8c904bc4908737af5c5" sha1="d6d18128d55d886a9b6a8c8ea65af76e783001f9" sha256="b6cceb5226c5be1e5339c95cdceef6ea4d31ecef428f24012953d8a38f44ecb8" status="verified"/>
+	</game>
+	<game name="Dungeons &amp; Dragons - Order of the Griffon (USA)" id="0254">
+		<category>Games</category>
+		<description>Dungeons &amp; Dragons - Order of the Griffon (USA)</description>
+		<rom name="Dungeons &amp; Dragons - Order of the Griffon (USA).pce" size="524288" crc="fae0fc60" md5="30fa2b6c1083e1b382fcaa2cac782e08" sha1="bbfdcaaed7ed9c96364e3ca36807b9ac3bac8622" sha256="d0f353088b3edf793038d7ec2a9e693b504689827c693b553b6341b58ae03491"/>
+	</game>
+	<game name="Energy (Japan)" id="0112">
+		<category>Games</category>
+		<description>Energy (Japan)</description>
+		<rom name="Energy (Japan).pce" size="262144" crc="ca68ff21" md5="b928568fd7258f90b5ac410c7f65c48c" sha1="8a43ac4f92cf6715e95b607c75e5c9e43b1c7575" sha256="15b0d59042625bbe5fbb918fda6db03ac3df3881d496f526c7c5845cfa69c5f2" status="verified"/>
+	</game>
+	<game name="Eternal City - Toshi Tensou Keikaku (Japan)" id="0378">
+		<category>Games</category>
+		<description>Eternal City - Toshi Tensou Keikaku (Japan)</description>
+		<rom name="Eternal City - Toshi Tensou Keikaku (Japan).pce" size="393216" crc="b18d102d" md5="07c06f305051862e381589d43978b1e9" sha1="61e9102c02f87af87bd2e0b75093c01e12cf4801" sha256="0fa201812e851ce9065966b8c4a0db76956c5b73f17b70f7f0985e97491e0a35" status="verified"/>
+	</game>
+	<game name="F-1 Dream (Japan)" id="0113">
+		<category>Games</category>
+		<description>F-1 Dream (Japan)</description>
+		<rom name="F-1 Dream (Japan).pce" size="262144" crc="d50ff730" md5="eca0a8c5e5aba1b3044036ca1e6db2b3" sha1="3e1b0829cc44cd254bbfdbcc29a4045d53d32639" sha256="e244d7c8fc599083c2886e70c0fa93f771c55026ecdfccc0954dfd1343cde5fd" status="verified"/>
+	</game>
+	<game name="F-1 Pilot - You're King of Kings (Japan)" id="0114">
+		<category>Games</category>
+		<description>F-1 Pilot - You're King of Kings (Japan)</description>
+		<rom name="F-1 Pilot - You're King of Kings (Japan).pce" size="393216" crc="09048174" md5="81aee6771f89d1f04ddecc7c4405773d" sha1="ba89f45d9b2ebd331da570f9e03ab0c8ae2cc835" sha256="cdac98901c48b06a1fe8e101c199961a787b9d63f20a1fd425be9bd56d9040f5" status="verified"/>
+	</game>
+	<game name="F1 Circus (Japan)" id="0117">
+		<category>Games</category>
+		<description>F1 Circus (Japan)</description>
+		<rom name="F1 Circus (Japan).pce" size="524288" crc="e14dee08" md5="abe73a499d4006e3906e97c7d31fb4cc" sha1="9a83f109f785fe75d58661645c95ff25a0699571" sha256="275df5ba11434c8f71963330c13d78911d33ebd863152f84484d9e9949c20710" status="verified"/>
+	</game>
+	<game name="F1 Circus '91 (Japan)" id="0115">
+		<category>Games</category>
+		<description>F1 Circus '91 (Japan)</description>
+		<rom name="F1 Circus '91 (Japan).pce" size="524288" crc="d7cfd70f" md5="7b301f38b70f607a4fd43f5a56a00445" sha1="e424bb52a3739c7c4723a81d16a091ae2dba49eb" sha256="6104d1542aabe2f2b77982280b062aa994dcacc706daaeb6b1c6b614d9fa2063" status="verified"/>
+	</game>
+	<game name="F1 Circus '92 (Japan)" id="0116">
+		<category>Games</category>
+		<description>F1 Circus '92 (Japan)</description>
+		<rom name="F1 Circus '92 (Japan).pce" size="786432" crc="b268f2a2" md5="3fc53a0d8981eb60867d0876c0554e02" sha1="c2ccd2110ae6a9d6cd64cce26b0264868d684933" sha256="cfe21153b46d06ec4097700621f93527e1c2526d869c362d19ff4f4300dc1d37" status="verified"/>
+	</game>
+	<game name="F1 Triple Battle (Japan) (En)" id="0119">
+		<category>Games</category>
+		<description>F1 Triple Battle (Japan) (En)</description>
+		<rom name="F1 Triple Battle (Japan) (En).pce" size="393216" crc="13bf0409" md5="e6cfec9aa8d327b80c01ce40348101ab" sha1="0a219b433529b3214f42734c2a144d238cb3c99c" sha256="81ee45aad5e385e6ccd03a6f2ce09f03af2e7aa625185a256a20df537d166a70" status="verified"/>
+	</game>
+	<game name="Falcon (USA)" id="0120">
+		<category>Games</category>
+		<description>Falcon (USA)</description>
+		<rom name="Falcon (USA).pce" size="524288" crc="0bc0a12b" md5="23ece73eac29304b0300cebcf52841a4" sha1="f02871ef343a59723f1eaf7aee36c626f15e12b2" sha256="528c79f4bd86665f64ba1fd4e59bd92a3e13efbfa2a434e72f8f5d763c266a5b"/>
+	</game>
+	<game name="Fantasy Zone (USA)" id="0122">
+		<category>Games</category>
+		<description>Fantasy Zone (USA)</description>
+		<rom name="Fantasy Zone (USA).pce" size="262144" crc="e8c3573d" md5="0c5fc299491c50c2d2f532308597a159" sha1="7c419163d860691dfea9720639921190e20e3c97" sha256="2aedb10b9c99c69557c17a9658a8e072474172193f9f83ee1fd45374f29f06a3"/>
+	</game>
+	<game name="Fantasy Zone (Japan) (En)" id="0121" cloneofid="0122">
+		<category>Games</category>
+		<description>Fantasy Zone (Japan) (En)</description>
+		<rom name="Fantasy Zone (Japan) (En).pce" size="262144" crc="72cb0f9d" md5="9f3078e85b7604f5df6d858dea879696" sha1="9dfc979fdf65d6425504aff68dc80e83c69e7b40" sha256="2adab7b01cca1b4a5a4e11aefb97a907d442033eeac3d14e57a43419e4f4aac4" status="verified"/>
+	</game>
+	<game name="Fantasy Zone (Japan) (En) (PC Engine Mini)" id="2520" cloneofid="0122">
+		<category>Games</category>
+		<description>Fantasy Zone (Japan) (En) (PC Engine Mini)</description>
+		<rom name="Fantasy Zone (Japan) (En) (PC Engine Mini).pce" size="524288" crc="4d3f879a" md5="10919258a46d93985cefed8e4fcce547" sha1="2c1bf3cb5c5c6b9932f01a4210d0d0eae4e19652" sha256="abad88fe7472db5192d5b7697b8c870eee8dd1c86e96c5b76b4dcc3f4938e398"/>
+	</game>
+	<game name="Fighting Run (Japan)" id="0123">
+		<category>Games</category>
+		<description>Fighting Run (Japan)</description>
+		<rom name="Fighting Run (Japan).pce" size="524288" crc="1828d2e5" md5="0c04100ec80cb330d8deade60f4fbb24" sha1="fdd2962412b401cd2d72a85ddb516071468bd9ff" sha256="f259e527c1d7c9098b6009b5035070bc5a394ee2326393ac6441225cdd21e441" status="verified"/>
+	</game>
+	<game name="Final Blaster (Japan) (En)" id="0124">
+		<category>Games</category>
+		<description>Final Blaster (Japan) (En)</description>
+		<rom name="Final Blaster (Japan) (En).pce" size="393216" crc="c90971ba" md5="b0fe98f3f2a7ce5407353bb5d3207db8" sha1="4a013fde3938ceaacf38fcc4f56828d1292142d0" sha256="e974d8467e56bf64908dcb27d148579f67af520bb29bfe4183e6c56a8cdd8d8c" status="verified"/>
+	</game>
+	<game name="Final Lap Twin (Japan)" id="0125" cloneofid="0126">
+		<category>Games</category>
+		<description>Final Lap Twin (Japan)</description>
+		<rom name="Final Lap Twin (Japan).pce" size="393216" crc="c8c084e3" md5="5ff73dfe46e66422159d09ad2035af94" sha1="ad695b7d1fb8bac7d9e13045bf229dba98d56a71" sha256="b87232428f19dec012cbe21b172c255498a8fc81289d1e0ce996349124062a52" status="verified"/>
+	</game>
+	<game name="Final Lap Twin (USA)" id="0126">
+		<category>Games</category>
+		<description>Final Lap Twin (USA)</description>
+		<rom name="Final Lap Twin (USA).pce" size="393216" crc="26408ea3" md5="70ea7c2d63fcc6a9719a85bba9cebc04" sha1="7ec6e816c4d89943d06dc88108ee415ed1f57be9" sha256="58d3ec034136b136ad390db9d5d82ae08beb3c2ca25dc1bd4e96caafadaaf7eb"/>
+	</game>
+	<game name="Final Match Tennis (Japan)" id="0127">
+		<category>Games</category>
+		<description>Final Match Tennis (Japan)</description>
+		<rom name="Final Match Tennis (Japan).pce" size="262144" crc="560d2305" md5="595364eede949021345f1f7735e64355" sha1="e3a97b468d0a6c94effde70bf331dc4b3d90b166" sha256="eba4fed11bdb76bc545f97c2a76237c190e555a36b9330238708eb58cc1a5720" status="verified"/>
+	</game>
+	<game name="Final Soldier (Japan) (En)" id="0128">
+		<category>Games</category>
+		<description>Final Soldier (Japan) (En)</description>
+		<rom name="Final Soldier (Japan) (En).pce" size="524288" crc="af2dd2af" md5="fe5b3f899f0ee5994508f259bbb74cfe" sha1="ce89c6ea5d9eb36a642742ecad9c35c16b761c49" sha256="9af9e2ee8cadb39461394a811cd05424159c069389e48882a61d6ee3f6faf78c" status="verified"/>
+	</game>
+	<game name="Final Soldier (World) (Wii U Virtual Console)" id="2485" cloneofid="0128">
+		<category>Games</category>
+		<description>Final Soldier (World) (Wii U Virtual Console)</description>
+		<rom name="Final Soldier (World) (Wii U Virtual Console).pce" size="524288" crc="06835d94" md5="a09f962fc2940fc12c88322aa6bbed43" sha1="f52e2a9c5df042eb04c98fbfa38c8399ca4c7f85" sha256="8f72aa3cc0d2d316a3a163429ebe32bbd1590975c87c1a90fb57c9fb56761bfd"/>
+	</game>
+	<game name="Final Soldier - Special Version (Japan) (En)" id="0129">
+		<category>Games</category>
+		<description>Final Soldier - Special Version (Japan) (En)</description>
+		<rom name="Final Soldier - Special Version (Japan) (En).pce" size="524288" crc="02a578c5" md5="838e1ae033f797bad4a122a593604a8f" sha1="ba15992964c84d4c5998f5622ae78ad843cda5f0" sha256="a467261e633acc49d26b28b258b6d92b066d88a9daf6cae1436656cda3933813"/>
+	</game>
+	<game name="Fire Pro Wrestling - 2nd Bout (Japan)" id="0131">
+		<category>Games</category>
+		<description>Fire Pro Wrestling - 2nd Bout (Japan)</description>
+		<rom name="Fire Pro Wrestling - 2nd Bout (Japan).pce" size="524288" crc="e88987bb" md5="742a4ee10354b85a2439a09ea097a3ec" sha1="24977d50f4e8af3fff9e5775128d9c04585ab533" sha256="8152a91ffb7cda59cfaf4e297575bbf809aba286a5ef96e7bf26fb9f630572a5" status="verified"/>
+	</game>
+	<game name="Fire Pro Wrestling - Combination Tag (Japan)" id="0130">
+		<category>Games</category>
+		<description>Fire Pro Wrestling - Combination Tag (Japan)</description>
+		<rom name="Fire Pro Wrestling - Combination Tag (Japan).pce" size="393216" crc="90ed6575" md5="2092c615674a9cb9f92b3ebbee9958d6" sha1="d149ca397c5a45367c32fb78210e6febf734d837" sha256="bc7c58045790f1df6581e8e7b3128739ebcf93252b3262a5341629aeb545b380" status="verified"/>
+	</game>
+	<game name="Fire Pro Wrestling 3 - Legend Bout (Japan)" id="0132">
+		<category>Games</category>
+		<description>Fire Pro Wrestling 3 - Legend Bout (Japan)</description>
+		<rom name="Fire Pro Wrestling 3 - Legend Bout (Japan).pce" size="1048576" crc="534e8808" md5="4977af10c5295122b48252d0d7f0b5d9" sha1="77a3a3a69ef847f4b84c1b510934fe73db9fa442" sha256="ce112859d15ef05784fe66ac9487fe9c2971e475efe2aad951b9a01619b2ff6f" status="verified"/>
+	</game>
+	<game name="Formation Soccer - Human Cup '90 (Japan) (En)" id="0133">
+		<category>Games</category>
+		<description>Formation Soccer - Human Cup '90 (Japan) (En)</description>
+		<rom name="Formation Soccer - Human Cup '90 (Japan) (En).pce" size="262144" crc="85a1e7b6" md5="229eadd97abff922f2e3911f91f6a871" sha1="d53db608475ca26ff81837dc43b40726bd0440a5" sha256="fee7834722945464ca3865a1bc0b11b1f34ef9d8f15f5533c8bbbc827b42443c" status="verified"/>
+	</game>
+	<game name="Formation Soccer - On J.League (Japan)" id="0134">
+		<category>Games</category>
+		<description>Formation Soccer - On J.League (Japan)</description>
+		<rom name="Formation Soccer - On J.League (Japan).pce" size="524288" crc="7146027c" md5="df9c47bd8b3558f4d3e830dcbb74ed1c" sha1="301d3e8aaa4c7f3f1c37838e3677d97e51319540" sha256="a5871655c6beb3d33e9357dd370a42243558714115b38632ba6db4cefa7567b9" status="verified"/>
+	</game>
+	<game name="Fushigi no Yume no Alice (Japan)" id="0135">
+		<category>Games</category>
+		<description>Fushigi no Yume no Alice (Japan)</description>
+		<rom name="Fushigi no Yume no Alice (Japan).pce" size="393216" crc="12c4e6fd" md5="3e0cd9af31efe11acf733fb15dc31131" sha1="c266b05dd367b2973399b8daff7c4dc33bebedd9" sha256="d37bb8a54b1300dc88d55e7e05fe7ebd5c6f6b62a3fffc6dec87f62b2390638e" status="verified"/>
+	</game>
+	<game name="Gai Flame (Japan)" id="0136">
+		<category>Games</category>
+		<description>Gai Flame (Japan)</description>
+		<rom name="Gai Flame (Japan).pce" size="393216" crc="95f90dec" md5="1f82d7ccd607138a06bdcb17055e35e1" sha1="e86749fff3a09e48056ca66ce4bae3ba1adc8e18" sha256="54aaed61c43129da1798852868096a92585b58532ca09fba52e1ac80abe77f10" status="verified"/>
+	</game>
+	<game name="Gai Flame (Japan) (Wii U Virtual Console)" id="2505" cloneofid="0136">
+		<category>Games</category>
+		<description>Gai Flame (Japan) (Wii U Virtual Console)</description>
+		<rom name="Gai Flame (Japan) (Wii U Virtual Console).pce" size="393216" crc="9182c639" md5="fe73ce607affc5cb695a9464cf380c30" sha1="6f70e183924ae5459cec9863ff5147a3e1f14024" sha256="3aa4014f67596e15a99307e33a0840395b015146b4f5a99c06df31b2b0f29106"/>
+	</game>
+	<game name="Gaia no Monshou (Japan)" id="0137">
+		<category>Games</category>
+		<description>Gaia no Monshou (Japan)</description>
+		<rom name="Gaia no Monshou (Japan).pce" size="262144" crc="6fd6827c" md5="257c9897aa80194a5e9c5f5deac2219f" sha1="597174ebf0c39e95635cd15a8f6ad52634a05a18" sha256="72eb97ea4841af6904d9cbbb22058b1bffb4b95f7dea0534e3374ab8cda59d3d" status="verified"/>
+	</game>
+	<game name="Galaga '88 (Japan) (En)" id="0138" cloneofid="0139">
+		<category>Games</category>
+		<description>Galaga '88 (Japan) (En)</description>
+		<rom name="Galaga '88 (Japan) (En).pce" size="262144" crc="1a8393c6" md5="6404084e36d3cc061503ee5501f79ed2" sha1="246079bbf7c8aca0ca66a381986785a39f39ed06" sha256="7768d2be4deb2a44395bb00f987eeda1e8e77299828557f154b79637d6ead32c" status="verified"/>
+	</game>
+	<game name="Galaga '90 (USA)" id="0139">
+		<category>Games</category>
+		<description>Galaga '90 (USA)</description>
+		<rom name="Galaga '90 (USA).pce" size="262144" crc="2909dec6" md5="94814db23e163dbfc7d7505170e145c2" sha1="ff73a144eb2da537d0e1a3c8c56ef197fd6ce1ce" sha256="3082d86586ed868e19c948b27b9271a694fc0fb30206bcc88e5c14e369dc961b" status="verified"/>
+	</game>
+	<game name="Galaga '90 (Hong Kong) (En) (Unl)" id="2533" cloneofid="0139">
+		<category>Games</category>
+		<description>Galaga '90 (Hong Kong) (En) (Unl)</description>
+		<rom name="Galaga '90 (Hong Kong) (En) (Unl).pce" size="262144" crc="ec42622e" md5="f9f2e2a22b62014e7dd59ebb6e41839b" sha1="79f0b0f04f5fc25d7c4ddc2245ccd5decc9afade" sha256="a9755768bf11a06c0a9388661f72bd4885fb8f9e49e282b897077d3945f0ad0f"/>
+	</game>
+	<game name="Ganbare! Golf Boys (Japan)" id="0140">
+		<category>Games</category>
+		<description>Ganbare! Golf Boys (Japan)</description>
+		<rom name="Ganbare! Golf Boys (Japan).pce" size="262144" crc="27a4d11a" md5="fcf8bdc8f67f284a841caddd82d8b3e6" sha1="69794e5af0d2ec1a5bf6122c64fd5bc43092ae04" sha256="18281e7ba823d5862cbf3f0ccf6a50a31782bb39033b4d13644fd3d559067d26" status="verified"/>
+	</game>
+	<game name="Gekisha Boy (Japan)" id="0141">
+		<category>Games</category>
+		<description>Gekisha Boy (Japan)</description>
+		<rom name="Gekisha Boy (Japan).pce" size="524288" crc="e8702d51" md5="355f281d002a139a05525264a28fb526" sha1="ee2665acb440d8b01da0d14feb51d4e0bb50c400" sha256="f0cf5f74c9aa303f8ee3ec592b0f172b22dfec11e4eb616f6e6356cb1f12a829"/>
+	</game>
+	<game name="Genji Tsuushin Agedama (Japan)" id="0142">
+		<category>Games</category>
+		<description>Genji Tsuushin Agedama (Japan)</description>
+		<rom name="Genji Tsuushin Agedama (Japan).pce" size="524288" crc="ad450dfc" md5="e194791e1c3d709c7fff4b8c808b65ab" sha1="25c35dae21e032fe8cd38d6e54a3330434e02adc" sha256="482854752314f4203c0f733650ca7268c0f11fbae59df5787df366a45593c2ab" status="verified"/>
+	</game>
+	<game name="Genpei Toumaden (Japan)" id="0143">
+		<category>Games</category>
+		<description>Genpei Toumaden (Japan)</description>
+		<rom name="Genpei Toumaden (Japan).pce" size="524288" crc="b926c682" md5="c3357cc104feb0686ede96b099a2de2d" sha1="c9ac518e9541c204d532fd531aaad5cd06763986" sha256="394b093151fc040d0026f2e76a5b9e8f1e561b2d3059d0c1acdd15dc9d1b52bf" status="verified"/>
+	</game>
+	<game name="Genpei Toumaden - Kan no Ni (Japan)" id="0144" cloneofid="0315">
+		<category>Games</category>
+		<description>Genpei Toumaden - Kan no Ni (Japan)</description>
+		<rom name="Genpei Toumaden - Kan no Ni (Japan).pce" size="524288" crc="8793758c" md5="f6b763e45180bd47a689d03890a82344" sha1="fc712391b09c3ff2d6c894260f4b4c10b77219af" sha256="40ee91aff36d54ee0f2b62a0b78c55ae0f4e64f3f7a20edbf0bb3b71793f29bb" status="verified"/>
+	</game>
+	<game name="Ghost Manor (USA)" id="0145">
+		<category>Games</category>
+		<description>Ghost Manor (USA)</description>
+		<rom name="Ghost Manor (USA).pce" size="524288" crc="2db4c1fd" md5="2f2d4d92c14ba5770edd5f449507aac8" sha1="7092a265599194a280eca9314b496079cc49dcbd" sha256="391ac4ca02931b25531bdc69502dcf0defe5499e302991cb41e3f14c36f9c44f"/>
+	</game>
+	<game name="Gokuraku! Chuuka Taisen (Japan)" id="0146">
+		<category>Games</category>
+		<description>Gokuraku! Chuuka Taisen (Japan)</description>
+		<rom name="Gokuraku! Chuuka Taisen (Japan).pce" size="393216" crc="e749a22c" md5="144eb9109d75c8fd1fa09a20bde6a6cd" sha1="b58e94e3e0c778e678c5d08c708ac4e37bedbbe3" sha256="6cc9bc2e760c5e1485e549d95fb3b941035dc87d22f9035372eb0daf9a845cb4"/>
+	</game>
+	<game name="Gomola Speed (Japan) (En)" id="0147">
+		<category>Games</category>
+		<description>Gomola Speed (Japan) (En)</description>
+		<rom name="Gomola Speed (Japan) (En).pce" size="393216" crc="4bd38f17" md5="58418c0db028885a2f49abf4993f2b0e" sha1="fe4b08fb0cd9d0a53726c2709db3e31fbeae1213" sha256="2653ea19c4c09d674866e46240ba8653599f948c93743c85092b0382f14b2013" status="verified"/>
+	</game>
+	<game name="Gradius (Japan) (En)" id="0148">
+		<category>Games</category>
+		<description>Gradius (Japan) (En)</description>
+		<rom name="Gradius (Japan) (En).pce" size="262144" crc="0517da65" md5="16fe78b1630a790bee6755e3c850a366" sha1="338f62b6d57f30b1850c32f5ae0d8c26c761974b" sha256="0e6f41a37b0b856649490ff927a1e4e052c7c47c5d4298f4d0502181155007f8" status="verified"/>
+	</game>
+	<game name="Gradius (World) (Wii U Virtual Console)" id="2486" cloneofid="0148">
+		<category>Games</category>
+		<description>Gradius (World) (Wii U Virtual Console)</description>
+		<rom name="Gradius (World) (Wii U Virtual Console).pce" size="262144" crc="a5273cc4" md5="e4275f5b3de32a19711d8f466e5d12c2" sha1="0272c9094df0ee05eb5d6f7289a694a92341e83e" sha256="cfd51bb7530b46beb39aadfb8bf7a2ec6ec4e9788e9ef98aa2a23cdcb077bcae"/>
+	</game>
+	<game name="Gradius (Japan) (PC Engine Mini)" id="2521" cloneofid="0148">
+		<category>Games</category>
+		<description>Gradius (Japan) (PC Engine Mini)</description>
+		<rom name="Gradius (Japan) (PC Engine Mini).pce" size="524288" crc="4eabdc5c" md5="a4eb0e9a1626387273fafb9f01332f7d" sha1="6b41fbaddef7e1d27da2f20d40f7ec4487a8bbe4" sha256="4c7f3ffb4e88eda2875c20421b996cb10ec0986a4b4f44b9fc960e9719309783"/>
+	</game>
+	<game name="Gunboat (USA)" id="0149">
+		<category>Games</category>
+		<description>Gunboat (USA)</description>
+		<rom name="Gunboat (USA).pce" size="524288" crc="f370b58e" md5="58daff928a279867cd0629185d2c0733" sha1="0df6ede67061f5bca487fa01a8ea71640ef673a5" sha256="439cd2c04f614ea6abb44e0210a512a1f4f0c0f8bd303272195ca4048a38230a"/>
+	</game>
+	<game name="Gunhed (Japan) (En)" id="0150" cloneofid="0036">
+		<category>Games</category>
+		<description>Gunhed (Japan) (En)</description>
+		<rom name="Gunhed (Japan) (En).pce" size="393216" crc="a17d4d7e" md5="537c1976f0306e264da966a907b93e3f" sha1="0107d93ff5d10325092d45e6bfd21e8130efeed7" sha256="c910be1dd8ca4ab4f4f211f13ca9bbf7429130ef52ad7359a3617c5af696784d" status="verified"/>
+	</game>
+	<game name="Gunhed - Special Version (Japan) (En)" id="0151">
+		<category>Games</category>
+		<description>Gunhed - Special Version (Japan) (En)</description>
+		<rom name="Gunhed - Special Version (Japan) (En).pce" size="262144" crc="57f183ae" md5="cf91d85fa31a2baf459c65addaa4326e" sha1="f21597e7d04506c515b156acea7fdb4c70a5c1c8" sha256="c7b9ae3231b533e27e5ef5526696a1df6a63ea12fc5a991e8cb195ce8e1e8d2a"/>
+	</game>
+	<game name="Hana Taaka Daka! (Japan)" id="0152">
+		<category>Games</category>
+		<description>Hana Taaka Daka! (Japan)</description>
+		<rom name="Hana Taaka Daka! (Japan).pce" size="524288" crc="ba4d0dd4" md5="38cddbab28df38cb8d3f447e6b2bea7c" sha1="664ccd11372b04739e388fb921ac507eb71986cd" sha256="ed35ab6e73011ab2844cbb4386de8bf88f156cb606ac6b42cf3dfa9c368d04e9" status="verified"/>
+	</game>
+	<game name="Hanii in the Sky (Japan)" id="0153">
+		<category>Games</category>
+		<description>Hanii in the Sky (Japan)</description>
+		<rom name="Hanii in the Sky (Japan).pce" size="262144" crc="bf3e2cc7" md5="523f9d5bfb35037eeef71a34de4270a1" sha1="49b1c5d889002bf52be65114d7f0646493500170" sha256="f047a284b2f2d03c74b7121634b0296081e16e80196249ef1e0194a83ff284c7" status="verified"/>
+	</game>
+	<game name="Hanii on the Road (Japan)" id="0154">
+		<category>Games</category>
+		<description>Hanii on the Road (Japan)</description>
+		<rom name="Hanii on the Road (Japan).pce" size="393216" crc="9897fa86" md5="7f242f75ac7a737b77b3cb388fce52e9" sha1="67e7fd05e40c08a7e353501e1940ef1ec5ae8b05" sha256="e5c19fda9d4d913b009ce27a07e384cad8e3ec266c94b478222abd184d3fa4a4" status="verified"/>
+	</game>
+	<game name="Hatris (Japan) (En)" id="0155">
+		<category>Games</category>
+		<description>Hatris (Japan) (En)</description>
+		<rom name="Hatris (Japan) (En).pce" size="131072" crc="44e7df53" md5="03d5882776b8dad0ddceff42a173d493" sha1="1e2475ae58f1e612591aca44d742cc6558d75e15" sha256="6c4e30de9064c41aed242f961a821d92ac493327b7e70a17883c3ec598bb7679" status="verified"/>
+	</game>
+	<game name="Heavy Unit (Japan) (En)" id="0156">
+		<category>Games</category>
+		<description>Heavy Unit (Japan) (En)</description>
+		<rom name="Heavy Unit (Japan) (En).pce" size="393216" crc="eb923de5" md5="fc73cb01460d932319dd3eeff3032951" sha1="d55b3f1bf4f26e37be745e8bfade4384912eb647" sha256="4d7ddeee972187b20dbf38aa76f8e4ccf07dbef17ac85c9fcd68cd36f2ab4b76" status="verified"/>
+	</game>
+	<game name="Hisou Kihei X-SERD (Japan)" id="0157">
+		<category>Games</category>
+		<description>Hisou Kihei X-SERD (Japan)</description>
+		<rom name="Hisou Kihei X-SERD (Japan).pce" size="393216" crc="1cab1ee6" md5="29cefd813b21e67bbac653454f48951a" sha1="769acdd5a5642d17429a27d817d549c121687b01" sha256="86863c36c424dbfe9c728ae1d41e1138e3f73bfaa8ae389d7517868ec1d3f35d" status="verified"/>
+	</game>
+	<game name="Hit the Ice - VHL - The Official Video Hockey League (USA)" id="0159">
+		<category>Games</category>
+		<description>Hit the Ice - VHL - The Official Video Hockey League (USA)</description>
+		<rom name="Hit the Ice - VHL - The Official Video Hockey League (USA).pce" size="393216" crc="8b29c3aa" md5="d2f94b64b528c320d5ee148fe77f05f5" sha1="19f201ffeb790c4d5685e5241cf5b37c25e15480" sha256="efe0ec9b264d87feedf1c878fd639d7fa168a86e5fedfbd4282d22e9c82b85c8"/>
+	</game>
+	<game name="Hit the Ice - VHL - The Video Hockey League (Japan) (En)" id="0158" cloneofid="0159">
+		<category>Games</category>
+		<description>Hit the Ice - VHL - The Video Hockey League (Japan) (En)</description>
+		<rom name="Hit the Ice - VHL - The Video Hockey League (Japan) (En).pce" size="393216" crc="7acb60c8" md5="e313b6d6c03c3f1d7f05750697104d67" sha1="1452d2161d1da401f05c36a0a50492a6df9dc010" sha256="d398119cb28206898de7ad02f313430f3255f5bb5c72534ce69db1f9829aa9fb" status="verified"/>
+	</game>
+	<game name="Honoo no Toukyuuji - Dodge Danpei (Japan)" id="0160">
+		<category>Games</category>
+		<description>Honoo no Toukyuuji - Dodge Danpei (Japan)</description>
+		<rom name="Honoo no Toukyuuji - Dodge Danpei (Japan).pce" size="524288" crc="b01ee703" md5="c257e411cda69c988095166ba5223e4b" sha1="76f8a7bb0c4854576a38a0b87fa923625ce1bc3e" sha256="a68ba1a92f485de8a4f92a54016e8724b374e2875e0da3e1764590f8654f33ce" status="verified"/>
+	</game>
+	<game name="Idol Hanafuda Fan Club (Japan) (Unl)" id="0161">
+		<category>Games</category>
+		<description>Idol Hanafuda Fan Club (Japan) (Unl)</description>
+		<rom name="Idol Hanafuda Fan Club (Japan) (Unl).pce" size="524288" crc="9ec6fc6c" md5="b218d95cc1b2e827be76282d726c6244" sha1="55ccdf9f02339f02a2f62c61a10180ea8a24817d" sha256="e0a41cbf6fd446c63ecf36630e2f37afbcbc4e706ce43303a86e7cb50233c046" status="verified"/>
+	</game>
+	<game name="ImageFight (Japan) (En)" id="0162">
+		<category>Games</category>
+		<description>ImageFight (Japan) (En)</description>
+		<rom name="ImageFight (Japan) (En).pce" size="524288" crc="a80c565f" md5="baf6760fcd3b43540d55afc71f929697" sha1="4f2256e49cc71613a6b35d224be706ee95df17b9" sha256="c1d837e4f53255058fc90765574717920e0b3376310c7a42d7d334e50394e7f6" status="verified"/>
+	</game>
+	<game name="Impossamole (USA)" id="0163">
+		<category>Games</category>
+		<description>Impossamole (USA)</description>
+		<rom name="Impossamole (USA).pce" size="524288" crc="e2470f5f" md5="d212a1bbb8d329d05910dc407ca60173" sha1="bda974dfebe28c125f081363da3bbe96777404d7" sha256="b0fd171c6077e744f38147ac2966ae67b86440cda68c83d80f897bd9cce69292"/>
+	</game>
+	<game name="J.J. &amp; Jeff (USA)" id="0165">
+		<category>Games</category>
+		<description>J.J. &amp; Jeff (USA)</description>
+		<rom name="J.J. &amp; Jeff (USA).pce" size="262144" crc="e01c5127" md5="b614f91296aaed8afabd4f03f4ee40d1" sha1="18ae2d9031f49e54145d83ff90df4189c36adef1" sha256="42dd8623b9a08bca0b424d963b5b5e618b59d1e454f3888a1c278c70b6ab3fc1"/>
+	</game>
+	<game name="J.League Greatest Eleven (Japan)" id="0164">
+		<category>Games</category>
+		<description>J.League Greatest Eleven (Japan)</description>
+		<rom name="J.League Greatest Eleven (Japan).pce" size="524288" crc="0ad97b04" md5="cf3c65b99a222a4e72824eadc58c09cd" sha1="092ac9337c5b63f2ace2141e976444501dda0e6e" sha256="4aec1b2206cdca070b2c3cb2b16a83fa91fa23106a014064fe1f55f9bf9a81ac" status="verified"/>
+	</game>
+	<game name="Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Japan) (En)" id="0166" cloneofid="0167">
+		<category>Games</category>
+		<description>Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Japan) (En)</description>
+		<rom name="Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Japan) (En).pce" size="262144" crc="ea751e82" md5="9a9255cea330ed35f65ee10406c37c07" sha1="3806f0509288f76393a35f395c34a4e9e979e51f" sha256="bf7f83f15f8c2d2f9fe6752ffd9fdb4c9be0a0e1d2cace45e9a31f085fd38758" status="verified"/>
+	</game>
+	<game name="Jack Nicklaus' Turbo Golf (USA)" id="0167">
+		<category>Games</category>
+		<description>Jack Nicklaus' Turbo Golf (USA)</description>
+		<rom name="Jack Nicklaus' Turbo Golf (USA).pce" size="262144" crc="83384572" md5="cf2610a2be004edfa2faa487b81386e3" sha1="49d240ec70e4f7cc98a14e4e4e5a0857bc1ee737" sha256="746955e845067a481c9ab1fd0c66ec48a927cc0ece3d5268993b8d15e9f553e1"/>
+	</game>
+	<game name="Jackie Chan (Japan)" id="0168" cloneofid="0169">
+		<category>Games</category>
+		<description>Jackie Chan (Japan)</description>
+		<rom name="Jackie Chan (Japan).pce" size="524288" crc="c6fa6373" md5="6a855357252a38e29f99cc1bc9560990" sha1="44c9ce3b37ca9c5edfe840f78485048e2bd1bf41" sha256="1796d5a84b197f120cbc7ad113d4286c75c493535b4978d20714e453d0091807" status="verified"/>
+	</game>
+	<game name="Jackie Chan's Action Kung Fu (USA)" id="0169">
+		<category>Games</category>
+		<description>Jackie Chan's Action Kung Fu (USA)</description>
+		<rom name="Jackie Chan's Action Kung Fu (USA).pce" size="524288" crc="9d2f6193" md5="5a8c0f70f333ff03c8eb836eeb5f2ff9" sha1="33ee18e3cd6ba59ffca70fa7a1322d6e44a08682" sha256="8e339f40a7e0fdc717b2f0be5be6e2019f4206e74f48ebaa4b7da557dee6b40b"/>
+	</game>
+	<game name="Jaseiken Necromancer (Japan)" id="0235">
+		<category>Games</category>
+		<description>Jaseiken Necromancer (Japan)</description>
+		<rom name="Jaseiken Necromancer (Japan).pce" size="262144" crc="53109ae6" md5="6e6a1d3c2119b88c42d6cc516c71cdba" sha1="49b4122ea576a7c1c8d1ae2c5bf627e550367246" sha256="4feba9d96ca31f65babdb83bbbb430f61fe50dc2c3aedeec245574d2bae63ac2" status="verified"/>
+	</game>
+	<game name="Jaseiken Necromancer (Japan) (Wii Virtual Console)" id="0425" cloneofid="0235">
+		<category>Games</category>
+		<description>Jaseiken Necromancer (Japan) (Wii Virtual Console)</description>
+		<rom name="Jaseiken Necromancer (Japan) (Wii Virtual Console).pce" size="262144" crc="32c950be" md5="7a87aeb137a1744c7a1eceab4e785c56" sha1="c8eff40fea012983d383abffa47a953a1a217334" sha256="104e4568b494d811b2280dd1320cc53822db4f305bea3cd7a28195616cd8c96b"/>
+	</game>
+	<game name="Jaseiken Necromancer (World) (Ja) (Wii U Virtual Console)" id="2487" cloneofid="0235">
+		<category>Games</category>
+		<description>Jaseiken Necromancer (World) (Ja) (Wii U Virtual Console)</description>
+		<rom name="Jaseiken Necromancer (World) (Ja) (Wii U Virtual Console).pce" size="262144" crc="9aa5295c" md5="3e7b7bda5fceacd670e9441c589811b5" sha1="b17cc5f89028e105baec466634f25b9e93b82a6d" sha256="451c04aa148a57e9a6c15fd196f6274d07caa9410abd1178cc43b626512f10cb"/>
+	</game>
+	<game name="Jigoku Meguri (Japan)" id="0170">
+		<category>Games</category>
+		<description>Jigoku Meguri (Japan)</description>
+		<rom name="Jigoku Meguri (Japan).pce" size="393216" crc="cc7d3eeb" md5="294f2aa990c9c2c71554a6e3e7c979ef" sha1="1ac58fcd36ba6f757a927d1bfcf28added00111b" sha256="a13e377d9656be7f189dca011463e08de516e97e16a957415cad2bd227ad83a8" status="verified"/>
+	</game>
+	<game name="Jinmu Denshou (Japan)" id="0171">
+		<category>Games</category>
+		<description>Jinmu Denshou (Japan)</description>
+		<rom name="Jinmu Denshou (Japan).pce" size="524288" crc="c150637a" md5="b7bd7bb88393a97bdf6072534177fe7d" sha1="e38d6d83120301a7befa7f496f1a93768060032d" sha256="5b6b92d203d26cd2a58906e78b759efeb32348e1ce50227558e7d28cfd731e57" status="verified"/>
+	</game>
+	<game name="Juuouki (Japan)" id="0173">
+		<category>Games</category>
+		<description>Juuouki (Japan)</description>
+		<rom name="Juuouki (Japan).pce" size="524288" crc="c8c7d63e" md5="2b47ceea374d6c11471310caec5ccb36" sha1="8b274906e2488fa3a6be467c5bd8a2ac150d5801" sha256="38ae36916d678b61fcebc56e667d3e7f08c78d473d4f66ba2a0488efad33c87b" status="verified"/>
+	</game>
+	<game name="Kaizou Choujin Shubibinman (Japan)" id="0175">
+		<category>Games</category>
+		<description>Kaizou Choujin Shubibinman (Japan)</description>
+		<rom name="Kaizou Choujin Shubibinman (Japan).pce" size="262144" crc="a9084d6e" md5="8041a028a666cc0adc7a06c20a99d172" sha1="4db72b3a934e6255135ebc0533f900e1d5d828c8" sha256="4d1204735ba743d70f5eca34abeea9f3ec15eba59a6e6419a19d695109b3c708" status="verified"/>
+	</game>
+	<game name="Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan)" id="0176" cloneofid="0321">
+		<category>Games</category>
+		<description>Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan)</description>
+		<rom name="Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).pce" size="524288" crc="109ba474" md5="503ef03f5b4f2a490ab975f5be4bc896" sha1="9c6fc53a92adead994d9b44afa92f34eebee05bb" sha256="e0b3d22e7da091b5e4a6769874efd8e288646ce5e9703516cc4aa61a88d96841" status="verified"/>
+	</game>
+	<game name="Kato-chan Ken-chan (Japan)" id="0177" cloneofid="0165">
+		<category>Games</category>
+		<description>Kato-chan Ken-chan (Japan)</description>
+		<rom name="Kato-chan Ken-chan (Japan).pce" size="262144" crc="6069c5e7" md5="23df0b354e83876a94e9c128a7a9eb80" sha1="1381c15587891083f7cde3b1224fcc6df45bc914" sha256="5a1194e44af50b6ebef8630e136d16574c11cdeb32c5fc413d379452f36bac35" status="verified"/>
+	</game>
+	<game name="Kattobi! Takuhai-kun (Japan)" id="0178">
+		<category>Games</category>
+		<description>Kattobi! Takuhai-kun (Japan)</description>
+		<rom name="Kattobi! Takuhai-kun (Japan).pce" size="393216" crc="4f2844b0" md5="4ddd59aff152e8fc1a4b510c9fedd4e0" sha1="00e33d4f55c4dbe0ac493053bfebc9d6dbd469ea" sha256="cc8d852042909ec12e4555e0032ee73b45d01d2b6ea107388ca91318455f50c5"/>
+	</game>
+	<game name="Keith Courage in Alpha Zones (USA)" id="0179">
+		<category>Games</category>
+		<description>Keith Courage in Alpha Zones (USA)</description>
+		<rom name="Keith Courage in Alpha Zones (USA).pce" size="262144" crc="474d7a72" md5="e5309b10903ccc3032c2f919e8db7384" sha1="09f37cf6ddbbf202994d88ac62225ca027e791ac" sha256="a9285ae1e51f7c6462abd2ec78a946aa0f86ee7d57e2b36f6a3c8ee1279d085b" status="verified"/>
+	</game>
+	<game name="KickBall (Japan)" id="0180">
+		<category>Games</category>
+		<description>KickBall (Japan)</description>
+		<rom name="KickBall (Japan).pce" size="393216" crc="7e3c367b" md5="42d164b0ae86ae4dab3fdb7ca9f3bdb2" sha1="f2e59db46aa6bd70f0eec64566e113b53d56eb58" sha256="2eb3f97ac925485fe1c43209f2c8ae883c5ac733e1038a7a93111f44ec3ad226" status="verified"/>
+	</game>
+	<game name="Kiki Kaikai (Japan) (En)" id="0181">
+		<category>Games</category>
+		<description>Kiki Kaikai (Japan) (En)</description>
+		<rom name="Kiki Kaikai (Japan) (En).pce" size="393216" crc="c0cb5add" md5="b345329df7acc1938c291440dd1ed5ad" sha1="8dc4fce4beca91f51f123acf8f1cc659ed58d312" sha256="8ebfa389ee9affaa731dc4f548b457d598eee81ed87df32da2ae43c332647f35" status="verified"/>
+	</game>
+	<game name="King of Casino (USA)" id="0183">
+		<category>Games</category>
+		<description>King of Casino (USA)</description>
+		<rom name="King of Casino (USA).pce" size="262144" crc="2f2e2240" md5="8f4e92645be8de92e18527b31b4ee67e" sha1="b3bca08f73e6e1949b1f969a3d3e8a71b705673a" sha256="3c38cf362f1d671b3607b3dca7cb85a67c8649bfd3005a03272583d8225d7d1e"/>
+	</game>
+	<game name="King of Casino (Japan)" id="0182" cloneofid="0183">
+		<category>Games</category>
+		<description>King of Casino (Japan)</description>
+		<rom name="King of Casino (Japan).pce" size="262144" crc="bf52788e" md5="e71eee5c2dd0fb5f5fe7f0c85aa2112e" sha1="2f635986a785f7b00954236e3ec5fece6fedec23" sha256="a49bef2eac2bc1236cbf1224bdbfbd7b3f6f6f88c7305b7ec8f704bc4d4838b7" status="verified"/>
+	</game>
+	<game name="Klax (Japan)" id="0184" cloneofid="0185">
+		<category>Games</category>
+		<description>Klax (Japan)</description>
+		<rom name="Klax (Japan).pce" size="262144" crc="c74ffbc9" md5="62c2fcbf48d1cfc80b70ffcab28c3585" sha1="cf952c23dfd771bfba50df645ba27782d3c44c16" sha256="fd6610d2529658e4851ceec69af5e44cfcba1f8fb02c6f1c36d9ed510921597d" status="verified"/>
+	</game>
+	<game name="Klax (USA)" id="0185">
+		<category>Games</category>
+		<description>Klax (USA)</description>
+		<rom name="Klax (USA).pce" size="262144" crc="0f1b59b4" md5="8becf757a68f72a01428d4359165e463" sha1="4f032fdf7d836d021315bcd9b9903fdad4907f31" sha256="90f3c80aef7b45b5a7e025bf422b5fb22bd33327b731581f838575c9df0ea5ae"/>
+	</game>
+	<game name="Knight Rider Special (Japan)" id="0186">
+		<category>Games</category>
+		<description>Knight Rider Special (Japan)</description>
+		<rom name="Knight Rider Special (Japan).pce" size="262144" crc="c614116c" md5="79d305689a039f99faca0f9348d36e8f" sha1="d2dbbd8b55b80d41e32a3907fcdafa985b60abe4" sha256="a7b312fc5dfb504faf885fc16ac5b18658094dbfd6684ca69fe6b920cafce556" status="verified"/>
+	</game>
+	<game name="Kore ga Pro Yakyuu '89 (Japan)" id="0187">
+		<category>Games</category>
+		<description>Kore ga Pro Yakyuu '89 (Japan)</description>
+		<rom name="Kore ga Pro Yakyuu '89 (Japan).pce" size="262144" crc="44f60137" md5="b80f7a304c71aa96a51cc6d1505f8b29" sha1="4f506b4aac531bfdec9a7b7736efa2656be06f62" sha256="d23f4d610424a66fcdbf444a6e1a7ac3e0637471b215b1ba2691356102ede84a" status="verified"/>
+	</game>
+	<game name="Kore ga Pro Yakyuu '90 (Japan)" id="0188">
+		<category>Games</category>
+		<description>Kore ga Pro Yakyuu '90 (Japan)</description>
+		<rom name="Kore ga Pro Yakyuu '90 (Japan).pce" size="262144" crc="1772b229" md5="df290c2d9117ac9a402c83dd1fa028e7" sha1="a55d38119e533c035077e49947fce7c0b9f10882" sha256="b3765d35ff78b8d97d057a55c7c9f8daaf36a527e9d144b681e39ae724d4338d" status="verified"/>
+	</game>
+	<game name="Kung Fu, The (Japan)" id="0189" cloneofid="0066">
+		<category>Games</category>
+		<description>Kung Fu, The (Japan)</description>
+		<rom name="Kung Fu, The (Japan).pce" size="262144" crc="b552c906" md5="b6f712b2ab6726a80a0e328f58d9e1b2" sha1="dabdb21bef771282461f7bfee390a622217159ac" sha256="3dd08ada517555dbf001492c72ebfcc5ef31de35b84d6aec2903e2dd70115257" status="verified"/>
+	</game>
+	<game name="Kung Fu, The (Japan) (Wii Virtual Console)" id="0424" cloneofid="0066">
+		<category>Games</category>
+		<description>Kung Fu, The (Japan) (Wii Virtual Console)</description>
+		<rom name="Kung Fu, The (Japan) (Wii Virtual Console).pce" size="262144" crc="3872c2b3" md5="4d72d145a429663cf859c4d4aabbcf5c" sha1="2612f40b72ac96516678949182465839cd4ee85b" sha256="11d3790f68a2258babe688d9b244cedf84fedca26b9ecbd5f2bf1fd2e6fe2d53" status="verified"/>
+	</game>
+	<game name="Kyuukyoku Mahjong - Idol Graphic (Japan) (Unl)" id="0190">
+		<category>Games</category>
+		<description>Kyuukyoku Mahjong - Idol Graphic (Japan) (Unl)</description>
+		<rom name="Kyuukyoku Mahjong - Idol Graphic (Japan) (Unl).pce" size="524288" crc="02dde03e" md5="4c7d1e7dc7d5aaee62d3b5a01309d848" sha1="7fd4d9e028bd589b9315f81b1d27049b7541212b" sha256="8a1182b0cd5e36511b9e1f6a18d9c44fb8ab9ce04dcddd628ad68b87640405ef" status="verified"/>
+	</game>
+	<game name="Kyuukyoku Mahjong II - Super Idol Graphic (Japan) (Unl)" id="0191">
+		<category>Games</category>
+		<description>Kyuukyoku Mahjong II - Super Idol Graphic (Japan) (Unl)</description>
+		<rom name="Kyuukyoku Mahjong II - Super Idol Graphic (Japan) (Unl).pce" size="524288" crc="e5b6b3e5" md5="eb104b94d861322d0e13604a69d3d0ea" sha1="1c3dfe795b84969e5c5acdece652f228fad6b163" sha256="ed53df8e52ef3cce7cfc8dc5450636e146f729687f99a45ed0e1b440badb5109" status="verified"/>
+	</game>
+	<game name="Kyuukyoku Tiger (Japan) (En)" id="0192">
+		<category>Games</category>
+		<description>Kyuukyoku Tiger (Japan) (En)</description>
+		<rom name="Kyuukyoku Tiger (Japan) (En).pce" size="262144" crc="09509315" md5="467c1ee6a921a3bbb4a94fc078f7353d" sha1="e062b7e1fe9fe04f9c29df38165e3a4eb867fe2d" sha256="4839db8e6cd3c1fccc8f97528f63e29c1ecb1bec31dae36d624bf7f28a1b27bc" status="verified"/>
+	</game>
+	<game name="Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)" id="0193">
+		<category>Games</category>
+		<description>Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)</description>
+		<rom name="Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).pce" size="1048576" crc="c6f764ec" md5="71c5cffeab1cb60a04b5e77a338117ac" sha1="7384d0d863da43c64d704f4f36ce55502e3b6159" sha256="ee93a855ee69197cc1feed5405a7663250a52b74b4f867a25f4100ac2147da8f" status="verified"/>
+	</game>
+	<game name="Legend of Hero Tonma (USA)" id="0196">
+		<category>Games</category>
+		<description>Legend of Hero Tonma (USA)</description>
+		<rom name="Legend of Hero Tonma (USA).pce" size="524288" crc="3c131486" md5="cfaa094419809446cabfe739995e22ee" sha1="a87586ae18bd36f1c32e08b8b7a55afc6532fb3e" sha256="0bf74f9e89676f4bfaefdcbca7d651641146ee83ad71499ebb0c503aaceb7237"/>
+	</game>
+	<game name="Legend of Hero Tonma (Japan)" id="0195" cloneofid="0196">
+		<category>Games</category>
+		<description>Legend of Hero Tonma (Japan)</description>
+		<rom name="Legend of Hero Tonma (Japan).pce" size="524288" crc="c28b0d8a" md5="d4969ea433986e5dbea3b4892482f5ef" sha1="352e91337db64bc7edd788e4ccb9c240c7040898" sha256="60266af1483e50aa487b6471ca62ec44bccbc02627fa32137f44193723af497f"/>
+	</game>
+	<game name="Legendary Axe II (USA)" id="0197">
+		<category>Games</category>
+		<description>Legendary Axe II (USA)</description>
+		<rom name="Legendary Axe II (USA).pce" size="262144" crc="220ebf91" md5="fbcbb34f678f6f70795bde96d295bc2f" sha1="3d537fbd2a7181639d297b829ce3f7d7556e831b" sha256="cbde8b2b16cd52c6043f58cb47d6625480fd7ab22b34abd61fb63b91e5004cf1"/>
+	</game>
+	<game name="Legendary Axe, The (USA)" id="0198">
+		<category>Games</category>
+		<description>Legendary Axe, The (USA)</description>
+		<rom name="Legendary Axe, The (USA).pce" size="262144" crc="2d211007" md5="f69b506237ce7d05e7f839d2cc96ab5a" sha1="fc9829a802e400a088652b331e8522472f7ab2a0" sha256="a4c928eb305a6fdfadd245371dda8d3dc420b405f9398929ea3713e4555c4f35"/>
+	</game>
+	<game name="Lode Runner - Lost Labyrinth (Japan)" id="0199">
+		<category>Games</category>
+		<description>Lode Runner - Lost Labyrinth (Japan)</description>
+		<rom name="Lode Runner - Lost Labyrinth (Japan).pce" size="262144" crc="e6ee1468" md5="d633712965e5f791136b75bda7f9980b" sha1="7d019ff2e86b3af48b4c969c8339a124b7c803b6" sha256="54407de06ef6a302717d0c69db43ddd2d95bba63d47828286a8b688844106db8" status="verified"/>
+	</game>
+	<game name="Maerchen Maze (Japan)" id="0200">
+		<category>Games</category>
+		<description>Maerchen Maze (Japan)</description>
+		<rom name="Maerchen Maze (Japan).pce" size="262144" crc="a15a1f37" md5="887b9fa8296ff3c98839e11cc7039763" sha1="04175b93e52653fa61111210538a5582ba152180" sha256="f82c2ef0f4820dc9f753d1539c9a5c11fcad930bb7dc608df181adabdeaad4ce" status="verified"/>
+	</game>
+	<game name="Magical Chase (Japan)" id="0201" cloneofid="0202">
+		<category>Games</category>
+		<description>Magical Chase (Japan)</description>
+		<rom name="Magical Chase (Japan).pce" size="524288" crc="dd0ebf8c" md5="373c071a8379ab61de47a34170c4fa41" sha1="9e15320bea2fe067ad46a34f602905b9f8962d27" sha256="d8cdad97efda49d35396581dd6da9fedafef8baf3deba020e7ccc6ee42ddfc95" status="verified"/>
+	</game>
+	<game name="Magical Chase (USA)" id="0202">
+		<category>Games</category>
+		<description>Magical Chase (USA)</description>
+		<rom name="Magical Chase (USA).pce" size="524288" crc="95cd2979" md5="74d9f1bd96ba2690ed4cb989ebaeb948" sha1="50c940cc9b52167cb99dd760c25079a19fc0aa2b" sha256="c5a39c9d9b2d753244816eafd68f504a855908eebab1b1c8fea2bbf7a4a813c7"/>
+	</game>
+	<game name="Mahjong Gakuen - Touma Soushirou Toujou (Japan)" id="0203">
+		<category>Games</category>
+		<description>Mahjong Gakuen - Touma Soushirou Toujou (Japan)</description>
+		<rom name="Mahjong Gakuen - Touma Soushirou Toujou (Japan).pce" size="524288" crc="f5b90d55" md5="cf8c62e6b9301a01aa4b61b4136c4fcd" sha1="ce7f528302d77fd2c1cfa1a22cdfd4e399b57c87" sha256="a59e418d4b1e5fc9344a572b15acb78bf5e177ead9137ba030ac89b3445141bc"/>
+	</game>
+	<game name="Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan)" id="0204">
+		<category>Games</category>
+		<description>Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan)</description>
+		<rom name="Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).pce" size="524288" crc="f4148600" md5="ea0659c4607948ea54bd5d61799ac1a1" sha1="66d9a1b80cdbf88d7f8be4c2c37901e9df4195dc" sha256="d5058da2fb76306bd649e1a2796930cf95871a30bdfff2fd1628660d7689b9c8" status="verified"/>
+	</game>
+	<game name="Mahjong Gokuu Special (Japan)" id="0206">
+		<category>Games</category>
+		<description>Mahjong Gokuu Special (Japan)</description>
+		<rom name="Mahjong Gokuu Special (Japan).pce" size="393216" crc="f8861456" md5="937699175649a98430a64c20cb19ae60" sha1="8cd848c675c50f72589170f973b5eab869173a03" sha256="ec61a4e3f730b4590bce642bd82b86244ccf1d7f1406689c9466ea313a176122" status="verified"/>
+	</game>
+	<game name="Mahjong Haouden - Kaiser's Quest (Japan)" id="0207">
+		<category>Games</category>
+		<description>Mahjong Haouden - Kaiser's Quest (Japan)</description>
+		<rom name="Mahjong Haouden - Kaiser's Quest (Japan).pce" size="524288" crc="df10c895" md5="79f0b287d9c185416c155616515ec2dc" sha1="e539de46a672e7ec3eecca58adb924d622a78c98" sha256="0667737c46c83a238ff57991f7b191eda7c455c78797c298e1cf63b1a0e4f4f3" status="verified"/>
+	</game>
+	<game name="Mahjong Shikaku Retsuden - Mahjong Wars (Japan)" id="0208">
+		<category>Games</category>
+		<description>Mahjong Shikaku Retsuden - Mahjong Wars (Japan)</description>
+		<rom name="Mahjong Shikaku Retsuden - Mahjong Wars (Japan).pce" size="262144" crc="6c34aaea" md5="1fd10aab85dc9ad19cfd491684138db6" sha1="75dd345155ffc062553eb3fe6cac3596e1ab8edd" sha256="b77b6811d67103feb18ff73d6308576d13150bae05a66229fb656e0ce9c4531b" status="verified"/>
+	</game>
+	<game name="Maison Ikkoku (Japan)" id="0209">
+		<category>Games</category>
+		<description>Maison Ikkoku (Japan)</description>
+		<rom name="Maison Ikkoku (Japan).pce" size="262144" crc="5c78fee1" md5="9a0a0e759f27f05f674e0830bfd2e835" sha1="ce73c12393c6ce61401a9bf94a733b4dbc17ed78" sha256="e969dae8c9b6a8e98ac1af5eb83269e2a4b0cbae3ddd55236086851d78af1d72" status="verified"/>
+	</game>
+	<game name="Makai Hakkenden - Shada (Japan)" id="0211">
+		<category>Games</category>
+		<description>Makai Hakkenden - Shada (Japan)</description>
+		<rom name="Makai Hakkenden - Shada (Japan).pce" size="262144" crc="be62eef5" md5="06c9c65e0e1c0669be28cc99ace61f54" sha1="3ca3057045a9f116aea655f6965e882991e021f7" sha256="0f0631bba672bd77290925a84f3cb1b694b4f496c7cb74e06b17d2e593316e3a" status="verified"/>
+	</game>
+	<game name="Makai Prince Dorabocchan (Japan)" id="0212">
+		<category>Games</category>
+		<description>Makai Prince Dorabocchan (Japan)</description>
+		<rom name="Makai Prince Dorabocchan (Japan).pce" size="393216" crc="b101b333" md5="31b5597ed22d3d143f98d394ee4593ad" sha1="66cf002a82828596ed4dbd8a7b998526a624c7c5" sha256="6617d1042e0178178b95d1fb07e9621c6b5eb1f2d65a3f647589aa926bef0da7" status="verified"/>
+	</game>
+	<game name="Makyou Densetsu (Japan)" id="0213" cloneofid="0198">
+		<category>Games</category>
+		<description>Makyou Densetsu (Japan)</description>
+		<rom name="Makyou Densetsu (Japan).pce" size="262144" crc="d4c5af46" md5="09f944f6c28cf77d17dd668e9cc160f7" sha1="7e1b1f52222663e9e98973fdb3cf67879122b617" sha256="7c8adec04be33eb26c1a4836c0427f76df3f37faeef81b3c4c1e482aafc0ed72" status="verified"/>
+	</game>
+	<game name="Maniac Pro Wres - Asu e no Tatakai (Japan)" id="0214">
+		<category>Games</category>
+		<description>Maniac Pro Wres - Asu e no Tatakai (Japan)</description>
+		<rom name="Maniac Pro Wres - Asu e no Tatakai (Japan).pce" size="524288" crc="99f2865c" md5="6fba2dd4c455bb9bafd6892ec204e2bd" sha1="d02b38ec1b516f1324dab3499523a306f574f957" sha256="8c4edd95fbe3098fe20f8bc5ee9ab07fce068b52eb24853e2fa8c27e4537f229" status="verified"/>
+	</game>
+	<game name="Mashin Eiyuuden Wataru (Japan)" id="0210" cloneofid="0179">
+		<category>Games</category>
+		<description>Mashin Eiyuuden Wataru (Japan)</description>
+		<rom name="Mashin Eiyuuden Wataru (Japan).pce" size="262144" crc="2f8935aa" md5="4c0b699a7d751886801b983fa638e8f8" sha1="59db3e9d69cf34f76b6cb599d6c4fe6999162532" sha256="f77c9f0ee7dc25f643e34894a484aca56f75a5fda086941091f0d39dd7004b5c" status="verified"/>
+	</game>
+	<game name="Mesopotamia (Japan)" id="0215" cloneofid="0334">
+		<category>Games</category>
+		<description>Mesopotamia (Japan)</description>
+		<rom name="Mesopotamia (Japan).pce" size="524288" crc="e87190f1" md5="04ff555eafb23e45d55c61e9a29db815" sha1="70186b4d823a48aae09ed7e2bc8e16edfcaf4335" sha256="761f639940a0cde4da5703727a920cb923fd0b6bf5af6977923507105da56e1e"/>
+	</game>
+	<game name="Metal Stoker (Japan) (En)" id="0216">
+		<category>Games</category>
+		<description>Metal Stoker (Japan) (En)</description>
+		<rom name="Metal Stoker (Japan) (En).pce" size="524288" crc="25a02bee" md5="fdad7cca269ed1a0676df12fa07eae01" sha1="06ae3e73fe8a83aac0159995e6db1c087799a9c5" sha256="41c857f15eb479109996c24a403bb624afdf4b51d93564ad7f131b082839c280"/>
+	</game>
+	<game name="Military Madness (USA)" id="0217">
+		<category>Games</category>
+		<description>Military Madness (USA)</description>
+		<rom name="Military Madness (USA).pce" size="393216" crc="93f316f7" md5="03d0442df107c97bb04c32de7cb7f5bc" sha1="01cf6be3fc11af874d25fc64bfb74f2f044f1bce" sha256="bbddcf77eaeee374f69d850b6cde686f03f94c823ba9193abab491bf56265a53"/>
+	</game>
+	<game name="Mizubaku Daibouken (Japan)" id="0218">
+		<category>Games</category>
+		<description>Mizubaku Daibouken (Japan)</description>
+		<rom name="Mizubaku Daibouken (Japan).pce" size="524288" crc="b2ef558d" md5="b8074808e85c4d120e9c0acd51426098" sha1="6e99a1982b6e2b0b9fb82f1d30270620917e1b92" sha256="98020506e5766c1d61700548a4bf4321d709ad62cf0f94e996fd5cecd8f1cbe0" status="verified"/>
+	</game>
+	<game name="Momotarou Densetsu Gaiden - Dai-1-shuu (Japan)" id="0219">
+		<category>Games</category>
+		<description>Momotarou Densetsu Gaiden - Dai-1-shuu (Japan)</description>
+		<rom name="Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).pce" size="524288" crc="f860455c" md5="480423adbfe4e9f50bb26f418dcae490" sha1="da89f567e5b96469073a53095a25cb8971260dc6" sha256="c90b62ccded70e0db5730efe6463c627d65ba8a9806f7abdbf3e033514436589" status="verified"/>
+	</game>
+	<game name="Momotarou Densetsu II (Japan)" id="0220">
+		<category>Games</category>
+		<description>Momotarou Densetsu II (Japan)</description>
+		<rom name="Momotarou Densetsu II (Japan).pce" size="786432" crc="d9e1549a" md5="4c3f3bbbe5a3f0ab2970adf55a867328" sha1="bc891a5703895551c8b8618b176065918317dee9" sha256="87e9d64abdedb78f1bc372e2ebbe585fb1c4f298176e3d13c63e880fcab2856e" status="verified"/>
+	</game>
+	<game name="Momotarou Densetsu Turbo (Japan)" id="0221">
+		<category>Games</category>
+		<description>Momotarou Densetsu Turbo (Japan)</description>
+		<rom name="Momotarou Densetsu Turbo (Japan).pce" size="393216" crc="625221a6" md5="d2ea89603d76856603c85cb4ce7045ff" sha1="e6c5bd57f34d3c6b07818e351086cf63cd338f26" sha256="4546f0f08f399ec3760faef899322f993d8237ed7a4deb003cbec7210ff9b1dd" status="verified"/>
+	</game>
+	<game name="Momotarou Katsugeki (Japan)" id="0222">
+		<category>Games</category>
+		<description>Momotarou Katsugeki (Japan)</description>
+		<rom name="Momotarou Katsugeki (Japan).pce" size="524288" crc="345f43e9" md5="ec7358edb3672a8aa8850623eec72a71" sha1="b63aa8ae29b4d06dea7f5b795c4192285fc3c43b" sha256="548f41efee5b0b5dfed041766cd83aa54ba68f573b82733c81979d50ea65c1ad" status="verified"/>
+	</game>
+	<game name="Monster Pro Wres (Japan)" id="0223">
+		<category>Games</category>
+		<description>Monster Pro Wres (Japan)</description>
+		<rom name="Monster Pro Wres (Japan).pce" size="524288" crc="f2e46d25" md5="ed3f985efd35dcc03ba0d93654a12b40" sha1="b782344fad0efd1bcf6d3863e5f3ac9de45eee39" sha256="57425f6a6a00e3def05d6bbb2104d38b14e426ca51a883dc3c175aee2316ecad" status="verified"/>
+	</game>
+	<game name="Morita Shougi PC (Japan)" id="0224">
+		<category>Games</category>
+		<description>Morita Shougi PC (Japan)</description>
+		<rom name="Morita Shougi PC (Japan).pce" size="524288" crc="2546efe0" md5="92bb585243a43ec7f881eafc578a2cc3" sha1="77490668bd4beea8e46e1f2676095d8d6ef1c3cd" sha256="ad18d44b31e7affbda81d328e431f683f6981d98f1728afa0f309e2470e04f72" status="verified"/>
+	</game>
+	<game name="Moto Roader (USA)" id="0226">
+		<category>Games</category>
+		<description>Moto Roader (USA)</description>
+		<rom name="Moto Roader (USA).pce" size="262144" crc="e2b0d544" md5="1b10baf9f65c8339a507e382bda5ed44" sha1="bd92a8e6a1e860305a0943878a3b4a56ddde5478" sha256="4fca3b7899afe2c0ce47914c236ae26d27c26555eff01d46fc2b99ed703e7e92"/>
+	</game>
+	<game name="Moto Roader (Japan) (En)" id="0225" cloneofid="0226">
+		<category>Games</category>
+		<description>Moto Roader (Japan) (En)</description>
+		<rom name="Moto Roader (Japan) (En).pce" size="262144" crc="428f36cd" md5="6663e27f13af52f864f06781d1a00eb8" sha1="9737bd5a9d4f28544ad1cb25592e428bea98aa27" sha256="b4cd0958fd362f135a8a643164b31ff373f8f6ba5189c05c773177902ee419fd" status="verified"/>
+	</game>
+	<game name="Moto Roader II (Japan) (En)" id="0227">
+		<category>Games</category>
+		<description>Moto Roader II (Japan) (En)</description>
+		<rom name="Moto Roader II (Japan) (En).pce" size="393216" crc="0b7f6e5f" md5="61bf2f34550c6f0db25c9f5221ede032" sha1="101f6e3c90b314496b73ee9feab9a98f8d9b7821" sha256="db6bd728b98f6c2ec32043a315f4d9abad524f523eca7b6a2809b6b49aa8c693" status="verified"/>
+	</game>
+	<game name="Mr. Heli no Daibouken (Japan)" id="0229">
+		<category>Games</category>
+		<description>Mr. Heli no Daibouken (Japan)</description>
+		<rom name="Mr. Heli no Daibouken (Japan).pce" size="524288" crc="2cb92290" md5="31867ab522ff7b9937987ec473db0a11" sha1="df6346583d7169ffdec03925c9b15d3e4f066079" sha256="60e788c03cd0c21fc2f361104323c7da05584a47966d8c26629d8d49f6812784" status="verified"/>
+	</game>
+	<game name="Narazumono Sentou Butai - Bloody Wolf (Japan)" id="0231" cloneofid="0038">
+		<category>Games</category>
+		<description>Narazumono Sentou Butai - Bloody Wolf (Japan)</description>
+		<rom name="Narazumono Sentou Butai - Bloody Wolf (Japan).pce" size="524288" crc="b01f70c2" md5="027376eb6a5f3f36de49b2f7a95d0958" sha1="5c897decf660a41e4136f364a085e634d1fdc9a0" sha256="7a968def210321e35568e45f0a6e5b3fcffcf6e53d7b435aa5d558e102f28f77" status="verified"/>
+	</game>
+	<game name="Naxat Open (Japan)" id="0232">
+		<category>Games</category>
+		<description>Naxat Open (Japan)</description>
+		<rom name="Naxat Open (Japan).pce" size="393216" crc="60ecae22" md5="c1555a2d2ac2f92730630d4860cd0745" sha1="65eb861b8f63a131ad9de611ae5f432b02c1a283" sha256="a24ac72b99bbd347ac65c6ae2eb1c51bb16255f3a2954a6fc0f15c02b7b1d6d5" status="verified"/>
+	</game>
+	<game name="Naxat Stadium (Japan)" id="0233">
+		<category>Games</category>
+		<description>Naxat Stadium (Japan)</description>
+		<rom name="Naxat Stadium (Japan).pce" size="524288" crc="20a7d128" md5="7029f280c42ce2a25d435b8b1a3181d3" sha1="203338d5535457df7504b0fc0cc61e2940ef2127" sha256="af7b69aa7d02f7e5672eee8d09ff119358378f8a5c12bf3a0c101c5b0248777a" status="verified"/>
+	</game>
+	<game name="Naxat Stadium (Hong Kong) (Ja) (Unl)" id="2534" cloneofid="0233">
+		<category>Games</category>
+		<description>Naxat Stadium (Hong Kong) (Ja) (Unl)</description>
+		<rom name="Naxat Stadium (Hong Kong) (Ja) (Unl).pce" size="524288" crc="fba3a1a4" md5="70f8a8a8704602e94997f509323b9a56" sha1="50fa09b8c65aa7805e200377bfaafdfe85a99af6" sha256="debe5d49ed06c835c4c6f0abdf30eff56139f03213ae7b2e06c8bd11179076f6"/>
+	</game>
+	<game name="Nazo no Mascarade (Japan)" id="0234">
+		<category>Games</category>
+		<description>Nazo no Mascarade (Japan)</description>
+		<rom name="Nazo no Mascarade (Japan).pce" size="393216" crc="0441d85a" md5="744455d7dcaa4ae0b6b9aa53aade20a3" sha1="a449aee2f786f981539315565fe1cf4daab6eef9" sha256="2690aedba3abc4b3e39d4e32c9e76e2918fe3b620613738a64a671d3e7f431c0"/>
+	</game>
+	<game name="Necros no Yousai (Japan)" id="0236">
+		<category>Games</category>
+		<description>Necros no Yousai (Japan)</description>
+		<rom name="Necros no Yousai (Japan).pce" size="524288" crc="fb0fdcfe" md5="62ee11474eca60aacae8980556bc932f" sha1="151336738bc339bb46c8bc9c59f1066f7ed28f8b" sha256="d68e40f3771d3fb4167bf851a6a32138729689413e0266063a1b077fc58f488b" status="verified"/>
+	</game>
+	<game name="Nectaris (Japan)" id="0237" cloneofid="0217">
+		<category>Games</category>
+		<description>Nectaris (Japan)</description>
+		<rom name="Nectaris (Japan).pce" size="393216" crc="0243453b" md5="38bf3fa078ab7bdc3d34fc9c18b0ce73" sha1="e87e25f73908161a8c7b4cb1f20708cb5f8aab3b" sha256="7986c694a35162f99cc391e5affde4beaeb00c14636c57be060f4ee56ebaeab9" status="verified"/>
+	</game>
+	<game name="Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan)" id="0238">
+		<category>Games</category>
+		<description>Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan)</description>
+		<rom name="Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).pce" size="262144" crc="65fdb863" md5="419545fa5e2587288e8aea87811c152a" sha1="582121ade819254da31fd8867c30e60195589a9a" sha256="32fdcb18ba7a65b39b3590ea9f598c1cff9cad0414dd17b8f7447507726b84c3" status="verified"/>
+	</game>
+	<game name="Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan)" id="0239">
+		<category>Games</category>
+		<description>Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan)</description>
+		<rom name="Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).pce" size="524288" crc="f2285c6d" md5="830e071a0ee4773193444950d235d7ef" sha1="208296977d5f9d3c811ed6b10bc0e982a772ff48" sha256="d1ad58d778e00e494eaed76d7fc8451d8c52314df93e27e51022049798d41aad" status="verified"/>
+	</game>
+	<game name="Neutopia (USA)" id="0241">
+		<category>Games</category>
+		<description>Neutopia (USA)</description>
+		<rom name="Neutopia (USA).pce" size="393216" crc="a9a94e1b" md5="eb0789088fc70be42b2f994c1b66be21" sha1="95d5fdbd6c9d6da2f288312309c2badd92f89cf4" sha256="f64585688d0d8b1173c67c4719e16f16f40defa7b1009c3c35063fc5f634b8b7"/>
+	</game>
+	<game name="Neutopia (USA, Europe) (Wii U Virtual Console)" id="2488" cloneofid="0241">
+		<category>Games</category>
+		<description>Neutopia (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Neutopia (USA, Europe) (Wii U Virtual Console).pce" size="393216" crc="811259e5" md5="6c521ec727a175fba00ec0b6f21e3a0d" sha1="11654c9a8a91cb427ba9fbca8e946b7eccffa96d" sha256="81236385c5f51e14cccfbc535403ce459454f11ecff222e0cc0bfc76143a2fad"/>
+	</game>
+	<game name="Neutopia - Frey no Shou (Japan)" id="0240" cloneofid="0241">
+		<category>Games</category>
+		<description>Neutopia - Frey no Shou (Japan)</description>
+		<rom name="Neutopia - Frey no Shou (Japan).pce" size="393216" crc="9c49ef11" md5="08ae173878d8a3783fa35e80c99a5dc4" sha1="338e0fa3da1df9cc2f3ac30faa67467c74b6cb07" sha256="217d11d32bca8e1f88b15aa11d774d55201bfbedae8824269a6f11a103a32e03" status="verified"/>
+	</game>
+	<game name="Neutopia - Frey no Shou (Japan) (Wii U Virtual Console)" id="2489" cloneofid="0241">
+		<category>Games</category>
+		<description>Neutopia - Frey no Shou (Japan) (Wii U Virtual Console)</description>
+		<rom name="Neutopia - Frey no Shou (Japan) (Wii U Virtual Console).pce" size="393216" crc="c8072f2d" md5="beb525f6156db1e617569e6082adab3c" sha1="4f368fc661b4bc7853dbe28486943feff2307cd8" sha256="529905c523615a172b473ed995468649ecbe061db936710ddca8582b7d912751"/>
+	</game>
+	<game name="Neutopia II (USA)" id="0243">
+		<category>Games</category>
+		<description>Neutopia II (USA)</description>
+		<rom name="Neutopia II (USA).pce" size="786432" crc="c4ed4307" md5="36678d3ec3b9eb534d9807be79587c8c" sha1="d916c84955438b6fdfaea5b7696472ce479d4ff1" sha256="a7d5b5d1bf9d28af057c921dd80d21a998a5bcd9664694c738d3fbc69dd0295a"/>
+	</game>
+	<game name="Neutopia II (Japan)" id="0242" cloneofid="0243">
+		<category>Games</category>
+		<description>Neutopia II (Japan)</description>
+		<rom name="Neutopia II (Japan).pce" size="786432" crc="2b94aedc" md5="d04cabf4a80ce7cef46b7700cd469487" sha1="d0ac1550b271eaa1d475d2e3829b4b2df0ac9f16" sha256="e6a0a0f01de222b28dad80629cb80275b90cb4dfb0e23f26d4d2f0f7c2319cee" status="verified"/>
+	</game>
+	<game name="Neutopia II (USA, Europe) (Wii U Virtual Console)" id="2490" cloneofid="0243">
+		<category>Games</category>
+		<description>Neutopia II (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Neutopia II (USA, Europe) (Wii U Virtual Console).pce" size="786432" crc="2602eda2" md5="53afd4cc91184a984a65a223e24cade3" sha1="dafc0193f697aadfa6079b715329569c2344a16b" sha256="dbf4730fe1b2facd477f8d65290305d5988dcaea29339dd1cf6b549465ef0717"/>
+	</game>
+	<game name="Neutopia II (Japan) (Wii U Virtual Console)" id="2491" cloneofid="0243">
+		<category>Games</category>
+		<description>Neutopia II (Japan) (Wii U Virtual Console)</description>
+		<rom name="Neutopia II (Japan) (Wii U Virtual Console).pce" size="786432" crc="769aabc3" md5="afb15503c503d3508424c829027a51e0" sha1="b57957c478c90679417b216d7d85f4eb82424b5b" sha256="5bea446655d9644b01bb330b13deb69a64d98ecbb4024bf31acff9c41a30afa5"/>
+	</game>
+	<game name="New Adventure Island (USA)" id="0244">
+		<category>Games</category>
+		<description>New Adventure Island (USA)</description>
+		<rom name="New Adventure Island (USA).pce" size="524288" crc="756a1802" md5="254434d0b15618dcff7c88d5ebdde248" sha1="bea7a4e5445d3a4f8610524471b83216e57f48e2" sha256="cb3d99ea5b65f979b28d8a3c6753e9f63aa0aa44f3391e0347e0f5e0d440f85e" status="verified"/>
+	</game>
+	<game name="New Adventure Island (USA, Europe) (Wii U Virtual Console)" id="2492" cloneofid="0244">
+		<category>Games</category>
+		<description>New Adventure Island (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="New Adventure Island (USA, Europe) (Wii U Virtual Console).pce" size="524288" crc="21db1d10" md5="ba0b49331b376dc19e93f77dfa6425d2" sha1="5a1d9f4f0a19ed1d00f54208506fb84abb7feb70" sha256="edf0a59168f41fdcdf53770e309919de53514c64ff999af2bbb20771c7f714fb"/>
+	</game>
+	<game name="NewZealand Story, The (Japan) (En)" id="0245">
+		<category>Games</category>
+		<description>NewZealand Story, The (Japan) (En)</description>
+		<rom name="NewZealand Story, The (Japan) (En).pce" size="393216" crc="8e4d75a8" md5="553dd0a65c0d060290f66c820ca94b1c" sha1="cda9acea9cae4899af35b6c49b9ed449c240af16" sha256="ab3b28423a2f0f3bd15b6f39f389d81313ccb8fa7f369af84a0ccf69f6222ed3" status="verified"/>
+	</game>
+	<game name="NHK Taiga Drama - Taiheiki (Japan)" id="0246">
+		<category>Games</category>
+		<description>NHK Taiga Drama - Taiheiki (Japan)</description>
+		<rom name="NHK Taiga Drama - Taiheiki (Japan).pce" size="524288" crc="a32430d5" md5="de11f469adcb4465b49743fd2f1e3250" sha1="b7f407dc377a32f8b0d22dd3444405bc2e674741" sha256="56b7c54ac2a262191467d54ac758ea00ad2303fd4e901628f9e9faea1826ecfb" status="verified"/>
+	</game>
+	<game name="Night Creatures (USA)" id="0247">
+		<category>Games</category>
+		<description>Night Creatures (USA)</description>
+		<rom name="Night Creatures (USA).pce" size="524288" crc="c159761b" md5="e658e63f886560e9c388e2a9ee2eb349" sha1="16c4b43f92f5bc6c99fe84f71daff76cf1c0d0a6" sha256="77f63df136c60517bef370e352bb30b0ec0a0385cdae629ef9a74e2958e922fa"/>
+	</game>
+	<game name="Ninja Ryuuken Den (Japan) (En,Ja,Zh)" id="0249">
+		<category>Games</category>
+		<description>Ninja Ryuuken Den (Japan) (En,Ja,Zh)</description>
+		<rom name="Ninja Ryuuken Den (Japan) (En,Ja,Zh).pce" size="524288" crc="67573bac" md5="80498e6a60d2cd9aa925f45cbefbff83" sha1="7f6a088424f849fc80f883d19533c031305d9616" sha256="3514f2e33257d6d4249aa0f0bee39c0fc7f395e1c8a37a6125b1e33601ace8e2" status="verified"/>
+	</game>
+	<game name="Ninja Spirit (USA)" id="0250">
+		<category>Games</category>
+		<description>Ninja Spirit (USA)</description>
+		<rom name="Ninja Spirit (USA).pce" size="524288" crc="de8af1c1" md5="adecf9e9d9be8a300818ad2cc09d49fe" sha1="515eb414fc404d798206faad33fbcc5985fbbccb" sha256="d949cb57ad44937f0070e70306de1b9b48eb027ebbb9ed649111b3d329b54595"/>
+	</game>
+	<game name="Ninja Spirit (USA, Europe) (Wii U Virtual Console)" id="2494" cloneofid="0250">
+		<category>Games</category>
+		<description>Ninja Spirit (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Ninja Spirit (USA, Europe) (Wii U Virtual Console).pce" size="524288" crc="85d1e33b" md5="a0db910d4d1f001711fa2b43d0e09506" sha1="76962b7df09fccf72fa95eb375b32e90be8eff6c" sha256="c5ef6ab9bdcabb35d5a6f30cf968a21f220d572acdc13067bc7c1eab3b6666ae"/>
+	</game>
+	<game name="Ninjawarriors, The (Japan)" id="0251">
+		<category>Games</category>
+		<description>Ninjawarriors, The (Japan)</description>
+		<rom name="Ninjawarriors, The (Japan).pce" size="393216" crc="96e0cd9d" md5="cd67ad6c5e69636c63d5cda218471738" sha1="27f30fa4eb12856bd21279e96d1764bba531432f" sha256="d0a3443e0a491e00c10d079228a420efecd24193fc61840a95fe49ceb2725c9e" status="verified"/>
+	</game>
+	<game name="Obocchama-kun (Japan)" id="0252">
+		<category>Games</category>
+		<description>Obocchama-kun (Japan)</description>
+		<rom name="Obocchama-kun (Japan).pce" size="524288" crc="4d3b0bc9" md5="4d007608da2f8dd091c2328a66e0f1dd" sha1="f505c31aab43ac6fd4d88fd14ae03a9c418e7357" sha256="957ed36b93d57de00f49529c10242d8c0ff67c36007581983077b1579cdfb2cf" status="verified"/>
+	</game>
+	<game name="Off the Wall (USA) (Proto)" id="0428">
+		<category>Games</category>
+		<description>Off the Wall (USA) (Proto)</description>
+		<rom name="Off the Wall (USA) (Proto).pce" size="524288" crc="8621ae02" md5="f4049602c39974b15bd682b1425edbc8" sha1="eaf6083667104b427c2dc928a3aeae6edfc0005b" sha256="635856bc1bb82686ee8547ef1920a4acaa84474bf74dd73d8a1cb66ee0f83e4e"/>
+	</game>
+	<game name="Okaasan to Issho - Niko Niko Pun (Japan)" id="0248">
+		<category>Games</category>
+		<description>Okaasan to Issho - Niko Niko Pun (Japan)</description>
+		<rom name="Okaasan to Issho - Niko Niko Pun (Japan).pce" size="524288" crc="82def9ee" md5="29c04086539f0e7b2a3b251e2290dc51" sha1="75226e0baa8df8179e40c3e5c398a42650506a12" sha256="f182282202962468fb4811126613c4e2093dbc63883cd893cebb53ae03d887c2" status="verified"/>
+	</game>
+	<game name="Operation Wolf (Japan)" id="0253">
+		<category>Games</category>
+		<description>Operation Wolf (Japan)</description>
+		<rom name="Operation Wolf (Japan).pce" size="524288" crc="ff898f87" md5="14adf02dd3ab66f20f7b15c69588b777" sha1="da2a28e2961fa295c4b8f55bd5a6ce6f1c58beb7" sha256="a3aa1589d80a39da1eb9c303513d3445d3170aba9f1613b7222a8c7c4f0d5494" status="verified"/>
+	</game>
+	<game name="Ordyne (Japan)" id="0255" cloneofid="0256">
+		<category>Games</category>
+		<description>Ordyne (Japan)</description>
+		<rom name="Ordyne (Japan).pce" size="524288" crc="8c565cb6" md5="2e3bd6ee158b239ff9a650d434bd92b3" sha1="6b1e419c77f72d3588b52343989727b5a069df3a" sha256="599846fdf21af0798b554d71aa4bf7a0a4d384f637f87cecf50d3ba3aaae4f78" status="verified"/>
+	</game>
+	<game name="Ordyne (USA)" id="0256">
+		<category>Games</category>
+		<description>Ordyne (USA)</description>
+		<rom name="Ordyne (USA).pce" size="524288" crc="e7bf2a74" md5="d803eb8f622521e515ff1dd715e725c0" sha1="06880cfeaf9a495cefa49e8c4fc2e94887d1543b" sha256="97878e97d6c498da895671d49e34e2e3b0653b94a56aba639a25eb196e8ace4e"/>
+	</game>
+	<game name="Out Live (Japan)" id="0257">
+		<category>Games</category>
+		<description>Out Live (Japan)</description>
+		<rom name="Out Live (Japan).pce" size="262144" crc="5cdb3f5b" md5="ee0ea8ef85d382f444656af31fa0b8e3" sha1="985222734388586a6b8530846fc9e4701c1ccd0b" sha256="f5240810673d8679fa421496fbd0f9eeccb860c77c23310d22f86fe7d0d7057c" status="verified"/>
+	</game>
+	<game name="OutRun (Japan) (En)" id="0258">
+		<category>Games</category>
+		<description>OutRun (Japan) (En)</description>
+		<rom name="OutRun (Japan) (En).pce" size="524288" crc="e203f223" md5="6dbeaf201713b8a2ffd0f2104fde1dfc" sha1="4db6d354171a6e5f81d17d11e1aca7278a1fa95e" sha256="f9aea093f9a2de9fe1de1f2cde35f7615a7856c43958131aebe026b54d226ed1" status="verified"/>
+	</game>
+	<game name="Override (Japan) (En)" id="0259">
+		<category>Games</category>
+		<description>Override (Japan) (En)</description>
+		<rom name="Override (Japan) (En).pce" size="262144" crc="b74ec562" md5="5c401f3e2ac7ceb85e85bb82cb46be24" sha1="9da08c896e02b67257521b948c2fa5bc55724c0d" sha256="482320bde6d5843e85512e2cc1711f4f7831f0f8954c30f3301c9dd019e70e3c" status="verified"/>
+	</game>
+	<game name="P-47 - The Freedom Fighter (Japan) (En)" id="0260">
+		<category>Games</category>
+		<description>P-47 - The Freedom Fighter (Japan) (En)</description>
+		<rom name="P-47 - The Freedom Fighter (Japan) (En).pce" size="262144" crc="7632db90" md5="bfed2ef7677886467236dc92e09d63c3" sha1="54face25e1bdd6c1b842b957bcce272797ba7f1c" sha256="1c89c74bedf025b122c7a0b26351605b65f0c5de863addd67a09fa2a02b2d541" status="verified"/>
+	</game>
+	<game name="Pac-Land (USA)" id="0262">
+		<category>Games</category>
+		<description>Pac-Land (USA)</description>
+		<rom name="Pac-Land (USA).pce" size="262144" crc="d6e30ccd" md5="5cc45bfe5da979c51417e77bfe221a2b" sha1="ff74f1812196ec5c64df4b9a78a4697d3b53ef1a" sha256="814b8269e340af5e468cb91a79a5abc6b581322924556c5255be86f5a4392774"/>
+	</game>
+	<game name="Pac-Land (Japan) (En)" id="0261" cloneofid="0262">
+		<category>Games</category>
+		<description>Pac-Land (Japan) (En)</description>
+		<rom name="Pac-Land (Japan) (En).pce" size="262144" crc="14fad3ba" md5="e77ad358d00d7e052a129fc232556ff1" sha1="fc0166da82ed3cf4a4e06fc6c73fd3184ba8bb3b" sha256="96af6599a93e74adf835d75dcf074c67b7623bbf2d338e59f88f4eaee89ea9d8" status="verified"/>
+	</game>
+	<game name="Pachio-kun - Juuban Shoubu (Japan)" id="0263">
+		<category>Games</category>
+		<description>Pachio-kun - Juuban Shoubu (Japan)</description>
+		<rom name="Pachio-kun - Juuban Shoubu (Japan).pce" size="524288" crc="4148fd7c" md5="10ded52993405fc37690214ca615008a" sha1="67749fc1c067c16000223fd3b7555fd85c9f9ebd" sha256="9130c74b45bc7b4b795625499092918908422e560263ec80c92e930c5350461d" status="verified"/>
+	</game>
+	<game name="Paranoia (Japan) (En)" id="0265" cloneofid="0298">
+		<category>Games</category>
+		<description>Paranoia (Japan) (En)</description>
+		<rom name="Paranoia (Japan) (En).pce" size="262144" crc="9893e0e6" md5="a53f17bc3492e89c391e280e32397450" sha1="b3097e7f163e4a067cf32f290e59657a8b5e271b" sha256="c08591dde38a6745a82db7a59eeed0f2c53dde2f112145ad71036a56e0a9a4bc" status="verified"/>
+	</game>
+	<game name="Parasol Stars - The Story of Bubble Bobble III (Japan) (En)" id="0266" cloneofid="0267">
+		<category>Games</category>
+		<description>Parasol Stars - The Story of Bubble Bobble III (Japan) (En)</description>
+		<rom name="Parasol Stars - The Story of Bubble Bobble III (Japan) (En).pce" size="393216" crc="51e86451" md5="d3d67a165f433a50e7e27bfbf395e706" sha1="94a4c4b16435b043b0b985af446d8767602f5041" sha256="648fa91c6edbf74b82dd0ff59513119ef52576ca51a833e2166bb802ab707c95"/>
+	</game>
+	<game name="Parasol Stars - The Story of Bubble Bobble III (USA)" id="0267">
+		<category>Games</category>
+		<description>Parasol Stars - The Story of Bubble Bobble III (USA)</description>
+		<rom name="Parasol Stars - The Story of Bubble Bobble III (USA).pce" size="393216" crc="e6458212" md5="dce241d9642866f75810f6ac3e3c6a4d" sha1="c87524b4bd6e628e6f0551e8e50fded206ebe137" sha256="144b7a2b652af5c9376abd0e6baea752bf12e832373191af596b689095409751" status="verified"/>
+	</game>
+	<game name="Parodius Da! - Shinwa kara Owarai e (Japan) (En)" id="0268">
+		<category>Games</category>
+		<description>Parodius Da! - Shinwa kara Owarai e (Japan) (En)</description>
+		<rom name="Parodius Da! - Shinwa kara Owarai e (Japan) (En).pce" size="1048576" crc="647718f9" md5="39f5f51e066e2d7874efcff7d6f394ef" sha1="5110dcc06efd1daaeb98305378d818519da88d28" sha256="d0655b12a5985752c16b69eefaeebe146bb113467419ee15375f0bbce1074c23" status="verified"/>
+	</game>
+	<game name="PC Denjin - Punkic Cyborgs (Japan)" id="0269" cloneofid="0014">
+		<category>Games</category>
+		<description>PC Denjin - Punkic Cyborgs (Japan)</description>
+		<rom name="PC Denjin - Punkic Cyborgs (Japan).pce" size="524288" crc="740491c2" md5="7320bc8fb2a9417ee63cf77ada108753" sha1="7713236070c2d5252faa651b6a8b7726cadb9bf4" sha256="e53d2b0a95b0196a7077ab40357106dcbcb4cc723e7b5f9511edfb6c9a040fb2" status="verified"/>
+	</game>
+	<game name="PC Denjin - Punkic Cyborgs (Japan) (Beta)" id="2469" cloneofid="0014">
+		<category>Games</category>
+		<description>PC Denjin - Punkic Cyborgs (Japan) (Beta)</description>
+		<rom name="PC Denjin - Punkic Cyborgs (Japan) (Beta).pce" size="524288" crc="4f8299c8" md5="9b7ddd6395c9cea9d8a6da32f2a36b7a" sha1="eb2a75daab0c22a397d448c2daa8a52aac3fb612" sha256="a38130bf191d7b3776d6baa9a466e9ae3382f3d683ac519c8d2d40b9504894d9"/>
+	</game>
+	<game name="PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console)" id="2471" cloneofid="0014">
+		<category>Games</category>
+		<description>PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console)</description>
+		<rom name="PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console).pce" size="524288" crc="51982ce2" md5="c32cea0d8b1ca79840c12081d1c7e91f" sha1="07330c550ce132c43fb9535aae81e8aac482da4f" sha256="3d268d585e3af8fa510794eb37f7b70850cfb6e32bea0fc9be0eb29734e20714"/>
+	</game>
+	<game name="PC Genjin - Pithecanthropus Computerurus (Japan)" id="0271" cloneofid="0048">
+		<category>Games</category>
+		<description>PC Genjin - Pithecanthropus Computerurus (Japan)</description>
+		<rom name="PC Genjin - Pithecanthropus Computerurus (Japan).pce" size="393216" crc="2cb5cd55" md5="0e997fd6e47e9212a90b0a137d65283d" sha1="40fab9ea76d94d5569a977b1eb5a1dfb54978485" sha256="cf32b2e31228adab7ce2cddc7d839e549eec0f069ce7397846aa76652a396cb1" status="verified"/>
+	</game>
+	<game name="PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)" id="2478" cloneofid="0048">
+		<category>Games</category>
+		<description>PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)</description>
+		<rom name="PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).pce" size="393216" crc="9c1f39db" md5="b4535afdce61f812b3718e1966899068" sha1="958356f471522243b8ee6ff5d83d43350e2fc142" sha256="ebf7d8bc4ff56f66c83da28b910b7715f52bcad5e6cf6a5e571be4efe16be176"/>
+	</game>
+	<game name="PC Genjin 2 - Pithecanthropus Computerurus (Japan)" id="0273" cloneofid="0049">
+		<category>Games</category>
+		<description>PC Genjin 2 - Pithecanthropus Computerurus (Japan)</description>
+		<rom name="PC Genjin 2 - Pithecanthropus Computerurus (Japan).pce" size="524288" crc="3028f7ca" md5="1d7dbc1ecff5f6661bffb6c2cfe1912f" sha1="ef2b10e9bd35428bff3d67b9f77dd3ff50d91f2e" sha256="f570303b65a57f846d18b7bf6f4e7681c432853071f2bab3ea833fe43eb76e0c" status="verified"/>
+	</game>
+	<game name="PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console)" id="0423" cloneofid="0049">
+		<category>Games</category>
+		<description>PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console)</description>
+		<rom name="PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console).pce" size="524288" crc="d4ce3572" md5="03e2b03bed0d20671da98a5086d76a3b" sha1="88968b7f7d88329a18f440b78934897450f4e25d" sha256="0cd6975d4a06ea68d6cafd5fd9119aaa83a533c246986bf5f1baa408c8db45bc"/>
+	</game>
+	<game name="PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)" id="2480" cloneofid="0049">
+		<category>Games</category>
+		<description>PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)</description>
+		<rom name="PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).pce" size="524288" crc="34190272" md5="8f694e752ccde17dc1b05b69effd70ab" sha1="df3c83abf5bac52b87ff15b16991b1291d036b7b" sha256="2cca12e7b5a0554773c611d2c46cbec5551c621ffc9b226a0f3cfde326be0571"/>
+	</game>
+	<game name="PC Genjin 3 - Pithecanthropus Computerurus (Japan)" id="0274" cloneofid="0047">
+		<category>Games</category>
+		<description>PC Genjin 3 - Pithecanthropus Computerurus (Japan)</description>
+		<rom name="PC Genjin 3 - Pithecanthropus Computerurus (Japan).pce" size="1048576" crc="a170b60e" md5="5356014f520019f6adcbb1cbe1543dbe" sha1="201aaeafccc9247cf25fd6661c5798aabcc7b329" sha256="a90268adc7bced0517bd8af6f406db76d89baa9ea47e297212255f9cb07389b5" status="verified"/>
+	</game>
+	<game name="PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample)" id="0275" cloneofid="0047">
+		<category>Games</category>
+		<description>PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample)</description>
+		<rom name="PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).pce" size="786432" crc="6f6ed301" md5="f93adf9857caba9829dd6d8d37b2e94d" sha1="55515655a818c0f2e1aa3b76b87022f125b915db" sha256="dd989da847fe9c42859a37e89d23a819dcd23f81c4fe230d046da8d86ef4f72b"/>
+	</game>
+	<game name="PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)" id="2476" cloneofid="0047">
+		<category>Games</category>
+		<description>PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console)</description>
+		<rom name="PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).pce" size="1048576" crc="e42ad101" md5="8857a2c1b681efcd1a8b330467ca71e6" sha1="7c5adadd3559c019fd0318a5c4ce09df841f860c" sha256="ed12463f9ad932030311dca6306906eb379af7315ef1cf433e515090fa860699"/>
+	</game>
+	<game name="PC Pachi-Slot - Idol Gambler (Japan) (Unl)" id="0276">
+		<category>Games</category>
+		<description>PC Pachi-Slot - Idol Gambler (Japan) (Unl)</description>
+		<rom name="PC Pachi-Slot - Idol Gambler (Japan) (Unl).pce" size="524288" crc="0aa88f33" md5="9424caffd567e880aea512dc823aca22" sha1="6d0c8ffc7071d5a25ed6f3ee1325fe021ead6f89" sha256="e68a2e4905652c4d1f02ed2ca6664f2abb3abbc63d2640ca48586c132c02efc1" status="verified"/>
+	</game>
+	<game name="Populous (Japan) (En)" id="0277">
+		<category>Games</category>
+		<description>Populous (Japan) (En)</description>
+		<rom name="Populous (Japan) (En).pce" size="524288" crc="083c956a" md5="9d599a43d2c69738f3562f58aeff8828" sha1="4912ccc31bdd45ef9483ea345bbe4c4ff2d70779" sha256="16a796634a2b3da417a775cb64ffa3322ad7baf901c288934d28df967f7977f6" status="verified"/>
+	</game>
+	<game name="Power Drift (Japan) (En)" id="0279">
+		<category>Games</category>
+		<description>Power Drift (Japan) (En)</description>
+		<rom name="Power Drift (Japan) (En).pce" size="524288" crc="25e0f6e9" md5="c7f4c99ccb9f56ef954f3ccf332ce0db" sha1="1ffe1111a570b0cca256a356965fd6cdf7bcf2e9" sha256="61879f829d79235538bdf38d26dd3f2c838f7087e8a4b3600eaf9959bd609290" status="verified"/>
+	</game>
+	<game name="Power Eleven (Japan)" id="0281">
+		<category>Games</category>
+		<description>Power Eleven (Japan)</description>
+		<rom name="Power Eleven (Japan).pce" size="393216" crc="3e647d8b" md5="7d3343c0e248cac189915ed6def0e81a" sha1="f132948117d3135ec8d5d74eaac8d965e6676fb4" sha256="cca6f15884ea4b201c324ab518d5d4c92cb742dfe7f86cfe918fdf9fad7c5f8c" status="verified"/>
+	</game>
+	<game name="Power Gate (Japan)" id="0282">
+		<category>Games</category>
+		<description>Power Gate (Japan)</description>
+		<rom name="Power Gate (Japan).pce" size="262144" crc="be8b6e3b" md5="a797c794f8eef6ebbdacd7a3996e7134" sha1="ba5b53a1561a2ecf6bd6aec18a9db34c211c05ea" sha256="0d762c80767d14c54da552f4a9338e425643c9826b5c2d73763257d471ef783d"/>
+	</game>
+	<game name="Power Golf (USA)" id="0284">
+		<category>Games</category>
+		<description>Power Golf (USA)</description>
+		<rom name="Power Golf (USA).pce" size="393216" crc="ed1d3843" md5="8a524c7491bd6614e9c92bb7117a57f3" sha1="a9a05cacbcae9031fc95b54ace08864a97affd6e" sha256="7548bcec72b21492d1e027fe259300efc486a31960dea38b1420a11d88c63aef"/>
+	</game>
+	<game name="Power Golf (Japan) (En)" id="0283" cloneofid="0284">
+		<category>Games</category>
+		<description>Power Golf (Japan) (En)</description>
+		<rom name="Power Golf (Japan) (En).pce" size="393216" crc="ea324f07" md5="c9acd977deb987ad2c63d43e57be2f35" sha1="ff0a18094daecd56091f04f76b35551c303520b9" sha256="d1147e2c70e7d902238905d3ef245266b69119d61a1313623a298de2e887cfee" status="verified"/>
+	</game>
+	<game name="Power League (Japan)" id="0287" cloneofid="0409">
+		<category>Games</category>
+		<description>Power League (Japan)</description>
+		<rom name="Power League (Japan).pce" size="262144" crc="69180984" md5="3a49c227a7cd14c96bc3aa6975c7f370" sha1="4e50a6c422b4d8c8ea0cce64e5acca7bf13adaf6" sha256="9fe709fa6359edb3a079445441fbc30954a037eb5623718e879a7bef22aaf888" status="verified"/>
+	</game>
+	<game name="Power League '93 (Japan)" id="0285">
+		<category>Games</category>
+		<description>Power League '93 (Japan)</description>
+		<rom name="Power League '93 (Japan).pce" size="786432" crc="7d3e6f33" md5="d77a24f6fff7183ed377e7753fccefda" sha1="0e710ee789206baceec43df7f24a8e80bdbc7154" sha256="4873ed81d60c6257fb4b71684dc3026bcc36517090e233ea654c5bdc92e3c972" status="verified"/>
+	</game>
+	<game name="Power League 4 (Japan)" id="0290">
+		<category>Games</category>
+		<description>Power League 4 (Japan)</description>
+		<rom name="Power League 4 (Japan).pce" size="524288" crc="30cc3563" md5="d7b057e7c35be8cb7b37084ffe805688" sha1="a21825a19bef0a4d7847f72b4a00acd74a53ebb8" sha256="3ce4088a73f11cc10379281dd5c5c95ef8a6e8e9408b34888d9b5407db8c671d" status="verified"/>
+	</game>
+	<game name="Power League 5 (Japan)" id="0291">
+		<category>Games</category>
+		<description>Power League 5 (Japan)</description>
+		<rom name="Power League 5 (Japan).pce" size="786432" crc="8b61e029" md5="35c4d1d204eed571700d18a46e697f25" sha1="6e94fa53d715d7c7ee26d49ea9a6b70005894e03" sha256="1dea13e30421c376c7b0ebfc939248bbe7623f0586241679355d046886583f77" status="verified"/>
+	</game>
+	<game name="Power League II (Japan)" id="0288">
+		<category>Games</category>
+		<description>Power League II (Japan)</description>
+		<rom name="Power League II (Japan).pce" size="393216" crc="c5fdfa89" md5="3cc67e4b750ce2d977580883f3840966" sha1="2d176bd9efcf1576646e8889768ef8c6662ee216" sha256="fa9d836a18809c4b922ee7c8e748ec4a0591edb0700fad62e302d49d356df146" status="verified"/>
+	</game>
+	<game name="Power League III (Japan)" id="0289">
+		<category>Games</category>
+		<description>Power League III (Japan)</description>
+		<rom name="Power League III (Japan).pce" size="393216" crc="8aa4b220" md5="0c042e30ff15e4608e49f364b5be2233" sha1="e6526db07c2de857ccf9b997e18ccfab73087133" sha256="a9562ec55d09097d6ab7ad57b0a6ff2f24dcb0aa84065f4aadd9732ca91d457c" status="verified"/>
+	</game>
+	<game name="Power Sports (Japan)" id="0292" cloneofid="0412">
+		<category>Games</category>
+		<description>Power Sports (Japan)</description>
+		<rom name="Power Sports (Japan).pce" size="524288" crc="29eec024" md5="bdda8c3ce16bce8080455535f992cbcb" sha1="dfb30bc069e97c72f051fc0ab237607187d4a52e" sha256="337d3b2eb62ff4be108e60b0a68cf50fa3566e93c6a35c5fb673f48945eb6e42" status="verified"/>
+	</game>
+	<game name="Power Sports (Japan) (Wii U Virtual Console)" id="2504" cloneofid="0412">
+		<category>Games</category>
+		<description>Power Sports (Japan) (Wii U Virtual Console)</description>
+		<rom name="Power Sports (Japan) (Wii U Virtual Console).pce" size="524288" crc="95830103" md5="35f367cb0138c169c892e9aceba8e85b" sha1="119e2b3cc48db079c292cfd1d97df22732094ca8" sha256="fd20aaf4268030e08f51dc6e72a37c5e887fd4a407d6fe08258c499d904ad408"/>
+	</game>
+	<game name="Power Tennis (Japan)" id="0293">
+		<category>Games</category>
+		<description>Power Tennis (Japan)</description>
+		<rom name="Power Tennis (Japan).pce" size="524288" crc="8def5aa1" md5="c40760fa44a7bbe3438c0547541db20d" sha1="eef562022a9399586dd4278d7877e408c19b47dd" sha256="4158ea392e84d639821a40d213decf5ba42cec82ecca53a6f4b37b6ed0b06e5a" status="verified"/>
+	</game>
+	<game name="Pro Tennis - World Court (Japan)" id="0294" cloneofid="0410">
+		<category>Games</category>
+		<description>Pro Tennis - World Court (Japan)</description>
+		<rom name="Pro Tennis - World Court (Japan).pce" size="262144" crc="11a36745" md5="fb0e0ca7bdf2b7d8beed1d8c8a2af749" sha1="1330fe108135e63acf8ff8938b38ca7b2b5f6af0" sha256="e3143a2e1641d8f490847ebd2824314c28757ffefb6ae73277f8f3b53ad5f5e7" status="verified"/>
+	</game>
+	<game name="Pro Yakyuu World Stadium (Japan)" id="0296">
+		<category>Games</category>
+		<description>Pro Yakyuu World Stadium (Japan)</description>
+		<rom name="Pro Yakyuu World Stadium (Japan).pce" size="262144" crc="34e089a9" md5="f5809c06f9ac594300f41584d44dbc16" sha1="0309ba1acc4955e582457fd3fcc4ea8e0abf1264" sha256="3c6c5e265469fd7c31939fbe63dbc9682a8b7061fef1443aece03279a798231b" status="verified"/>
+	</game>
+	<game name="Pro Yakyuu World Stadium '91 (Japan)" id="0295">
+		<category>Games</category>
+		<description>Pro Yakyuu World Stadium '91 (Japan)</description>
+		<rom name="Pro Yakyuu World Stadium '91 (Japan).pce" size="262144" crc="66b167a9" md5="ab15d6fdc397e66c0946194651d3069f" sha1="6b76e9cc10a812c15631450b617ea3719fdcdc16" sha256="b55af8048838dea55bed97849af3f4346795dcc773081ce2c0589fd1f2b0888b" status="verified"/>
+	</game>
+	<game name="Psycho Chaser (Japan) (En)" id="0297">
+		<category>Games</category>
+		<description>Psycho Chaser (Japan) (En)</description>
+		<rom name="Psycho Chaser (Japan) (En).pce" size="262144" crc="03883ee8" md5="c21fe0981bf333dbf7b58382f5d309bb" sha1="753fc6f1aa16770c87cc12967a43e951a7b1ec83" sha256="942e686d1b668c72e41a15904e817b692bf4ef514164aa58dcc496a00fdde899" status="verified"/>
+	</game>
+	<game name="Psychosis (USA)" id="0298">
+		<category>Games</category>
+		<description>Psychosis (USA)</description>
+		<rom name="Psychosis (USA).pce" size="262144" crc="6cc10824" md5="c23ef1ca95a5aa6789c4172ac66d6b5d" sha1="1cfcfc95bb01b24755e1fc9c3dfea393cb3cc3a9" sha256="5b9d47aac4ed3c9a898ade3db0151e9007c8d94c2aa9048e03fbe8f1323acf9b"/>
+	</game>
+	<game name="Puzzle Boy (Japan)" id="0299">
+		<category>Games</category>
+		<description>Puzzle Boy (Japan)</description>
+		<rom name="Puzzle Boy (Japan).pce" size="262144" crc="faa6e187" md5="6394145312caac816ca44af55dff9533" sha1="f3d87e780683cd1873287069f4758581bb848935" sha256="c4c3759460edd5fd523a5d7d224046dffe26cb12c0af8f35e549daba15a5a369"/>
+	</game>
+	<game name="Puzznic (Japan) (En)" id="0300">
+		<category>Games</category>
+		<description>Puzznic (Japan) (En)</description>
+		<rom name="Puzznic (Japan) (En).pce" size="262144" crc="965c95b3" md5="a8cdcc33207037a02868f366de6582ea" sha1="3906d644f5901e6d2e732cbd0a6dd0d38a29486b" sha256="712b5ef904fda93652d301cd04847d92bd10fdd00156db32ed7352a6336e5ada" status="verified"/>
+	</game>
+	<game name="Quiz Toukou Shashin (Japan) (Unl)" id="0301">
+		<category>Games</category>
+		<description>Quiz Toukou Shashin (Japan) (Unl)</description>
+		<rom name="Quiz Toukou Shashin (Japan) (Unl).pce" size="1048576" crc="f2e6856d" md5="5351d1043b5212ab01c3e19ba817a03c" sha1="6b5d8e4b007de8a9b59d6a87802874f515cd1ae0" sha256="044e03823f6303b187feb98dfb6f2acf167288eb4f0c094b14fe91649e116c78"/>
+	</game>
+	<game name="R-Type (USA)" id="0302">
+		<category>Games</category>
+		<description>R-Type (USA)</description>
+		<rom name="R-Type (USA).pce" size="524288" crc="91ce5156" md5="0e0040142b5227f2b85be27364d5ea01" sha1="7e3d4dc9e8d880ac8d813fa69af0c6804b75cd9a" sha256="87a443f6b8170d8fe71d470500059b4da36f8552064684f144bb6e4329bc6f4f" status="verified"/>
+	</game>
+	<game name="R-Type I (Japan) (En)" id="0303">
+		<category>Games</category>
+		<description>R-Type I (Japan) (En)</description>
+		<rom name="R-Type I (Japan) (En).pce" size="262144" crc="cec3d28a" md5="ac7e0730b10c3cf1afdc675c808572b1" sha1="1170c63839fb94c754d07c4f6f49ad2de6666668" sha256="c72e14a294f04de7ccbd29c45e22de05f7feaa92b8f0df4c52e5d0c046258c28" status="verified"/>
+	</game>
+	<game name="R-Type I (Hong Kong) (En) (Unl)" id="2535" cloneofid="0303">
+		<category>Games</category>
+		<description>R-Type I (Hong Kong) (En) (Unl)</description>
+		<rom name="R-Type I (Hong Kong) (En) (Unl).pce" size="262144" crc="45fc8cb9" md5="5c9fea339e21f811e8fa815fe4973476" sha1="3b642cc1f905d85e70fc1ec3daf1a5937cb553e4" sha256="8eb01d04a3683b0fef16b95706b5e62be2d7f9d5e261a6b3c4121fe29303438b"/>
+	</game>
+	<game name="R-Type II (Japan) (En) (V1.1)" id="0304">
+		<category>Games</category>
+		<description>R-Type II (Japan) (En) (V1.1)</description>
+		<rom name="R-Type II (Japan) (En) (V1.1).pce" size="262144" crc="417b961d" md5="1b00aea45aa694e0ae58a7d35aede8ad" sha1="198eb4e62a1a0e591c1505ef188e74eff8415e0a" sha256="8c8711d1da7e817c71acf2b0bb3df16ca6801484645fb4284ac3520e836e96bc" status="verified"/>
+	</game>
+	<game name="R-Type II (Japan) (En)" id="2463" cloneofid="0304">
+		<category>Games</category>
+		<description>R-Type II (Japan) (En)</description>
+		<rom name="R-Type II (Japan) (En).pce" size="262144" crc="f207ecae" md5="9fda7ef8db7fe2799149cb0fbef20c95" sha1="7667dce9f6a09f8197efe0718e476b48579760d6" sha256="86b33cdb505a89fd2838c65448a299fb051222fc9715eb928540c2f663bd4b31" status="verified"/>
+	</game>
+	<game name="R-Type II (Hong Kong) (En) (Unl)" id="2536" cloneofid="0304">
+		<category>Games</category>
+		<description>R-Type II (Hong Kong) (En) (Unl)</description>
+		<rom name="R-Type II (Hong Kong) (En) (Unl).pce" size="262144" crc="ce4fbefe" md5="5b07ed29addd62b30d843928af70ce47" sha1="97ecbdfd83e2691559459ca2ff5186c920d1e366" sha256="56b93f29eba16f98e6f036d0adbbf73ae2f7f56f9031d3af96c751f665013186"/>
+	</game>
+	<game name="Rabio Lepus Special (Japan)" id="0305">
+		<category>Games</category>
+		<description>Rabio Lepus Special (Japan)</description>
+		<rom name="Rabio Lepus Special (Japan).pce" size="393216" crc="d8373de6" md5="4b942ff45a454222dd4ec1951e75a72c" sha1="ebd12a22e2d139a904b8aff535787abc128ad61a" sha256="d5984e1c46cb906d279151a026a17ee87cf6276fb2c4316dfec63dae0896fb07" status="verified"/>
+	</game>
+	<game name="Racing Damashii (Japan)" id="0306">
+		<category>Games</category>
+		<description>Racing Damashii (Japan)</description>
+		<rom name="Racing Damashii (Japan).pce" size="524288" crc="3e79734c" md5="b0267ecb483472dac6e3f9f97f625a99" sha1="8e558b47599a36d78d319e0dcd2e5136564df074" sha256="4f8efcb4973f60a3e122c496101ce2aea849320ca5a58639438e99613c18bc68" status="verified"/>
+	</game>
+	<game name="Raiden (Japan) (En)" id="0307" cloneofid="0308">
+		<category>Games</category>
+		<description>Raiden (Japan) (En)</description>
+		<rom name="Raiden (Japan) (En).pce" size="786432" crc="850829f2" md5="42a5e13cbfab0c54d30f8ca6831f62ed" sha1="cef25446294884053442a4214434d7d97319ddca" sha256="2b5b25fc72e844829a301f7facabee34d3f017991ac1660a7298718fc748495b"/>
+	</game>
+	<game name="Raiden (USA)" id="0308">
+		<category>Games</category>
+		<description>Raiden (USA)</description>
+		<rom name="Raiden (USA).pce" size="786432" crc="bc59c31e" md5="5d08e419351cf3ee85e6536070cbb94f" sha1="910e7346976b7a6e83ddb7e68b49d33ced9dbc2c" sha256="0dd97f99a0ce4ff8533eb6513fc9f95bc86004286e1b47be2b9c8bc649288987"/>
+	</game>
+	<game name="Rastan Saga II (Japan) (En)" id="0309">
+		<category>Games</category>
+		<description>Rastan Saga II (Japan) (En)</description>
+		<rom name="Rastan Saga II (Japan) (En).pce" size="393216" crc="00c38e69" md5="e998693ab9d694eebe66e5942fd5137e" sha1="cf06ba4d1bd31ebd69f0415ae52848f752ec8f6b" sha256="c60e68a5ddc1396c8740f14ed0334288d915208d7a2c9b08e4bb1f01377d1076" status="verified"/>
+	</game>
+	<game name="Rock-On (Japan)" id="0310">
+		<category>Games</category>
+		<description>Rock-On (Japan)</description>
+		<rom name="Rock-On (Japan).pce" size="393216" crc="2fd65312" md5="5fc5b7cd7f43f12d7e1eced8368d4296" sha1="19a7744bc8355076f481446978f49175dbd132b9" sha256="bebe6773854963a52d633566a0694185e0814104c261f171a6628a10a6cdd5e7" status="verified"/>
+	</game>
+	<game name="Ryuukyuu (Japan)" id="0311">
+		<category>Games</category>
+		<description>Ryuukyuu (Japan)</description>
+		<rom name="Ryuukyuu (Japan).pce" size="262144" crc="91e6896f" md5="9cd3662c5386b6f45a9744be79c7fcc5" sha1="2c9451619acb491eff2ed20bffe389b9261ba651" sha256="9a243dfc18a350a9c550c0a18d530f0f02775dcd6033c69f33ff451ad97e0e5f" status="verified"/>
+	</game>
+	<game name="S.C.I. - Special Criminal Investigation (Japan)" id="0341">
+		<category>Games</category>
+		<description>S.C.I. - Special Criminal Investigation (Japan)</description>
+		<rom name="S.C.I. - Special Criminal Investigation (Japan).pce" size="524288" crc="09a0bfcc" md5="d86284f679e05540de98ed7f90a71fcf" sha1="8d18aea811d752d24cc00f20d2c6ced67df1efa9" sha256="8f9b110260a6726de509901c0b9a5752ba2c9a75f3c002be5fa55e5a33eaa2e4" status="verified"/>
+	</game>
+	<game name="Sadakichi Seven - Hideyoshi no Ougon (Japan)" id="0312">
+		<category>Games</category>
+		<description>Sadakichi Seven - Hideyoshi no Ougon (Japan)</description>
+		<rom name="Sadakichi Seven - Hideyoshi no Ougon (Japan).pce" size="262144" crc="f999356f" md5="0cb043fe940e91d6660927aa6b01e1d9" sha1="a629408efcc607a5385d81a8fe15f77e6a721ddd" sha256="b30a0f05d655da6563556f9e7cb3491cc5520527bcd6fd41a541f8087cb4722b" status="verified"/>
+	</game>
+	<game name="Saigo no Nindou - Ninja Spirit (Japan)" id="0313" cloneofid="0250">
+		<category>Games</category>
+		<description>Saigo no Nindou - Ninja Spirit (Japan)</description>
+		<rom name="Saigo no Nindou - Ninja Spirit (Japan).pce" size="524288" crc="0590a156" md5="7ed620b8a4a302dde75f074eabd4ead8" sha1="14fc48758d658413f952a0b4f9465137164bdacc" sha256="3c1ae4948d9588a3545cc29964bc95676c7807df06a19f9f0dbe5321cd19533d" status="verified"/>
+	</game>
+	<game name="Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console)" id="2495" cloneofid="0250">
+		<category>Games</category>
+		<description>Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console)</description>
+		<rom name="Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console).pce" size="524288" crc="5ecbb3ac" md5="35f2ce6bf11f9fff79a579e9953ad403" sha1="07515b8314b04e48d42881e3f4f09ac385b1bbab" sha256="e9acfcecefeb307667db61c34a925b58c95b59a3bd6765537e35ec31a8aa41c7"/>
+	</game>
+	<game name="Salamander (Japan) (En)" id="0314">
+		<category>Games</category>
+		<description>Salamander (Japan) (En)</description>
+		<rom name="Salamander (Japan) (En).pce" size="262144" crc="faecce20" md5="3c60a87ef4f90b20e149330e26253f4d" sha1="a24e3a4ff36ec9fffd5ea1f4c6b526f61f842584" sha256="24e78ca55d4ac13c9c401ee72ba2315cd08b3eb07e785fdd75935d5594ab00d0" status="verified"/>
+	</game>
+	<game name="Salamander (World) (Wii U Virtual Console)" id="2496" cloneofid="0314">
+		<category>Games</category>
+		<description>Salamander (World) (Wii U Virtual Console)</description>
+		<rom name="Salamander (World) (Wii U Virtual Console).pce" size="262144" crc="a869a0b4" md5="c580c62cb6227291bb56e144d50552b7" sha1="27ff27ada609fe8ff540a7f4256786a8da116054" sha256="9474d4588d5e81d6fe200d9df7dc2e8860fd8f49d3bd08ccff6efed4fcc9ac27"/>
+	</game>
+	<game name="Salamander (Japan) (PC Engine Mini)" id="2522" cloneofid="0314">
+		<category>Games</category>
+		<description>Salamander (Japan) (PC Engine Mini)</description>
+		<rom name="Salamander (Japan) (PC Engine Mini).pce" size="1048576" crc="83b0c3a4" md5="7a374a4c6fbc2678e7a7536679c1292a" sha1="64e97eb10b73dbf0efbd1ffea11c6969093d5bd1" sha256="3dbe26a85b41dcd6f55968ad4f157776c90527d060c2a1486da712d024a63129"/>
+	</game>
+	<game name="Samurai-Ghost (USA)" id="0315">
+		<category>Games</category>
+		<description>Samurai-Ghost (USA)</description>
+		<rom name="Samurai-Ghost (USA).pce" size="524288" crc="77a924b7" md5="6e32e0516ea74eb94a4f0bc8bd9dc47c" sha1="f6f26d8e4caafa7378f2756dd46569de4042dbbb" sha256="e4cfdac3e237c8ee940bfa7c18e3bfd01644c8dfc86462687ba9c9910c899348"/>
+	</game>
+	<game name="Sekigahara (Japan)" id="0316">
+		<category>Games</category>
+		<description>Sekigahara (Japan)</description>
+		<rom name="Sekigahara (Japan).pce" size="524288" crc="2e955051" md5="81752039bb6a399d7228ad42d1eed156" sha1="aefa660f6ff5845664b455e0c75e212733d45c06" sha256="419fcb7e33e9ddd9e34939da778c5cad211a72f32e771b3972625cb0d97b426f" status="verified"/>
+	</game>
+	<game name="Sengoku Mahjong (Japan)" id="0317">
+		<category>Games</category>
+		<description>Sengoku Mahjong (Japan)</description>
+		<rom name="Sengoku Mahjong (Japan).pce" size="262144" crc="90e6bf49" md5="e099715c2b1e8d392e2bd7f0f9f9388a" sha1="b0be49af6275179ff0d5a44acbcdd4c6f2c55a07" sha256="dec9891a36ca9c6587bd5403a1b0c1ff87e8c9293e472fdfb640822b953e76c5" status="verified"/>
+	</game>
+	<game name="Shanghai (Japan)" id="0318">
+		<category>Games</category>
+		<description>Shanghai (Japan)</description>
+		<rom name="Shanghai (Japan).pce" size="131072" crc="6923d736" md5="e35f9e284d7299abaedad7662472d3c6" sha1="11311390c11f4b72f5e07d2527039a7560405501" sha256="52e620a1cbfc85480401997f3c38b94691e3320796b2a19d6b0053248fdd264d" status="verified"/>
+	</game>
+	<game name="Shinobi (Japan)" id="0319">
+		<category>Games</category>
+		<description>Shinobi (Japan)</description>
+		<rom name="Shinobi (Japan).pce" size="393216" crc="bc655cf3" md5="1659d9fa2ed7628d342fd7c7fbe6d439" sha1="c219f8477dc2b34b53c25a419332595835d1f5ec" sha256="7df33b38c49953eb93b527a846e1b4acae4e9adad941a5ad1d81631f786b5238" status="verified"/>
+	</game>
+	<game name="Shiryou Sensen - War of the Dead (Japan)" id="0320">
+		<category>Games</category>
+		<description>Shiryou Sensen - War of the Dead (Japan)</description>
+		<rom name="Shiryou Sensen - War of the Dead (Japan).pce" size="262144" crc="469a0fdf" md5="cfd7fc43a9664979685b8e4358e4555f" sha1="8e2510d9930d0e7d0a13bcc9d5ded32f6eed8617" sha256="46745be3c3d9226b79b1ae7f219d3a02f08596ca1a249304dd5d7583b73651d4" status="verified"/>
+	</game>
+	<game name="Shockman (USA)" id="0321">
+		<category>Games</category>
+		<description>Shockman (USA)</description>
+		<rom name="Shockman (USA).pce" size="524288" crc="2774462c" md5="57c888f4af792dc4588a2f9dbebea31a" sha1="f3e0f9546afe257748496a652f138dbc318bed05" sha256="0e05643c12561ee00ea064986b58c07b4bfcfc1a1ef57a90e0aa4a9075ad4a8a"/>
+	</game>
+	<game name="Shougi Shodan Icchokusen (Japan)" id="0322">
+		<category>Games</category>
+		<description>Shougi Shodan Icchokusen (Japan)</description>
+		<rom name="Shougi Shodan Icchokusen (Japan).pce" size="262144" crc="23ec8970" md5="72e2bc782598841a9e27782046e61219" sha1="af992d6c74266366c4dacdde258f91cb0056d3b9" sha256="1fab20c4a1a5c0fef0c6fe4a337ca9b65e9f13818b40fa4680aa127f8eae2ed8" status="verified"/>
+	</game>
+	<game name="Shougi Shoshinsha Muyou (Japan)" id="0323">
+		<category>Games</category>
+		<description>Shougi Shoshinsha Muyou (Japan)</description>
+		<rom name="Shougi Shoshinsha Muyou (Japan).pce" size="262144" crc="457f2bc4" md5="a2eb40128f6556368fa076166e7a587d" sha1="cfeaf0af946b6f168a919687528264db7f448f3c" sha256="7c4bd490f47e3925796380fff47340e6098b2ece55b76fd7393352f70a9812d0" status="verified"/>
+	</game>
+	<game name="SideArms (USA)" id="0325">
+		<category>Games</category>
+		<description>SideArms (USA)</description>
+		<rom name="SideArms (USA).pce" size="262144" crc="d1993c9f" md5="a97b9af7e814deb4e4358a466e7cd3c2" sha1="773a372ef5ee599ebd6f048fddb86739e255583e" sha256="06b8ac408d5f7942165bb06b5ce0795a6283022d034ca70dc256e17ed1af87cd" status="verified"/>
+	</game>
+	<game name="SideArms - Hyper Dyne (Japan) (En)" id="0324" cloneofid="0325">
+		<category>Games</category>
+		<description>SideArms - Hyper Dyne (Japan) (En)</description>
+		<rom name="SideArms - Hyper Dyne (Japan) (En).pce" size="262144" crc="e5e7b8b7" md5="c1e1d8e68b3f4b04990093a73d1ad77e" sha1="b732b3485bd8841d3571221170b04b7f699e9109" sha256="168d5f860b50256d7a302b6ba6ca1da6fac589458df1033486014ab130e0b7f6" status="verified"/>
+	</game>
+	<game name="SideArms - Hyper Dyne (Hong Kong) (En) (Unl)" id="2537" cloneofid="0325">
+		<category>Games</category>
+		<description>SideArms - Hyper Dyne (Hong Kong) (En) (Unl)</description>
+		<rom name="SideArms - Hyper Dyne (Hong Kong) (En) (Unl).pce" size="262144" crc="4f2bd39f" md5="b53510a063d10dc4ac31705425a0f349" sha1="4d2ffb8b5a6829441149eb5dfb1ae945e018bcb3" sha256="a59a40156965a6b29adff64b4839e1d32491d01077d99d0450f114937a58d2e9"/>
+	</game>
+	<game name="Silent Debuggers (Japan)" id="0326" cloneofid="0327">
+		<category>Games</category>
+		<description>Silent Debuggers (Japan)</description>
+		<rom name="Silent Debuggers (Japan).pce" size="524288" crc="616ea179" md5="37bf7db43aebb4fbbb886f8ca4062e0d" sha1="9101f738a37c9fcbc69308449cdfb94c928f64c6" sha256="b4899c8f6c081074cf493a8e84d4a9dd0180ff9867e9641b80ff424564fb3dd5" status="verified"/>
+	</game>
+	<game name="Silent Debuggers (USA)" id="0327">
+		<category>Games</category>
+		<description>Silent Debuggers (USA)</description>
+		<rom name="Silent Debuggers (USA).pce" size="524288" crc="fa7e5d66" md5="46719950684f5148c20730c6fd7df4a0" sha1="c010ba9ff55a2558bba94ac39aa0160c76daff0c" sha256="2cd020073cfd1728904a3c599ce8b9763312da8afa53d991508b3c90fe5de1d1"/>
+	</game>
+	<game name="Sindibad - Chitei no Daimakyuu (Japan)" id="0328">
+		<category>Games</category>
+		<description>Sindibad - Chitei no Daimakyuu (Japan)</description>
+		<rom name="Sindibad - Chitei no Daimakyuu (Japan).pce" size="393216" crc="b5c4eebd" md5="ce4a782b15e9944aa1356a2a2ed4fbec" sha1="6d99d2e3acac7399afbeeb1acf108ff96703cc47" sha256="3bec1a9bcb27abbdcd8542ea48b57f4c4645f6763db0b1e180d5a1b97d422a4f" status="verified"/>
+	</game>
+	<game name="Sinistron (USA)" id="0329">
+		<category>Games</category>
+		<description>Sinistron (USA)</description>
+		<rom name="Sinistron (USA).pce" size="393216" crc="4f6e2dbd" md5="1c5eb68a65115abaccd9479503fd3a2b" sha1="65defeeecfe60564a214b6572f94243fcfea78e0" sha256="c702a6b28a733f32eda3786cba7305b7e00ad482f4f10d889b0450516d2bc68c" status="verified"/>
+	</game>
+	<game name="Skweek (Japan) (En)" id="0330">
+		<category>Games</category>
+		<description>Skweek (Japan) (En)</description>
+		<rom name="Skweek (Japan) (En).pce" size="262144" crc="4d539c9f" md5="f411b4693c959657415346655dd062bc" sha1="3436b48a9c748269f6ae65e40c9115a27321d440" sha256="f12a3fe1ea05afa8c6298a7aa5c8dcc205b1309049479c637288f7687e91e137" status="verified"/>
+	</game>
+	<game name="Soldier Blade (USA)" id="0332">
+		<category>Games</category>
+		<description>Soldier Blade (USA)</description>
+		<rom name="Soldier Blade (USA).pce" size="524288" crc="4bb68b13" md5="59d23b7af39ea827eceb1d7e2cc363c0" sha1="3b4cc242f68a1d61c83a1a0dbdee23d2ae8f1427" sha256="e9901fd864a8fc911316451331ffd2767e1299db93e58c6a00a9a8d661f8741d"/>
+	</game>
+	<game name="Soldier Blade (Japan) (En)" id="0331" cloneofid="0332">
+		<category>Games</category>
+		<description>Soldier Blade (Japan) (En)</description>
+		<rom name="Soldier Blade (Japan) (En).pce" size="524288" crc="8420b12b" md5="e78e5212d85d614060ae31135e4f4bfe" sha1="bb6259ecfee3cc28ddbf1b1c1416f281ecccbe31" sha256="5a5740bab807b4f4cf6ee260b7a78febdac03ded3a3dd4b5376f27ba86c34feb" status="verified"/>
+	</game>
+	<game name="Soldier Blade (USA, Europe) (Wii U Virtual Console)" id="2497" cloneofid="0332">
+		<category>Games</category>
+		<description>Soldier Blade (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Soldier Blade (USA, Europe) (Wii U Virtual Console).pce" size="524288" crc="d2113bf1" md5="441fea810ecb8e453d96ae9501e12e9c" sha1="07fae30744280c26971ab5f976f0cd81f69be4ef" sha256="fc6c19dc93d8ec292475b65c269329399eab6e13d1003d20ad6993b59bfc6a18"/>
+	</game>
+	<game name="Soldier Blade (Japan) (En) (Wii U Virtual Console)" id="2498" cloneofid="0332">
+		<category>Games</category>
+		<description>Soldier Blade (Japan) (En) (Wii U Virtual Console)</description>
+		<rom name="Soldier Blade (Japan) (En) (Wii U Virtual Console).pce" size="524288" crc="1d8701c9" md5="2bf37a216d1a7aa60c637c74afdc9268" sha1="13daf1494689e74074fb81f8eb17d324d20a2190" sha256="c84986f47f38eca38ae6d69a37f038c31cc40fdc6abeccd696e4835925dbb9c7"/>
+	</game>
+	<game name="Soldier Blade - Special Version (Japan) (En)" id="0333">
+		<category>Games</category>
+		<description>Soldier Blade - Special Version (Japan) (En)</description>
+		<rom name="Soldier Blade - Special Version (Japan) (En).pce" size="524288" crc="f39f38ed" md5="5283b6daae3e3c4523a86ef974cfeede" sha1="328a85924778d742cc5b191ac60d79a7ed9b0620" sha256="03c1a1cf37f125bf4d4a3570d10d9c085aa91b3d348f266ca035f25fbd898a93"/>
+	</game>
+	<game name="Somer Assault (USA)" id="0334">
+		<category>Games</category>
+		<description>Somer Assault (USA)</description>
+		<rom name="Somer Assault (USA).pce" size="524288" crc="8fcaf2e9" md5="0060840cb54b2db4db8a2927d48c6c54" sha1="bb6b5a59106bd60fbe7b1d7def7f73253440b49a" sha256="d5d1d370529aea78c1797f01a20bdc61f2786663409bb6d2d27357cd01998d29"/>
+	</game>
+	<game name="Son Son II (Japan)" id="0335">
+		<category>Games</category>
+		<description>Son Son II (Japan)</description>
+		<rom name="Son Son II (Japan).pce" size="262144" crc="d7921df2" md5="9f446641a2e1794c61624f0a062efae5" sha1="51aa9b47aa5f68102989885a1b92bb6b563ffe3a" sha256="85577be72e290efe58c4acdaa4a30fc64d468bf2ca1c0a16938baa9b7b85499b" status="verified"/>
+	</game>
+	<game name="Sonic Spike - World Championship Beach Volleyball (USA)" id="0336">
+		<category>Games</category>
+		<description>Sonic Spike - World Championship Beach Volleyball (USA)</description>
+		<rom name="Sonic Spike - World Championship Beach Volleyball (USA).pce" size="262144" crc="f74e5eb3" md5="e9a17f9e425cb6cf3e14c83eddd7dc06" sha1="5a74eead0593190979028ef99a19519bab00b3ab" sha256="5e86106cf38989d275e05fac2c1bce37339ad51e5ad37792d00972892266bc57"/>
+	</game>
+	<game name="Soukoban World (Japan)" id="0337" cloneofid="0051">
+		<category>Games</category>
+		<description>Soukoban World (Japan)</description>
+		<rom name="Soukoban World (Japan).pce" size="131072" crc="fb37ddc4" md5="7798dac32870699a62d00fbfd67ca8b5" sha1="89899202fe2a7607f9e5f2ab1b29280f3d7d5aef" sha256="6d96a1663416545c09888c9f2ad2965c2057ac8afe199d0f90098b56df4f2a65" status="verified"/>
+	</game>
+	<game name="Space Harrier (Japan) (En)" id="0338" cloneofid="0339">
+		<category>Games</category>
+		<description>Space Harrier (Japan) (En)</description>
+		<rom name="Space Harrier (Japan) (En).pce" size="524288" crc="64580427" md5="2c476453f2156c7afe10b5ed1fa60955" sha1="b59ccab8f7e73d4a9b29ccd8befb78cbcd491fa4" sha256="100fd7b5db01e86a357d25c55f888b9274a8cf2e4079a1b59efa809e49502698" status="verified"/>
+	</game>
+	<game name="Space Harrier (USA)" id="0339">
+		<category>Games</category>
+		<description>Space Harrier (USA)</description>
+		<rom name="Space Harrier (USA).pce" size="524288" crc="43b05eb8" md5="b87aba8faae39f238a8b2176daec96f4" sha1="948e6a5c30dcf945ab8332009ae4fa3ab231255a" sha256="de033172636f5cc214a4d365c7d643cb3ed720c7ca05e035142ac6f60704cb6a"/>
+	</game>
+	<game name="Space Invaders - Fukkatsu no Hi (Japan)" id="0340">
+		<category>Games</category>
+		<description>Space Invaders - Fukkatsu no Hi (Japan)</description>
+		<rom name="Space Invaders - Fukkatsu no Hi (Japan).pce" size="262144" crc="99496db3" md5="b08a0efb7d780b77e4a7a6f290fe94a4" sha1="cf6a4ef91b3eebe81bb6af55ed9ef6dd816d1765" sha256="065f194f8caca0bde1bc3f1a201600b88ad6200bae5bc4dbe443442e1b8d91e3" status="verified"/>
+	</game>
+	<game name="Spin Pair (Japan) (En)" id="0342">
+		<category>Games</category>
+		<description>Spin Pair (Japan) (En)</description>
+		<rom name="Spin Pair (Japan) (En).pce" size="262144" crc="1c6ff459" md5="97a2bfd91ce98f2c941a1a6581701ac4" sha1="a903a3e3a55b1fd9064efa668bcea53055c12682" sha256="4cebcc93059b877357712fefea348465a88630a0b07f624192fee91da1573686" status="verified"/>
+	</game>
+	<game name="Spiral Wave (Japan)" id="0343">
+		<category>Games</category>
+		<description>Spiral Wave (Japan)</description>
+		<rom name="Spiral Wave (Japan).pce" size="524288" crc="a5290dd0" md5="b5640a4df96c2eacf782e1b91cc59add" sha1="83ad9abe6469fa1a298e5cc059914ac0e92be209" sha256="6f5f73004d989d58f8ccd47adcc02198abd576820702529a6d283145d8994482" status="verified"/>
+	</game>
+	<game name="Splatterhouse (Japan) (En)" id="0344" cloneofid="0345">
+		<category>Games</category>
+		<description>Splatterhouse (Japan) (En)</description>
+		<rom name="Splatterhouse (Japan) (En).pce" size="524288" crc="6b319457" md5="ea2eaf7aa11a639d13a6119dd3c3f6dc" sha1="b0bdbb7729d775496581dc3141c4447614aaac46" sha256="c9abb31a87c8ca7a8ab7ab9d3fa144c77d655da1a80feb4a0fd78183802af75e"/>
+	</game>
+	<game name="Splatterhouse (USA)" id="0345">
+		<category>Games</category>
+		<description>Splatterhouse (USA)</description>
+		<rom name="Splatterhouse (USA).pce" size="524288" crc="d00ca74f" md5="f6690ec0f440ced641718d6bc52e3fbd" sha1="e2167b5d67a065ec97763d3ee843ac2b2328c082" sha256="a9424ca8a5b6b9e559575841779ab1ef57121837e085c7544d7fb6a026da2c7a"/>
+	</game>
+	<game name="Stratego (Japan)" id="0346">
+		<category>Games</category>
+		<description>Stratego (Japan)</description>
+		<rom name="Stratego (Japan).pce" size="262144" crc="727f4656" md5="2a55f96d5284f256a6bf9a17a3e2e9aa" sha1="cb67d9cf50cbef0e3b455409bc0a4f81ec57da99" sha256="f4b5fc89c8f46186ce925d053e11befe716b41a2ee3fb27d809787572b2deb9f" status="verified"/>
+	</game>
+	<game name="Street Fighter II' - Champion Edition (Japan)" id="0347">
+		<category>Games</category>
+		<description>Street Fighter II' - Champion Edition (Japan)</description>
+		<rom name="Street Fighter II' - Champion Edition (Japan).pce" size="2621440" crc="d15cb6bb" md5="0d9135be3267876bfec7f588abeda5bb" sha1="e757ecdf857803cb46cdf37ecf4596f6eaccdd76" sha256="6d6578742384cf0b771414ddf016b7dc133ad0350a838d134036124fed6e60e1" status="verified"/>
+	</game>
+	<game name="Strip Fighter II (Japan) (Unl)" id="0348">
+		<category>Games</category>
+		<description>Strip Fighter II (Japan) (Unl)</description>
+		<rom name="Strip Fighter II (Japan) (Unl).pce" size="1048576" crc="d6fc51ce" md5="cff035e7d00159ad0879df71e9aa25ca" sha1="8dd63c3c499261af9ea43fcdd23066b0140e3ea1" sha256="f480d7d1a315adcb19fee66016beca660530f27f33995aef2010bb429359d8b7" status="verified"/>
+	</game>
+	<game name="Super Metal Crusher (Japan) (En)" id="0349">
+		<category>Games</category>
+		<description>Super Metal Crusher (Japan) (En)</description>
+		<rom name="Super Metal Crusher (Japan) (En).pce" size="262144" crc="56488b36" md5="2958e95bb08aec03825f08bb955abdc6" sha1="6050eb365dcc42b90e8ddacf44685d72744ab4f0" sha256="876103fbea922c1cffd9269b362c4a00b8638d2a464c742a07daf8f3e25012d6" status="verified"/>
+	</game>
+	<game name="Super Momotarou Dentetsu (Japan) (Alt)" id="2464" cloneofid="0421">
+		<category>Games</category>
+		<description>Super Momotarou Dentetsu (Japan) (Alt)</description>
+		<rom name="Super Momotarou Dentetsu (Japan) (Alt).pce" size="393216" crc="69d52e7a" md5="ef3f7d0333b5ee8f09068c6a1bed71af" sha1="e4c6129e98cf37fce6cfc5352d112b1ec728d166" sha256="16fa9659f5f1ea9de66a5276244027b2f9788246eaaf0b1bf145ed37ed65e046"/>
+	</game>
+	<game name="Super Momotarou Dentetsu (Japan)" id="0421">
+		<category>Games</category>
+		<description>Super Momotarou Dentetsu (Japan)</description>
+		<rom name="Super Momotarou Dentetsu (Japan).pce" size="393216" crc="3eb5304a" md5="f365369bf476cebccb48f3a38fe39cc6" sha1="353a1ff7997df5d7be6ee03f1157fd746939ed61" sha256="2eb951205aa86a8d062b92fefc8c784ca4a7227a188f7d448ed645734d5a7fc9" status="verified"/>
+	</game>
+	<game name="Super Momotarou Dentetsu II (Japan)" id="0351">
+		<category>Games</category>
+		<description>Super Momotarou Dentetsu II (Japan)</description>
+		<rom name="Super Momotarou Dentetsu II (Japan).pce" size="786432" crc="2bc023fc" md5="093ace8d5348cc81501ce292a7f34f62" sha1="a9e874453d18738d63523ace2419b7cd95a381a7" sha256="bb216d558b8696d3ef6055a161c235b9d21b3f99bdc4b74d5a4b6a01a4ed36e7" status="verified"/>
+	</game>
+	<game name="Super Star Soldier (Japan)" id="0352" cloneofid="0353">
+		<category>Games</category>
+		<description>Super Star Soldier (Japan)</description>
+		<rom name="Super Star Soldier (Japan).pce" size="524288" crc="5d0e3105" md5="aa00c9f1db182f315338e24a892a84a8" sha1="4220516a17bc32a3f68ed51ef2af63e496e79f7d" sha256="ccf41845d6e6472aa9c8e7604fef8d7a8a820e7e160f4dffd3d8e0f7cb7a38d1" status="verified"/>
+	</game>
+	<game name="Super Star Soldier (USA)" id="0353">
+		<category>Games</category>
+		<description>Super Star Soldier (USA)</description>
+		<rom name="Super Star Soldier (USA).pce" size="524288" crc="db29486f" md5="bc7d4b0852d04fe49f6e3705b899c5e5" sha1="e0c487782e155b1cf50f5fb4c8d6a24be0301a6e" sha256="51c774a187925c5031b8b47b001098776f699f6a7835998a4f686688def23d19"/>
+	</game>
+	<game name="Super Star Soldier (USA, Europe) (Wii U Virtual Console)" id="2499" cloneofid="0353">
+		<category>Games</category>
+		<description>Super Star Soldier (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Super Star Soldier (USA, Europe) (Wii U Virtual Console).pce" size="524288" crc="0fca781a" md5="26c0d7cb2274cca65e25d4624988bb5b" sha1="2205b4ce704c060f7fddae4ca7cd4e5807b16723" sha256="11c0885cab27a062dacf0b1992d62b64069af09c37346c07142d1fca2470827b"/>
+	</game>
+	<game name="Super Star Soldier (Japan) (Wii U Virtual Console)" id="2500" cloneofid="0353">
+		<category>Games</category>
+		<description>Super Star Soldier (Japan) (Wii U Virtual Console)</description>
+		<rom name="Super Star Soldier (Japan) (Wii U Virtual Console).pce" size="524288" crc="71a5a90b" md5="4c18d110a33de93b32de54329031a8d7" sha1="2602d51ff83ec3ea8ef73947e741989c33c2fd9a" sha256="7677a5e24d49f670a012a79bc92dcaf62fcaa88f09c5bff30552c839c5820b71"/>
+	</game>
+	<game name="Super Volley Ball (Japan)" id="0354" cloneofid="0355">
+		<category>Games</category>
+		<description>Super Volley Ball (Japan)</description>
+		<rom name="Super Volley Ball (Japan).pce" size="262144" crc="ce2e4f9f" md5="93ebc97ba0985310ab07e932264bb8e1" sha1="46dd4acebe25de38f28e56cf149b24b42f3aef31" sha256="e05f654b19bc8243651940f330cf9552b6fdc2c9f16c4b5b12225abef096bd2a" status="verified"/>
+	</game>
+	<game name="Super Volleyball (USA)" id="0355">
+		<category>Games</category>
+		<description>Super Volleyball (USA)</description>
+		<rom name="Super Volleyball (USA).pce" size="262144" crc="245040b3" md5="2b31c6c01d779eec5bb19863e3c5af9b" sha1="de71722255d0136b47f63e93bedb2ed8b3d0d4f0" sha256="9e083426ffa62a9f7577a6540a48b7f07de3f8f17e701c2b9a87fc6e3c8ad05f"/>
+	</game>
+	<game name="Susanoou Densetsu (Japan)" id="0356">
+		<category>Games</category>
+		<description>Susanoou Densetsu (Japan)</description>
+		<rom name="Susanoou Densetsu (Japan).pce" size="524288" crc="cf73d8fc" md5="bdb29558fea5b2e7550087ad79718a4a" sha1="43853c5622992dfdc6844376f61b8998e44e2eaf" sha256="821aa035e67eb84a4c5fb12457c1c6fc04a1987ecc2b8da8ee596d6db7b8789d" status="verified"/>
+	</game>
+	<game name="Taito Chase H.Q. (Japan)" id="0357" cloneofid="0358">
+		<category>Games</category>
+		<description>Taito Chase H.Q. (Japan)</description>
+		<rom name="Taito Chase H.Q. (Japan).pce" size="393216" crc="6f4fd790" md5="12d5098d64869e784cf10029838df21f" sha1="f4cd413a1f87027194b7cadfbaaa714c137e877f" sha256="74e008fa5cf97f2d14320baf52d3f69d87eb55375509f885e7a96a8055220254" status="verified"/>
+	</game>
+	<game name="Takahashi Meijin no Shin Bouken-jima (Japan) (En)" id="0359" cloneofid="0244">
+		<category>Games</category>
+		<description>Takahashi Meijin no Shin Bouken-jima (Japan) (En)</description>
+		<rom name="Takahashi Meijin no Shin Bouken-jima (Japan) (En).pce" size="524288" crc="e415ea19" md5="7bb9c15803e5af75a1e773c29a6db39d" sha1="ab179fc81694676f57d0ce2e0834c875f36271b0" sha256="7fe109c6f277c3bb7da3ff3935be7389c6a03cab4e0e7dcd8329e7c8eb24ed24" status="verified"/>
+	</game>
+	<game name="Takahashi Meijin no Shin Bouken-jima (Japan) (En) (Wii U Virtual Console)" id="2493" cloneofid="0244">
+		<category>Games</category>
+		<description>Takahashi Meijin no Shin Bouken-jima (Japan) (En) (Wii U Virtual Console)</description>
+		<rom name="Takahashi Meijin no Shin Bouken-jima (Japan) (En) (Wii U Virtual Console).pce" size="524288" crc="b0a4ef0b" md5="68eaac739c7103e228a20e3e1fb669e6" sha1="a1904d761d9874f460dfbbcd06d4fcfdc3bcb929" sha256="46fe2bb0527034447c6af095a485abc8a1594de65ea3189b33e1fe28b9d9dd60"/>
+	</game>
+	<game name="Takeda Shingen (Japan)" id="0360">
+		<category>Games</category>
+		<description>Takeda Shingen (Japan)</description>
+		<rom name="Takeda Shingen (Japan).pce" size="262144" crc="f022be13" md5="a7c20f8d0359b63c568a1ab6ee560cc0" sha1="902202b2990b1737db3ab4d7db801715d54eb814" sha256="7c49fbcf800e0fc0afe3332a90c535aa39a8010b72192c92d3913bedaa2cba17" status="verified"/>
+	</game>
+	<game name="Takin' It to the Hoop (USA)" id="0362">
+		<category>Games</category>
+		<description>Takin' It to the Hoop (USA)</description>
+		<rom name="Takin' It to the Hoop (USA).pce" size="262144" crc="e9d51797" md5="ffba5f3b04a2faf9a991e8fa3a5d4008" sha1="1f36230efde7025730c1a0dbf3aa47b887440ecd" sha256="1c45ef3e86f54102458ca77a1455b46793c23f2cbf5e3e370b4460119d3e758d" status="verified"/>
+	</game>
+	<game name="TaleSpin (USA)" id="0363">
+		<category>Games</category>
+		<description>TaleSpin (USA)</description>
+		<rom name="TaleSpin (USA).pce" size="524288" crc="bae9cecc" md5="729f10adbf2b8b90d62ce79a7e48c8d1" sha1="987d16a0f329fc6831fc9b6dea1234684925aab4" sha256="f611542440d6a3302d73170a52829f248fe34dfb4a794a7f29498a623294d44c"/>
+	</game>
+	<game name="Tatsujin (Japan) (En)" id="0364">
+		<category>Games</category>
+		<description>Tatsujin (Japan) (En)</description>
+		<rom name="Tatsujin (Japan) (En).pce" size="524288" crc="a6088275" md5="0674f72871d7a779d262b519d244e33a" sha1="dda768075fbf8c0624e2c1f217b1092513b1c942" sha256="5ee2ef834cc2cec4ee770156d9cad90c67c1cb1d77dd243f02700deabdf8a034"/>
+	</game>
+	<game name="Tatsujin (Japan) (En) (Beta)" id="0365" cloneofid="0364">
+		<category>Games</category>
+		<description>Tatsujin (Japan) (En) (Beta)</description>
+		<rom name="Tatsujin (Japan) (En) (Beta).pce" size="524288" crc="c1b26659" md5="d1b5fe051c357a2f8d166697d0f7db09" sha1="c36fb68b7fda1e4e1d021f6ae00522c9832bd225" sha256="57945da41a69e630aee630cc491d3dedfd10543380ffa229b3f56ed2d21535ed"/>
+	</game>
+	<game name="Tatsunoko Fighter (Japan)" id="0366">
+		<category>Games</category>
+		<description>Tatsunoko Fighter (Japan)</description>
+		<rom name="Tatsunoko Fighter (Japan).pce" size="262144" crc="eeb6dd43" md5="3a12c1ffbf5773f52a6d327cbfe0b214" sha1="f0de077362365d8216eeba0f89cec9cae4cdc132" sha256="a9544015f1a00f263878769e39eb50680a2b7020b9a06661af73938a230713f2" status="verified"/>
+	</game>
+	<game name="Ten no Koe Bank (Japan)" id="0367">
+		<category>Miscellaneous</category>
+		<description>Ten no Koe Bank (Japan)</description>
+		<rom name="Ten no Koe Bank (Japan).pce" size="131072" crc="3b3808bd" md5="e0047b06dc84cb242cced8c5fa7efafe" sha1="8ade1c698e0cb96ce3ed01986c7e5268aa5a1451" sha256="16d43e32b34ed40b0a59f4122370f4d973af33a6122c9ccbfab6bb21cf36f1b3" status="verified"/>
+	</game>
+	<game name="Tenseiryuu - Saint Dragon (Japan) (En)" id="0368">
+		<category>Games</category>
+		<description>Tenseiryuu - Saint Dragon (Japan) (En)</description>
+		<rom name="Tenseiryuu - Saint Dragon (Japan) (En).pce" size="393216" crc="2e278ccb" md5="92857243d4e985f1a58bec9cb2e16d58" sha1="a9637a5efeb555426a44ae1cc86ed25a9520759d" sha256="f879450b245891688177e53b845c07884e104bd647809ba5410370757c42f6f5" status="verified"/>
+	</game>
+	<game name="Terra Cresta II - Mandoler no Gyakushuu (Japan) (En)" id="0369">
+		<category>Games</category>
+		<description>Terra Cresta II - Mandoler no Gyakushuu (Japan) (En)</description>
+		<rom name="Terra Cresta II - Mandoler no Gyakushuu (Japan) (En).pce" size="524288" crc="1b2d0077" md5="64716e1013c5230e25f0249d8e641d5b" sha1="c58d3ea8df6cb518349d431d6b3d6fd2c14898ec" sha256="aff5f6531cd9e82f066941ee3c9f7daf79b0a4413b90322d203de6fbe7f57ca9"/>
+	</game>
+	<game name="Thunder Blade (Japan) (En)" id="0370">
+		<category>Games</category>
+		<description>Thunder Blade (Japan) (En)</description>
+		<rom name="Thunder Blade (Japan) (En).pce" size="524288" crc="ddc3e809" md5="b4bf32b4d986fa5f53115c3f361a8679" sha1="553f8026dd68e85cd17855adbf920b3971acfdc4" sha256="f7c761aa5068badc6a52a473cad76993a699f04efcc6ec38e5c0d932d79f9366" status="verified"/>
+	</game>
+	<game name="Tiger Road (USA)" id="0371">
+		<category>Games</category>
+		<description>Tiger Road (USA)</description>
+		<rom name="Tiger Road (USA).pce" size="393216" crc="985d492d" md5="189aec122ac913609c955c7c62aaa2e2" sha1="2535994f2be5d7b80cf5725505a4b8e30daef236" sha256="1e3548093a4e1a67e29ae472579e54d7f057db3fd4dd0f4adb76ae27f9a77553"/>
+	</game>
+	<game name="Time Cruise (USA)" id="0372">
+		<category>Games</category>
+		<description>Time Cruise (USA)</description>
+		<rom name="Time Cruise (USA).pce" size="524288" crc="02c39660" md5="28efe8b957a43facba53afe2aec38a69" sha1="55557a972375e58e5fcc5ee113d0ca40b332bbb2" sha256="8ab675036971d15538f0c63ea17d2542dcb437c6467ff3098ac083201d1d8764"/>
+	</game>
+	<game name="Time Cruise II (Japan) (En)" id="0373" cloneofid="0372">
+		<category>Games</category>
+		<description>Time Cruise II (Japan) (En)</description>
+		<rom name="Time Cruise II (Japan) (En).pce" size="524288" crc="cfec1d6a" md5="fac1e4b316c405a0477341b3fc22ec08" sha1="84bf83124a77ff67aaa0ea3f34ad9edbb755454d" sha256="70b97f459faeb09be4e7f6c546bb7d173561fcdf505764e23e7a25605056f541"/>
+	</game>
+	<game name="Timeball (USA)" id="0374">
+		<category>Games</category>
+		<description>Timeball (USA)</description>
+		<rom name="Timeball (USA).pce" size="131072" crc="5d395019" md5="5ea85e345f3970ec6edf45da758121a0" sha1="bd11ef42d932a1cf89fe7dc81a2f4b7a3ee06e4e" sha256="849c520a22e6b166f34ccf7a5a56d2b1f3e9c43aa860d7df90cec7558078d3a9"/>
+	</game>
+	<game name="Titan (Japan) (En)" id="0375">
+		<category>Games</category>
+		<description>Titan (Japan) (En)</description>
+		<rom name="Titan (Japan) (En).pce" size="262144" crc="d20f382f" md5="a9f182b617533d24200b4e39b2b311ad" sha1="7d12a65453c8d3d539104904a9a1eb9e429f9ab4" sha256="7d83395c8ccc97f82d1befead829439532de7306ad0fd0ee02f1629f72a1677f" status="verified"/>
+	</game>
+	<game name="Toilet Kids (Japan)" id="0376">
+		<category>Games</category>
+		<description>Toilet Kids (Japan)</description>
+		<rom name="Toilet Kids (Japan).pce" size="524288" crc="53b7784b" md5="7759f9e0a001483ae1fa2ea2a186e4c1" sha1="1148ec489899928592212ceac61c83cbc67751cb" sha256="ce989fa1024eda5d8808fd9019e03a3099380e24606c1dfd81c1f8c72cd85b4d"/>
+	</game>
+	<game name="Tora e no Michi (Japan)" id="0377" cloneofid="0371">
+		<category>Games</category>
+		<description>Tora e no Michi (Japan)</description>
+		<rom name="Tora e no Michi (Japan).pce" size="393216" crc="82ae3b16" md5="e29c489f69b1fcbd37937fa4d31f9d0c" sha1="ea66f8c1be62e853b72f93a3a1e3b597356ae62f" sha256="b571229a96f9453b73eca2f4fb7eab38ccafa03fb3c03eb9368f2cb487532844" status="verified"/>
+	</game>
+	<game name="Tower of Druaga, The (Japan)" id="0379">
+		<category>Games</category>
+		<description>Tower of Druaga, The (Japan)</description>
+		<rom name="Tower of Druaga, The (Japan).pce" size="524288" crc="72e00bc4" md5="df4fa7ddc1a4e8cc29dc67e700b2a55a" sha1="1d34d947d9dfd4d7a3e1a0dda789645cd8c4ac29" sha256="822eaccbe575211c1022d8ff823c36a54e240c7072479e84c4b02d438bba5a19" status="verified"/>
+	</game>
+	<game name="Toy Shop Boys (Japan) (En)" id="0380">
+		<category>Games</category>
+		<description>Toy Shop Boys (Japan) (En)</description>
+		<rom name="Toy Shop Boys (Japan) (En).pce" size="262144" crc="97c5ee9a" md5="982f85207499ecd6530fcd6e18e2061c" sha1="d552223399ff54c3664a5a06fc620ffb717cea57" sha256="c6cb14a104fa4861169664986260d8d3992a141452be3d84fc1b0ad4db874132" status="verified"/>
+	</game>
+	<game name="Tricky (Japan)" id="0381" cloneofid="0382">
+		<category>Games</category>
+		<description>Tricky (Japan)</description>
+		<rom name="Tricky (Japan).pce" size="262144" crc="3aea2f8f" md5="afd88ae448d851e58bade33abe3a4a47" sha1="009e0ea4203bab968cea3cd9428c633ce2c5c26e" sha256="22bcc5f49d847344beb696b0adec681b00bccd03d30df1a317de0db6fb3a5269" status="verified"/>
+	</game>
+	<game name="Tricky Kick (USA)" id="0382">
+		<category>Games</category>
+		<description>Tricky Kick (USA)</description>
+		<rom name="Tricky Kick (USA).pce" size="262144" crc="48e6fd34" md5="8621c1eed634bddc9d232bb303a2c260" sha1="3fb1ba72af0e7ae33e35ae30ce0b7319adece208" sha256="6ec4f794011f0dabda5bb0a365671b43e734c158e69460581d0a4e909ac24d4a"/>
+	</game>
+	<game name="Tsuppari Oozumou - Heisei Ban (Japan)" id="0383">
+		<category>Games</category>
+		<description>Tsuppari Oozumou - Heisei Ban (Japan)</description>
+		<rom name="Tsuppari Oozumou - Heisei Ban (Japan).pce" size="262144" crc="61a6e210" md5="6c75e08df27d78da7e6607782374576d" sha1="24df2dfec320b5dd04cf3d01cc586954bd33f72d" sha256="8723c11ec54b2c52cedd5619c4852ce4632d30285433d23cf14c6819b3610c31"/>
+	</game>
+	<game name="Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)" id="0384">
+		<category>Games</category>
+		<description>Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)</description>
+		<rom name="Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).pce" size="262144" crc="f70112e5" md5="191df80c4ead5f5acdb24c7ec2c93331" sha1="b07b7365f07607b5d528cd82bdcfeab40fb1afc4" sha256="2342573c3e5999db0f0914a2ea0488cfdc6eb1e696660143c1416d21bb21d1e7" status="verified"/>
+	</game>
+	<game name="Turrican (USA)" id="0385">
+		<category>Games</category>
+		<description>Turrican (USA)</description>
+		<rom name="Turrican (USA).pce" size="262144" crc="eb045edf" md5="52d40c4e0a8435308c22c69a54e4baae" sha1="a5830c0d5cd94e3c6f33e1799bb123857400b1bc" sha256="62bc16e81374bd98f627ae18cdbaf1bc68037e42e209d88b25b230c406501a16"/>
+	</game>
+	<game name="TV Sports Baseball (USA) (Proto)" id="2468">
+		<category>Games</category>
+		<description>TV Sports Baseball (USA) (Proto)</description>
+		<rom name="TV Sports Baseball (USA) (Proto).pce" size="524288" crc="b6b38d61" md5="9561486f27c94d8a326f0d321ad4f65b" sha1="b37e446f0bf62c582c82f32dc3f2fc080acf2cbc" sha256="8e8294f197aa260271d59a5971369523bb6ff8d52bab0ae6b40044f3875e8c86"/>
+	</game>
+	<game name="TV Sports Basketball (USA)" id="0387">
+		<category>Games</category>
+		<description>TV Sports Basketball (USA)</description>
+		<rom name="TV Sports Basketball (USA).pce" size="524288" crc="ea54d653" md5="36da17b2e751ec8660bb12f9cb2eb6b2" sha1="6c0fdeafa9dc1c4b7f935866e5bc620dd3151f3c" sha256="0b622f12a9d2218ef84461f316c9ffacb020e5a552ec93dc47b9b07b1aefe7e0"/>
+	</game>
+	<game name="TV Sports Basketball (Japan)" id="0386" cloneofid="0387">
+		<category>Games</category>
+		<description>TV Sports Basketball (Japan)</description>
+		<rom name="TV Sports Basketball (Japan).pce" size="524288" crc="10b60601" md5="6bfe35219d3e479489befb2921a5ea7b" sha1="a4b8766db8acc6e8f76772b278609f80e55af67f" sha256="36e2486ca9fc4804a6618ce4d04bd8febea213336874d7054b15612cd8071b69" status="verified"/>
+	</game>
+	<game name="TV Sports Football (USA)" id="0389">
+		<category>Games</category>
+		<description>TV Sports Football (USA)</description>
+		<rom name="TV Sports Football (USA).pce" size="393216" crc="5e25b557" md5="94dc4d0d2a35a151b01f8a0433b12b12" sha1="b73f44ad60e0f4b13c6b80f5509cb51245cc8106" sha256="c8a438359f1a65c0f0a079b2c89274760b34a78e32244f11b677eca43c5f22e4" status="verified"/>
+	</game>
+	<game name="TV Sports Football (Japan)" id="0388" cloneofid="0389">
+		<category>Games</category>
+		<description>TV Sports Football (Japan)</description>
+		<rom name="TV Sports Football (Japan).pce" size="393216" crc="968d908a" md5="f3ca8091a325067f442630af4cb4e53b" sha1="2ba8e2da6e2aa26722cdc5f1646163444b2bb98f" sha256="16f4b39a916e8db28f6ec4094d0612de82bb5ad40a30aceb8488752376b08d8f" status="verified"/>
+	</game>
+	<game name="TV Sports Hockey (USA)" id="0391">
+		<category>Games</category>
+		<description>TV Sports Hockey (USA)</description>
+		<rom name="TV Sports Hockey (USA).pce" size="393216" crc="97fe5bcf" md5="85b530cc0513f23f1bcced8be7f7e503" sha1="f5cde3af4fac59e402a9c96c4adbbc9e55ce5936" sha256="866b93e455a2ebe5afff9386b517e02d1feb03e72c276ad8e7e3423e48c9a061"/>
+	</game>
+	<game name="TV Sports Hockey (Japan) (En)" id="0390" cloneofid="0391">
+		<category>Games</category>
+		<description>TV Sports Hockey (Japan) (En)</description>
+		<rom name="TV Sports Hockey (Japan) (En).pce" size="393216" crc="e7529890" md5="94d50a7e9871935c32a97c11e27de39a" sha1="7ef8bc6e42c4bf023802a659c7856670dae02449" sha256="0c4605a3c5fe9c035dda9478cbe06bf92884198dac112e2060435c9469d0b5b1"/>
+	</game>
+	<game name="USA Pro Basketball (Japan)" id="0392" cloneofid="0362">
+		<category>Games</category>
+		<description>USA Pro Basketball (Japan)</description>
+		<rom name="USA Pro Basketball (Japan).pce" size="262144" crc="1cad4b7f" md5="63b5ffe340e140aa2b4b2c6c8635934b" sha1="62f3e0c56d22c015bea15fe04cd16fae380fefcd" sha256="1f1c0158a3bfc25001ac7ccf0e65ca320109199c6d20af666d71f608a26456de" status="verified"/>
+	</game>
+	<game name="Valkyrie no Densetsu (Japan)" id="0403">
+		<category>Games</category>
+		<description>Valkyrie no Densetsu (Japan)</description>
+		<rom name="Valkyrie no Densetsu (Japan).pce" size="524288" crc="a3303978" md5="f08a37d37a69315652e1a0ec8dbba650" sha1="2054898ae28f962d2e20cdaca62e8b88e932f304" sha256="633e6cea16faa32a135099f6002ef08f253781ea26a03add646f18fcfecc71ce" status="verified"/>
+	</game>
+	<game name="Veigues - Tactical Gladiator (USA)" id="0394">
+		<category>Games</category>
+		<description>Veigues - Tactical Gladiator (USA)</description>
+		<rom name="Veigues - Tactical Gladiator (USA).pce" size="393216" crc="99d14fb7" md5="757754c27f380ce3f574bb861d641247" sha1="88a858feeba77031e7d2fb85e563aafcbd9b0b39" sha256="6a4da2c82128221431cc47020ad423e25c50a24fd03ccdd7cbbd5a775f40ba37"/>
+	</game>
+	<game name="Veigues - Tactical Gladiator (Japan) (En)" id="0393" cloneofid="0394">
+		<category>Games</category>
+		<description>Veigues - Tactical Gladiator (Japan) (En)</description>
+		<rom name="Veigues - Tactical Gladiator (Japan) (En).pce" size="393216" crc="04188c5c" md5="98e5da6e3b6bf779a419149e5d97a53c" sha1="da66c085ecbb317cb160cb192142a3d2c044f26f" sha256="875068212848f6016ff90ada41d76386e06f7f8f724a1f5935707ac8436b35d1" status="verified"/>
+	</game>
+	<game name="Victory Run (USA)" id="0396">
+		<category>Games</category>
+		<description>Victory Run (USA)</description>
+		<rom name="Victory Run (USA).pce" size="262144" crc="85cbd045" md5="bc4361c967514ef29293778ad748a6b7" sha1="bab16031a16490415cedd5ba47cbe4cadc3d8727" sha256="769aafaee88972586a77c2b4359ad837844a429a7e7b86ae36d25fcaf0266b20"/>
+	</game>
+	<game name="Victory Run (USA, Europe) (Wii U Virtual Console)" id="2501" cloneofid="0396">
+		<category>Games</category>
+		<description>Victory Run (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="Victory Run (USA, Europe) (Wii U Virtual Console).pce" size="262144" crc="aac2876f" md5="3cce47219328affaf32282ec7b897011" sha1="e7d5aa410119874a6854d768429c18f387fda225" sha256="9d873cb9db9b11e443ff2336a0c2d8b4d4d59c9557ad4a7b1caeb004dd8ba200"/>
+	</game>
+	<game name="Victory Run - Eikou no 13,000km (Japan) (En)" id="0395" cloneofid="0396">
+		<category>Games</category>
+		<description>Victory Run - Eikou no 13,000km (Japan) (En)</description>
+		<rom name="Victory Run - Eikou no 13,000km (Japan) (En).pce" size="262144" crc="03e28cff" md5="1a09d66caead5bc0f7669dc1af346d9c" sha1="68044c5fb23f27697ff88657a22ef60ff6d61396" sha256="5e2bce8efbba82bd89efd571c3534360344797262a5762cdf253aa61e01523a1" status="verified"/>
+	</game>
+	<game name="Victory Run - Eikou no 13,000km (Japan) (En) (Wii U Virtual Console)" id="2502" cloneofid="0396">
+		<category>Games</category>
+		<description>Victory Run - Eikou no 13,000km (Japan) (En) (Wii U Virtual Console)</description>
+		<rom name="Victory Run - Eikou no 13,000km (Japan) (En) (Wii U Virtual Console).pce" size="262144" crc="2cebdbd5" md5="fd8310e74d8d038f445c77344aa3668d" sha1="704a5d81259e3539a69261583c57127d4616df2b" sha256="0be2db7692dad3dbac6c6189c651d283468f64aaf50ae78e421ad91794aa4f56"/>
+	</game>
+	<game name="Vigilante (Japan) (En)" id="0397" cloneofid="0398">
+		<category>Games</category>
+		<description>Vigilante (Japan) (En)</description>
+		<rom name="Vigilante (Japan) (En).pce" size="393216" crc="e4124fe0" md5="4333192a22a121772356d3821d445a69" sha1="a43ddb6b9d70c7597788abd363b5df719b70bc46" sha256="2581fae9ab10ca6da900c09c68594e632d394b9a1eb885f4cd01e0f1382a1cb6" status="verified"/>
+	</game>
+	<game name="Vigilante (USA)" id="0398">
+		<category>Games</category>
+		<description>Vigilante (USA)</description>
+		<rom name="Vigilante (USA).pce" size="393216" crc="79d49a0d" md5="589f7ceb0bd851f6442e53858a0dc51c" sha1="f77d83af4f1e733faf813b5e78ecc2cbb19d3b25" sha256="a6d0c3a9a9f0b212ff862f2a1cca21e5ffda124c037c3afbcde042bd39d49c55"/>
+	</game>
+	<game name="Violent Soldier (Japan) (En)" id="0399" cloneofid="0329">
+		<category>Games</category>
+		<description>Violent Soldier (Japan) (En)</description>
+		<rom name="Violent Soldier (Japan) (En).pce" size="393216" crc="1bc36b36" md5="6e1f6d152f17b6008d1968d016c34a1a" sha1="76581fe7acb707b1e5bab2ac27cd27e3ed06078a" sha256="63f78218d18ded32fa291a6ad26c2c8812c623d3c61cd934cc9676a8d8e47740" status="verified"/>
+	</game>
+	<game name="Volfied (Japan) (En)" id="0400">
+		<category>Games</category>
+		<description>Volfied (Japan) (En)</description>
+		<rom name="Volfied (Japan) (En).pce" size="393216" crc="ad226f30" md5="998cfe18bf12b235462d21eb6d80c25f" sha1="0ecee557815b93fc37f2f5675c2c01c77ef8569e" sha256="bddf46819ad75331ac907c64a83e352e0d1e8b2e642ae680a8ef7cfaacb4880a" status="verified"/>
+	</game>
+	<game name="W-Ring - The Double Rings (Japan) (En)" id="0401">
+		<category>Games</category>
+		<description>W-Ring - The Double Rings (Japan) (En)</description>
+		<rom name="W-Ring - The Double Rings (Japan) (En).pce" size="393216" crc="be990010" md5="7c5f8476e6b5ec9e56f4b67a00f022e7" sha1="95d0a95ce9f08da3f096cfdc654ba5dfeb794add" sha256="3fa8da5f2d54bcd7aff9bf420692778e2c3870300822e796ecb8433479b8d627"/>
+	</game>
+	<game name="Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan)" id="0402">
+		<category>Games</category>
+		<description>Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan)</description>
+		<rom name="Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).pce" size="262144" crc="a2a0776e" md5="7b0ed7b884b3d6690c3a586c682f3adc" sha1="8f478a023a97b0979232f1e296bbf0a6c0b2ef8b" sha256="120aa366e1894f9bdc425507583a4ea487f1176428778251030d97b762fc25ce" status="verified"/>
+	</game>
+	<game name="Wallaby!! (Japan)" id="0404">
+		<category>Games</category>
+		<description>Wallaby!! (Japan)</description>
+		<rom name="Wallaby!! (Japan).pce" size="393216" crc="0112d0c7" md5="597331c0b7cf491d042a055ed1e2ab9e" sha1="03ad5a8b2bb65eabebe73c1e2ca1e1846cc172bf" sha256="fec522ab9fe4474338138341b21dd593844f8a6eb0227d96f72133a9f8e9efa2" status="verified"/>
+	</game>
+	<game name="Wallaby!! (Japan) (Wii U Virtual Console)" id="2506" cloneofid="0404">
+		<category>Games</category>
+		<description>Wallaby!! (Japan) (Wii U Virtual Console)</description>
+		<rom name="Wallaby!! (Japan) (Wii U Virtual Console).pce" size="393216" crc="7d023b19" md5="37701ac2f3ec40d21a75c2aa879a5f57" sha1="8348f52019a47598c3fb7583350bbb0fc56d642c" sha256="827458cfb2dab26986703fa1411fbd8d34ff7af97e219873eeb9a7631d5dff7d"/>
+	</game>
+	<game name="Winning Shot (Japan)" id="0405">
+		<category>Games</category>
+		<description>Winning Shot (Japan)</description>
+		<rom name="Winning Shot (Japan).pce" size="262144" crc="9b5ebc58" md5="039fb7644dc73ded9744a1d73fde9e72" sha1="039ff38e6221b4b7722144e85dc7c84873d7efe6" sha256="96f41bd8e07a8a745e7fee4999e2726dfcd39c10c829cb71f759ce2f0173efcd" status="verified"/>
+	</game>
+	<game name="Wonder Momo (Japan)" id="0406">
+		<category>Games</category>
+		<description>Wonder Momo (Japan)</description>
+		<rom name="Wonder Momo (Japan).pce" size="262144" crc="59d07314" md5="367c426ccd7b9ce45e86a836d83d17db" sha1="5af6050a0a549e73f05a2d06fd2f55a93027be5f" sha256="029eb44602a859543516ebc9dab20bf109f8e64f56fb4aab887bb7489f1cd352" status="verified"/>
+	</game>
+	<game name="World Beach Volley (Japan) (En)" id="0407" cloneofid="0336">
+		<category>Games</category>
+		<description>World Beach Volley (Japan) (En)</description>
+		<rom name="World Beach Volley (Japan) (En).pce" size="262144" crc="be850530" md5="01b12cf69e894990d7184b308890b1b2" sha1="8aa42b9024820e7e503e9b9e8ac05e424643ef81" sha256="3c0722c1095b50938da060119d0b63732a2b3623072f01376d99bb5f8fc18007" status="verified"/>
+	</game>
+	<game name="World Circuit (Japan)" id="0408">
+		<category>Games</category>
+		<description>World Circuit (Japan)</description>
+		<rom name="World Circuit (Japan).pce" size="262144" crc="b3eeea2e" md5="f6402df31096393d038585bdeafe44d5" sha1="18909a1215da66f6d16eab4251b574b86d2b748e" sha256="8107282b3b8797a7ca7ea0291145a379d60ac117301c65f43cf004e68b71dbfa" status="verified"/>
+	</game>
+	<game name="World Class Baseball (USA, Europe) (Wii Virtual Console)" id="0426" cloneofid="0409">
+		<category>Games</category>
+		<description>World Class Baseball (USA, Europe) (Wii Virtual Console)</description>
+		<rom name="World Class Baseball (USA, Europe) (Wii Virtual Console).pce" size="262144" crc="61b3c8c8" md5="1298416a88fc063775fb165c3ad430a9" sha1="f4396a9bcaaf94a02b6c77d0b45fb3ea55afdd84" sha256="8384ec17561c8a3991565cc1862258711e9f27b80e31b6676d5b7042d2685abd" status="verified"/>
+	</game>
+	<game name="World Class Baseball (USA)" id="0409">
+		<category>Games</category>
+		<description>World Class Baseball (USA)</description>
+		<rom name="World Class Baseball (USA).pce" size="262144" crc="4186d0c0" md5="b125af2edd2f27e04e693b4b5112fed7" sha1="fab372a908533fd444b6c829f881f2de103d93b6" sha256="6ef204d689fbb41da7c047d9b79c2ee115a55cf0344d3d64c787fc79f14d01e1" status="verified"/>
+	</game>
+	<game name="World Court Tennis (USA)" id="0410">
+		<category>Games</category>
+		<description>World Court Tennis (USA)</description>
+		<rom name="World Court Tennis (USA).pce" size="262144" crc="a4457df0" md5="994d61834e2ee91313b75618ce213971" sha1="d302676c409a59628935298b95c7ba43359b29bb" sha256="60c69ee6806aa614459549633bdc728e105f8592e535fcc796c24cd6d76a6bd1"/>
+	</game>
+	<game name="World Jockey (Japan)" id="0411">
+		<category>Games</category>
+		<description>World Jockey (Japan)</description>
+		<rom name="World Jockey (Japan).pce" size="262144" crc="a9ab2954" md5="5614339b28e660212ab596311f4f59d3" sha1="9fdeb0c34ea8b8d2a09aeb476435ef9d92e75573" sha256="5d6d21bafad1daddce338da166b3258210b5c03e5cfbab835c41ed694986c7bb" status="verified"/>
+	</game>
+	<game name="World Sports Competition (USA)" id="0412">
+		<category>Games</category>
+		<description>World Sports Competition (USA)</description>
+		<rom name="World Sports Competition (USA).pce" size="524288" crc="4b93f0ac" md5="e413c2a7769831419c4efc9782dc4f97" sha1="1f301c468197c382c98692712db2fdee0a29525f" sha256="2decf3cadfd6679f0f884b05a406b9d098bf59cead5cb3378bccc063e0d49460"/>
+	</game>
+	<game name="World Sports Competition (USA, Europe) (Wii U Virtual Console)" id="2503" cloneofid="0412">
+		<category>Games</category>
+		<description>World Sports Competition (USA, Europe) (Wii U Virtual Console)</description>
+		<rom name="World Sports Competition (USA, Europe) (Wii U Virtual Console).pce" size="524288" crc="9aeb5d26" md5="193c00ae4e592d3c288e34e893726b05" sha1="f8457f40c24a7b2064eee1050eb40f6ec0be3f88" sha256="2467d9681bfc76477eac4e7ca4bca656fad7711cc363b429df61624b0ff9ce09"/>
+	</game>
+	<game name="Xevious - Fardraut Densetsu (Japan)" id="0413">
+		<category>Games</category>
+		<description>Xevious - Fardraut Densetsu (Japan)</description>
+		<rom name="Xevious - Fardraut Densetsu (Japan).pce" size="262144" crc="f8f85eec" md5="4ec600e148ca399c1c1f215949430129" sha1="13da0500ace1957d0748b11dfaae68e40e71230e" sha256="35ccd3f4ddd229cb5795604acf3ce59aa683030078c5a5351d1df0d4e424a779" status="verified"/>
+	</game>
+	<game name="Yo' Bro (USA)" id="0414">
+		<category>Games</category>
+		<description>Yo' Bro (USA)</description>
+		<rom name="Yo' Bro (USA).pce" size="524288" crc="3ca7db48" md5="8aaad7004680ebede55b2c39af87bb3b" sha1="efff8d352af6c1d08899bac77fc3ddc994e0a3ba" sha256="b10965284827d2b2849ff4cb962a8a4ebe33097be58fd88c2c4973d886ba98a3"/>
+	</game>
+	<game name="You-You Jinsei (Japan)" id="0416">
+		<category>Games</category>
+		<description>You-You Jinsei (Japan)</description>
+		<rom name="You-You Jinsei (Japan).pce" size="262144" crc="c0905ca9" md5="e25d51114a230e039f8dd3b761fd23d3" sha1="c59f0d5248373bc00ea19a9e4f08e461c27e5fea" sha256="98e17bb13d41fc737999c488a5db97360c11f67af408bcb71bbe35c003f0d738" status="verified"/>
+	</game>
+	<game name="Youkai Douchuuki (Japan)" id="0427">
+		<category>Games</category>
+		<description>Youkai Douchuuki (Japan)</description>
+		<rom name="Youkai Douchuuki (Japan).pce" size="262144" crc="80c3f824" md5="cd2c47eaeb842cbcfe2ebcbe5710bf61" sha1="a258201c6258c8e108c7ce80a39c456ef9116260" sha256="4dc80fe43008d28af00b82996b742d02403e704441c0ed432382a4f756324a3a" status="verified"/>
+	</game>
+	<game name="Zero4 Champ (Japan)" id="0417" cloneofid="0418">
+		<category>Games</category>
+		<description>Zero4 Champ (Japan)</description>
+		<rom name="Zero4 Champ (Japan).pce" size="524288" crc="ee156721" md5="a755177ecfe1910928fa74d818a10e7c" sha1="79d9878e285e426b9ca58e15249a1bc98186d4e9" sha256="e700c589c5ee878aeb78d15ca1c3cd955636200f03f3d73f3fe194623ecc9b71" status="verified"/>
+	</game>
+	<game name="Zero4 Champ (Japan) (V1.5)" id="0418">
+		<category>Games</category>
+		<description>Zero4 Champ (Japan) (V1.5)</description>
+		<rom name="Zero4 Champ (Japan) (V1.5).pce" size="524288" crc="b77f2e2f" md5="cf51006c86541b94e8305f456c4d47c5" sha1="2b664760931cc6011d31cae310410dab7cba2067" sha256="655296c4ed280da017717a0279e823c32e1bb8b30ffe146f7e9e785ef66b6216"/>
+	</game>
+	<game name="Zipang (Japan) (En)" id="0419">
+		<category>Games</category>
+		<description>Zipang (Japan) (En)</description>
+		<rom name="Zipang (Japan) (En).pce" size="262144" crc="67aab7a1" md5="749a1613022e9efe29dec953c3ecce9f" sha1="7b6214df81a978ab8d73e437510f5230e83403bd" sha256="bffec3c8c0e32438f45910fb80887070928f085a907be3ca51189d6c32489a50" status="verified"/>
+	</game>
+</datafile>

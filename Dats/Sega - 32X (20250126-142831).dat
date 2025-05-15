@@ -1,0 +1,866 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>17</id>
+		<name>Sega - 32X</name>
+		<description>Sega - 32X</description>
+		<version>20250126-142831</version>
+		<author>bikerspade, BitLooter, ElBarto, FakeShemp, gigadeath, Hiccup, nnssxx, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] 32X M68000 (USA)" id="0002">
+		<description>[BIOS] 32X M68000 (USA)</description>
+		<rom name="[BIOS] 32X M68000 (USA).bin" size="256" crc="5c12eae8" md5="6a5433f6a132a2b683635819a6dcf085" sha1="dbebd76a448447cb6e524ac3cb0fd19fc065d944"/>
+	</game>
+	<game name="[BIOS] 32X SH-2 Master (USA)" id="0003">
+		<description>[BIOS] 32X SH-2 Master (USA)</description>
+		<rom name="[BIOS] 32X SH-2 Master (USA).bin" size="2048" crc="dd9c46b8" md5="f88354ec482be09aeccd76a97bb75868" sha1="1e5b0b2441a4979b6966d942b20cc76c413b8c5e" sha256="4c6128229bd24dae5f11d3f569ca592665f141bef26cef937e2ce4d9b548cc3b"/>
+	</game>
+	<game name="[BIOS] 32X SH-2 Slave (USA)" id="0004">
+		<description>[BIOS] 32X SH-2 Slave (USA)</description>
+		<rom name="[BIOS] 32X SH-2 Slave (USA).bin" size="1024" crc="bfda1fe5" md5="7f041b6a55cd7423a6c08a219335269e" sha1="4103668c1bbd66c5e24558e73d4f3f92061a109a"/>
+	</game>
+	<game name="32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)" id="0001">
+		<description>32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)</description>
+		<rom name="32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).32x" size="524288" crc="542ad12e" md5="62d3b8f18c3d90afe343d07ead9c1d4c" sha1="b2b7938d5c9a207efecf9f5054308f5772c8c25f"/>
+	</game>
+	<game name="After Burner Complete (Europe)" id="0005">
+		<description>After Burner Complete (Europe)</description>
+		<rom name="After Burner Complete (Europe).32x" size="2097152" crc="029106f5" md5="a8e05bd3cdf97e1811ebd6d52c4371a7" sha1="c7d56cc75dc9a5206fda6a080cbedae9f48c82bc"/>
+	</game>
+	<game name="After Burner Complete (Japan, USA) (En)" id="0006" cloneofid="0005">
+		<description>After Burner Complete (Japan, USA) (En)</description>
+		<rom name="After Burner Complete (Japan, USA) (En).32x" size="2097152" crc="204044c4" md5="ec9529858cc7961b39f5382b2f657b8f" sha1="9cf575feb036e2f26e78350154d5eb2fd3825325" status="verified"/>
+	</game>
+	<game name="Amazing Spider-Man, The - Web of Fire (USA)" id="0007">
+		<description>Amazing Spider-Man, The - Web of Fire (USA)</description>
+		<rom name="Amazing Spider-Man, The - Web of Fire (USA).32x" size="3145728" crc="29dce257" md5="a60b0838a776966e17a8f10b94baddef" sha1="7cc2ea1e10f110338ad880bd3e7ff3bce72e7e9e"/>
+	</game>
+	<game name="BC Racers (USA)" id="0008">
+		<description>BC Racers (USA)</description>
+		<rom name="BC Racers (USA).32x" size="3145728" crc="936c3d27" md5="35a11e021ca0b7ff909e4774eb8b3236" sha1="9b5fd499eaa442d48a2c97fceb1d505dc8e8ddff"/>
+	</game>
+	<game name="Blackthorne (USA)" id="0009">
+		<description>Blackthorne (USA)</description>
+		<rom name="Blackthorne (USA).32x" size="3145728" crc="d1a60a47" md5="c238b112113b0297b2b9f4f618d56598" sha1="4bf120cf056fe1417ca5b02fa0372ef33cb8ec11"/>
+	</game>
+	<game name="Brutal - Above the Claw (USA)" id="0010">
+		<description>Brutal - Above the Claw (USA)</description>
+		<rom name="Brutal - Above the Claw (USA).32x" size="3145728" crc="7a72c939" md5="1738a479b0253bcb0bcfb7bf09c03add" sha1="40aa2c787f37772cdbd7280b8be06b15421fabae"/>
+	</game>
+	<game name="ClayFighter 2 (USA) (Proto) (1995-04-28)" id="0064">
+		<description>ClayFighter 2 (USA) (Proto) (1995-04-28)</description>
+		<rom name="ClayFighter 2 (USA) (Proto) (1995-04-28).32x" size="1048576" crc="59701755" md5="dee27ac83240ddebdcaa92e9f58fde4f" sha1="1d3c372b55fa1418556aea1949995f997227b5fa"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En)" id="0013" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En).32x" size="3145728" crc="7c7be6a2" md5="32f3002a46a462735aa12ca856cb7652" sha1="9a563ed821b483148339561ebd2b876efa58847b" status="verified"/>
+	</game>
+	<game name="Cosmic Carnage (Europe)" id="0012">
+		<description>Cosmic Carnage (Europe)</description>
+		<rom name="Cosmic Carnage (Europe).32x" size="3145728" crc="9f3fdbc2" md5="8aadc467d31bc64f95a7fbe8f95afeb3" sha1="900e8ecdcc4460b4c4af3873e1d6bc83da4aee99"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06)" id="0067" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06).32x" size="3145728" crc="d4166241" md5="2a6755d2c4f00bc8569a3fd41dd556d8" sha1="f84006cee56748bf2c7249dec3c356409cb0e0a5"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21)" id="0068" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21).32x" size="4194304" crc="7b58141c" md5="4fd7b679099aaf9ebe8dec1603ec3780" sha1="926996f4b1f935ce4c3b46e902171c4b4da16385"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07)" id="0069" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).32x" size="3145728" crc="d8b04c24" md5="0eee6f56666fd70b3483bad9b5297a5e" sha1="c051de6dccc48352d51650f2712dbc7d62a1ec1a"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11)" id="0070" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11).32x" size="3145728" crc="e483498b" md5="52a2e8a8a6a031e0ae731d2efd65a982" sha1="bbdfe2b276c255247225efd1e8348be57a42ef4a"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04)" id="0072" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04).32x" size="3145728" crc="c6867772" md5="f2a81c48457191b4f3329792941ac71a" sha1="17cf3d4671a3313764df42e0f9a25133b0dc4ec9"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05)" id="0073" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05).32x" size="3145728" crc="bfe27f56" md5="0210673f0735f1f0956057243bef919c" sha1="99bb4c98c7de0668934ab91a6eb01c9f680918b9"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26)" id="0074" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26).32x" size="3145728" crc="f04f4366" md5="7f97f54d53a6adfcde9a56faaf448c34" sha1="512d3c9b51e2f3015265dc78757363f45fc0a788"/>
+	</game>
+	<game name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28)" id="0075" cloneofid="0012">
+		<description>Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28)</description>
+		<rom name="Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28).32x" size="3145728" crc="cf89175f" md5="ad83a93fc3a31444bdd89ddb11262c5d" sha1="443c961bfc441b4d0ace5f6e0a8d1bb7abf8ac28"/>
+	</game>
+	<game name="Darxide (Europe) (En,Fr,De,Es)" id="0014">
+		<description>Darxide (Europe) (En,Fr,De,Es)</description>
+		<rom name="Darxide (Europe) (En,Fr,De,Es).32x" size="2097152" crc="22d7c906" md5="30ee320f76db70a836edeff2c8ce9cd2" sha1="108b4ffed8643abdefa921cfb58389b119b47f3d"/>
+	</game>
+	<game name="Doom (Europe)" id="0015">
+		<description>Doom (Europe)</description>
+		<rom name="Doom (Europe).32x" size="3145728" crc="53734e3a" md5="1abe8b9b1855b1b101cb7f1d86395c22" sha1="4ec03c2114ebffbbcd16859583340d4ea4cd8dd5" status="verified"/>
+	</game>
+	<game name="Doom (Japan, USA) (En)" id="0016" cloneofid="0015">
+		<description>Doom (Japan, USA) (En)</description>
+		<rom name="Doom (Japan, USA) (En).32x" size="3145728" crc="208332fd" md5="79339867d9d4f58b169753d9a29ea1a5" sha1="b68e9c7af81853b8f05b8696033dfe4c80327e38" status="verified"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-09-09)" id="0076" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-09-09)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-09-09).32x" size="3894824" crc="8d757b51" md5="f9ac4fff9b19ac75fa6d22a89ea942c6" sha1="5697176636df575d8b65480708efa85544d44302"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-09-25)" id="0078" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-09-25)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-09-25).32x" size="3145728" crc="b9ae1316" md5="9abc704274f7d59f20832b2aa4d7ec8d" sha1="c3e78c38cfd2516f943a10f435664ba06790f1c4"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-09-27)" id="0081" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-09-27)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-09-27).32x" size="3145728" crc="12991053" md5="000d37e58327be661c6c9c6803077c5b" sha1="f7539c406821b5ae4bcb0f41fe2839d07ab1fdb2"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-09-23)" id="0082" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-09-23)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-09-23).32x" size="3145728" crc="abc3eb89" md5="54c0ae49bd3f514c60976a4e62b8527e" sha1="e472548171a4e6183f16618bfcb5b6c09e7d6744"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-09-06)" id="0083" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-09-06)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-09-06).32x" size="4194304" crc="646d5c47" md5="2f9dfd9c5e06f9df0cfbe0f7e2a425d7" sha1="4fda0184d688886314d929224d92b4a35c712675"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-09-14)" id="0084" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-09-14)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-09-14).32x" size="3760828" crc="102678b3" md5="f243589e68209c8f18f0d4e5775c3107" sha1="1bf7bc1fc2eafe71d1e72608566d5c0d01d5c79c"/>
+	</game>
+	<game name="Doom (Europe) (Beta) (1994-10-02)" id="0085" cloneofid="0015">
+		<description>Doom (Europe) (Beta) (1994-10-02)</description>
+		<rom name="Doom (Europe) (Beta) (1994-10-02).32x" size="4194304" crc="6182e821" md5="fd439f39b26ba22e4f79a0c87352c6b0" sha1="2945da1e6452b194fbbe44a685864a2000ea5cfd"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-09-16)" id="0086" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-09-16)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-09-16).32x" size="4194304" crc="b554596f" md5="c645547a0d1da8758663317bc9634224" sha1="0530d326b75e97b04530761f50ced4a226b183d2"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-12-01)" id="0087" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-12-01)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-12-01).32x" size="3102248" crc="7dcc1c18" md5="0a581f2470a35141f32c90c9e9c7f3e5" sha1="b2349f625ac077222b49f0e507c552b24c824bd2"/>
+	</game>
+	<game name="Doom (Japan, USA) (En) (Beta) (1994-09-21)" id="0088" cloneofid="0015">
+		<description>Doom (Japan, USA) (En) (Beta) (1994-09-21)</description>
+		<rom name="Doom (Japan, USA) (En) (Beta) (1994-09-21).32x" size="3507720" crc="2d09b919" md5="46811a3ae28768d571af51796a940b8f" sha1="2a2c80adb1cf62a71581400357951b2007770e8b"/>
+	</game>
+	<game name="Doom RR (Japan, USA) (En) (Beta) (1995-03-07)" id="0077" cloneofid="0015">
+		<description>Doom RR (Japan, USA) (En) (Beta) (1995-03-07)</description>
+		<rom name="Doom RR (Japan, USA) (En) (Beta) (1995-03-07).32x" size="3145728" crc="955cf84a" md5="37974d4c2596436922770ebbeed0927b" sha1="a2d5b5acc7e19abfb927bb0ed110d80d685510c9"/>
+	</game>
+	<game name="Doom RR (Japan, USA) (En) (Beta) (1995-02-21)" id="0079" cloneofid="0015">
+		<description>Doom RR (Japan, USA) (En) (Beta) (1995-02-21)</description>
+		<rom name="Doom RR (Japan, USA) (En) (Beta) (1995-02-21).32x" size="3145728" crc="6f1572f9" md5="c7786d03342fa87c291480d346e18402" sha1="b298ad7bacca89770bcd6dea796e5dbbfb72e642"/>
+	</game>
+	<game name="Doom RR (Japan, USA) (En) (Beta) (1995-02-15)" id="0080" cloneofid="0015">
+		<description>Doom RR (Japan, USA) (En) (Beta) (1995-02-15)</description>
+		<rom name="Doom RR (Japan, USA) (En) (Beta) (1995-02-15).32x" size="3145728" crc="48399bc5" md5="e7917f7d91c05c0f928f6b4d68c553b2" sha1="63568023c907d636133e1a2fd140afbadb910e98"/>
+	</game>
+	<game name="Ecco the Dolphin (USA) (Demo) (Developer Cart)" id="0017">
+		<description>Ecco the Dolphin (USA) (Demo) (Developer Cart)</description>
+		<rom name="Ecco the Dolphin (USA) (Demo) (Developer Cart).32x" size="3145728" crc="b06178df" md5="c2b642fdcfff8bff511e45203a1e8679" sha1="10409f2245b058e8a32cba51e1ea391ca4480108"/>
+	</game>
+	<game name="FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)" id="0018">
+		<description>FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)</description>
+		<rom name="FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).32x" size="3145728" crc="fb14a7c8" md5="24aaa6ef307d20147ce10e7610e59aa2" sha1="131ebb717dee4dd1d8f5ab2b9393c23785d3a359"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En)" id="0020" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).32x" size="3145728" crc="d3d0a2fe" md5="b90a2a1eec015911aa445f9c41d7bc32" sha1="dc77b1e5c888c2c4284766915a5020bb14ee681d"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)" id="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).32x" size="3145728" crc="6ef99202" md5="f772e22b574406e3e20c172117050973" sha1="55848f7c54533fd2a19011db661ef261cd8bdb22"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06)" id="0089" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06).32x" size="1057122" crc="6726c100" md5="56b0c88cd4aef3ff65ef623527a9edba" sha1="6a066c44d71199d62dbc368efbc371dd01cc95e1"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-11)" id="0090" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-11)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-11).32x" size="3001124" crc="622a34a5" md5="2600f3ba9d72947910e7cffeba8f5b71" sha1="94c994ce74377ec726b4c0803b51fd4ca6cc4389"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-17)" id="0091" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-17)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-17).32x" size="3001124" crc="cbd33fc7" md5="6aca59ba95b6c1defe19ed32f00d3ef1" sha1="83b70bea9efa281dd5119334a28ef33bc7426325"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-18)" id="0092" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-18)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-18).32x" size="4194304" crc="e39ba17f" md5="1fc6e86e79315775cb93649f4cfe83d9" sha1="41e12cb8465acb6e0180deea9b34c2554e3f79e1"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-24)" id="0093" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-24)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-24).32x" size="3090536" crc="ffe279cc" md5="c5a1281e901df24a620a66026373cddc" sha1="2093a7437062dc21c4440a360dd177102ca6cc88"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-26)" id="0094" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-26)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-26).32x" size="3090528" crc="37a79c9c" md5="61bf65053db9eaa967bca74e18adf23d" sha1="91d78a15094c20fb6a8103d5addbaa4f90d199b8"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01)" id="0095" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).32x" size="3136928" crc="91106a69" md5="03480484a4d2e3fe3353900dc3033101" sha1="f6b944876b40b5a52bf1293b71373cb3f5c71a14"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03)" id="0096" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).32x" size="3136712" crc="d261a6c3" md5="7f1ddc96f801c121adb5e6b1a5c2f73f" sha1="7c295cb39408d21835b76c2c1aeb03b659094593"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-05)" id="0097" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-05)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-05).32x" size="3136712" crc="1559541e" md5="ca9ca81bde5b0819d1bcce097796a41b" sha1="eff8337257b0cc6221ce459d32191f7d63450d1c"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-07)" id="0098" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-07)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-07).32x" size="3136712" crc="36b1708e" md5="6bc3ecead9db55f646f4db49d484403d" sha1="ea7539dbeaa86fdc36132e85be48f6577fb6dbb9"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08)" id="0099" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08).32x" size="3136712" crc="bcaf23fd" md5="415b56539f3dbe85fbc9e327e7512136" sha1="f317903c11777991417abf95cc45d4888bee25d6"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09)" id="0100" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).32x" size="3136712" crc="5226ef71" md5="a1cfa86bc7d81f199f0b329ddf4458e7" sha1="33620d0bb49c52a24563958b4caec883b2009a90"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16)" id="0101" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16).32x" size="3136712" crc="ccb9fead" md5="bcb29b2ec1d693aa863998b19a1873f4" sha1="3bff7d113fa7487d015a54d8f27050f2cf296106"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt)" id="0104" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt).32x" size="3136736" crc="da1026c8" md5="4b5fd6be86b307399bc6592d8eae79b5" sha1="2ea5fcdffa9b8f22b1468eeb2e76134d3f1b3be6"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19)" id="0103" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19).32x" size="3145728" crc="8fa32086" md5="c9ce63ee1c915b4ffd1d14940ecbf7c6" sha1="5fc3837ba3b98f9f2c560d3775da969798a150ee"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21)" id="0105" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21).32x" size="3136724" crc="8d0713ce" md5="12aae94fab8374e0c61c8220f28007b7" sha1="34d7bf6b86c877ab068390f660073016a95711e3"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt)" id="0107" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt).32x" size="3136724" crc="e1e98cac" md5="9035d2efd419306d5014df16f0dd29a4" sha1="a6bee7800f73e2ca12381432154b636ddd279412"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18)" id="0102" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).32x" size="3136712" crc="dc4c7c27" md5="9db9c401226292cefd5a28f6adfa5065" sha1="abe1d16dff2b2c1752e2f47bb15f97f049d6bfc0"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23)" id="0108" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23).32x" size="3136724" crc="0b58f6a5" md5="11d87989771f3f0882512a52e758439e" sha1="fa2f2d3887bb3e6010a5c13289f63681cac0404a"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22)" id="0106" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22).32x" size="3136724" crc="6b656643" md5="f4877c8823d7f39df0932068ed23a585" sha1="0590ff4405fcd0ca8f2fc5293690330fdf63127a"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-26)" id="0109" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-26)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-26).32x" size="3145728" crc="2ece26db" md5="3920135572b377d760cee34995c159bd" sha1="541ddfac44323c589ad23f51a5be984ecfa55539"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27)" id="0110" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27).32x" size="3145728" crc="b5e82f07" md5="7d04ff0502908fe179ad90aaa5270542" sha1="afa1f5c2dab7de2114d3a34794785b0d6768d95c"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28)" id="0111" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28).32x" size="3145728" crc="8f4f6479" md5="8b2f55c154013452170e0dfd77d5ad2a" sha1="e341e5fca64def64c019310d4f551ff48908291b"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29)" id="0113" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29).32x" size="3145728" crc="9c5011b0" md5="bbcf031159ad7ea4b014a58c0ed9433f" sha1="5658febd37534280962dc6801efc10604b07603f"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-02)" id="0115" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-02)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-02).32x" size="3145728" crc="323c2935" md5="3e33e547288d1d2a5baf1b21a07f8df0" sha1="5b1140e33357a3d0fdc056ab5a350d588b5e5af9"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-06)" id="0117" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-06)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-06).32x" size="3145728" crc="ecfe5a0f" md5="fa60425cd76cfdbee2dc8000b3099a98" sha1="af8eadcf49d0700c7479648865cc08cd40bc2808"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt)" id="0112" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt).32x" size="3145728" crc="38d09772" md5="20917b40eb81edeebfceb57aec9b419d" sha1="f0d06074b1b5ce2df77fdaaf74620158efb7f875"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-13)" id="0118" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-13)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-13).32x" size="3145728" crc="34bf7c6d" md5="443a014104ff3145f0b2eebe4ffce0fd" sha1="6398a442595650d70a5ce20a52331899c0dfaf62"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-30)" id="0114" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-30)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-30).32x" size="3145728" crc="41e2d54d" md5="9386cbfe21dcb58cc8a8006c8bc06e61" sha1="19681b2e5d1eafaa09401dca296bea884fbc08c1"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-03)" id="0116" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-03)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-03).32x" size="3145728" crc="3f30c0d2" md5="97caf7c900fe4bcee30117365a70543c" sha1="7ca51ad03ebb95f017a1b900a4a1592876d0d5c2"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-19)" id="0119" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-19)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-19).32x" size="3145728" crc="c073149f" md5="fa347c89886d60279abf6b1d6c0c5f02" sha1="e28ab68e8aed7aa8e9f33a6e9c68678272df4d95"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21)" id="0120" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21).32x" size="3145728" crc="3893dcfe" md5="86fcf541b14f98dedb8c8deff14de868" sha1="23e84ec4d8cec09992fcff323f32f49f44d23cd2"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)" id="0121" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).32x" size="3145728" crc="a63b0636" md5="c30e393f01ada81ca44bad43ee63d3b7" sha1="f78481e57111295c2f5aeb64cd306c3c5fbf6d97"/>
+	</game>
+	<game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)" id="0122" cloneofid="0019">
+		<description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21)</description>
+		<rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).32x" size="3145728" crc="cc0334bb" md5="7a186abafff18ba8ed439f362b56014e" sha1="6a1801ef96cc8c4a6896ab55e105f7fa8d707f51"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En)" id="0011" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En).32x" size="3145728" crc="d0b0b842" md5="47b1095e68b053125cd2cd5b1ac4eb50" sha1="0c2fff7bc79ed26507c08ac47464c3af19f7ced7" sha256="70e1a92a982f2684be3bc315267e545fb9c530d533fd62b6d38bb625541ed957" status="verified"/>
+	</game>
+	<game name="Knuckles' Chaotix (Europe)" id="0021">
+		<description>Knuckles' Chaotix (Europe)</description>
+		<rom name="Knuckles' Chaotix (Europe).32x" size="3145728" crc="41d63572" md5="4ce9e6b6e8883d8a678d90aabce022d0" sha1="5c1a2e327a656217604d4bae7e141764a7e59922"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07)" id="0123" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07).32x" size="3145728" crc="d62ae235" md5="ed059ef80f0292989c0cc86a0224f09d" sha1="150dace1482ebf38a0f6242be6d8b7ea19f8a737"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27)" id="0124" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27).32x" size="4194304" crc="4307d738" md5="a161c79dd955d971ee3fcb2e01777257" sha1="c62a8be339ffd9dd182a3f8e60b6e27225cfc5f2"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30)" id="0125" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30).32x" size="4194304" crc="36a294e0" md5="88c27c63dd58ba339b4db3a1c8791521" sha1="883c7748c3c352b44238d2bdc9152ac9651e99fb"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12)" id="0126" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12).32x" size="4194304" crc="5523ea78" md5="d8ad7470835e0edc83b770b59584f625" sha1="882ce770f32f4af61ac422accecc8a84e1c52cd3"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19)" id="0127" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19).32x" size="4194304" crc="468ad032" md5="dde8f92c0fb80488f53ebbce98bd203c" sha1="2b1a5f19113fa4015437ede5a195c5dfb377e5be"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07)" id="0128" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07).32x" size="3145728" crc="7b32e440" md5="e6c65023505129b294c48d37a2d7899d" sha1="4e4af26f944cf3b5d99f60f37b20dc67207a4fbe"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08)" id="0129" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08).32x" size="3145728" crc="b099e5f6" md5="b37e562d5c0a26122abf66ac94fef886" sha1="d965d12c8cce09683d80c08d06c74b7c6e7b8dab"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09)" id="0130" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09).32x" size="3145728" crc="e95d7f57" md5="241082f8b6399e658e3516281a2a725e" sha1="01c9f4614f282a05b3e86701b4ca18a1a0e1889c"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10)" id="0131" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10).32x" size="3145728" crc="7b716175" md5="b925cb18160ced5285981a3edd5c4213" sha1="4c13842abeda86ce6577da67ba5fc24fbfbdc0de"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13)" id="0132" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13).32x" size="3145728" crc="14f43e14" md5="9d986b6c96704de70e43988825df463a" sha1="0cbbcc96f23917feb844469163bc8ab14da94816"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt)" id="0133" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt).32x" size="3145728" crc="aff06bff" md5="bdd716e7e0ce4a24ad73179fba8d65dd" sha1="88b122398c1b25f432ae845b799f1308f51aa055"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14)" id="0134" cloneofid="0021">
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14).32x" size="3145728" crc="ba0a1108" md5="5e1012438fdeda44b64589fd33daad5f" sha1="af3bfd9540098581aef08664d625725ffcc90be2"/>
+	</game>
+	<game name="Kolibri (USA, Europe)" id="0022">
+		<description>Kolibri (USA, Europe)</description>
+		<rom name="Kolibri (USA, Europe).32x" size="3145728" crc="20ca53ef" md5="6af6207b1e67072a9104178130c61712" sha1="191ae0b525ecf32664086d8d748e0b35f776ddfe" status="verified"/>
+	</game>
+	<game name="Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)" id="0023">
+		<description>Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)</description>
+		<rom name="Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).32x" size="4194304" crc="8f7260fb" md5="489ded0cc43448881cd863418bacf8e6" sha1="7654c6d3cf2883c30df51cf38d723ab7902280c4"/>
+	</game>
+	<game name="Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)" id="0024">
+		<description>Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)</description>
+		<rom name="Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).32x" size="65536" crc="a2da35fd" md5="68e63e08aa1b95d4b5b249ef6de7b1b3" sha1="bbc6a66ad9268a3bb6e35e565e770581e7fe8ac2"/>
+	</game>
+	<game name="Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)" id="0025">
+		<description>Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)</description>
+		<rom name="Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).32x" size="655360" crc="5f0df42c" md5="fc5dc432cef5d977a7b9a0575acd884e" sha1="04efcf2802b11e130378734671ff8cfb78facd67"/>
+	</game>
+	<game name="Mars Sample Program - Pharaoh (Unknown) (SDK Build)" id="0026">
+		<description>Mars Sample Program - Pharaoh (Unknown) (SDK Build)</description>
+		<rom name="Mars Sample Program - Pharaoh (Unknown) (SDK Build).32x" size="262144" crc="969c80d4" md5="4213c4846622dbefb514a0441a553ace" sha1="d038d88cf518116fcb4df72df51dbc0c374792e2"/>
+	</game>
+	<game name="Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)" id="0027">
+		<description>Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)</description>
+		<rom name="Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).32x" size="262144" crc="d630e343" md5="915472c8d25c79f819492f660e5a8d06" sha1="56566575de6d1d42630f688eb0eeb1a93ebe2624"/>
+	</game>
+	<game name="Mars Sample Program - Texture Test (Unknown) (SDK Build)" id="0028">
+		<description>Mars Sample Program - Texture Test (Unknown) (SDK Build)</description>
+		<rom name="Mars Sample Program - Texture Test (Unknown) (SDK Build).32x" size="24576" crc="9b2ad63f" md5="bd0b324d1edd51103a350e1973179fb7" sha1="885abd1de7b67b115057610d94f24b1b4e294706"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En,Ja)" id="0030" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En,Ja)</description>
+		<rom name="Metal Head (Japan, USA) (En,Ja).32x" size="3145728" crc="ef5553ff" md5="03cc5d7549d71ba4e9ddc1beae3805fb" sha1="4e872fbb44ecb2bd730abd8cc8f32f96b10582c0" status="verified"/>
+	</game>
+	<game name="Metal Head (Europe) (En,Ja)" id="0029">
+		<description>Metal Head (Europe) (En,Ja)</description>
+		<rom name="Metal Head (Europe) (En,Ja).32x" size="3145728" crc="bf9b8376" md5="5ab011dae907f77e68eb764bec3870d8" sha1="2a7767024e23b55fe193d586a96a3ba3c92e7ea8" status="verified"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-11-14)" id="0135" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-11-14)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-11-14).32x" size="3145728" crc="2ea0ff81" md5="360ec44967bcc22a05dcd215c624897f" sha1="a81db052a095360439a1da6e41ac19b91561ab27"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-11-18)" id="0136" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-11-18)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-11-18).32x" size="3145728" crc="a0343749" md5="e36b87067183fe1ba286f0957c469b62" sha1="a943ea135d6c685f87957503697cb9f894e12c52"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-11-21)" id="0137" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-11-21)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-11-21).32x" size="3145728" crc="398bcb98" md5="9c5c8e456c5237705e6b9fd39fef093b" sha1="e7667f4a4342a5a45b0a010f0fe2e61b2bf99fea"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-12-02)" id="0138" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-12-02)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-12-02).32x" size="3145728" crc="8b7bc8a4" md5="aae550a44c4f349b25db009ef84fcabd" sha1="194f45a0651a59305e0e727e407801ff09968a62"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-12-07)" id="0139" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-12-07)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-12-07).32x" size="3145728" crc="476d29b0" md5="ebb8f4df5e5215a5c8d2e1facbb8396b" sha1="438e172b22ef2b78f5bceb3195da408639ae463c"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt)" id="0140" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt).32x" size="3145728" crc="fa0fc326" md5="b68bf1cdba527506bb6b0aa04a0f3656" sha1="d82b26783f0843faabe526167eabf296c84b0c47"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-12-09)" id="0141" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-12-09)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-12-09).32x" size="3145728" crc="5369d23f" md5="5e2f45365c0eaedc7b22127343f4ed38" sha1="4d795a7ecab65527e6538ef886c3c3783a1ba936"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-12-13)" id="0142" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-12-13)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-12-13).32x" size="3145728" crc="3302b1a1" md5="176aaa2a84d0cc82e21c35f21dc45e64" sha1="5a38dce482c7fe38a50c6fd8884b019f1acab2a1"/>
+	</game>
+	<game name="Metal Head (Japan, USA) (En) (Beta) (1994-12-20)" id="0143" cloneofid="0029">
+		<description>Metal Head (Japan, USA) (En) (Beta) (1994-12-20)</description>
+		<rom name="Metal Head (Japan, USA) (En) (Beta) (1994-12-20).32x" size="3145728" crc="de99c9ce" md5="ac7e0ef84b3f72bb4766ad1af74a5318" sha1="8d7a9f78860342643502e2ba77b445b4dc7e078e"/>
+	</game>
+	<game name="Mortal Kombat II (Europe)" id="0031">
+		<description>Mortal Kombat II (Europe)</description>
+		<rom name="Mortal Kombat II (Europe).32x" size="4194304" crc="211085ce" md5="9d258d11fe1e4cac2c1aab370c35e57a" sha1="f75698de887d0ef980f73e35fc4615887a9ad58f"/>
+	</game>
+	<game name="Mortal Kombat II (Japan, USA) (En)" id="0032" cloneofid="0031">
+		<description>Mortal Kombat II (Japan, USA) (En)</description>
+		<rom name="Mortal Kombat II (Japan, USA) (En).32x" size="4194304" crc="773c0a85" md5="a95c0e7c1d35fd42cd2e3eb7b06cb6d0" sha1="d55964bd935110ac2d9cbd3b085b7e8b71b11df2"/>
+	</game>
+	<game name="Motherbase (Europe)" id="0211">
+		<description>Motherbase (Europe)</description>
+		<rom name="Motherbase (Europe).32x" size="2097152" crc="0d6523a3" md5="66833be0da3d737ac45cdaab9b6bd818" sha1="00792570c459637d46f26d0ceb301ed9d83f0098" sha256="44b30ec69a4f1a80bb81c059fb91e3742eb044a8970f3306ba3debc64aff5b21" serial="GM MK-84512-00"/>
+	</game>
+	<game name="Motherbase (Europe) (Sample)" id="0212" cloneofid="0211">
+		<description>Motherbase (Europe) (Sample)</description>
+		<rom name="Motherbase (Europe) (Sample).32x" size="2097152" crc="e181c5d0" md5="937371a9985dfe7b42053ab882ef27a9" sha1="6d457a613e91ed265b0e2835a02e05558bc7e3ca" sha256="1338e30ba7c8f435e01224e4d870341c1e33b6a94c05e288d13297215b82fd78" serial="GT UK-84512-00"/>
+	</game>
+	<game name="Motocross Championship (USA)" id="0034" cloneofid="0033">
+		<description>Motocross Championship (USA)</description>
+		<rom name="Motocross Championship (USA).32x" size="2097152" crc="a21c5761" md5="2c4a934985021624d48725b8d7b039e8" sha1="5f1a107991aaf9eff0b3ce864b2e3151f56abe7b" status="verified"/>
+	</game>
+	<game name="Motocross Championship (Europe)" id="0033">
+		<description>Motocross Championship (Europe)</description>
+		<rom name="Motocross Championship (Europe).32x" size="2097152" crc="ae3364e9" md5="6bc365808a00b8a640dd86ccb5a0ea24" sha1="af0cb8626825e1b431eba07b8a9b571186745c16" status="verified"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-12)" id="0144" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-10-12)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-12).32x" size="1690952" crc="0a075812" md5="b741a12b72807648aee002105ce8d282" sha1="102e763c6f4bf65210b307d34d75473fd27d7ae4"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17)" id="0145" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17).32x" size="1608792" crc="f3163d21" md5="57182c2a4edebec3858942094c5a482b" sha1="670779a85db5673b23825b91693b1015f841fde3"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18)" id="0146" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18).32x" size="1624764" crc="2c2dc4df" md5="ff8fc197fcd71018564473e83db5d40c" sha1="bafabf4eb40fb1197dd543fa6ae69df1f87e9d02"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19)" id="0147" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19).32x" size="1644464" crc="385ed8c7" md5="b52dc9a0fd6c3bf46a66dc608965fdaa" sha1="3862fe8d98a512e3332748b8f73fcdf84faba489"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20)" id="0148" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20).32x" size="1661296" crc="ac6cf708" md5="400cf0229ebc8d441a7b03733c55cd55" sha1="95edb6101eee31588e7b0ce0b67d73206070eb81"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24)" id="0149" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24).32x" size="1736076" crc="20c49183" md5="ff2dfbe40f8863c123e9d82c0edf6e6e" sha1="d641e7b2fd0a44ad603cdc324921a25f1b897288"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28)" id="0150" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28).32x" size="1843436" crc="59107472" md5="0e3f3a483d99c8d1cc03a3402afa13c9" sha1="174158dd18a4d243d3c943c9f8cf080acd91cc3b"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01)" id="0151" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01).32x" size="2045468" crc="46970275" md5="f0c494585f0fad8d77bf9115a6875399" sha1="372a43df94cbed3859bbddad4982fa5301416aed"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02)" id="0152" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02).32x" size="2045684" crc="efe307ff" md5="0fea70d9fe033ff4da6b0c4e31140b26" sha1="3b7cfe05c0a66fc025bbdd3a35ba7828b2fc3c7f"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt)" id="0153" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt).32x" size="2045684" crc="cefef428" md5="9eec4062c7d36f158d265731a8ab749a" sha1="607b9d89e312294ca4e477de238bec2d1bea2a42"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03)" id="0154" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03).32x" size="2045120" crc="c652c802" md5="a8359f240a85576a2904280c2b8c2fbb" sha1="5dc89f7f2cc03689991c9325a1a2d08c6df5dc1b"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04)" id="0155" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04).32x" size="2045624" crc="6e12d410" md5="a8b3f927ca15c43a0096357fb149f46a" sha1="ca4db761d26328b99445445b99304e90d7279c3e"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07)" id="0156" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07).32x" size="2097152" crc="63db2fb0" md5="868b0df732d4073e0b4070e2b762e134" sha1="181a58cfc8348e18e5d34ed0a75e79acedcc004e"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08)" id="0157" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08).32x" size="2097152" crc="5ff9eab9" md5="ffdc287031f59d3ce4a6f4c2b69aff31" sha1="93e13f7d3c4640e9aee7d577e974ab6581c07f91"/>
+	</game>
+	<game name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11)" id="0158" cloneofid="0033">
+		<description>Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11)</description>
+		<rom name="Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11).32x" size="2097152" crc="37f78d3d" md5="5bdc8f310638695b570f92ffd99c7c59" sha1="45f457930884c7a5ec35361e37b1fd8cd91e4487"/>
+	</game>
+	<game name="NBA Jam - Tournament Edition (World)" id="0035">
+		<description>NBA Jam - Tournament Edition (World)</description>
+		<rom name="NBA Jam - Tournament Edition (World).32x" size="4194304" crc="6b7994aa" md5="966a5e00dd7bcdc70b05c5a0c0e8f7aa" sha1="c8af3e74c49514669ba6652ec0c81bccf77873b6"/>
+	</game>
+	<game name="NFL Quarterback Club (World)" id="0036">
+		<description>NFL Quarterback Club (World)</description>
+		<rom name="NFL Quarterback Club (World).32x" size="3145728" crc="0bc7018d" md5="e273c10114351cdafeba1abccca8909d" sha1="a0dc24f2f3a7fc5bfd12791cf25af7f7888843cf"/>
+	</game>
+	<game name="Pinocchio (Europe) (Proto) (1995-12-06)" id="0066">
+		<description>Pinocchio (Europe) (Proto) (1995-12-06)</description>
+		<rom name="Pinocchio (Europe) (Proto) (1995-12-06).32x" size="4194304" crc="390a90f9" md5="406ab3e46797d8459c3d9efbbc044282" sha1="39ccf67e516bdaec879f1e30b23d5f253e82b6c8"/>
+	</game>
+	<game name="Pitfall - The Mayan Adventure (USA)" id="0038">
+		<description>Pitfall - The Mayan Adventure (USA)</description>
+		<rom name="Pitfall - The Mayan Adventure (USA).32x" size="3145728" crc="f9126f15" md5="e091e542f7ea29ef3daf6022b36e219b" sha1="ee864d1677c6d976d0846eb5f8d8edb839acfb76"/>
+	</game>
+	<game name="Primal Rage (USA, Europe)" id="0039">
+		<description>Primal Rage (USA, Europe)</description>
+		<rom name="Primal Rage (USA, Europe).32x" size="4194304" crc="e78a4d28" md5="e1efc5804d3360e7b19f7542219bf964" sha1="5084dcca51d76173c383ab7d04cbc661673545f7"/>
+	</game>
+	<game name="RBI Baseball '95 (USA)" id="0040">
+		<description>RBI Baseball '95 (USA)</description>
+		<rom name="RBI Baseball '95 (USA).32x" size="2097152" crc="ff795fdc" md5="5f955b5feab07c072fc345f1fee52a60" sha1="4f90433a4403fd74cafeea49272689046de4ae43"/>
+	</game>
+	<game name="Sangokushi IV (Japan)" id="0041">
+		<description>Sangokushi IV (Japan)</description>
+		<rom name="Sangokushi IV (Japan).32x" size="4194304" crc="e4de7625" md5="f4bb8844d77442dbb5bee78d0246b456" sha1="74a3ba27c55cff12409bf6c9324ece6247abbad1" status="verified"/>
+	</game>
+	<game name="Soulstar X (USA) (Proto)" id="0063">
+		<description>Soulstar X (USA) (Proto)</description>
+		<rom name="Soulstar X (USA) (Proto).32x" size="2097152" crc="5ea52f22" md5="4e9d4bd4122fbe72d6f6918e55a58a35" sha1="4726988f28c5e49971e1f38e335fecc3f9dd6c1f"/>
+	</game>
+	<game name="Space Harrier (Europe)" id="0043">
+		<description>Space Harrier (Europe)</description>
+		<rom name="Space Harrier (Europe).32x" size="2097152" crc="5cac3587" md5="4619e328e1719bee165941d891c08d81" sha1="8b0495257fa5392ef9ddcc9c3ba1860ae58f4f3d" status="verified"/>
+	</game>
+	<game name="Space Harrier (Japan, USA) (En)" id="0044" cloneofid="0043">
+		<description>Space Harrier (Japan, USA) (En)</description>
+		<rom name="Space Harrier (Japan, USA) (En).32x" size="2097152" crc="86e7f989" md5="6180e973f678bfc96705e8be4e0783f1" sha1="f32a52a7082761982024e40291dbd962a835b231" status="verified"/>
+	</game>
+	<game name="Space Harrier (Japan, USA) (En) (Beta) (1994-09-20)" id="0065" cloneofid="0043">
+		<description>Space Harrier (Japan, USA) (En) (Beta) (1994-09-20)</description>
+		<rom name="Space Harrier (Japan, USA) (En) (Beta) (1994-09-20).32x" size="2097152" crc="2c65fa40" md5="1c1b4a07286b6df9eead9a0305672198" sha1="05d24d6f6c645866b8b1fde96746e27d0a19bbc6"/>
+	</game>
+	<game name="Spot Goes to Hollywood (USA) (Proto)" id="0213">
+		<category>Games</category>
+		<description>Spot Goes to Hollywood (USA) (Proto)</description>
+		<rom name="Spot Goes to Hollywood (USA) (Proto).32x" size="3145728" crc="ce6c4b99" md5="11caaeaa76ac810400e9a08985e0eb29" sha1="f233175e65928727a789b89850702af43fa8d4a4" serial="ROM Version1.0"/>
+	</game>
+	<game name="Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)" id="0045">
+		<description>Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)</description>
+		<rom name="Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).32x" size="2097152" crc="dd9708b9" md5="78086fba202066ff4f968d35e7c21c11" sha1="e5248328b64a1ec4f1079c88ee53ef8d48e99e58" sha256="37b9cbfb18a4591263f354016f11b83abdef7e496f91ce4f6bf7cafffe3dd158"/>
+	</game>
+	<game name="Star Wars Arcade (USA)" id="0048" cloneofid="0046">
+		<description>Star Wars Arcade (USA)</description>
+		<rom name="Star Wars Arcade (USA).32x" size="2621440" crc="2f16b44a" md5="ae3a42c6297ef25c6018a209fda0194e" sha1="f4ffaaf1d8330ea971643021be3f3203e1ea065d" sha256="cca56810bdf53bb17b85c9318700596d8d134f335d74a8d8ef01f25e9ecb86b4"/>
+	</game>
+	<game name="Star Wars Arcade (Europe)" id="0046">
+		<description>Star Wars Arcade (Europe)</description>
+		<rom name="Star Wars Arcade (Europe).32x" size="2621440" crc="82e82660" md5="bfaa6fd031490c26e25f3d59d9c37497" sha1="a877cbf704fe7480966fd88a3c39efb6a39392ac" status="verified"/>
+	</game>
+	<game name="Star Wars Arcade (Japan)" id="0047" cloneofid="0046">
+		<description>Star Wars Arcade (Japan)</description>
+		<rom name="Star Wars Arcade (Japan).32x" size="2621440" crc="f4e9b846" md5="f6e8648a6ced9017c9f0bf0ca544f17f" sha1="282767a07e453e868de52b46bf11def3d071bda6" status="verified"/>
+	</game>
+	<game name="Star Wars Arcade (Europe) (Beta) (1994-09-23)" id="0166" cloneofid="0046">
+		<description>Star Wars Arcade (Europe) (Beta) (1994-09-23)</description>
+		<rom name="Star Wars Arcade (Europe) (Beta) (1994-09-23).32x" size="2517257" crc="8e7bfc7c" md5="1cf3240ce3d994719ee9fc06e827262a" sha1="75ce473164f678f9f394d719b35850e4899a8cd1"/>
+	</game>
+	<game name="Star Wars Arcade (Europe) (Beta) (1994-09-29)" id="0167" cloneofid="0046">
+		<description>Star Wars Arcade (Europe) (Beta) (1994-09-29)</description>
+		<rom name="Star Wars Arcade (Europe) (Beta) (1994-09-29).32x" size="2517297" crc="7682fe72" md5="1b6fc1ef31464acd728783e746286f1f" sha1="2f93b915add1357dfcf42135d4ce85e6bb668cf8"/>
+	</game>
+	<game name="Star Wars Arcade (Europe) (Beta) (1994-10-06)" id="0168" cloneofid="0046">
+		<description>Star Wars Arcade (Europe) (Beta) (1994-10-06)</description>
+		<rom name="Star Wars Arcade (Europe) (Beta) (1994-10-06).32x" size="2621440" crc="c00af920" md5="6e75534d5f3d7bf42f15cdf0faf3e0da" sha1="1ade331c81eade613748126882057841dc02a420"/>
+	</game>
+	<game name="Star Wars Arcade (Europe) (Beta) (1994-10-07)" id="0169" cloneofid="0046">
+		<description>Star Wars Arcade (Europe) (Beta) (1994-10-07)</description>
+		<rom name="Star Wars Arcade (Europe) (Beta) (1994-10-07).32x" size="2621440" crc="57afc1ac" md5="777e1ae822f9ed033d27aa1e409d9623" sha1="c75853fb88f13a01ddca05b2202ed150770c1284"/>
+	</game>
+	<game name="Star Wars Arcade (Japan) (Beta) (1994-09-30)" id="0170" cloneofid="0046">
+		<description>Star Wars Arcade (Japan) (Beta) (1994-09-30)</description>
+		<rom name="Star Wars Arcade (Japan) (Beta) (1994-09-30).32x" size="2516793" crc="6074f26c" md5="320fb649a04da1e5decde198bd799f97" sha1="f1786e62b7707b8a01b66720f2722d555ec9d4db"/>
+	</game>
+	<game name="Star Wars Arcade (Japan) (Beta) (1994-10-03)" id="0171" cloneofid="0046">
+		<description>Star Wars Arcade (Japan) (Beta) (1994-10-03)</description>
+		<rom name="Star Wars Arcade (Japan) (Beta) (1994-10-03).32x" size="3145728" crc="a653a183" md5="7837ea435585cf60c1d7ea2d99248e19" sha1="38fde66801083a60c142c3f3e7bae2aa81518acf"/>
+	</game>
+	<game name="Star Wars Arcade (Japan) (Beta) (1994-10-05)" id="0172" cloneofid="0046">
+		<description>Star Wars Arcade (Japan) (Beta) (1994-10-05)</description>
+		<rom name="Star Wars Arcade (Japan) (Beta) (1994-10-05).32x" size="2516513" crc="9861e21f" md5="ec824311a5f31007a5bdd98b5209b138" sha1="24e599b251d643b74a923323a83e43a26d21fafc"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-08-30)" id="0173" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-08-30)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-08-30).32x" size="2097152" crc="10d4a078" md5="e0603f3785e9ce60bc47c7a4419b6606" sha1="8e90bb4b3bde14b819de85944080d4a3caf11c1b"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-01)" id="0174" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-01)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-01).32x" size="2097152" crc="b0bb29eb" md5="67c748fa61e808312f32cc727d0e44cb" sha1="37da621707fec11bb08d59cec1fa2c554365afec"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-06)" id="0175" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-06)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-06).32x" size="2097152" crc="b8d9317c" md5="43efb3d85aa106567661adddec440731" sha1="b7df724434b0e7ef2af198a56021d825f701cf4d"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-07)" id="0176" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-07)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-07).32x" size="2097152" crc="c6a8582b" md5="95dee4ef705455008ec9570b8fabfcd1" sha1="7e84f2eafef33e211500a551b3d430155368b66e"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-09)" id="0177" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-09)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-09).32x" size="2097152" crc="5bdd86d3" md5="76ca792a475cccff4e76fe7e0f248886" sha1="761aa97ab8f7524c49a141804246209fd6c970f2"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-12)" id="0178" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-12)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-12).32x" size="2097152" crc="118a011c" md5="267df04136c31ca16e1f3870945c446e" sha1="b328170014bfc4770479eacc017f76bcaee61389"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-13)" id="0179" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-13)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-13).32x" size="2467793" crc="dc5628ba" md5="b0eadfa1cb6b9f0d44e45433baab8857" sha1="d4c262ba8118f2f2af720a45e461d4254d5163b4"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-14)" id="0180" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-14)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-14).32x" size="2504513" crc="efc980fe" md5="03957d55ddeb3faa8758eded5e2ceef9" sha1="2ba71086a01e14051dce2a5c24bba49a991cb2e5"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-15)" id="0181" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-15)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-15).32x" size="3145728" crc="34c6a769" md5="01e5b6f81beb2f5b0ab4e9d43fb1f3a8" sha1="9a492a52be224ee9ff41d4ea7df3cee67f028235"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-16)" id="0182" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-16)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-16).32x" size="3145728" crc="150a0dfd" md5="0a9683a85087d3953ac782046741c864" sha1="492816545c7309d2b7594b5d4f8d508f4a13e06a"/>
+	</game>
+	<game name="Star Wars Arcade (USA) (Beta) (1994-09-18)" id="0183" cloneofid="0046">
+		<description>Star Wars Arcade (USA) (Beta) (1994-09-18)</description>
+		<rom name="Star Wars Arcade (USA) (Beta) (1994-09-18).32x" size="3145728" crc="02933d44" md5="c834b1d6d0a9e8ac2cc7a06310700d7e" sha1="5d924628b507464ec1b1ca8755cb509cf68b02af"/>
+	</game>
+	<game name="Stellar Assault (USA, Europe)" id="0042">
+		<description>Stellar Assault (USA, Europe)</description>
+		<rom name="Stellar Assault (USA, Europe).32x" size="2097152" crc="60c49e4d" md5="1415a8675adf3e8647b3df673b50056d" sha1="561c8c63dbcabc0b1b6f31673ca75a0bde7abc72" status="verified"/>
+	</game>
+	<game name="Stellar Assault (Japan)" id="0060" cloneofid="0042">
+		<description>Stellar Assault (Japan)</description>
+		<rom name="Stellar Assault (Japan).32x" size="2097152" crc="fce4c8c7" md5="5f6c601dcecca937b6f2c2161e4566fe" sha1="ff4f1a2dded85f3ad43bf28a85c46ad8595d5614" status="verified"/>
+	</game>
+	<game name="Stellar Assault (Japan) (En) (Beta) (1995-02-06)" id="0159" cloneofid="0042">
+		<description>Stellar Assault (Japan) (En) (Beta) (1995-02-06)</description>
+		<rom name="Stellar Assault (Japan) (En) (Beta) (1995-02-06).32x" size="2097152" crc="24057310" md5="b7cac9f37b7873127afe7a91dead2bde" sha1="6ff8cd79cfa073697dd13cd1c4dc767b4e0c558e"/>
+	</game>
+	<game name="Stellar Assault (Japan) (En) (Beta) (1995-02-13)" id="0160" cloneofid="0042">
+		<description>Stellar Assault (Japan) (En) (Beta) (1995-02-13)</description>
+		<rom name="Stellar Assault (Japan) (En) (Beta) (1995-02-13).32x" size="2097152" crc="ca0de10e" md5="775d395064002f0d1120f3e67e936f2b" sha1="71061c0a02b4cc3c3e39d872bf86b190421cb594"/>
+	</game>
+	<game name="Stellar Assault (USA, Europe) (Beta) (1995-02-22)" id="0161" cloneofid="0042">
+		<description>Stellar Assault (USA, Europe) (Beta) (1995-02-22)</description>
+		<rom name="Stellar Assault (USA, Europe) (Beta) (1995-02-22).32x" size="2097152" crc="48ef9ee9" md5="1f363c972686056a475813f61b8600bf" sha1="9d72335cb0468a9699f7e92927043387091bc0c9"/>
+	</game>
+	<game name="Stellar Assault (USA, Europe) (Beta) (1995-03-02)" id="0162" cloneofid="0042">
+		<description>Stellar Assault (USA, Europe) (Beta) (1995-03-02)</description>
+		<rom name="Stellar Assault (USA, Europe) (Beta) (1995-03-02).32x" size="2097152" crc="25bdde61" md5="f5e23c9c89673f3f2294eef5d2e5ca67" sha1="5a83e4ebffe8ac7108b45697be7468bd7f111642"/>
+	</game>
+	<game name="Stellar Assault (USA, Europe) (Beta) (1995-03-06)" id="0163" cloneofid="0042">
+		<description>Stellar Assault (USA, Europe) (Beta) (1995-03-06)</description>
+		<rom name="Stellar Assault (USA, Europe) (Beta) (1995-03-06).32x" size="2097152" crc="7eec3665" md5="9b2f80f1c52b78885cebd8140e99166e" sha1="31a0a0a34719b1259de98458c24cf5eb78f7109c"/>
+	</game>
+	<game name="Stellar Assault (USA, Europe) (Beta) (1995-03-13)" id="0164" cloneofid="0042">
+		<description>Stellar Assault (USA, Europe) (Beta) (1995-03-13)</description>
+		<rom name="Stellar Assault (USA, Europe) (Beta) (1995-03-13).32x" size="2097152" crc="fd7fedb2" md5="c304de27cdb1cf7dbf660c37f666ac13" sha1="9875b357fd2d651892054d233c608b6f3bbb40e7"/>
+	</game>
+	<game name="Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt)" id="0165" cloneofid="0042">
+		<description>Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt)</description>
+		<rom name="Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt).32x" size="2097152" crc="58962105" md5="df79824d61c1f4f7a258450528a1ff3c" sha1="9bae40d4d07a096545b11f6b0434db778c238af5"/>
+	</game>
+	<game name="T-MEK (USA, Europe)" id="0049">
+		<description>T-MEK (USA, Europe)</description>
+		<rom name="T-MEK (USA, Europe).32x" size="3145728" crc="66d2c48f" md5="1b06c84caf09206a8d9f0bb3eaaba512" sha1="173c8425921d83db3e8d181158e7599364f4c0f6"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En)" id="0050">
+		<description>Tempo (Japan, USA) (En)</description>
+		<rom name="Tempo (Japan, USA) (En).32x" size="3145728" crc="14e5c575" md5="30989c83d4e4ea3c35a1f3e2620b8465" sha1="6673ba83570b4f2c1b4a22415a56594c3cc6c6a9"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En) (Beta) (1994-12-21)" id="0184" cloneofid="0050">
+		<description>Tempo (Japan, USA) (En) (Beta) (1994-12-21)</description>
+		<rom name="Tempo (Japan, USA) (En) (Beta) (1994-12-21).32x" size="3145728" crc="7bfe49a3" md5="cc6570e604c22f51dc24347663da1732" sha1="017ee73e0f582893ef3deebfbe74af4babd532a5"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En) (Beta) (1995-01-19)" id="0185" cloneofid="0050">
+		<description>Tempo (Japan, USA) (En) (Beta) (1995-01-19)</description>
+		<rom name="Tempo (Japan, USA) (En) (Beta) (1995-01-19).32x" size="3145728" crc="48cc1645" md5="62790d7ffe26582288b0b0ae40bbd60e" sha1="55fd5d5410a820867526d5f7f909bf39d25607c2"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En) (Beta) (1995-01-24)" id="0186" cloneofid="0050">
+		<description>Tempo (Japan, USA) (En) (Beta) (1995-01-24)</description>
+		<rom name="Tempo (Japan, USA) (En) (Beta) (1995-01-24).32x" size="3145728" crc="7a02c17b" md5="2e989b696e1447358829ebcc37ac1476" sha1="1b8225ae3e688ebdde482015a389a6cebbdbfd5e"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En) (Beta) (1995-01-26)" id="0187" cloneofid="0050">
+		<description>Tempo (Japan, USA) (En) (Beta) (1995-01-26)</description>
+		<rom name="Tempo (Japan, USA) (En) (Beta) (1995-01-26).32x" size="3145728" crc="86637ae4" md5="a45f3d6db91df1bc3950173285a726f5" sha1="4ec1dd3abf3e5aa0d1a902f20cfa0d16a224b5bf"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En) (Beta) (1995-02-04)" id="0188" cloneofid="0050">
+		<description>Tempo (Japan, USA) (En) (Beta) (1995-02-04)</description>
+		<rom name="Tempo (Japan, USA) (En) (Beta) (1995-02-04).32x" size="3145728" crc="6e2bcc9f" md5="f97cd1d66bcc7378569cc92f2b073025" sha1="73d31074f08d9dd8061bf0996829dbad46b3d784"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En) (Beta) (1995-02-06)" id="0189" cloneofid="0050">
+		<description>Tempo (Japan, USA) (En) (Beta) (1995-02-06)</description>
+		<rom name="Tempo (Japan, USA) (En) (Beta) (1995-02-06).32x" size="3145728" crc="6d0775f3" md5="07d06786fdc642449deff5d7880b2ef5" sha1="7c29092fb82711851f1c681fa717cd59b98f531a"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt)" id="0190" cloneofid="0050">
+		<description>Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt)</description>
+		<rom name="Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt).32x" size="3145728" crc="e2502fe6" md5="ac6ee8d2c258e00a6d752122f701fab0" sha1="2e9724e9b7f2d351ad1ddfb34c43014aff4b07dd"/>
+	</game>
+	<game name="Tempo (Japan, USA) (En) (Beta) (1995-02-07)" id="0191" cloneofid="0050">
+		<description>Tempo (Japan, USA) (En) (Beta) (1995-02-07)</description>
+		<rom name="Tempo (Japan, USA) (En) (Beta) (1995-02-07).32x" size="3145728" crc="a2ebc91c" md5="2ae43c978349214492d2172758ba21b3" sha1="91bca4f05b97b51b96fb1ddcb9b54165f0b621ae"/>
+	</game>
+	<game name="Time Warner 32X CMD Download Cartridge (USA) (Program)" id="0214">
+		<description>Time Warner 32X CMD Download Cartridge (USA) (Program)</description>
+		<rom name="Time Warner 32X CMD Download Cartridge (USA) (Program).32x" size="262144" crc="6c2176ca" md5="945291b66fc06f2bc44a2dbaa3a61d42" sha1="460439b83ce50021339acf5fca4a63b45c0c1c0b" serial="T-48126-00"/>
+	</game>
+	<game name="Toughman Contest (USA, Europe)" id="0051">
+		<description>Toughman Contest (USA, Europe)</description>
+		<rom name="Toughman Contest (USA, Europe).32x" size="4194304" crc="14eac7a6" md5="386d99d132ce5699ade81b4473cef5b4" sha1="7588b0b8f4e93d5fdc920d3ab7e464154e423da9" status="verified"/>
+	</game>
+	<game name="Virtua Fighter (Japan, USA) (En)" id="0053" cloneofid="0052">
+		<description>Virtua Fighter (Japan, USA) (En)</description>
+		<rom name="Virtua Fighter (Japan, USA) (En).32x" size="4194304" crc="b5de9626" md5="901e97c9f731fbdf1f1ead0fbf58249a" sha1="f35754f4bfe3a53722d7a799f88face0fd13c424" status="verified"/>
+	</game>
+	<game name="Virtua Fighter (Europe)" id="0052">
+		<description>Virtua Fighter (Europe)</description>
+		<rom name="Virtua Fighter (Europe).32x" size="4194304" crc="25aea73c" md5="adcf6c6150d1bc3d073d3754b22ebc69" sha1="24b3063284a914c76d8d1f681e3ed6323b0d7d0b"/>
+	</game>
+	<game name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30)" id="0192" cloneofid="0052">
+		<description>Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30)</description>
+		<rom name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30).32x" size="4194304" crc="46a88625" md5="14d0fdf6df181ec4902942975e470913" sha1="fbb0d96c22465abb1702499f0a8c68228dcf8fc6"/>
+	</game>
+	<game name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15)" id="0193" cloneofid="0052">
+		<description>Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15)</description>
+		<rom name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15).32x" size="4194304" crc="8df6401c" md5="500ab2d460721db06b6243027f6a0eab" sha1="28e99cc511e7c539fec66acbf5662f81528389d3"/>
+	</game>
+	<game name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30)" id="0194" cloneofid="0052">
+		<description>Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30)</description>
+		<rom name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30).32x" size="4194304" crc="3b88f987" md5="4a51f39e2e6fd27456cdfc18c1b1017c" sha1="cc6a95d10a95a91337f995a0120cb353196ce080"/>
+	</game>
+	<game name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17)" id="0195" cloneofid="0052">
+		<description>Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17)</description>
+		<rom name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17).32x" size="4194304" crc="6a364bce" md5="374dd57d027e06601d1193b67da8c2b2" sha1="c931cd60543b41e8bfb29511dcc70e4648471cbf"/>
+	</game>
+	<game name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21)" id="0196" cloneofid="0052">
+		<description>Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21)</description>
+		<rom name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21).32x" size="4194304" crc="1c4c13f3" md5="b969b201c236a764f125ed2e9b3a12f9" sha1="d26708a26a3add9e4d6083e6b9ccd48776cd4c56"/>
+	</game>
+	<game name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24)" id="0197" cloneofid="0052">
+		<description>Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24)</description>
+		<rom name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24).32x" size="4194304" crc="d4f5484b" md5="16c67ad8853789279178f93780aa69c3" sha1="4600fb1c80c968728688269dfbd9c480d4d70abe"/>
+	</game>
+	<game name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25)" id="0198" cloneofid="0052">
+		<description>Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25)</description>
+		<rom name="Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25).32x" size="4194304" crc="aff4d320" md5="f48a565aab16802c99b645f48a5cb503" sha1="7b881a7849320187389d4af5bd4bf8d3ee6fd796"/>
+	</game>
+	<game name="Virtua Hamster (USA) (Proto)" id="0061">
+		<description>Virtua Hamster (USA) (Proto)</description>
+		<rom name="Virtua Hamster (USA) (Proto).32x" size="2097152" crc="cd54ac37" md5="b3a4929fcb61bc9ecdfd9ac453860fc1" sha1="c10f98d9db73ae90be5e5d556b663a5aff015cef"/>
+	</game>
+	<game name="Virtua Racing Deluxe (Japan)" id="0055" cloneofid="0054">
+		<description>Virtua Racing Deluxe (Japan)</description>
+		<rom name="Virtua Racing Deluxe (Japan).32x" size="3145728" crc="0908e888" md5="08cae0a96d9ee07001c6e1c247d407c6" sha1="1c64e80eb164ca8d6c6587a55ad60385ba1daf27" status="verified"/>
+	</game>
+	<game name="Virtua Racing Deluxe (USA)" id="0056" cloneofid="0054">
+		<description>Virtua Racing Deluxe (USA)</description>
+		<rom name="Virtua Racing Deluxe (USA).32x" size="3145728" crc="7896b62e" md5="72b1ad0f949f68da7d0a6339ecd51a3f" sha1="18dfdeb50780c2623e60a6587d7ed701a1cf81f1"/>
+	</game>
+	<game name="Virtua Racing Deluxe (Europe)" id="0054">
+		<description>Virtua Racing Deluxe (Europe)</description>
+		<rom name="Virtua Racing Deluxe (Europe).32x" size="3145728" crc="27f14b5f" md5="c30a6430b1a7e819bd2dde63a41d4d57" sha1="bb26ddde26cd07191d872e8a76a170ca3326f781" status="verified"/>
+	</game>
+	<game name="Virtua Racing Deluxe (USA) (Beta) (1994-08-22)" id="0199" cloneofid="0054">
+		<description>Virtua Racing Deluxe (USA) (Beta) (1994-08-22)</description>
+		<rom name="Virtua Racing Deluxe (USA) (Beta) (1994-08-22).32x" size="3145728" crc="6ebb3eda" md5="c07a68331b846d1614954554c0414f86" sha1="d4e996fd7fb26919017d1056d0de608a34f05184"/>
+	</game>
+	<game name="Virtua Racing Deluxe (USA) (Beta) (1994-08-29)" id="0200" cloneofid="0054">
+		<description>Virtua Racing Deluxe (USA) (Beta) (1994-08-29)</description>
+		<rom name="Virtua Racing Deluxe (USA) (Beta) (1994-08-29).32x" size="3145728" crc="86a318de" md5="9e7b5d7e83ae5f25421a44e14d6140bf" sha1="b1385111a39795bf2ea57ab50a4feb479d7e502d"/>
+	</game>
+	<game name="Virtua Racing Deluxe (USA) (Beta) (1994-09-05)" id="0201" cloneofid="0054">
+		<description>Virtua Racing Deluxe (USA) (Beta) (1994-09-05)</description>
+		<rom name="Virtua Racing Deluxe (USA) (Beta) (1994-09-05).32x" size="3145728" crc="99f38344" md5="a5efb294179bc3bdc6515383bcdeb63d" sha1="88b3ef2bb0ccba25f3f83f218ca090e1a89512fe"/>
+	</game>
+	<game name="World Series Baseball Starring Deion Sanders (USA)" id="0057">
+		<description>World Series Baseball Starring Deion Sanders (USA)</description>
+		<rom name="World Series Baseball Starring Deion Sanders (USA).32x" size="3145728" crc="6de1bc75" md5="4d14eab0585e79e2fc4789e090755f2d" sha1="ab3026eae46a775adb7eaebc13702699557ddc41"/>
+	</game>
+	<game name="WWF Raw (World)" id="0058">
+		<description>WWF Raw (World)</description>
+		<rom name="WWF Raw (World).32x" size="4194304" crc="8eb7cd2c" md5="b3788f861803d21cfa0e559695835f44" sha1="94b974f2f69f0c10bc18b349fa4ff95ca56fa47b"/>
+	</game>
+	<game name="WWF WrestleMania - The Arcade Game (USA)" id="0059">
+		<description>WWF WrestleMania - The Arcade Game (USA)</description>
+		<rom name="WWF WrestleMania - The Arcade Game (USA).32x" size="4194304" crc="61833503" md5="8456cae9975ba6cb041c4ef2be54b1a1" sha1="551eedc963cba0e1410b3d229b332ef9ea061469"/>
+	</game>
+	<game name="X-Men (USA) (Proto)" id="0062">
+		<description>X-Men (USA) (Proto)</description>
+		<rom name="X-Men (USA) (Proto).32x" size="4194304" crc="d61febc0" md5="bdd19a34a887a4aa6067ccfb617b9041" sha1="cd3fa2ace2fdbf4b6402cb52eeb208010bf31029"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10)" id="0202" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10).32x" size="2097152" crc="c65693af" md5="bce14cea563e804765e793ce6ef91311" sha1="9db5a93ae5fc4045df342a9f53b904ef130debbf"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21)" id="0203" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21).32x" size="2097152" crc="061c0cf2" md5="fa84f37b4d7a53b160fa3596be9caf7c" sha1="3a8c794139fe7255e7107877b2d0018a6eaa0300"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23)" id="0204" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23).32x" size="2097152" crc="e92b36c5" md5="62de41e3546891b6a95ec28a558aefb2" sha1="6c93f432610908950b594bb8d289fe81de88fbdf"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27)" id="0206" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27).32x" size="2097152" crc="a1ef9787" md5="fd3eb732b7fdca39eded45b90cff25ab" sha1="e498f84bea01f073a430d854b47306b7d35ffe08"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03)" id="0207" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03).32x" size="2097152" crc="5856082d" md5="0827db2ebc41af9dfd693b0b8630fdf1" sha1="22dfc9a059657f45c7218d3be84c4a8c257ccc38"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06)" id="0208" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06).32x" size="2097152" crc="90692a18" md5="478fab0968e5f8248d7e5ad5ebc8a0ae" sha1="67afaca4956df2120f62259b1147feaad6098a53"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10)" id="0209" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10).32x" size="2097152" crc="20faf0c3" md5="4c4f31281b713b7f515d909c78825ae9" sha1="df6898e46cba85541bc7f92090bfcf7000c0e648"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15)" id="0210" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15).32x" size="2097152" crc="adfd5bc6" md5="c81f0e02b7f779ee532c7b9b92c79240" sha1="ed9d3414edc90b7fb6a23732038f5c57710de9d3"/>
+	</game>
+	<game name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31)" id="0205" cloneofid="0211">
+		<description>Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31)</description>
+		<rom name="Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31).32x" size="2097152" crc="1344f08b" md5="9ce8f1476ef7b6678ec134c6edda8147" sha1="ed3b31494407f324f18db4f5056ad6df75dc1a10"/>
+	</game>
+	<game name="Zaxxon's Motherbase 2000 (Japan, USA) (En)" id="0037" cloneofid="0211">
+		<description>Zaxxon's Motherbase 2000 (Japan, USA) (En)</description>
+		<rom name="Zaxxon's Motherbase 2000 (Japan, USA) (En).32x" size="2097152" crc="447d44be" md5="bd32a5e46d0159dc88cb31ea4bd9d899" sha1="60c390f76c394bdd221936c21aecbf98aec49a3d" sha256="c53102bfaf47c94cb039183bb2d5e4406ffb1f961afba8f58d03a887ae06c7ec" status="verified" serial="GM MK-84512-00"/>
+	</game>
+</datafile>

@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>15</id>
+		<name>Nintendo - Virtual Boy</name>
+		<description>Nintendo - Virtual Boy</description>
+		<version>20240829-133848</version>
+		<author>BigFred, bikerspade, BitLooter, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, NESBrew12, omonim2007, psykopat, rarenight, Rifu, SonGoku, Tauwasser, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="3-D Tetris (USA)" id="0001">
+		<category>Games</category>
+		<description>3-D Tetris (USA)</description>
+		<rom name="3-D Tetris (USA).vb" size="1048576" crc="bb71b522" md5="ecf1218706e9b547eab9e4be58d54e21" sha1="5177015a91442e56bd76af39447bca365e06c272" serial="VPBE"/>
+	</game>
+	<game name="Bound High (World) (Proto 1) [b]" id="0029" cloneofid="0078">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Bound High (World) (Proto 1) [b]</description>
+		<rom name="Bound High (World) (Proto 1) [b].vb" size="2097152" crc="e81a3703" md5="a460e2660fa951e9d4e3b05aee9f5018" sha1="1196ef8b9a96a0ff2f3634f8eb1c4865c0fb6b01" sha256="3addd5321c08c138724e68bfc4bdf23dcf2b2cf16ae3109fe4f802de7c39efd2" status="baddump" serial="VBHE"/>
+	</game>
+	<game name="Bound High (World) (Proto 2)" id="0078">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Bound High (World) (Proto 2)</description>
+		<rom name="Bound High (World) (Proto 2).vb" size="2097152" crc="e365ddd3" md5="cb6262fc277635b2850992b89a219590" sha1="c9d4181ed56e2520ae42a74afaeaff9902180f86" sha256="e7173a5d051fa9d134ce6c09bd278bd0960dca33e7b750b5abd462af4018956e" serial="VBHE"/>
+	</game>
+	<game name="Galactic Pinball (Japan, USA) (En)" id="0002">
+		<category>Games</category>
+		<description>Galactic Pinball (Japan, USA) (En)</description>
+		<rom name="Galactic Pinball (Japan, USA) (En).vb" size="1048576" crc="c9710a36" md5="85260599fdada2e137053a8647aa0d06" sha1="93a25abf4f86e71a49c1c3a470140bb40cb693d6" sha256="83471721324e334b7a30b54f78305f31a0a5946b234c57b60e79d9d6912b47f3" status="verified" serial="VGPJ"/>
+	</game>
+	<game name="Golf (USA)" id="0003">
+		<category>Games</category>
+		<description>Golf (USA)</description>
+		<rom name="Golf (USA).vb" size="2097152" crc="2199af41" md5="977c4da800dacfac1a1402781670f872" sha1="23ce3c174789cdd306497d86cb2c4e76ba8b06e5" serial="VVGE"/>
+	</game>
+	<game name="Insmouth no Yakata (Japan)" id="0004">
+		<category>Games</category>
+		<description>Insmouth no Yakata (Japan)</description>
+		<rom name="Insmouth no Yakata (Japan).vb" size="1048576" crc="83cb6a00" md5="1eb964d0eaa3223cfefdcc99a6265c88" sha1="37e06e53ce2810e870835c48decdd6c72079bfda" sha256="df48db37887c9ef2f30a3a2f486607a8c8633bba5163ea8c3b8e7cf49067ef7d" status="verified" serial="VIMJ"/>
+	</game>
+	<game name="Jack Bros. (USA)" id="0005">
+		<category>Games</category>
+		<description>Jack Bros. (USA)</description>
+		<rom name="Jack Bros. (USA).vb" size="1048576" crc="a44de03c" md5="ee873c9969c15e92ca9a0f689c4ce5ea" sha1="0e086d7ef2bd8b97315196943fd0b71da07aa8f1" serial="VJBE"/>
+	</game>
+	<game name="Jack Bros. no Meiro de Hiihoo! (Japan)" id="0006" cloneofid="0005">
+		<category>Games</category>
+		<description>Jack Bros. no Meiro de Hiihoo! (Japan)</description>
+		<rom name="Jack Bros. no Meiro de Hiihoo! (Japan).vb" size="1048576" crc="cab61e8b" md5="1b177fe2dd12ec1d67f6a43502f8d391" sha1="a973406590382ee503037271330d68d2834b79db" sha256="1f7a1f7090e3867778ee2bf575b6983b1d27c1b2c911a04e9e996728ed5f7b30" status="verified" serial="VJBJ"/>
+	</game>
+	<game name="Mario Clash (Japan, USA) (En)" id="0007">
+		<category>Games</category>
+		<description>Mario Clash (Japan, USA) (En)</description>
+		<rom name="Mario Clash (Japan, USA) (En).vb" size="1048576" crc="a47de78c" md5="b1b3a25ce8fb4f406bf82b8765d307d0" sha1="7556a778b60490bdb81774bcbaa7413fc84cb985" sha256="9f1baa93a805a4fc471860fb7c806bb7ac8c289ded77a78397ef8f964a11a396" status="verified" serial="VMCJ"/>
+	</game>
+	<game name="Mario's Tennis (Japan, USA) (En)" id="0008">
+		<category>Games</category>
+		<description>Mario's Tennis (Japan, USA) (En)</description>
+		<rom name="Mario's Tennis (Japan, USA) (En).vb" size="524288" crc="7ce7460d" md5="38ecc2c5a745a80d32eb9e8e413358c4" sha1="5162f7fa9e3eae4338c53ccba641ba080c768754" sha256="5dc5e6b5d5f538f56b3b9727db1c7931d9dfe1bbd0743f698897e0fd90e70101" status="verified" serial="VMTJ"/>
+	</game>
+	<game name="Nester's Funky Bowling (USA)" id="0009">
+		<category>Games</category>
+		<description>Nester's Funky Bowling (USA)</description>
+		<rom name="Nester's Funky Bowling (USA).vb" size="2097152" crc="df4d56b4" md5="0285dc41d75be8419d12472f20025305" sha1="f4a4c7928f15102cf14c90c5f044e5f7cc7c32f9" serial="VNFE"/>
+	</game>
+	<game name="Niko-chan Battle (Japan) (Proto)" id="0031">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Niko-chan Battle (Japan) (Proto)</description>
+		<rom name="Niko-chan Battle (Japan) (Proto).vb" size="1048576" crc="f3cd40dd" md5="d9a0215782dcacee5a3c4cc83d1c5189" sha1="217ca062f65d4e8b2848085918af5ac4b33b12d4" serial="VTRJ"/>
+	</game>
+	<game name="Panic Bomber (USA)" id="0010">
+		<category>Games</category>
+		<description>Panic Bomber (USA)</description>
+		<rom name="Panic Bomber (USA).vb" size="524288" crc="19bb2dfb" md5="467247d5e3383d066005565bf8218436" sha1="80216b2874cf162f301d571bb8aebc98d80b4f3e" serial="VH2E"/>
+	</game>
+	<game name="Red Alarm (USA)" id="0012">
+		<category>Games</category>
+		<description>Red Alarm (USA)</description>
+		<rom name="Red Alarm (USA).vb" size="1048576" crc="aa10a7b4" md5="e56e85761f52a613b34079d5322088ce" sha1="494fa60cb8997880b4e8cd3270b21d6c2768a48a" status="verified" serial="VREE"/>
+	</game>
+	<game name="Red Alarm (Japan)" id="0011" cloneofid="0012">
+		<category>Games</category>
+		<description>Red Alarm (Japan)</description>
+		<rom name="Red Alarm (Japan).vb" size="1048576" crc="7e85c45d" md5="bc469bf797f4774bbb1678c7f500853b" sha1="f5057fa9bfd9d60b9dcfc004cfdd12aa8eb1cb4a" sha256="52a215853f5f7a354376fb4c4ea4ac458a8c1d4472aa06fe1efdd924afdd5211" status="verified" serial="VREJ"/>
+	</game>
+	<game name="SD Gundam - Dimension War (Japan)" id="0013">
+		<category>Games</category>
+		<description>SD Gundam - Dimension War (Japan)</description>
+		<rom name="SD Gundam - Dimension War (Japan).vb" size="1048576" crc="44788197" md5="1cf8c69d8a740d6ef3aab54deced31c4" sha1="1a67f6bdb45db46e22b8aadea754a68ad379ae29" serial="VSDJ"/>
+	</game>
+	<game name="Space Invaders - Virtual Collection (Japan)" id="0014">
+		<category>Games</category>
+		<description>Space Invaders - Virtual Collection (Japan)</description>
+		<rom name="Space Invaders - Virtual Collection (Japan).vb" size="524288" crc="fa44402d" md5="7607f6f918615263512b17e56797c9aa" sha1="16ad904faafd24642dfd056d10a768e81f0d9bfa" serial="VSPJ"/>
+	</game>
+	<game name="Space Pinball (Japan) (En) (Proto)" id="0030" cloneofid="0002">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Space Pinball (Japan) (En) (Proto)</description>
+		<rom name="Space Pinball (Japan) (En) (Proto).vb" size="2097152" crc="44c2b723" md5="31073126fad41777357391ecc36d6f7f" sha1="dc182360c7c8d26323db8921f09db76638e81ced"/>
+	</game>
+	<game name="Space Squash (Japan)" id="0015">
+		<category>Games</category>
+		<description>Space Squash (Japan)</description>
+		<rom name="Space Squash (Japan).vb" size="524288" crc="60895693" md5="09c5f3143c25d1d30a3470e571653e48" sha1="3f08cae2b6f9e386529949ff954220860db1af64" sha256="7f6111f53730aa72ebcdc3883f323163cf6daae320692f9021f24d8ea76282ee" status="verified" serial="VSSJ"/>
+	</game>
+	<game name="T&amp;E Virtual Golf (Japan)" id="0016" cloneofid="0003">
+		<category>Games</category>
+		<description>T&amp;E Virtual Golf (Japan)</description>
+		<rom name="T&amp;E Virtual Golf (Japan).vb" size="2097152" crc="6ba07915" md5="c1dc0852af217146f93d701e1da233d4" sha1="c595285d42c69f14b2b418c1edfbe4a7f9a624b6" sha256="3a9ec2ffebe507a38e4f4e47f6aa27c524f20fc722281e8b303c31f657de49cc" status="verified" serial="VVGJ"/>
+	</game>
+	<game name="Teleroboxer (Japan, USA) (En)" id="0017">
+		<category>Games</category>
+		<description>Teleroboxer (Japan, USA) (En)</description>
+		<rom name="Teleroboxer (Japan, USA) (En).vb" size="1048576" crc="36103000" md5="0742a861a599fe3361aac6ebef6745a7" sha1="c59e020f9674774c5cbc022317ebba0eb1d744f7" sha256="5bfdc99d6b5bdf32daf3c87e310aa078d6d51c733b02bbbf4042222578b60a36" status="verified" serial="VTBJ"/>
+	</game>
+	<game name="Tobidase! Panibon (Japan)" id="0018" cloneofid="0010">
+		<category>Games</category>
+		<description>Tobidase! Panibon (Japan)</description>
+		<rom name="Tobidase! Panibon (Japan).vb" size="524288" crc="40498f5e" md5="44039dfaa0f8fcf8ece03b8cda267e4a" sha1="b8a12a9677afa5cbce6ed43eb0effb5a02875534" sha256="2f8b4121ea160e731f545956b557d6372de7582ecee4e21a79900d7cc6dbc148" status="verified" serial="VH2J"/>
+	</game>
+	<game name="V-Tetris (Japan) (En)" id="0019">
+		<category>Games</category>
+		<description>V-Tetris (Japan) (En)</description>
+		<rom name="V-Tetris (Japan) (En).vb" size="524288" crc="3ccb67ae" md5="262bbae465f851ded3bb7cf46e375224" sha1="ff7d4dfc467e6e0d3fe8517102132a65a9d17589" sha256="3a6a24e9645a926a6a9d3c0cf97a854f9fcc5d19cf4ec3caa770c3e9f9d6ecad" status="verified" serial="VTRJ"/>
+	</game>
+	<game name="Vertical Force (Japan)" id="0020" cloneofid="0021">
+		<category>Games</category>
+		<description>Vertical Force (Japan)</description>
+		<rom name="Vertical Force (Japan).vb" size="1048576" crc="9e9b8b92" md5="fa50ce1effb4ce1d66438f723be5c788" sha1="c7204ba5cfe7d26394b5e22badc580c8ed8c0b37" sha256="398428d31ecf045775123ff552118ea2d15f1e2ef88c6c8f27452f39019ff547" status="verified" serial="VH3J"/>
+	</game>
+	<game name="Vertical Force (USA)" id="0021">
+		<category>Games</category>
+		<description>Vertical Force (USA)</description>
+		<rom name="Vertical Force (USA).vb" size="1048576" crc="4c32ba5e" md5="87c38f66d5b9ead72af22f515a3a5f51" sha1="38f9008f60b09deef1151d46b905b090a0338200" serial="VH3E"/>
+	</game>
+	<game name="Virtual Bowling (Japan)" id="0022">
+		<category>Games</category>
+		<description>Virtual Bowling (Japan)</description>
+		<rom name="Virtual Bowling (Japan).vb" size="1048576" crc="20688279" md5="5b11d402f7e322c71a7d4fa6503631fa" sha1="a5be7654037050f0a781e70efea0191f43d26f06" serial="VVBJ"/>
+	</game>
+	<game name="Virtual Boy Wario Land (Japan, USA) (En)" id="0023">
+		<category>Games</category>
+		<description>Virtual Boy Wario Land (Japan, USA) (En)</description>
+		<rom name="Virtual Boy Wario Land (Japan, USA) (En).vb" size="2097152" crc="133e9372" md5="fb4dc9f4ebd506702eb49e99a62bd803" sha1="274c328fbd904f20e69172ab826bf8f94ced1bdb" sha256="abfb74c94c07808d368139db2e875cd91608f95e4ab892ac9b9d0442214c7198" status="verified" serial="VWCJ"/>
+	</game>
+	<game name="Virtual Fishing (Japan)" id="0024">
+		<category>Games</category>
+		<description>Virtual Fishing (Japan)</description>
+		<rom name="Virtual Fishing (Japan).vb" size="1048576" crc="526cc969" md5="c03e792d8628c3c5729fdcae1620fb9a" sha1="583b409b7215159219d08e789db46140062095f2" sha256="3d62e53c4bcd45fbd22ab4b130ffbcb22cdb7b19faecbf5c8c8364d05628afdc" status="verified" serial="VVFJ"/>
+	</game>
+	<game name="Virtual Lab (Japan)" id="0025">
+		<category>Games</category>
+		<description>Virtual Lab (Japan)</description>
+		<rom name="Virtual Lab (Japan).vb" size="1048576" crc="8989fe0a" md5="1cec316aca8827fdf99c685a1ee49dbc" sha1="d96c9f8aac5b4ea012a8fe659bb68fb1159a9c6d" serial="VJVJ"/>
+	</game>
+	<game name="Virtual League Baseball (USA)" id="0026">
+		<category>Games</category>
+		<description>Virtual League Baseball (USA)</description>
+		<rom name="Virtual League Baseball (USA).vb" size="1048576" crc="736b40d6" md5="2ba914c8aa16f2f9230b3c5b7e17e67b" sha1="266fe615ee3df1160a20b456824699f16810fa28" serial="VVPE"/>
+	</game>
+	<game name="Virtual Pro Yakyuu '95 (Japan)" id="0027" cloneofid="0026">
+		<category>Games</category>
+		<description>Virtual Pro Yakyuu '95 (Japan)</description>
+		<rom name="Virtual Pro Yakyuu '95 (Japan).vb" size="1048576" crc="9ba8bb5e" md5="154b76be987a604ff8aafa4d438928f5" sha1="ab8fa82b79512eefefccdccea6768078a374c4aa" sha256="5f1b6cc370956c47254c90d8ec46d6a7ae183543ac96220a7cdf1cd25f781db3" status="verified" serial="VVPJ"/>
+	</game>
+	<game name="Waterworld (USA)" id="0028">
+		<category>Games</category>
+		<description>Waterworld (USA)</description>
+		<rom name="Waterworld (USA).vb" size="2097152" crc="82a95e51" md5="110a83bc070559c5cc5634a8b5cae274" sha1="dcc46484bd0acab0ac1ea178f425a0f5ccfb8dc2" serial="VWEE"/>
+	</game>
+</datafile>

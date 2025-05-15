@@ -1,0 +1,910 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>1</id>
+		<name>Atari - Atari 5200</name>
+		<description>Atari - Atari 5200</description>
+		<version>20250406-021055</version>
+		<author>baldjared, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, Psychofox11, rarenight, relax, sCZther, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Atari 5200 (USA)" id="0006">
+		<description>[BIOS] Atari 5200 (USA)</description>
+		<rom name="[BIOS] Atari 5200 (USA).a52" size="2048" crc="4248d3e3" md5="281f20ea4320404ec820fb7ec0693b38" sha1="6ad7a1e8c9fad486fbec9498cb48bf5bc3adc530" sha256="06b250f18983d058c0f156ce7ee88ae48b6eaf11e6f10f21dccf6ac7ffb6a6af"/>
+	</game>
+	<game name="3-D Asteroids (USA) (Demo)" id="0129">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>3-D Asteroids (USA) (Demo)</description>
+		<rom name="3-D Asteroids (USA) (Demo).a52" size="16384" crc="16608c3e" md5="b29d5bf5ef90da87b3e3dda94452c23a" sha1="e63d68cd7317d436bff63c0b082bc2d1cd0a0657" sha256="2eb9badb62e00ee66ea5f56192de08a4ecc3bade33511409517e1b945a9f9455"/>
+	</game>
+	<game name="5200 Menu (USA) (Proto)" id="0001">
+		<description>5200 Menu (USA) (Proto)</description>
+		<rom name="5200 Menu (USA) (Proto).a52" size="8192" crc="0de2db48" md5="07d1a296b2fa1cedf2a5fa029783e9ed" sha1="e64fb1a353c72b87c5483bb88cb3523ea5d37b59" sha256="8c8b2c40a5c3628b1459697a780dc0ee9d6fa4b1bf2ddcb83a12d5edaf9f98c5"/>
+	</game>
+	<game name="A.E. (USA) (Proto 1)" id="0002" cloneofid="0153">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>A.E. (USA) (Proto 1)</description>
+		<rom name="A.E. (USA) (Proto 1).a52" size="16384" crc="35484751" md5="a47fcb4eedab9418ea098bb431a407aa" sha1="e18a603b18b85e24f9c938b33b6077a767c1fa9c" sha256="73b910172bbb3b124be25ccccbcf0ce3db9ac7b886aa67aa82b3ee6cb1eab06a"/>
+	</game>
+	<game name="A.E. (USA) (Proto 2) (1984-01-04)" id="0153">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>A.E. (USA) (Proto 2) (1984-01-04)</description>
+		<rom name="A.E. (USA) (Proto 2) (1984-01-04).a52" size="32768" crc="710bfe06" md5="27cda287fe48a970b5093d6961f154b2" sha1="7a49474e3f15daf4446cad642debab0388f7d211" sha256="e6280edd896f121a070536171a4e2a856abfc33f4d2f44f70a952136e6db2f03"/>
+	</game>
+	<game name="Activision Decathlon, The (USA)" id="0003">
+		<description>Activision Decathlon, The (USA)</description>
+		<rom name="Activision Decathlon, The (USA).a52" size="16384" crc="f43e7cd0" md5="45f8841269313736489180c8ec3e9588" sha1="db203973df13b071da46d52fdb078a76f4db428d" sha256="9ffda583a583582991ac504d92741a4fe41da094ab63373425937be94eef086d"/>
+	</game>
+	<game name="Asteroids (USA) (Proto) (1982-08-12)" id="0004" cloneofid="0173">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Asteroids (USA) (Proto) (1982-08-12)</description>
+		<rom name="Asteroids (USA) (Proto) (1982-08-12).a52" size="16384" crc="8d2aaab5" md5="cf45e6e5d9b00ef3270488185bc1e4b5" sha1="e523c5fb12f5328f9f2004482a91a57f9c16c3dc" sha256="adf540d7ecf523ceef06b67a607ab25981c815076245e363e59bdcb903c0c1f1"/>
+	</game>
+	<game name="Asteroids (USA) (Proto) (Final)" id="0173">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Asteroids (USA) (Proto) (Final)</description>
+		<rom name="Asteroids (USA) (Proto) (Final).a52" size="8192" crc="1d544455" md5="ef615cfb8b470402e3c8676eeac9172c" sha1="aef9df68cdde3f13a7ffaab455c2218e1877d50b" sha256="3f763eea474b762f32a6ebca5df6914b1a3cbc0340e7d1d33d7b5b34c99d753e"/>
+	</game>
+	<game name="Astro Chase (USA)" id="0005">
+		<description>Astro Chase (USA)</description>
+		<rom name="Astro Chase (USA).a52" size="16384" crc="4019ecec" md5="bae7c1e5eb04e19ef8d0d0b5ce134332" sha1="67e405c37e55dec4071018e8166ab4faf9f21df5" sha256="f3c1a48b736a06cf5c181e2d3c6c093512a592c4adf91c3e7e8f3e2bbdc2a126"/>
+	</game>
+	<game name="Astrogrover (USA) (Proto)" id="0109">
+		<description>Astrogrover (USA) (Proto)</description>
+		<rom name="Astrogrover (USA) (Proto).a52" size="32768" crc="18417ada" md5="10cdf2bbb058bb4cc518fd25031f427d" sha1="f3bad1c66743c8051d7c9c36eb367bdf908bc6fb" sha256="48953348aad01754927841503b6708b4d31cb098f2da103b1de1ee6f17b6852c"/>
+	</game>
+	<game name="Atari PAM - Pete's Test (USA)" id="0007">
+		<description>Atari PAM - Pete's Test (USA)</description>
+		<rom name="Atari PAM - Pete's Test (USA).a52" size="8192" crc="28278cd6" md5="ccd35e9ea3b3c5824214d88a6d8d8f7e" sha1="d3ff99e080985c9c8e25389dfa74835e8c9be508" sha256="d9843af118f6046d4dd13ac9f5a86b172dfe9d374dece972bbca4b5c484fa059"/>
+	</game>
+	<game name="Atari PAM Diagnostics (USA) (v2.0)" id="0008" cloneofid="0009">
+		<category>Applications</category>
+		<description>Atari PAM Diagnostics (USA) (v2.0)</description>
+		<rom name="Atari PAM Diagnostics (USA) (v2.0).a52" size="16384" crc="e8b130c4" md5="78ccbcbb6b4d17b749ebb012e4878008" sha1="5cc3b4245faf01c30f77ac20b0b4940f4f8f83d8"/>
+	</game>
+	<game name="Atari PAM Diagnostics (USA) (v2.3)" id="0009">
+		<category>Applications</category>
+		<description>Atari PAM Diagnostics (USA) (v2.3)</description>
+		<rom name="Atari PAM Diagnostics (USA) (v2.3).a52" size="16384" crc="ce07d9ad" md5="32a6d0de4f1728dee163eb2d4b3f49f1" sha1="e086e9868aa913e87f94676fd600f003892e73a1"/>
+	</game>
+	<game name="Atari PAM Diagnostics (USA) (v1.1)" id="0177" cloneofid="0009">
+		<category>Applications</category>
+		<description>Atari PAM Diagnostics (USA) (v1.1)</description>
+		<rom name="Atari PAM Diagnostics (USA) (v1.1).a52" size="8192" crc="3da972c8" md5="884c77a8c8f7d672fca5c831c8c13ffb" sha1="db1ab57771b0f12adeb3bc155285849070edbbf7" sha256="9bbbd69a676cc86d238d537689666f15682d7ed9717885ef7272521f5b3983ab"/>
+	</game>
+	<game name="Atari PAM System Test (USA) (v1.02)" id="0010">
+		<description>Atari PAM System Test (USA) (v1.02)</description>
+		<rom name="Atari PAM System Test (USA) (v1.02).a52" size="8192" crc="7ea86e87" md5="21ab49f7c7e245c1e12e606641788a45" sha1="af81c400f1af0ee13a24da5e8b642442a0fc9479"/>
+	</game>
+	<game name="Ballblazer (USA)" id="0011">
+		<description>Ballblazer (USA)</description>
+		<rom name="Ballblazer (USA).a52" size="32768" crc="def2a207" md5="f5cd178cbea0ae7d8cf65b30cfd04225" sha1="1dfd9cb5eb608590c84e14376291f8c02fb1ab93"/>
+	</game>
+	<game name="Ballblazer (USA) (Beta) (1984-01-20)" id="0154" cloneofid="0011">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Ballblazer (USA) (Beta) (1984-01-20)</description>
+		<rom name="Ballblazer (USA) (Beta) (1984-01-20).a52" size="32768" crc="bb705dc9" md5="428598171a55cb37ee8a69cf617b31d7" sha1="898e05b6eeb00ded16a18998f6e47e05cf684165" sha256="cacf8c81290c5983c05619a140e3ff52bc000a6ee7115fa9bdb3c0a2a0fd9819"/>
+	</game>
+	<game name="Barroom Baseball (USA) (Proto 1)" id="0012" cloneofid="0155">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Barroom Baseball (USA) (Proto 1)</description>
+		<rom name="Barroom Baseball (USA) (Proto 1).a52" size="32768" crc="21d19c8f" md5="e3fbad9d967cec0d8756d9c07346a8fb" sha1="510ccb20df2ecdbe7f8373de6a9fc11493e8c3f2"/>
+	</game>
+	<game name="Barroom Baseball (USA) (Proto 2) (1983-11-21)" id="0155">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Barroom Baseball (USA) (Proto 2) (1983-11-21)</description>
+		<rom name="Barroom Baseball (USA) (Proto 2) (1983-11-21).a52" size="32768" crc="d18fa8c8" md5="d6a949e968e79e7b1f9ec9d9bba04dea" sha1="b81054eebd31b18b369c71058bea95ca1c47877b" sha256="96e613844c89d2b5432b7112602f9c28559065cb9f76f8007ec93c0f9e5814de"/>
+	</game>
+	<game name="Battlezone (USA) (Proto 1) (1983-09-15)" id="0013" cloneofid="0110">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Battlezone (USA) (Proto 1) (1983-09-15)</description>
+		<rom name="Battlezone (USA) (Proto 1) (1983-09-15).a52" size="16384" crc="b3b8e314" md5="8576867c2cfc965cf152be0468f684a7" sha1="a339cddfc28477c21c58783d2d3b0cf0f4626ddf" sha256="db6e5251b350e8d09ae53b1f44bb50f6d2c0d6bcec0b5a8b61d6a5b214bfb0d9"/>
+	</game>
+	<game name="Battlezone (USA) (Proto 2)" id="0110">
+		<description>Battlezone (USA) (Proto 2)</description>
+		<rom name="Battlezone (USA) (Proto 2).a52" size="32768" crc="7d32a6ca" md5="4e21f1c2473bd2bc5516cb732b9d298d" sha1="b64d5152cc398e9ef5a7b2636a5165efb8793539" sha256="780076936f2667ead5303a44415a956b1cd3ff8ac631b38c212fa2d809d143b6"/>
+	</game>
+	<game name="Beamrider (USA)" id="0014">
+		<description>Beamrider (USA)</description>
+		<rom name="Beamrider (USA).a52" size="16384" crc="9bae58dc" md5="1913310b1e44ad7f3b90aeb16790a850" sha1="b75d555d059ad61992f9f5a234129ecbf9504c35"/>
+	</game>
+	<game name="Behind Jaggi Lines! (USA) (Beta) (1984-01-18)" id="0111" cloneofid="0082">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Behind Jaggi Lines! (USA) (Beta) (1984-01-18)</description>
+		<rom name="Behind Jaggi Lines! (USA) (Beta) (1984-01-18).a52" size="32768" crc="9dd7776a" md5="e927e44d7c4cbeffa9376ee42317fd69" sha1="ffdaf320c3b2051c6e155e706233dca8d57ca484" sha256="a2ceea14bc92e77727e3641fb819892576a010de7a0354010ee3041017e285e2"/>
+	</game>
+	<game name="BerZerk (USA)" id="0015">
+		<description>BerZerk (USA)</description>
+		<rom name="BerZerk (USA).a52" size="16384" crc="be3cd348" md5="f8973db8dc272c2e5eb7b8dbb5c0cc3b" sha1="e56ccc6bf427a832ce00540b02d065a2688260dc" status="verified"/>
+	</game>
+	<game name="BerZerk (USA) (Beta 1) (1983-06-01)" id="0169" cloneofid="0015">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>BerZerk (USA) (Beta 1) (1983-06-01)</description>
+		<rom name="BerZerk (USA) (Beta 1) (1983-06-01).a52" size="16384" crc="8550a9e9" md5="08e43a4cabbc1aec8d09fecb64a2eed8" sha1="a8272b8cfccb11686366f5d131d86ea65dd1554b" sha256="7a1fef5d645ed51e54712eb23867ee31779bbcda1301565748a3c82c4b551c84"/>
+	</game>
+	<game name="BerZerk (USA) (Beta 2) (1983-07-31)" id="0170" cloneofid="0015">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>BerZerk (USA) (Beta 2) (1983-07-31)</description>
+		<rom name="BerZerk (USA) (Beta 2) (1983-07-31).a52" size="16384" crc="efa00f88" md5="230bbe336dba31e5a66bdb3546317691" sha1="14655a8b2e33a7e856a3bb0a04b054fdf1469aa2" sha256="b142f8d2fd83aa4e69329e3fbe9d341b155f6cfb7686f8438d0fc7b01e74f0af"/>
+	</game>
+	<game name="BerZerk (USA) (Beta 3) (1983-08-03)" id="0171" cloneofid="0015">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>BerZerk (USA) (Beta 3) (1983-08-03)</description>
+		<rom name="BerZerk (USA) (Beta 3) (1983-08-03).a52" size="32768" crc="659fc323" md5="9ba408e0893175959da98ab7e6d58f4a" sha1="c7b1d75e5c6860b4b443995ebf625d06bfca476b" sha256="168020d38f273493fa96729338f227648714eab5bd19793adc618a11f641c6d7"/>
+	</game>
+	<game name="BerZerk (USA) (Beta 4) (1983-08-xx)" id="0172" cloneofid="0015">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>BerZerk (USA) (Beta 4) (1983-08-xx)</description>
+		<rom name="BerZerk (USA) (Beta 4) (1983-08-xx).a52" size="16384" crc="63fa1ef9" md5="94db996e7fd4917a6f33161692c7145e" sha1="7bb09e41d2452786feef7dbcef7ff970e0ca000b" sha256="96addf6a119468885e9b8f7ca4ec5aad05dfcf73f45f5ce72a609f14134be3d6"/>
+	</game>
+	<game name="Black Belt (USA) (Proto 3)" id="0016">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Black Belt (USA) (Proto 3)</description>
+		<rom name="Black Belt (USA) (Proto 3).a52" size="32768" crc="ed47b0d8" md5="428f76e23cb0a499b396824ce0ff70e7" sha1="9b7ecd444b6239442ef1f54cd8e14c294c064da2" sha256="aa3ac67931629a17d931c9a1634c46d33dd15c2c5f2373d202b204d121279286"/>
+	</game>
+	<game name="Black Belt (USA) (Proto 1)" id="0174" cloneofid="0016">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Black Belt (USA) (Proto 1)</description>
+		<rom name="Black Belt (USA) (Proto 1).a52" size="16384" crc="40657c26" md5="6ac790f7d076372d2571b345db5b7026" sha1="7bca36ed805b4d0e1effeeb1108a16c898788ac0" sha256="70e8534f670ae8413c65a9dd706de0d7d56dee3df0063e5b2f6725e1852047f2"/>
+	</game>
+	<game name="Black Belt (USA) (Proto 2)" id="0175" cloneofid="0016">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Black Belt (USA) (Proto 2)</description>
+		<rom name="Black Belt (USA) (Proto 2).a52" size="32768" crc="c1899b05" md5="172ea05a7ad7f20d4af0610d186eccb8" sha1="f5365cc347fc950cb66511dccc16b687cfef7a20" sha256="a29a9ad19a4ecbe21ed173848a9903d89b63d67066da1051907d9b42641c05ef"/>
+	</game>
+	<game name="Blaster (USA) (Proto)" id="0017">
+		<description>Blaster (USA) (Proto)</description>
+		<rom name="Blaster (USA) (Proto).a52" size="16384" crc="c8f9c094" md5="e0b47a17fa6cd9d6addc1961fca43414" sha1="ab3130256d16af09cac8b11749dfaff6aaaa3ea3"/>
+	</game>
+	<game name="Blue Print (USA)" id="0018">
+		<description>Blue Print (USA)</description>
+		<rom name="Blue Print (USA).a52" size="16384" crc="0624e6e7" md5="8123393ae9635f6bc15ddc3380b04328" sha1="1e1a20c104bf4d55eca0ca1e72dc5dc64fa6b1b5"/>
+	</game>
+	<game name="Boogie (USA) (Demo)" id="0019">
+		<description>Boogie (USA) (Demo)</description>
+		<rom name="Boogie (USA) (Demo).a52" size="4096" crc="3bd5fdd6" md5="a470e6d3bacce17260f37097b2de88b1" sha1="5236bc13e4b06d2e16d70b0a0c98588e1726da0c"/>
+	</game>
+	<game name="Bounty Bob Strikes Back! (USA)" id="0020">
+		<description>Bounty Bob Strikes Back! (USA)</description>
+		<rom name="Bounty Bob Strikes Back! (USA).a52" size="40960" crc="7873c6dd" md5="5d5a75ac53230915701bc918249f1055" sha1="cfdd2f8dabb03d8784f336bb0c804270dc3a8a6c"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (USA)" id="0021">
+		<description>Buck Rogers - Planet of Zoom (USA)</description>
+		<rom name="Buck Rogers - Planet of Zoom (USA).a52" size="16384" crc="04807705" md5="a074a1ff0a16d1e034ee314b85fa41e9" sha1="bc7c81f758dd3e224e42ac8a16c1a12d69aed722"/>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (USA) (Alt)" id="0126">
+		<description>Buck Rogers - Planet of Zoom (USA) (Alt)</description>
+		<rom name="Buck Rogers - Planet of Zoom (USA) (Alt).a52" size="16384" crc="20df4927" md5="f345dd189879f8d13e4c8c5737279fa3" sha1="e394b4843856775176389b8b0b261e2ef5fda880" sha256="1690a1c9e896e238462bd2c0d39abc9089aac61dcc9fcae53d556fdf979f8b45" status="verified"/>
+	</game>
+	<game name="Carol Shaw's River Raid (USA)" id="0022">
+		<description>Carol Shaw's River Raid (USA)</description>
+		<rom name="Carol Shaw's River Raid (USA).a52" size="8192" crc="09fc7648" md5="01b978c3faf5d516f300f98c00377532" sha1="ce9bd3b0847c5e187c3e8f667c8f5ea771c49965"/>
+	</game>
+	<game name="Castle Blast (USA) (Unl)" id="0023">
+		<description>Castle Blast (USA) (Unl)</description>
+		<rom name="Castle Blast (USA) (Unl).a52" size="32768" crc="7c988054" md5="4965b4c8acca64c4fac39a7c0763f611" sha1="c1a56a1fc51e09b1d8e93af40ddd7596847e6164"/>
+	</game>
+	<game name="Castle Crisis (USA) (Unl)" id="0024">
+		<description>Castle Crisis (USA) (Unl)</description>
+		<rom name="Castle Crisis (USA) (Unl).a52" size="32768" crc="d50e4061" md5="8f4c07a9e0ef2ded720b403810220aaf" sha1="4e022e101d7346a0a8618018372740e7333b4a36"/>
+	</game>
+	<game name="Centipede (USA)" id="0025">
+		<description>Centipede (USA)</description>
+		<rom name="Centipede (USA).a52" size="16384" crc="536a70fe" md5="261702e8d9acbf45d44bb61fd8fa3e17" sha1="eb343b90d3de696e69b1f039d4fb2c6afb0d80c0"/>
+	</game>
+	<game name="Choplifter! (USA)" id="0026">
+		<description>Choplifter! (USA)</description>
+		<rom name="Choplifter! (USA).a52" size="16384" crc="9ad53bbc" md5="3ff7707e25359c9bcb2326a5d8539852" sha1="9f1ee191319ef0261cc7074a81c0e6d6b7464cd2"/>
+	</game>
+	<game name="Choplifter! (USA) (Beta 1) (1984-01-04)" id="0156" cloneofid="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Choplifter! (USA) (Beta 1) (1984-01-04)</description>
+		<rom name="Choplifter! (USA) (Beta 1) (1984-01-04).a52" size="16384" crc="200578dd" md5="2ba64a705c5854a41f1f516d9091a4f4" sha1="c01f57967651d2ddb3cb6354234b0aec4ad8dca6" sha256="3d6c9268828bf22a43592696a8ac65d275de560a51c2e74ea4244a4f3ad9a761"/>
+	</game>
+	<game name="Choplifter! (USA) (Beta 2) (1984-01-13)" id="0157" cloneofid="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Choplifter! (USA) (Beta 2) (1984-01-13)</description>
+		<rom name="Choplifter! (USA) (Beta 2) (1984-01-13).a52" size="16384" crc="bee87e6f" md5="e3b4a21f229be3682418f79e7769c6e2" sha1="a5a9e3d6b1c95ccdaef177b60f388a3128b3342d" sha256="6e69d0b803cc1522c4a6866c15921a993bd719de3db6c1108bcffd4113b85eb0"/>
+	</game>
+	<game name="Choplifter! (USA) (Beta 3)" id="0158" cloneofid="0026">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Choplifter! (USA) (Beta 3)</description>
+		<rom name="Choplifter! (USA) (Beta 3).a52" size="16384" crc="9209ca2b" md5="0a82d60c4fb65065dc713d15bc8a9737" sha1="6ff20a48be50486adef0af6762905db8be8a4538" sha256="aa39bee23f2ff34b23df8e4f42ec992af7dae6ce1e8742b08646dcb7fe213376"/>
+	</game>
+	<game name="Congo Bongo (USA)" id="0027">
+		<description>Congo Bongo (USA)</description>
+		<rom name="Congo Bongo (USA).a52" size="16384" crc="f1f42bbd" md5="5720423ebd7575941a1586466ba9beaf" sha1="e0203c2124127eba2d679be548fa257ecc5b2607" status="verified"/>
+	</game>
+	<game name="Countermeasure (USA)" id="0028">
+		<description>Countermeasure (USA)</description>
+		<rom name="Countermeasure (USA).a52" size="16384" crc="fd541c80" md5="1a64edff521608f9f4fa9d7bdb355087" sha1="fa6d77e6e9afd0ea42fc9f9807932bf9e8fb170e" status="verified"/>
+	</game>
+	<game name="David Crane's Pitfall II - Lost Caverns (USA)" id="0029">
+		<description>David Crane's Pitfall II - Lost Caverns (USA)</description>
+		<rom name="David Crane's Pitfall II - Lost Caverns (USA).a52" size="16384" crc="4b910461" md5="7c27d225a13e178610babf331a0759c0" sha1="b051f0fb2e816787ab6eed0cb008b9f8cc9963dc"/>
+	</game>
+	<game name="Defender (USA)" id="0030">
+		<description>Defender (USA)</description>
+		<rom name="Defender (USA).a52" size="16384" crc="bd52623b" md5="27d5f32b0d46d3d80773a2b505f95046" sha1="44f6dbf5013a70e646d5c5232981d517069fc449" status="verified"/>
+	</game>
+	<game name="Dig Dug (USA)" id="0031">
+		<description>Dig Dug (USA)</description>
+		<rom name="Dig Dug (USA).a52" size="16384" crc="6a687f9c" md5="3abd0c057474bad46e45f3d4e96eecee" sha1="387a76ba5912251e2285b7722004ad75e9ede523"/>
+	</game>
+	<game name="Dig Dug (USA) (Beta) (1983-04-07)" id="0152" cloneofid="0031">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dig Dug (USA) (Beta) (1983-04-07)</description>
+		<rom name="Dig Dug (USA) (Beta) (1983-04-07).a52" size="32768" crc="573f8fd1" md5="01da15f7243962f924b122f5a09e7409" sha1="cba8f03becc215595ed3873f82c3d22c0ff71d6d" sha256="fd0632557e1e64c2852dc42448694e8fae0bc76800ee060d74e5bf7408c6e620"/>
+	</game>
+	<game name="Dig Dug (USA) (Beta) (1983-06-20)" id="0178" cloneofid="0031">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Dig Dug (USA) (Beta) (1983-06-20)</description>
+		<rom name="Dig Dug (USA) (Beta) (1983-06-20).a52" size="32768" crc="63e81003" md5="feda20f3f0e8fdde3cbd9c74158ef934" sha1="a2d7b8262280c2a0dfb3899e063a11ab894921f8" sha256="2c1b94cc59353effddb634d5714d4e99e3f2fee3b5fdddcecf44ad5e233145dd"/>
+	</game>
+	<game name="Dreadnaught Factor, The (USA)" id="0032">
+		<description>Dreadnaught Factor, The (USA)</description>
+		<rom name="Dreadnaught Factor, The (USA).a52" size="8192" crc="460def2d" md5="159ccaa564fc2472afd1f06665ec6d19" sha1="ea7b40ce1106378e1d409cab6634fb2e483ff238"/>
+	</game>
+	<game name="Final Legacy (USA) (Proto)" id="0033">
+		<description>Final Legacy (USA) (Proto)</description>
+		<rom name="Final Legacy (USA) (Proto).a52" size="16384" crc="d3bd3221" md5="2bb63d65efc8682bc4dfac0fd0a823be" sha1="48625af4f3e9fe538dab2a0b463887fc8c6b138d"/>
+	</game>
+	<game name="Frisky Tom (USA) (Proto) (1983-07-04)" id="0034">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Frisky Tom (USA) (Proto) (1983-07-04)</description>
+		<rom name="Frisky Tom (USA) (Proto) (1983-07-04).a52" size="16384" crc="04b299a4" md5="14bd9a0423eafc3090333af916cfbce6" sha1="69dcc8f59ca449f13dc896b4b29b534762d97064" sha256="53dac12aedfd9efaf11a8619a84f6914f67cf63febddc02ed2c48bdf591c3653"/>
+	</game>
+	<game name="Frisky Tom (USA) (Proto) (1983-01-20)" id="0176" cloneofid="0034">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Frisky Tom (USA) (Proto) (1983-01-20)</description>
+		<rom name="Frisky Tom (USA) (Proto) (1983-01-20).a52" size="8192" crc="23c21720" md5="27fddf15d465a080e6f8f3d46593dd36" sha1="082d0be46dafe8e5b7087acafc272f759fc0f0d1" sha256="d199f829d2534d94c581b167fa1d7af9023902f7fcb280ea3ef4d84e167d8984"/>
+	</game>
+	<game name="Frogger (USA)" id="0035">
+		<description>Frogger (USA)</description>
+		<rom name="Frogger (USA).a52" size="8192" crc="ae7e3444" md5="2c89c9444f99fd7ac83f88278e6772c6" sha1="d9a695757f0494aee92a50ab8a49558745e0cedf"/>
+	</game>
+	<game name="Frogger II - Threeedeep! (USA)" id="0036">
+		<description>Frogger II - Threeedeep! (USA)</description>
+		<rom name="Frogger II - Threeedeep! (USA).a52" size="16384" crc="0af19345" md5="d8636222c993ca71ca0904c8d89c4411" sha1="3d815594cf674694b04bb0ff90bf635d7d402fc2"/>
+	</game>
+	<game name="Galaxian (USA)" id="0037">
+		<description>Galaxian (USA)</description>
+		<rom name="Galaxian (USA).a52" size="8192" crc="3ef4a23f" md5="3ace7c591a88af22bac0c559bbb08f03" sha1="0df0d7f11d89e2c5b59cc9f98d67d98e203831aa"/>
+	</game>
+	<game name="Galaxian (USA) (Alt)" id="0122">
+		<category>Games</category>
+		<description>Galaxian (USA) (Alt)</description>
+		<rom name="Galaxian (USA) (Alt).a52" size="8192" crc="3a6e6133" md5="670035122c35616c5259a29edd1582e4" sha1="f8e9668cf272159eda191b9221189a8f928b4f75" sha256="384aeb34d32176893366e189cc8a7bb4698dc0ebf9018ffb49fc62b15e14af98" status="verified"/>
+	</game>
+	<game name="Galaxian (USA) (Demo) (Kiosk)" id="0136" cloneofid="0037">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Galaxian (USA) (Demo) (Kiosk)</description>
+		<rom name="Galaxian (USA) (Demo) (Kiosk).a52" size="32768" crc="cfa0d4da" md5="fc86725769a6eaa4f1e1e9831107996c" sha1="f6d9530caadcf6da98a02acd3e7b436d88b65505" sha256="0352247b187d51cbf918430af08522f49dbdfb14b38c31e5231eae8573cb085a"/>
+	</game>
+	<game name="Gorf (USA)" id="0038">
+		<description>Gorf (USA)</description>
+		<rom name="Gorf (USA).a52" size="8192" crc="e955db74" md5="85fe2492e2945015000272a9fefc06e3" sha1="80926bb270ea66cb5cacc379de1fc16d8a3d814b"/>
+	</game>
+	<game name="Gremlins (USA)" id="0039">
+		<description>Gremlins (USA)</description>
+		<rom name="Gremlins (USA).a52" size="32768" crc="063ec2c4" md5="dc271e475b4766e80151f1da5b764e52" sha1="f3c32b39580d589799dcead98bb206fbf3df0504"/>
+	</game>
+	<game name="Gyruss (USA)" id="0040" cloneofid="0123">
+		<category>Games</category>
+		<description>Gyruss (USA)</description>
+		<rom name="Gyruss (USA).a52" size="16384" crc="cfd4a7f9" md5="dacc0a82e8ee0c086971f9d9bac14127" sha1="d0d8650eb07d1679004d491360c2c041e37c61cd"/>
+	</game>
+	<game name="Gyruss (USA) (Rev 1)" id="0123">
+		<category>Games</category>
+		<description>Gyruss (USA) (Rev 1)</description>
+		<rom name="Gyruss (USA) (Rev 1).a52" size="16384" crc="4241582d" md5="9983ab618fac2469f82bac1fc19f895b" sha1="4cb97e3ddbae49f443dbbf80941c3a909c1d9d6b" sha256="d922f6e2f1166f76354832741e10228bac50dfb91741399698e70723eb4d9e4b"/>
+	</game>
+	<game name="Gyruss (USA) (Beta) (1984-04-23)" id="0189" cloneofid="0123">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Gyruss (USA) (Beta) (1984-04-23)</description>
+		<rom name="Gyruss (USA) (Beta) (1984-04-23).a52" size="32768" crc="97c69f4b" md5="31367ac5e7c3023461c589e9a6bbe78b" sha1="80a23953f19304541678a87f0b8a40e7c94190d3" sha256="f20c19827c64fcf126277fdcb4e1c68c0d4420ccf200ca1a32be1f34fd38619b"/>
+	</game>
+	<game name="H.E.R.O. (USA)" id="0041">
+		<description>H.E.R.O. (USA)</description>
+		<rom name="H.E.R.O. (USA).a52" size="16384" crc="18a73af3" md5="f8f0e0a6dc2ffee41b2a2dd736cba4cd" sha1="d286ecb6793a0dda9c9c68f6355dbe3ade6922f9"/>
+	</game>
+	<game name="James Bond 007 (USA)" id="0042">
+		<description>James Bond 007 (USA)</description>
+		<rom name="James Bond 007 (USA).a52" size="16384" crc="d9ae4518" md5="936db7c08e6b4b902c585a529cb15fc5" sha1="ae765943ae8d909b6ca6ff1560ba027adeeaa515"/>
+	</game>
+	<game name="James Bond 007 (USA) (Beta)" id="0179" cloneofid="0042">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>James Bond 007 (USA) (Beta)</description>
+		<rom name="James Bond 007 (USA) (Beta).a52" size="16384" crc="22abbbc7" md5="06209e78b6d081196421c0cb508193be" sha1="1f39c049e4e1fffd6a9f203a6d2a0c3f109d6c0a" sha256="0b35e666856d42f2014fb10a60500584ff5d8fc27a38b1f963fc3aca2661d610"/>
+	</game>
+	<game name="Joust (USA)" id="0043">
+		<description>Joust (USA)</description>
+		<rom name="Joust (USA).a52" size="16384" crc="bfd30c01" md5="25cfdef5bf9b126166d5394ae74a32e7" sha1="0f74125edac90ffd1274a128df2970c239348fb5"/>
+	</game>
+	<game name="Joust (USA) (Beta) (1983-06-12)" id="0151">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Joust (USA) (Beta) (1983-06-12)</description>
+		<rom name="Joust (USA) (Beta) (1983-06-12).a52" size="16384" crc="408d29de" md5="9056088b2bd87dfafdba945194744b12" sha1="410e3b43a50f8fb3089b4b961e38f7c547d469ba" sha256="af094ec8f2dd463181f84be8e51b3148e0a222b625bba4877b61e52681246f10"/>
+	</game>
+	<game name="Jr. Pac-Man (USA) (Proto)" id="0044">
+		<description>Jr. Pac-Man (USA) (Proto)</description>
+		<rom name="Jr. Pac-Man (USA) (Proto).a52" size="16384" crc="59983c40" md5="bc748804f35728e98847da6cdaf241a7" sha1="a3e760d09e4dc6053286967576b5b7d42ee2fd38"/>
+	</game>
+	<game name="Jungle Hunt (USA)" id="0045">
+		<description>Jungle Hunt (USA)</description>
+		<rom name="Jungle Hunt (USA).a52" size="16384" crc="2c676662" md5="834067fdce5d09b86741e41e7e491d6c" sha1="fa02ee04cfad90c6ccf9d9b984e3b7b3327fec12"/>
+	</game>
+	<game name="Jungle Hunt (USA) (Beta) (1983-04-07)" id="0165" cloneofid="0045">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Jungle Hunt (USA) (Beta) (1983-04-07)</description>
+		<rom name="Jungle Hunt (USA) (Beta) (1983-04-07).a52" size="16384" crc="cc0ec2d4" md5="e2ee9bb6839a5500ea8c2f60515969a9" sha1="c200190cc23924c423879224dd30dcba80a74e1e" sha256="7533617c39e307228c8483ec64814b385dc59b79bd501a18a9c0c56752b0de99"/>
+	</game>
+	<game name="Jungle Hunt (USA) (Beta) (1983-05-02)" id="0166" cloneofid="0045">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Jungle Hunt (USA) (Beta) (1983-05-02)</description>
+		<rom name="Jungle Hunt (USA) (Beta) (1983-05-02).a52" size="32768" crc="f270252c" md5="63772d6af29d69d9627992c9eb864e03" sha1="fb7cda8932e02213d58272f2dffc70afe78fede2" sha256="37d7cd1003525b75a3a3bfcbf027634e1daab06a201ea74f77e760838ff02481"/>
+	</game>
+	<game name="K-Razy Shoot-Out (USA)" id="0046">
+		<description>K-Razy Shoot-Out (USA)</description>
+		<rom name="K-Razy Shoot-Out (USA).a52" size="8192" crc="ee702214" md5="b99f405de8e7700619bcd18524ba0e0e" sha1="c7eb2b4a46a197adfedf33c2ccc17d8424d681c4"/>
+	</game>
+	<game name="Kaboom! (USA)" id="0047">
+		<description>Kaboom! (USA)</description>
+		<rom name="Kaboom! (USA).a52" size="4096" crc="420f5d0b" md5="92fd2f43bc0adf2f704666b5244fadf1" sha1="a80f876a89a8ceacc71da5d9c02b546970b17730"/>
+	</game>
+	<game name="Kangaroo (USA)" id="0048">
+		<description>Kangaroo (USA)</description>
+		<rom name="Kangaroo (USA).a52" size="16384" crc="ecfa624f" md5="796d2c22f8205fb0ce8f1ee67c8eb2ca" sha1="c3dbeed7adc0e282bf76332ab5a3209550e26d02"/>
+	</game>
+	<game name="Keystone Kapers (USA)" id="0049">
+		<description>Keystone Kapers (USA)</description>
+		<rom name="Keystone Kapers (USA).a52" size="8192" crc="8fe3bb2c" md5="f25a084754ea4d37c2fb1dc8ca6dc51b" sha1="9f31c85a13e919135438590601e33bef11a8df8a"/>
+	</game>
+	<game name="Koffi - Yellow Kopter (USA) (Unl)" id="0050">
+		<description>Koffi - Yellow Kopter (USA) (Unl)</description>
+		<rom name="Koffi - Yellow Kopter (USA) (Unl).a52" size="32768" crc="917be656" md5="3b03e3cda8e8aa3beed4c9617010b010" sha1="9547c56e2951e1b3a713b0b99d3edb43c9d3cdd8"/>
+	</game>
+	<game name="Last Starfighter, The (USA) (Proto) (1984-05-21)" id="0051">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Last Starfighter, The (USA) (Proto) (1984-05-21)</description>
+		<rom name="Last Starfighter, The (USA) (Proto) (1984-05-21).a52" size="16384" crc="83517703" md5="46264c86edf30666e28553bd08369b83" sha1="4046f60602254a7d86d2a6efd1a330455eaec119" sha256="01e6f03012aaade5ab6001f75bc52afe5b403edbc4b932cc80b4ba6f23cf178a"/>
+	</game>
+	<game name="Last Starfighter, The (USA) (Proto) (1984-05-08)" id="0183" cloneofid="0051">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Last Starfighter, The (USA) (Proto) (1984-05-08)</description>
+		<rom name="Last Starfighter, The (USA) (Proto) (1984-05-08).a52" size="16384" crc="037157f9" md5="87f0f671a88d782860873b896c99a849" sha1="7fa41b2f527945005cce93f511f74023876836bd" sha256="7251c728e77af36759c28dbcaad8bbdff1c695709fe74ef667efecd9ec9ccc82"/>
+	</game>
+	<game name="Looney Tunes Hotel (USA) (Proto)" id="0052">
+		<description>Looney Tunes Hotel (USA) (Proto)</description>
+		<rom name="Looney Tunes Hotel (USA) (Proto).a52" size="16384" crc="84df4925" md5="d0a1654625dbdf3c6b8480c1ed17137f" sha1="bc4a536616ac45689b3ad790f6b1394ebbd8cc7e"/>
+	</game>
+	<game name="Mario Bros. (USA)" id="0053">
+		<description>Mario Bros. (USA)</description>
+		<rom name="Mario Bros. (USA).a52" size="32768" crc="873742f1" md5="d00dff571bfa57c7ff7880c3ce03b178" sha1="a293b6b06050e11029d97137f2b1b36059567273"/>
+	</game>
+	<game name="Mario Bros. (USA) (Alt)" id="0125">
+		<category>Games</category>
+		<description>Mario Bros. (USA) (Alt)</description>
+		<rom name="Mario Bros. (USA) (Alt).a52" size="32768" crc="6b3f1179" md5="0ad079027090c427e9d939bad318d846" sha1="39cd2d87c4fefd2fe12a4d6485101235fe55b070" sha256="aee75bd31231fc567b79d3825e286e121314925745f6ebdb040ee4c01ae6dd17" status="verified"/>
+	</game>
+	<game name="Meebzork (USA) (Proto) (1983-11-16)" id="0054">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Meebzork (USA) (Proto) (1983-11-16)</description>
+		<rom name="Meebzork (USA) (Proto) (1983-11-16).a52" size="32768" crc="1aa94fec" md5="f64adda6524b21543847b2a7cb90c3f8" sha1="f2c224c7e6ad053fa325c8e8e2328198f0cb2898" sha256="6e9b91e78190633dd454a83e7769c9300c5e338a52eff34b002f5f967fa1bdbb"/>
+	</game>
+	<game name="Meebzork (USA) (Proto) (1983-05-03)" id="0186" cloneofid="0054">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Meebzork (USA) (Proto) (1983-05-03)</description>
+		<rom name="Meebzork (USA) (Proto) (1983-05-03).a52" size="16384" crc="abc1d1ff" md5="4899c7fb9aa7c3766d5afa887c6fc596" sha1="dea0e30757e8cc754d9eb4e999e023d586d90f7a" sha256="1e251d88f2de9d63f1a16d6f32c0993b30d8759157100f75e1c89b90972d6ce8"/>
+	</game>
+	<game name="Meebzork (USA) (Proto) (1983-05-18)" id="0187" cloneofid="0054">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Meebzork (USA) (Proto) (1983-05-18)</description>
+		<rom name="Meebzork (USA) (Proto) (1983-05-18).a52" size="16384" crc="bbb3c9f2" md5="472db5b812b40d36a81bf4279cdaa20b" sha1="5b8a8b8b9754d302a7cd7025bdd7127d8e16d512" sha256="878347da6bcf7111391509387fa6649261022ce5471a5bc8acbb0977eec309b2"/>
+	</game>
+	<game name="MegaMania (USA)" id="0055">
+		<description>MegaMania (USA)</description>
+		<rom name="MegaMania (USA).a52" size="8192" crc="240a1e1a" md5="ff785ce12ad6f4ca67f662598025c367" sha1="f5512460c6b6d3a1baa0b23adf6a3a37fe308eb3"/>
+	</game>
+	<game name="Meteorites (USA)" id="0056">
+		<description>Meteorites (USA)</description>
+		<rom name="Meteorites (USA).a52" size="16384" crc="ab8e035b" md5="1cd67468d123219201702eadaffd0275" sha1="32d86a381feff43149b66336dcc4ba2523273228"/>
+	</game>
+	<game name="Microgammon SB (USA) (Proto) (1983-08-15)" id="0057">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Microgammon SB (USA) (Proto) (1983-08-15)</description>
+		<rom name="Microgammon SB (USA) (Proto) (1983-08-15).a52" size="16384" crc="38a8afa9" md5="b8358ac18346de5c8a2f5864443f5963" sha1="c7b724e2a06c027ff7e45c110d5d67c26851134e" sha256="cd3ac117421a829566e5711f7cbb8d3e5147d07c1541c7d2064588bafbf295a7"/>
+	</game>
+	<game name="Microgammon SB (USA) (Proto) (1983-07-16)" id="0185" cloneofid="0057">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Microgammon SB (USA) (Proto) (1983-07-16)</description>
+		<rom name="Microgammon SB (USA) (Proto) (1983-07-16).a52" size="8192" crc="8a5ad939" md5="c35a2ccb69c6ddbe7136125000f6e6e3" sha1="d2717f6ebc1cd93adf026763bf9936e61e054035" sha256="dd537d4a4d14a7443ada0b44e0bfba68205804bb5ab701ab1c6791c9fbac7988"/>
+	</game>
+	<game name="Millipede (USA) (Proto) (1984-01-31)" id="0058">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Millipede (USA) (Proto) (1984-01-31)</description>
+		<rom name="Millipede (USA) (Proto) (1984-01-31).a52" size="16384" crc="969cfe1a" md5="84d88bcdeffee1ab880a5575c6aca45e" sha1="1243a8ecfc02a74ae4e1f4fcda38502776f45cb0" sha256="3cd0e22123f2add19c9af41f1f283d3f2f5739b260a5183b305d1d5fc8aab771"/>
+	</game>
+	<game name="Millipede (USA) (Proto) (1984-01-04)" id="0180" cloneofid="0058">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Millipede (USA) (Proto) (1984-01-04)</description>
+		<rom name="Millipede (USA) (Proto) (1984-01-04).a52" size="16384" crc="eddb9265" md5="da8ca31c0e390a8f0706126a0db146ed" sha1="613d7610a35c5071b076332d8c970fa66d8e4d82" sha256="93b255ae41a4b13a77c5ab21eb4b6127ece67554eff0bcb43f5e73b1b0d6d3f4"/>
+	</game>
+	<game name="Millipede (USA) (Proto) (1984-01-05)" id="0181" cloneofid="0058">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Millipede (USA) (Proto) (1984-01-05)</description>
+		<rom name="Millipede (USA) (Proto) (1984-01-05).a52" size="16384" crc="da7685e6" md5="4e3918b440efe11a51b1ac68fa064b2b" sha1="9e3c077ec6056954752be83c516e4c91e874db21" sha256="600f85d3a4417697145e1003b9f73e43eeb57d5ded99435fdf246ad6689981d0"/>
+	</game>
+	<game name="Miner 2049er Starring Bounty Bob (USA)" id="0059">
+		<description>Miner 2049er Starring Bounty Bob (USA)</description>
+		<rom name="Miner 2049er Starring Bounty Bob (USA).a52" size="16384" crc="7df1adfb" md5="d859bff796625e980db1840f15dec4b5" sha1="0564b1867a0b570d66dfcbc11adc3e51a2c6f28c"/>
+	</game>
+	<game name="Miniature Golf (USA) (Proto)" id="0060">
+		<description>Miniature Golf (USA) (Proto)</description>
+		<rom name="Miniature Golf (USA) (Proto).a52" size="16384" crc="c597c087" md5="69d472a79f404e49ad2278df3c8a266e" sha1="ef4d3ee7b4da2ef79c6f4d0d1833f10c1eb7725e"/>
+	</game>
+	<game name="Missile Command (USA)" id="0061">
+		<description>Missile Command (USA)</description>
+		<rom name="Missile Command (USA).a52" size="8192" crc="44d3ff6f" md5="972b6c0dbf5501cacfdc6665e86a796c" sha1="5c8ec22e131810ccac08066ca96e9944ccfa4ecb"/>
+	</game>
+	<game name="Missile Command (Europe) (Proto) (1982-04-04)" id="0188" cloneofid="0061">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Missile Command (Europe) (Proto) (1982-04-04)</description>
+		<rom name="Missile Command (Europe) (Proto) (1982-04-04).a52" size="8192" crc="957a4205" md5="4e57104382c1c940f07666b7e7b13903" sha1="ea00348b23f14c358be7a53b1a1c24a0f105644c" sha256="d9af763a48389ed22a594b5638cc7f810f6389c6ddc4a5f57a9c90227a711759"/>
+	</game>
+	<game name="Montezuma's Revenge - Featuring Panama Joe (USA)" id="0062">
+		<description>Montezuma's Revenge - Featuring Panama Joe (USA)</description>
+		<rom name="Montezuma's Revenge - Featuring Panama Joe (USA).a52" size="16384" crc="2a640143" md5="694897cc0d98fcf2f59eef788881f67d" sha1="7e2a05625598c7e6615f969aa695e64315cd9846"/>
+	</game>
+	<game name="Moon Patrol (USA)" id="0063">
+		<description>Moon Patrol (USA)</description>
+		<rom name="Moon Patrol (USA).a52" size="16384" crc="d0b2f285" md5="296e5a3a9efd4f89531e9cf0259c903d" sha1="02dd5b9278c06ae8cbb6dacc094e238fbacf08d2"/>
+	</game>
+	<game name="Moon Patrol (USA) (Beta 1) (1983-09-14)" id="0143" cloneofid="0063">
+		<description>Moon Patrol (USA) (Beta 1) (1983-09-14)</description>
+		<rom name="Moon Patrol (USA) (Beta 1) (1983-09-14).a52" size="16384" crc="665289e4" md5="b753a773466fbe279862b5f522e55c9b" sha1="b9bb9e938b17d54981fa3e070f666daf78d7ee3e" sha256="80df0daa1cc3e6ca155176e7f285aadaa0c3db84bfd5edd7f26b048643b7b888"/>
+	</game>
+	<game name="Moon Patrol (USA) (Beta 2) (1983-09-19)" id="0144" cloneofid="0063">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Moon Patrol (USA) (Beta 2) (1983-09-19)</description>
+		<rom name="Moon Patrol (USA) (Beta 2) (1983-09-19).a52" size="16384" crc="f6aaff07" md5="77a4be1fc0a9ff6a1000c5af46147b54" sha1="f940dcdbeea6f1137731264829956aaffca83d7e" sha256="a9654ffe80fee5382f61d97c3e551676b747bb4af7a6ae6d17c2de1221f63b07"/>
+	</game>
+	<game name="Moon Patrol (USA) (Beta 3)" id="0145" cloneofid="0063">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Moon Patrol (USA) (Beta 3)</description>
+		<rom name="Moon Patrol (USA) (Beta 3).a52" size="32768" crc="906cc57b" md5="9c86100b5a4a2029b012bb725e3d815d" sha1="e42fa716a2285cf288b2b72c98afc2f54a469112" sha256="4654b4a2e1671afed2fdafe991ffab04d7a20ffa9e8f086fc815adb33f5dcd66"/>
+	</game>
+	<game name="Moon Patrol (USA) (Beta 4)" id="0146" cloneofid="0063">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Moon Patrol (USA) (Beta 4)</description>
+		<rom name="Moon Patrol (USA) (Beta 4).a52" size="32768" crc="28a0bef6" md5="d7d50eb9547688f8bedbd41fc99997cd" sha1="f038ffcc40b7223d9c77b0871b99948642a74674" sha256="dda740034b90cc3785733e0e2fa1e4662cdda2323639503a760486559bd1cca5"/>
+	</game>
+	<game name="Mountain King (USA)" id="0064">
+		<description>Mountain King (USA)</description>
+		<rom name="Mountain King (USA).a52" size="8192" crc="0f24243c" md5="618e3eb7ae2810768e1aefed1bfdcec4" sha1="2e7ae57260624d1f5710d445a0936f0c280a6655"/>
+	</game>
+	<game name="Mr. Do!'s Castle (USA)" id="0065">
+		<description>Mr. Do!'s Castle (USA)</description>
+		<rom name="Mr. Do!'s Castle (USA).a52" size="8192" crc="aa55f9be" md5="d1873645fee21e84b25dc5e939d93e9b" sha1="002e6f8c7533b03f8041e7f1896589c0ab0e17a6"/>
+	</game>
+	<game name="Ms. Pac-Man (USA)" id="0066">
+		<description>Ms. Pac-Man (USA)</description>
+		<rom name="Ms. Pac-Man (USA).a52" size="16384" crc="752f5efd" md5="ef9a920ffdf592546499738ee911fc1e" sha1="f93d72444d76075273e508555423936530875148"/>
+	</game>
+	<game name="Pac-Man (USA)" id="0067">
+		<description>Pac-Man (USA)</description>
+		<rom name="Pac-Man (USA).a52" size="16384" crc="8873ef51" md5="f1a4d62d9ba965335fa13354a6264623" sha1="ee4b3c6f08aa9fdfab532eec98136306b6923f75" status="verified"/>
+	</game>
+	<game name="Pac-Man (USA) (Demo) (Kiosk)" id="0137" cloneofid="0067">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Pac-Man (USA) (Demo) (Kiosk)</description>
+		<rom name="Pac-Man (USA) (Demo) (Kiosk).a52" size="16384" crc="e43d0d8a" md5="1ded86a2e394e5b1741aa6686e084ea2" sha1="97f4be25dca46f1c52c2e359a1012069e65484c4" sha256="9ad854fa9fefc710b95726d17482c2fd2aca6b7c7257f87c921b6aecdbbe625a"/>
+	</game>
+	<game name="Pengo (USA)" id="0068">
+		<description>Pengo (USA)</description>
+		<rom name="Pengo (USA).a52" size="32768" crc="e4f8ba8c" md5="a301a449fc20ad345b04932d3ca3ef54" sha1="19ff7622dbbc2915e3e98d8d966340e7e893ff34" status="verified"/>
+	</game>
+	<game name="Pengo (USA) (Beta) (1983-07-27)" id="0159" cloneofid="0068">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Pengo (USA) (Beta) (1983-07-27)</description>
+		<rom name="Pengo (USA) (Beta) (1983-07-27).a52" size="32768" crc="f085ea1f" md5="c07f459151ac824e11d0f9daa1a73c0b" sha1="94796f9bba34dad73f9ff4b1d3135fe1357acbe2" sha256="e44b10e302be635569c6a03377b7fa091c90ff097988a3bec29fccbf75ef0b9a"/>
+	</game>
+	<game name="Pengo (USA) (Beta) (1983-08-10)" id="0160" cloneofid="0068">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Pengo (USA) (Beta) (1983-08-10)</description>
+		<rom name="Pengo (USA) (Beta) (1983-08-10).a52" size="32768" crc="d0704419" md5="e3136c37990aecc2db94a282e008f0b7" sha1="116bb35c3dc3cfe23bb737e611c86471751a0c9d" sha256="033b55e56d1586bf7e35fd543af22718fb7981403a3790918079560968b6a324"/>
+	</game>
+	<game name="Pitfall! (USA)" id="0069">
+		<description>Pitfall! (USA)</description>
+		<rom name="Pitfall! (USA).a52" size="8192" crc="b2887833" md5="ecbd6dd2ab105dd43f98476966bbf26c" sha1="d1c7dc3de097a4bfab82235acec69a97e6e05f18"/>
+	</game>
+	<game name="Pole Position (USA)" id="0070">
+		<description>Pole Position (USA)</description>
+		<rom name="Pole Position (USA).a52" size="16384" crc="abc2d1e4" md5="fd0cbea6ad18194be0538844e3d7fdc9" sha1="d504764c5894ee99c0b5e2024cbe833ebba3ab17"/>
+	</game>
+	<game name="Pole Position (USA) (Beta)" id="0112" cloneofid="0070">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Pole Position (USA) (Beta)</description>
+		<rom name="Pole Position (USA) (Beta).a52" size="32768" crc="15b7b5ef" md5="2168ff22f68996957bf0b9dc6c29753c" sha1="c22e5ea7cc892f515e4967f6ff0844b5a8d34b62" sha256="3a4c3df6e1858b637de3511f5fa75bcc04b8ed827681daa32d7e1679f00a07b0"/>
+	</game>
+	<game name="Popeye (USA)" id="0071">
+		<description>Popeye (USA)</description>
+		<rom name="Popeye (USA).a52" size="16384" crc="a18a9a40" md5="dd4ae6add63452aafe7d4fa752cd78ca" sha1="e615aaa0c1d56ac83b91f6087970fa708d6433bf"/>
+	</game>
+	<game name="Q-bert (USA)" id="0072">
+		<description>Q-bert (USA)</description>
+		<rom name="Q-bert (USA).a52" size="8192" crc="3fe4a401" md5="ce44d14341fcc5e7e4fb7a04f77ffec9" sha1="e6966bde5cd4167020c9d21bab613af1648b4d75"/>
+	</game>
+	<game name="QIX (USA)" id="0073">
+		<description>QIX (USA)</description>
+		<rom name="QIX (USA).a52" size="16384" crc="aea6d2c2" md5="9b7d9d874a93332582f34d1420e0f574" sha1="786cdf54d1625e0d3ea8814506fdeeba5e4ece48"/>
+	</game>
+	<game name="Quest for Quintana Roo (USA)" id="0074">
+		<description>Quest for Quintana Roo (USA)</description>
+		<rom name="Quest for Quintana Roo (USA).a52" size="16384" crc="b5f3402b" md5="099706cedd068aced7313ffa371d7ec3" sha1="17a41c5f9a32f8a71939cfaa0e96807b951aedad"/>
+	</game>
+	<game name="RealSports Baseball (USA)" id="0075">
+		<description>RealSports Baseball (USA)</description>
+		<rom name="RealSports Baseball (USA).a52" size="32768" crc="44166592" md5="2bb928d7516e451c6b0159ac413407de" sha1="a94d06739fa19453fa586a836eaacae11fe93989"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-07-06)" id="0149" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-07-06)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-07-06).a52" size="32768" crc="6547b51f" md5="cbe8a3574b0f8228b904bfd9627b9020" sha1="e806fb04ac0de6b1154bbda99c6b5a07d6a8314e" sha256="8c09544f8b5e594f5312f4c14e2b55af22dbcae21f6d4092758560eba36e14f8"/>
+	</game>
+	<game name="RealSports Baseball (USA) (Beta) (1983-02-11)" id="0150" cloneofid="0075">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Baseball (USA) (Beta) (1983-02-11)</description>
+		<rom name="RealSports Baseball (USA) (Beta) (1983-02-11).a52" size="32768" crc="ec08160d" md5="6810a7c8f43b671b9d397d67709e08b8" sha1="9efe73180e48f9600f87fc625544b8a1f7023b0f" sha256="8d3eb340545aa0343255934373f406a37b7a29cbfcd3da0ba2f9855f03e2054f"/>
+	</game>
+	<game name="RealSports Basketball (USA) (Proto) (1983-12-16)" id="0076">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Basketball (USA) (Proto) (1983-12-16)</description>
+		<rom name="RealSports Basketball (USA) (Proto) (1983-12-16).a52" size="32768" crc="dd217276" md5="e056001d304db597bdd21b2968fcc3e6" sha1="9b21ac7fec8d556585c6970231318ef1f501b2b5"/>
+	</game>
+	<game name="RealSports Basketball (USA) (Proto) (1982-11-05)" id="0077" cloneofid="0076">
+		<description>RealSports Basketball (USA) (Proto) (1982-11-05)</description>
+		<rom name="RealSports Basketball (USA) (Proto) (1982-11-05).a52" size="16384" crc="0f996184" md5="a71bfb11676a4e4694af66e311721a1b" sha1="2b43f74db4833272d2048de8fa32b857af8e090f"/>
+	</game>
+	<game name="RealSports Basketball (USA) (Proto) (1983-10-31)" id="0078" cloneofid="0076">
+		<description>RealSports Basketball (USA) (Proto) (1983-10-31)</description>
+		<rom name="RealSports Basketball (USA) (Proto) (1983-10-31).a52" size="32768" crc="c90196fa" md5="cfd05f2a0ea1068718d1149dbd1f19fa" sha1="9edb066a37ca7657979952c946ab89be7926f4f8"/>
+	</game>
+	<game name="RealSports Football (USA)" id="0079">
+		<description>RealSports Football (USA)</description>
+		<rom name="RealSports Football (USA).a52" size="16384" crc="4336c2cc" md5="022c47b525b058796841134bb5c75a18" sha1="a0dbd654ed3ba2583ca175a1356924d9529884df"/>
+	</game>
+	<game name="RealSports Soccer (USA)" id="0080">
+		<description>RealSports Soccer (USA)</description>
+		<rom name="RealSports Soccer (USA).a52" size="16384" crc="ecbd1853" md5="3074fad290298d56c67f82e8588c5a8b" sha1="c911cc914f3923d5aeb1a897e6dc4a551a9a53da"/>
+	</game>
+	<game name="RealSports Soccer (USA) (Beta) (1982-08-26)" id="0148" cloneofid="0080">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>RealSports Soccer (USA) (Beta) (1982-08-26)</description>
+		<rom name="RealSports Soccer (USA) (Beta) (1982-08-26).a52" size="16384" crc="041ad5b3" md5="f9701f2ea86ac39328f8aee5b540e245" sha1="e4f020df49866079c221dedbd91f8fe74477cfcd" sha256="362e469b40ba1c059a896e138f03700cb8df616c65f19ad5b8be22beb0c0bafb"/>
+	</game>
+	<game name="RealSports Tennis (USA)" id="0081">
+		<description>RealSports Tennis (USA)</description>
+		<rom name="RealSports Tennis (USA).a52" size="16384" crc="10f33c90" md5="7e683e571cbe7c77f76a1648f906b932" sha1="2e6c7472e37926cdfd3d855a4bd37a18fa83d8cf"/>
+	</game>
+	<game name="Rescue on Fractalus! (USA)" id="0082">
+		<description>Rescue on Fractalus! (USA)</description>
+		<rom name="Rescue on Fractalus! (USA).a52" size="32768" crc="762c591b" md5="0dc44c5bf0829649b7fec37cb0a8186b" sha1="9253d7286cf87999474b37df242ba23b4358ef4a"/>
+	</game>
+	<game name="Rescue on Fractalus! (USA) (Beta) (1984-02-29)" id="0184" cloneofid="0082">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Rescue on Fractalus! (USA) (Beta) (1984-02-29)</description>
+		<rom name="Rescue on Fractalus! (USA) (Beta) (1984-02-29).a52" size="32768" crc="f208a675" md5="75104362f09ee73a71355c56aabbfed9" sha1="61668f185536288c7b7c22299ad82798231abb85" sha256="269b0fe16aad8aae92a3990574bdb579d0e96dad4d1f3fab95c26e10d95220bc"/>
+	</game>
+	<game name="Road Runner (USA) (Proto)" id="0083">
+		<description>Road Runner (USA) (Proto)</description>
+		<rom name="Road Runner (USA) (Proto).a52" size="16384" crc="a97606ab" md5="ddf7834a420f1eaae20a7a6255f80a99" sha1="0a7aaef5b0ede927cea13e724906207e1db48068"/>
+	</game>
+	<game name="Robotron 2084 (USA)" id="0084">
+		<description>Robotron 2084 (USA)</description>
+		<rom name="Robotron 2084 (USA).a52" size="16384" crc="4252abd9" md5="5dba5b478b7da9fd2c617e41fb5ccd31" sha1="9175e6daca58102ac8b9729d7b0336cf09977d12"/>
+	</game>
+	<game name="Robotron 2084 (USA) (Beta) (1983-10-12)" id="0138" cloneofid="0084">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Robotron 2084 (USA) (Beta) (1983-10-12)</description>
+		<rom name="Robotron 2084 (USA) (Beta) (1983-10-12).a52" size="16384" crc="01e6ea2d" md5="b9d61e9edad722702fc46df73a580755" sha1="1323054746467123bda8d5399052f8e4ad04a1b5" sha256="d63c1067947aecd324ed7fbd0dab6bb48616f8ff29336ab9a256d5e36f4afc1e"/>
+	</game>
+	<game name="Robotron 2084 (USA) (Beta) (1983-09-20)" id="0139" cloneofid="0084">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Robotron 2084 (USA) (Beta) (1983-09-20)</description>
+		<rom name="Robotron 2084 (USA) (Beta) (1983-09-20).a52" size="16384" crc="d78c2f4d" md5="5e3b10da50574f771d206c20ead72488" sha1="29b043899550bd019a00a48e0cd6f51f5af123ff" sha256="513bf42182c6c1f1c34166d4abba52cfbdd2260678f35d7195bd2dcbf8958a91"/>
+	</game>
+	<game name="Space Dungeon (USA)" id="0085">
+		<description>Space Dungeon (USA)</description>
+		<rom name="Space Dungeon (USA).a52" size="16384" crc="b68d61e8" md5="6e24e3519458c5cb95a7fd7711131f8d" sha1="127ed1c31c3e85d10212eee7b9e6d71aef7dd891"/>
+	</game>
+	<game name="Space Dungeon (USA) (Beta) (1983-01-20)" id="0163" cloneofid="0085">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Space Dungeon (USA) (Beta) (1983-01-20)</description>
+		<rom name="Space Dungeon (USA) (Beta) (1983-01-20).a52" size="16384" crc="3015bb24" md5="664e4030fd95027bc4b83a2209218d6b" sha1="88227488a43a25fa4667f33270cd00c70cef220a" sha256="e5770d6d2e32c28535468b9f1600da415ec465faea2fb2b99b4bf87b4d7f7ba5"/>
+	</game>
+	<game name="Space Dungeon (USA) (Beta) (1983-03-09)" id="0164" cloneofid="0085">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Space Dungeon (USA) (Beta) (1983-03-09)</description>
+		<rom name="Space Dungeon (USA) (Beta) (1983-03-09).a52" size="32768" crc="893a6846" md5="0d0adf87776a46c5833eab7d29407be4" sha1="0000e5e72bf48cd2eb7e476f605a56affd1a4606" sha256="d3623e83590a1b318ae8137dcb7b49adf2b61cb7833a04a58f359d4117aec745"/>
+	</game>
+	<game name="Space Invaders (USA)" id="0086">
+		<description>Space Invaders (USA)</description>
+		<rom name="Space Invaders (USA).a52" size="8192" crc="de5c354a" md5="58430368d2c9190083f95ce923f4c996" sha1="cf411db770217b5af5fcfa32725cc587a8b9e710"/>
+	</game>
+	<game name="Space Race (USA) (Demo)" id="0135">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Space Race (USA) (Demo)</description>
+		<rom name="Space Race (USA) (Demo).a52" size="16384" crc="de64498a" md5="e4a503787dbc034e54305742d8cf3424" sha1="354a93b4dadacae81581dd045651209b65b62a5c" sha256="8eea898b3b293c74ef867c186d93c1efbb1b0511de0c0945263fa7474f0c9ad1"/>
+	</game>
+	<game name="Space Shuttle - A Journey Into Space (USA)" id="0087">
+		<description>Space Shuttle - A Journey Into Space (USA)</description>
+		<rom name="Space Shuttle - A Journey Into Space (USA).a52" size="16384" crc="387365dc" md5="802a11dfcba6229cc2f93f0f3aaeb3aa" sha1="5ae20e767d9819fe601f3b1ea6d4506ae2f2ceef"/>
+	</game>
+	<game name="Spitfire (USA) (Proto) (1982-12-05)" id="0088" cloneofid="0141">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Spitfire (USA) (Proto) (1982-12-05)</description>
+		<rom name="Spitfire (USA) (Proto) (1982-12-05).a52" size="32768" crc="3c311303" md5="cd1c3f732c3432c4a642732182b1ea30" sha1="688133761c462d6865bf673ed298b4d828120940"/>
+	</game>
+	<game name="Spitfire (USA) (Proto) (1983-10-13)" id="0140" cloneofid="0141">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Spitfire (USA) (Proto) (1983-10-13)</description>
+		<rom name="Spitfire (USA) (Proto) (1983-10-13).a52" size="32768" crc="565f3e21" md5="456d5c5ccc4e5adc4e3d7fc7deac732d" sha1="674c0bcb479e9de7c2d916c905892ea2f0cea4a6" sha256="c87aa055d1850edc7b6031a5c59ba9c22b8d7d4e4f890eb858471c4ba445e8cd"/>
+	</game>
+	<game name="Spitfire (USA) (Proto) (1983-11-03)" id="0141">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Spitfire (USA) (Proto) (1983-11-03)</description>
+		<rom name="Spitfire (USA) (Proto) (1983-11-03).a52" size="32768" crc="db982c2f" md5="221d943b1043f5bdf2b0f25282183404" sha1="a9388e44bf1665e2ea1cf4e3055a1dd953294b7d" sha256="532ed0084128a7bf098a79af5c3eb87157d36756fa2615487c6ea60ee42ade3e"/>
+	</game>
+	<game name="Spitfire (USA) (Proto) (1983-09-30)" id="0142" cloneofid="0141">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Spitfire (USA) (Proto) (1983-09-30)</description>
+		<rom name="Spitfire (USA) (Proto) (1983-09-30).a52" size="32768" crc="18e0793f" md5="de5f43da7c0a5536aab9b70f67654dd0" sha1="0eced0435503c2f7ab69f46622e43a155e07e31f" sha256="1e9d973b92fc095672c6bb59faea4c3d3a38e0f7df472bcb15adde2994801601"/>
+	</game>
+	<game name="Sport Goofy (USA) (Proto) (1983-04-11)" id="0089">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Sport Goofy (USA) (Proto) (1983-04-11)</description>
+		<rom name="Sport Goofy (USA) (Proto) (1983-04-11).a52" size="16384" crc="73b5b6fb" md5="993e3be7199ece5c3e03092e3b3c0d1d" sha1="5f0354d8792d652313e5a0fa5d395e091c801d97" sha256="a23784ba01982b33179ba8f07683877b498d2f3d143e143d4694d7f1b640cada"/>
+	</game>
+	<game name="Sport Goofy (USA) (Proto) (1983-03-28)" id="0147" cloneofid="0089">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Sport Goofy (USA) (Proto) (1983-03-28)</description>
+		<rom name="Sport Goofy (USA) (Proto) (1983-03-28).a52" size="16384" crc="8a1a2b60" md5="6d9c8e6a20b420bca7b3b6bbc6a552bf" sha1="25cd0df1594ebd59157c8851df31a4374c42e6ae" sha256="7428336746f1b97db427953b83b43d3f8e2a6fb0cd08aa766124a0f5bc422115"/>
+	</game>
+	<game name="Star Raiders (USA)" id="0090">
+		<description>Star Raiders (USA)</description>
+		<rom name="Star Raiders (USA).a52" size="16384" crc="7d819a9f" md5="e2d3a3e52bb4e3f7e489acd9974d68e2" sha1="57dfc22c9805555f957ed51a2dc7bf35ad00c9d9" status="verified"/>
+	</game>
+	<game name="Star Raiders (USA) (Alt)" id="0127">
+		<description>Star Raiders (USA) (Alt)</description>
+		<rom name="Star Raiders (USA) (Alt).a52" size="16384" crc="4bac5dd9" md5="64579ed5a28e3174262aa5283e41b66a" sha1="4712eb082767272fddf7a915eda7cda70f621209"/>
+	</game>
+	<game name="Star Trek - Strategic Operations Simulator (USA)" id="0091">
+		<description>Star Trek - Strategic Operations Simulator (USA)</description>
+		<rom name="Star Trek - Strategic Operations Simulator (USA).a52" size="16384" crc="69f23548" md5="c959b65be720a03b5479650a3af5a511" sha1="19801454ab86f2a5cf691fcd577a71ad2b8dc7d5"/>
+	</game>
+	<game name="Star Trek - Strategic Operations Simulator (USA) (Alt)" id="0124">
+		<category>Games</category>
+		<description>Star Trek - Strategic Operations Simulator (USA) (Alt)</description>
+		<rom name="Star Trek - Strategic Operations Simulator (USA) (Alt).a52" size="16384" crc="33b70206" md5="003646954d3fab877818d0ada756ced1" sha1="4782c25aea59a984aedb4061dc84129711e5691e" sha256="820174485d32ff27811b48b5a1525493fcb6281ddf74f1d1d9cfd874f2918331" status="verified"/>
+	</game>
+	<game name="Star Wars - Return of the Jedi - Death Star Battle (USA)" id="0092">
+		<description>Star Wars - Return of the Jedi - Death Star Battle (USA)</description>
+		<rom name="Star Wars - Return of the Jedi - Death Star Battle (USA).a52" size="8192" crc="0675f0a5" md5="a2831487ab0b0b647aa590fb2b834dd9" sha1="bf77048abc36ba2cba5eeeac812802d6a0eba891"/>
+	</game>
+	<game name="Star Wars - The Arcade Game (USA)" id="0093">
+		<description>Star Wars - The Arcade Game (USA)</description>
+		<rom name="Star Wars - The Arcade Game (USA).a52" size="16384" crc="75f566df" md5="00beaa8405c7fb90d86be5bb1b01ea66" sha1="ab676ffe054b23bdd43cee2498afefaabbf9355b"/>
+	</game>
+	<game name="Stargate (USA) (Proto 3) (1984-01-05)" id="0094">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Stargate (USA) (Proto 3) (1984-01-05)</description>
+		<rom name="Stargate (USA) (Proto 3) (1984-01-05).a52" size="16384" crc="1d1cee27" md5="595703dc459cd51fed6e2a191c462969" sha1="09d192a3598cdadfb61eceb430b3d5892e40962f" sha256="4bda10d851864513df0ec47c307c7fcc7ea9b0afc141c6a67ef6ab636c79d61e"/>
+	</game>
+	<game name="Stargate (USA) (Proto 1) (1983-11-21)" id="0167" cloneofid="0094">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Stargate (USA) (Proto 1) (1983-11-21)</description>
+		<rom name="Stargate (USA) (Proto 1) (1983-11-21).a52" size="16384" crc="132eed8e" md5="3a23509c2bc553681152ae0b00b5d163" sha1="12e3fc7a96fc42586d9585d9e70e7f85cfe0ae2c" sha256="9f4c3e85184945323bb3736beb8b431aaf352e16511af244da8e8656197f5aa8"/>
+	</game>
+	<game name="Stargate (USA) (Proto 2) (1984-01-13)" id="0168" cloneofid="0094">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Stargate (USA) (Proto 2) (1984-01-13)</description>
+		<rom name="Stargate (USA) (Proto 2) (1984-01-13).a52" size="16384" crc="1a67a0f5" md5="f79a7b86dbbb809edc0dc6f5a11823b4" sha1="0766eefb7789ec6aeb91938e9192c3ae2072b115" sha256="1e4ce722b50337e899f8e73a4c5aaf4c07d7cffed308ecf78b1f78fd65526745"/>
+	</game>
+	<game name="Super Breakout (USA)" id="0095">
+		<description>Super Breakout (USA)</description>
+		<rom name="Super Breakout (USA).a52" size="4096" crc="a0642110" md5="865570ff9052c1704f673e6222192336" sha1="f5f9c7f97bf09e5647e808d892b656f3ee1e19e0" sha256="81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031" status="verified"/>
+	</game>
+	<game name="Super Cobra (USA)" id="0096">
+		<description>Super Cobra (USA)</description>
+		<rom name="Super Cobra (USA).a52" size="8192" crc="97debcd2" md5="dfcd77aec94b532728c3d1fef1da9d85" sha1="8205093f5fb1fdf0ccb71d667ea0a3849fb0a0f2"/>
+	</game>
+	<game name="Super Pac-Man (USA) (Proto) (1984-01-26)" id="0097" cloneofid="0108">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Pac-Man (USA) (Proto) (1984-01-26)</description>
+		<rom name="Super Pac-Man (USA) (Proto) (1984-01-26).a52" size="16384" crc="0a4ddb1e" md5="7dab86351fe78c2f529010a1ac83a4cf" sha1="238cb448555d8bb5c96aa0354718411e8777c613" sha256="484e2488429eb5b1598566cd832a3e3b0b90cb277b99e8c3dfe7e9fc8ecffaaa"/>
+	</game>
+	<game name="Super Pac-Man (USA) (Proto) (Final)" id="0108">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Pac-Man (USA) (Proto) (Final)</description>
+		<rom name="Super Pac-Man (USA) (Proto) (Final).a52" size="16384" crc="fd8f0cd4" md5="d89669f026c34de7f0da2bcb75356e27" sha1="5b2d1264923c37acbbb6e1ffd3ad82c0e95d45fd" sha256="29af287d437a500ca79086e35d93d327cee0136b0655a82204a28d59ae869847"/>
+	</game>
+	<game name="Super Pac-Man (USA) (Proto) (1984-03-15)" id="0130" cloneofid="0108">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Pac-Man (USA) (Proto) (1984-03-15)</description>
+		<rom name="Super Pac-Man (USA) (Proto) (1984-03-15).a52" size="16384" crc="ea9b852c" md5="ddfc36db5f545c12cc76c089f9d585e3" sha1="ba6717ea7d1f7ca4a2e4e489f9898727c9e7b258" sha256="605ebf00c114b019bcb9d37096f479bda1238f115f7263e2b00f061b8d00c8e1"/>
+	</game>
+	<game name="Tempest (USA) (Proto) (1983-12-29)" id="0098" cloneofid="0120">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Tempest (USA) (Proto) (1983-12-29)</description>
+		<rom name="Tempest (USA) (Proto) (1983-12-29).a52" size="16384" crc="1187342f" md5="496b6a002bc7d749c02014f7ec6c303c" sha1="85fcea0a4d4d1f22437801c96229ba96e0f6b711" sha256="b7283b53cfd6e4972ec3cd04e49ffd20de3195f895ec6a59c92da719f0aa9cce"/>
+	</game>
+	<game name="Tempest (USA) (AtariAge)" id="0120">
+		<category>Games</category>
+		<description>Tempest (USA) (AtariAge)</description>
+		<rom name="Tempest (USA) (AtariAge).a52" size="32768" crc="a6400e17" md5="a31a6e41640ce83944736ce668456631" sha1="0cb2bd6ed89ce6710ac092533a24f1248688c88c" sha256="3bb51238b752723f9f4049f6661c9c217b0631110e9186e11fb8fa72c6a2f2b8"/>
+	</game>
+	<game name="Tempest (USA) (Proto) (1984-03-15)" id="0128" cloneofid="0120">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Tempest (USA) (Proto) (1984-03-15)</description>
+		<rom name="Tempest (USA) (Proto) (1984-03-15).a52" size="16384" crc="eb5b5c64" md5="1e6925a49384e05af23732f6caee8dd3" sha1="4d0810f411ee88cf84b2aeb0203213f09384ddfb" sha256="b86960ffbb9bfb08c7e588d5f99497581c57ca5234c51690ac04853280d558f8"/>
+	</game>
+	<game name="Track and Field (USA) (Proto) (1984-05-10)" id="0099">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Track and Field (USA) (Proto) (1984-05-10)</description>
+		<rom name="Track and Field (USA) (Proto) (1984-05-10).a52" size="16384" crc="0ba22ece" md5="33053f432f9c4ad38b5d02d1b485b5bd" sha1="9dfbb5d8b77504c66ce3ac4382daf79820393dd8" sha256="2a74517e4eadd286b8c2d507bba0fc5f530ce6746686a95d6a60d22dd10ae6cd"/>
+	</game>
+	<game name="Track and Field (USA) (Proto) (1984-04-18)" id="0182" cloneofid="0099">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Track and Field (USA) (Proto) (1984-04-18)</description>
+		<rom name="Track and Field (USA) (Proto) (1984-04-18).a52" size="16384" crc="ee587f6e" md5="cf1ea8007904893a0b51392638d3cf50" sha1="8fe2d3f3387705caf6ca45b094dd450d3a9c5d22" sha256="4c8a4c88b15993d8058d2945fc25d16c59b29e256a3e8a9801ee9853b06d7bbf"/>
+	</game>
+	<game name="Vanguard (USA)" id="0100">
+		<description>Vanguard (USA)</description>
+		<rom name="Vanguard (USA).a52" size="32768" crc="caaea0a4" md5="556a66d6737f0f793821e702547bc051" sha1="6c633de50e6cc0c0c40061cd24e6f78f552a438f"/>
+	</game>
+	<game name="Vanguard (USA) (Beta) (1983-01-05)" id="0161" cloneofid="0100">
+		<description>Vanguard (USA) (Beta) (1983-01-05)</description>
+		<rom name="Vanguard (USA) (Beta) (1983-01-05).a52" size="16384" crc="be9a2abd" md5="f818348b1d813a1883df7d5e1d80e7dd" sha1="1a5570e808d10c86108c8299444868c1110be863" sha256="3bd09f396263ed66e6aca45f6bdfd0ca97c4b75beb108961c7acd924d9c9bd44"/>
+	</game>
+	<game name="Vanguard (USA) (Beta) (1983-02-01)" id="0162" cloneofid="0100">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Vanguard (USA) (Beta) (1983-02-01)</description>
+		<rom name="Vanguard (USA) (Beta) (1983-02-01).a52" size="32768" crc="1cf10560" md5="3b772ac66ca0ef3e80657b69b41fc37e" sha1="1ae88870dd4990b796e89dadccf871c1254e12e4" sha256="36c4a1345d7ea3b2ac0af747c215ae66ed002cbc8b93b4fc8b93afe9cf6618b4"/>
+	</game>
+	<game name="Wizard of Wor (USA)" id="0101">
+		<description>Wizard of Wor (USA)</description>
+		<rom name="Wizard of Wor (USA).a52" size="16384" crc="d6f7ddfd" md5="560b68b7f83077444a57ebe9f932905a" sha1="49debdf3c133fde9905d6d9137da5d8dff8d6283" status="verified"/>
+	</game>
+	<game name="Xari Arena (USA) (Proto) (1983-08-30)" id="0102" cloneofid="0121">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xari Arena (USA) (Proto) (1983-08-30)</description>
+		<rom name="Xari Arena (USA) (Proto) (1983-08-30).a52" size="16384" crc="b8faaec3" md5="4f6c58c28c41f31e3a1515fe1e5d15af" sha1="8b5512d3d2a952c99b9377919f0e06481161d81e" sha256="c4c9a5fe83d70df121233e4187225f3ddf6c240464ea6b35b7df4628e3ae08c9"/>
+	</game>
+	<game name="Xari Arena (USA) (Proto) (1983-09-20)" id="0121">
+		<description>Xari Arena (USA) (Proto) (1983-09-20)</description>
+		<rom name="Xari Arena (USA) (Proto) (1983-09-20).a52" size="16384" crc="29178296" md5="c1f1d430ebd3e0ff8de688e5101da7af" sha1="42accb12e34031da5822dc52fbbfb1b912a6a5a7" sha256="51c902b011785bcf5192d6fafb83e133fdde88952b2b5a0a4f11ecae418d7ace"/>
+	</game>
+	<game name="Xari Arena (USA) (Proto) (1983-05-10)" id="0131" cloneofid="0121">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xari Arena (USA) (Proto) (1983-05-10)</description>
+		<rom name="Xari Arena (USA) (Proto) (1983-05-10).a52" size="16384" crc="8b5d3567" md5="4045957e90560485272fdaae72009597" sha1="4e5fc0a3ad6d230916db037710e7d7d4076a7607" sha256="b14ed092e88001385993b1fa45065f834df96b483aa5bd20cebc56e9bd3a1e10"/>
+	</game>
+	<game name="Xari Arena (USA) (Proto) (1983-06-24)" id="0132" cloneofid="0121">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xari Arena (USA) (Proto) (1983-06-24)</description>
+		<rom name="Xari Arena (USA) (Proto) (1983-06-24).a52" size="16384" crc="74c4fb9f" md5="fd9cb6210a8446ba3cad39fcfc9a1e02" sha1="3e6aea8afea8d069b811df6cc60535aaa16e41dc" sha256="17dc7518dd1b75b495eab809090b8a398f09bed810327d307c2e8156b55cd22d"/>
+	</game>
+	<game name="Xari Arena (USA) (Proto) (1983-08-25)" id="0133" cloneofid="0121">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xari Arena (USA) (Proto) (1983-08-25)</description>
+		<rom name="Xari Arena (USA) (Proto) (1983-08-25).a52" size="32768" crc="c9853d0e" md5="7000148e641e7af599053aeab0a6d3b7" sha1="4d9f0d254875bcd8efcb7333df7e0cbae99be8ab" sha256="077b5f510893ac02765e2fc89e10e09902d95a1da31c55b7d3628d4898332959"/>
+	</game>
+	<game name="Xari Arena (USA) (Proto) (1983-08-31)" id="0134" cloneofid="0121">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xari Arena (USA) (Proto) (1983-08-31)</description>
+		<rom name="Xari Arena (USA) (Proto) (1983-08-31).a52" size="32768" crc="5342a8b4" md5="401481ceaf5a6c82b92db48e240a8b79" sha1="971048115707e8f5e6b4ceb95c645f483ed6d9e3" sha256="debc2a45999e05f06e0d8f44d80916d478a6569ce70ef20352f7564049e69b8b"/>
+	</game>
+	<game name="Xevious (USA) (Proto)" id="0103">
+		<description>Xevious (USA) (Proto)</description>
+		<rom name="Xevious (USA) (Proto).a52" size="32768" crc="382634dc" md5="53d0fa90d913084677212a240c5affbd" sha1="c3cf33216dfa484309b923f21829d040486bc481"/>
+	</game>
+	<game name="Yellow Submarine (USA) (Demo)" id="0104">
+		<description>Yellow Submarine (USA) (Demo)</description>
+		<rom name="Yellow Submarine (USA) (Demo).a52" size="4096" crc="f47bc091" md5="d01a259cc837db6962a08f9262f58f9b" sha1="e58e1f257923694dbeb586c860f385e74e460f90"/>
+	</game>
+	<game name="Zaxxon (USA)" id="0105">
+		<description>Zaxxon (USA)</description>
+		<rom name="Zaxxon (USA).a52" size="32768" crc="741746d1" md5="9fee054e7d4ba2392f4ba0cb73fc99a5" sha1="4a4c4a25c8ed1b0ae79ca22684d7d311a564a7b5"/>
+	</game>
+	<game name="Zenji (USA)" id="0106">
+		<description>Zenji (USA)</description>
+		<rom name="Zenji (USA).a52" size="8192" crc="da228530" md5="77beee345b4647563e20fd896231bd47" sha1="55da563b4394508c23d866fb1e543262fb45536d"/>
+	</game>
+	<game name="Zone Ranger (USA)" id="0107">
+		<description>Zone Ranger (USA)</description>
+		<rom name="Zone Ranger (USA).a52" size="16384" crc="2959d827" md5="dc45af8b0996cb6a94188b0be3be2e17" sha1="18315bec1e62102290feeb77fb290e1266cf5bfc"/>
+	</game>
+</datafile>

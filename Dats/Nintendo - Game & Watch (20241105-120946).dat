@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>226</id>
+		<name>Nintendo - Game &amp; Watch</name>
+		<description>Nintendo - Game &amp; Watch</description>
+		<version>20241105-120946</version>
+		<author>relax</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Ball (World)" id="0014">
+		<category>Games</category>
+		<description>Ball (World)</description>
+		<game_id>AC-01</game_id>
+		<rom name="Ball (World).bin" size="1856" crc="ac94e6e4" md5="f637eb17ab0c2804f1eae49ebaef46fa" sha1="8270cb61f9fbff252eafec411b4c67f0171f8687" sha256="1b1bb844c4bb0481a87e6c114a438b2d4e308c1581f4e7dd7dfa7ff8222d1cfd"/>
+	</game>
+	<game name="Balloon Fight (World)" id="0042">
+		<category>Games</category>
+		<description>Balloon Fight (World)</description>
+		<game_id>BF-803, BF-107</game_id>
+		<rom name="Balloon Fight (World).bin" size="4096" crc="4c8d07ed" md5="81bae0c2b8d7417953d0ed5ce22cce32" sha1="a8974dff85d5f3bacaadb71b86e9b30994b6d129" sha256="38bfbb54eedb3761804d6e659da76e2c2dc0f916606ca081a6f0854c15aaba05"/>
+	</game>
+	<game name="Black Jack (World)" id="0033">
+		<category>Games</category>
+		<description>Black Jack (World)</description>
+		<game_id>BJ-60</game_id>
+		<rom name="Black Jack (World).bin" size="4096" crc="8e74f633" md5="93a9ca96d385b8c162e800d46bc1dbca" sha1="54b0f65ee716d2820a9ed9c743755d2a2d99ce4d" sha256="3863a70f01819db79155f99eefb90219a01fe689d6940d02121bba60656f8d6c"/>
+	</game>
+	<game name="Bomb Sweeper (World)" id="0044">
+		<category>Games</category>
+		<description>Bomb Sweeper (World)</description>
+		<game_id>BD-62</game_id>
+		<rom name="Bomb Sweeper (World).bin" size="4096" crc="f3ac66ea" md5="d35ba796dea0cf5e9bb77783bb768f1a" sha1="3fbf444ade5bc96cf0073ca72f1d583cb0f48fc5" sha256="4f559e796947bb11d3a8b5636669c5674c3aa4f75a05b7c343ae829601e031a1"/>
+	</game>
+	<game name="Boxing (World)" id="0040">
+		<category>Games</category>
+		<description>Boxing (World)</description>
+		<game_id>BX-301</game_id>
+		<rom name="Boxing (World).bin" size="4096" crc="0fdf0303" md5="443ccb49946d1bbd3963642f17b93af1" sha1="0b791c9d4874e9534d0a9b7a8968ce02fe4bee96" sha256="927b582f26ee72230b4448867444bb800b259d1d1f16d7dce19e7adce16bd7a2"/>
+	</game>
+	<game name="Chef (World)" id="0011">
+		<category>Games</category>
+		<description>Chef (World)</description>
+		<game_id>FP-24</game_id>
+		<rom name="Chef (World).bin" size="1856" crc="2806ab39" md5="ed0aae89943201f0a87be9f50ebc2130" sha1="18261a80eec5bf768bb88b803c598f80e078c71f" sha256="27fbd8bbfab1a8d7b2a484256f05e01426cf4170ffa79452c89181a620d8e20c"/>
+	</game>
+	<game name="Climber (World)" id="0043">
+		<category>Games</category>
+		<description>Climber (World)</description>
+		<game_id>DR-802, DR-106</game_id>
+		<rom name="Climber (World).bin" size="4096" crc="2adcbd6d" md5="be07a4302161abf781ce8ba367e3de22" sha1="110dc08c65120ab2c76ee647e89aa2726e24ac1a" sha256="aa151f4a31d8f140d6905f705156ca33cda0c548ac2b179df121ac7ed13120ad"/>
+	</game>
+	<game name="Crab Grab (World)" id="0017">
+		<category>Games</category>
+		<description>Crab Grab (World)</description>
+		<game_id>UD-202</game_id>
+		<rom name="Crab Grab (World).bin" size="4096" crc="65e97963" md5="e8bd705507cf3c412bc7017ff29a8228" sha1="f6d589fac337e2c4acdaa8f1281912feabc54198" sha256="9bcaafaefe6d8cbefdcdab1d5801ed471e3ba52c44f405479c886fed094a3641"/>
+	</game>
+	<game name="Donkey Kong (World)" id="0004">
+		<category>Games</category>
+		<description>Donkey Kong (World)</description>
+		<game_id>DK-52</game_id>
+		<rom name="Donkey Kong (World).bin" size="4096" crc="5180cbf8" md5="ca0ad4fe1dbec41eb50a0f206dacbda2" sha1="5174570a8d6a601226f51e972bac6735535fe11d" sha256="4112ef438bd98176e2e3f2b75a3bdcb856cdd07b297232ba7a8d992315464761"/>
+	</game>
+	<game name="Donkey Kong 3 (World)" id="0041">
+		<category>Games</category>
+		<description>Donkey Kong 3 (World)</description>
+		<game_id>AK-302</game_id>
+		<rom name="Donkey Kong 3 (World).bin" size="4096" crc="ed59c15e" md5="c745c3ce5f223b44ff6a2f64c2a98897" sha1="94f6ce23677d2150c9f86c4b1954f5f531693b21" sha256="00db2b7d6060d0042358bc4d5be7e660be7e2eec6f5bb933bac8be5b2439ce56"/>
+	</game>
+	<game name="Donkey Kong Hockey (World)" id="0037">
+		<category>Games</category>
+		<description>Donkey Kong Hockey (World)</description>
+		<game_id>HK-303</game_id>
+		<rom name="Donkey Kong Hockey (World).bin" size="4096" crc="dc73eec7" md5="4838dc4853bebf4dae96cf1d1de9296d" sha1="daaca286de326321335fd26d9b435b444787f609" sha256="7b358188e341faf8dea9dd94717b70ae38a409eb134ec71fe00e7feca42f9778"/>
+	</game>
+	<game name="Donkey Kong II (World)" id="0048">
+		<category>Games</category>
+		<description>Donkey Kong II (World)</description>
+		<game_id>JR-55</game_id>
+		<rom name="Donkey Kong II (World).bin" size="4096" crc="46aed0ae" md5="0390d588779281fd8ad25efc9caa39f5" sha1="72f75ccbd84aea094148c872fc7cc1683619a18a" sha256="f93e876811487a37a5275de0f4cf0ae716d885573f8c1753d836c7eb03cb5613"/>
+	</game>
+	<game name="Donkey Kong Jr. (World) (New Wide Screen)" id="0046">
+		<category>Games</category>
+		<description>Donkey Kong Jr. (World) (New Wide Screen)</description>
+		<game_id>DJ-101</game_id>
+		<rom name="Donkey Kong Jr. (World) (New Wide Screen).bin" size="4096" crc="8dcfb5d1" md5="b0fa6c4ea5a3cb721325477a43c11576" sha1="e0ef578e9362eb9a3cab631376df3cf55978f2de" sha256="b279a9b2b6bcdcacbd09bdae869c63a8cbf378745280a5c33593ce48abc052be"/>
+	</game>
+	<game name="Donkey Kong Jr. (World) (Panorama Screen)" id="0047">
+		<category>Games</category>
+		<description>Donkey Kong Jr. (World) (Panorama Screen)</description>
+		<game_id>CJ-93</game_id>
+		<rom name="Donkey Kong Jr. (World) (Panorama Screen).bin" size="4096" crc="a2cd5a91" md5="8426bee9173b608d38d0b688c058183f" sha1="33f6fd1530e5522491851f16d7c9f928b2dbdc3b" sha256="ccbfa247ea985d73d56b9c4bdfe9576736abc3520217047658c710645d0916e0"/>
+	</game>
+	<game name="Fire (World) (Wide Screen)" id="0020">
+		<category>Games</category>
+		<description>Fire (World) (Wide Screen)</description>
+		<game_id>FR-27</game_id>
+		<rom name="Fire (World) (Wide Screen).bin" size="1856" crc="f4c53ef0" md5="1c00473ec27a47ccecfcb4b5e7f0ebc9" sha1="6b57120a0f9d2fd4dcd65ad57a5f32def71d905f" sha256="1005998c0be5af8491fa481d8793e62d47f47e3f9f709ef083aff9cd43950469"/>
+	</game>
+	<game name="Fire (World) (Silver)" id="0019">
+		<category>Games</category>
+		<description>Fire (World) (Silver)</description>
+		<game_id>RC-04</game_id>
+		<rom name="Fire (World) (Silver).bin" size="1856" crc="154ef27d" md5="75aa391d13177334ae9d82c0a8a3dd3a" sha1="fb65826dfd405ad05fe0f5f947c213214bbd61c0" sha256="0d955064089d66c8b0bf7a83fb36400c1630d02f24240c11759e88437682b575"/>
+	</game>
+	<game name="Fire Attack (World)" id="0013">
+		<category>Games</category>
+		<description>Fire Attack (World)</description>
+		<game_id>ID-29</game_id>
+		<rom name="Fire Attack (World).bin" size="4096" crc="5f6e8042" md5="e91c24920eecea1fabe3ad863805ac30" sha1="63afc3acd8a2a996095fa8ba2dfccd48e5214478" sha256="7e3d50dd31ae9ef5c9b4458dbc66854b87b6db99add3aa080967f09f655e29dc"/>
+	</game>
+	<game name="Flagman (World)" id="0021">
+		<category>Games</category>
+		<description>Flagman (World)</description>
+		<game_id>FL-02</game_id>
+		<rom name="Flagman (World).bin" size="1856" crc="cc7a99e4" md5="c3aecac3a987d8dd5fdbf5f8888b7660" sha1="d03d9a6b278bc11df7839708831241b5fa805f69" sha256="4d61ea391bfa1d2da46c3baf4497d7bf0f2e6e482ce910c75d2ad1b259bd2b48"/>
+	</game>
+	<game name="Gold Cliff (World)" id="0045">
+		<category>Games</category>
+		<description>Gold Cliff (World)</description>
+		<game_id>MV-64</game_id>
+		<rom name="Gold Cliff (World).bin" size="4096" crc="2448a3bf" md5="234098f4a210ba145160a94c231db332" sha1="bfb1a1b500321f8ee0b6f07ef8503e64fe6d37c0" sha256="426a433e046ab437aec35283181992952e6db99cf06b4eb8d33e28e7366c6e6d"/>
+	</game>
+	<game name="Green House (World)" id="0005">
+		<category>Games</category>
+		<description>Green House (World)</description>
+		<game_id>GH-54</game_id>
+		<rom name="Green House (World).bin" size="4096" crc="4df12b4d" md5="e62ae21bcc715116bc25076e8c11c277" sha1="708be5fef8dbd9337f5ab35baaca5bdf21e1f36c" sha256="d0b1756bdced26372e0524230a9cb72b882c566396ee0069386cd6b65c7247f0"/>
+	</game>
+	<game name="Helmet (World)" id="0026" cloneofid="0027">
+		<category>Games</category>
+		<description>Helmet (World)</description>
+		<game_id>CN-07</game_id>
+		<rom name="Helmet (World).bin" size="1856" crc="30c8bc90" md5="0d2611e26befefa4b92bbb445b17a40b" sha1="f5ac0fe7a09ee1ad6f6e4bd096b4be20f65d73db" sha256="cd1160e842e83226269dfc72c51335cabfbd2e4333317c5ba2f184f6b0df321e"/>
+	</game>
+	<game name="Helmet (World) (Rev 1)" id="0027">
+		<category>Games</category>
+		<description>Helmet (World) (Rev 1)</description>
+		<game_id>CN-17</game_id>
+		<rom name="Helmet (World) (Rev 1).bin" size="1856" crc="6d251e2e" md5="b3318bb35ea01e42cd403921688cca4f" sha1="c61f591514de36fb2270038a6505945564c9f90e" sha256="7c7aa1511ebf25964be6f2fb4e5764c37ea04ca3ff09d37b519816aa497d2058"/>
+	</game>
+	<game name="Judge (World) (Rev 1)" id="0016">
+		<category>Games</category>
+		<description>Judge (World) (Rev 1)</description>
+		<game_id>IP-15</game_id>
+		<rom name="Judge (World) (Rev 1).bin" size="1856" crc="f6ed6f62" md5="5eca2585e7f7939658a06fdb3c2584ec" sha1="97bc1b5c383fb4077d982cfdc5a7d7603a0b5e2f" sha256="7a6a931445c1af0d84e2edd100a8efdbe4d7d5f7da484de6a1ea54fad3ea3c74"/>
+	</game>
+	<game name="Judge (World)" id="0015" cloneofid="0016">
+		<category>Games</category>
+		<description>Judge (World)</description>
+		<game_id>IP-05</game_id>
+		<rom name="Judge (World).bin" size="1856" crc="1b28a834" md5="0660643540e541bf2b4fa5052e3acf8d" sha1="cb8dbbf678ba22c4484d18cc1a6b99c1d34d1951" sha256="f92ce28f00124c1da3627a5461f06d5157d45b1067e5f15c0a36edecdce67a68"/>
+	</game>
+	<game name="Lifeboat (World)" id="0008">
+		<category>Games</category>
+		<description>Lifeboat (World)</description>
+		<game_id>TC-58</game_id>
+		<rom name="Lifeboat (World).bin" size="4096" crc="1f88f6a2" md5="1c426dd742bc5f9d2d38f7be71834cfd" sha1="22fd62127dda43a0ada2fe89b0518eec8cbe2a25" sha256="c5fc5f8c8b5fa21f0aa8a6448d57c961d6e53b8afa723efe3172e2c98141f194"/>
+	</game>
+	<game name="Lion (World)" id="0018">
+		<category>Games</category>
+		<description>Lion (World)</description>
+		<game_id>LN-08</game_id>
+		<rom name="Lion (World).bin" size="1856" crc="9677681d" md5="9ece3e036ae621dd50850b098528dc61" sha1="6f7c960e04b63f1b7d926b598413f4c818b8fe53" sha256="16e1a9b9849ed0c5ebcf818e9ed64157528631ac110b4e649a4e339f08e99582"/>
+	</game>
+	<game name="Manhole (World) (New Wide Screen)" id="0022">
+		<category>Games</category>
+		<description>Manhole (World) (New Wide Screen)</description>
+		<game_id>NH-103</game_id>
+		<rom name="Manhole (World) (New Wide Screen).bin" size="4096" crc="ec03acf7" md5="7dd75ebfaaeafcd1d74b3d3c710e50a6" sha1="b74ae672d8f8a155b2ea4ecee9afbaed95ec0ceb" sha256="371cceca4dccbb6e30c9bd6f46c0a0647d6d0592dc1006b32299947931cf8998"/>
+	</game>
+	<game name="Manhole (World) (Gold)" id="0023">
+		<category>Games</category>
+		<description>Manhole (World) (Gold)</description>
+		<game_id>MH-06</game_id>
+		<rom name="Manhole (World) (Gold).bin" size="1856" crc="ae52c425" md5="44fecac1c935d79742169e1e0991c757" sha1="8da8a714ecbdde7d0f257b52a5014993675a5f3f" sha256="bf1de11e8b450de8d6bde4a864848ccff31ac13d3329734ee006dfb5d232a36d"/>
+	</game>
+	<game name="Mario Bros. (World)" id="0052">
+		<category>Games</category>
+		<description>Mario Bros. (World)</description>
+		<game_id>MW-56</game_id>
+		<rom name="Mario Bros. (World).bin" size="4096" crc="385e59da" md5="191a25025e33b921c7d1a1d6e9e9aa0d" sha1="2f79281bdf2f2afca2fb5bd7b9a3beeffc9c4eb7" sha256="e11cfc69bb14c03fcb5f849ac0697e2f0fca399095db09f80ee2f9f0e18ccd4c"/>
+	</game>
+	<game name="Mario the Juggler (World)" id="0038">
+		<category>Games</category>
+		<description>Mario the Juggler (World)</description>
+		<game_id>MB-108</game_id>
+		<rom name="Mario the Juggler (World).bin" size="4096" crc="f7118bb4" md5="36c6c8440c4b3ea9931b6955f75874a2" sha1="c3117fd009e4686a149f85fb65786ddffc091eeb" sha256="257aed0bb880a872b02ce237c9d7c3bf183fa65305440c3beafac73cf15b87d3"/>
+	</game>
+	<game name="Mario's Bombs Away (World)" id="0034">
+		<category>Games</category>
+		<description>Mario's Bombs Away (World)</description>
+		<game_id>TB-94</game_id>
+		<rom name="Mario's Bombs Away (World).bin" size="4096" crc="11d18a48" md5="5cf31d97792fe3e0a80a83e08b45fe1d" sha1="afccfa19dace7c4fcc15a84ecfcfb9d7ae3861e4" sha256="8698ee42695d6e384a3237cbba5fe2da15acffb3214f4127830434574a37b0ff"/>
+	</game>
+	<game name="Mario's Cement Factory (World) (New Wide Screen)" id="0050">
+		<category>Games</category>
+		<description>Mario's Cement Factory (World) (New Wide Screen)</description>
+		<game_id>ML-102</game_id>
+		<rom name="Mario's Cement Factory (World) (New Wide Screen).bin" size="4096" crc="c1128dea" md5="a1d92e84fa898875a62c8e4f218457e6" sha1="8647e36f43a0e37756a3c7b6a3f08d4c8243f1cc" sha256="7aa3ba6730c53f968eb6af7efad3db2fdb99bafb020ba100fbe2454b8466672d"/>
+	</game>
+	<game name="Mario's Cement Factory (World) (Table Top)" id="0051">
+		<category>Games</category>
+		<description>Mario's Cement Factory (World) (Table Top)</description>
+		<game_id>CM-72</game_id>
+		<rom name="Mario's Cement Factory (World) (Table Top).bin" size="4096" crc="b2ae4596" md5="e184cf8f9551497df67e063dfe092bee" sha1="f64bf11e18c9fbd4de4134f685bb2d7bda3d7487" sha256="6f997b63a6ad297c8a3df9de3d4008db1ef81f5999f49c6c27c14a1d486427bc" status="verified"/>
+	</game>
+	<game name="Mickey &amp; Donald (World)" id="0049">
+		<category>Games</category>
+		<description>Mickey &amp; Donald (World)</description>
+		<game_id>DM-53</game_id>
+		<rom name="Mickey &amp; Donald (World).bin" size="4096" crc="e21fc0f5" md5="33f262cb1314b23a34336301d9dbdf45" sha1="3b65ccf9f98813319410414e11a3231b787cdee6" sha256="273e8e4058a6b5279e4f4f82d02acba0e9a788d9b33533050460213daa83f735"/>
+	</game>
+	<game name="Mickey Mouse ~ Donkey Kong Circus (World) (Panorama Screen)" id="0028">
+		<category>Games</category>
+		<description>Mickey Mouse ~ Donkey Kong Circus (World) (Panorama Screen)</description>
+		<game_id>DC-95, MK-96</game_id>
+		<rom name="Mickey Mouse ~ Donkey Kong Circus (World) (Panorama Screen).bin" size="4096" crc="39dd864a" md5="d957d2d3f32d4ac42841e8761c53022c" sha1="25c67dac7320fe00990989cd42438461950a68ec" sha256="e9fc7e4858c48faa54ec9bf890c0f1a5a2b18c3a22d168b505d515f7c940bfe3" status="verified"/>
+	</game>
+	<game name="Mickey Mouse ~ Egg (World) (Wide Screen)" id="0001">
+		<category>Games</category>
+		<description>Mickey Mouse ~ Egg (World) (Wide Screen)</description>
+		<game_id>MC25, EG26</game_id>
+		<rom name="Mickey Mouse ~ Egg (World) (Wide Screen).bin" size="1856" crc="cb820c32" md5="e0ccf65e1e30e2803cd9b94bda00cf88" sha1="7e94fc255f32db725d5aa9e196088e490c1a1443" sha256="28a225536ec129f227b8d3e261e6f10012206d0404d5f5d958c60bd71773fa7d"/>
+	</game>
+	<game name="Octopus (World)" id="0012">
+		<category>Games</category>
+		<description>Octopus (World)</description>
+		<game_id>OC-22</game_id>
+		<rom name="Octopus (World).bin" size="1856" crc="bd27781d" md5="beaca546c12c829da0ddafe4e8d43ae8" sha1="07b4feb9265c83b159f96c7e8ee1c61a2cc17dc5" sha256="4c45f7fe4df94bc15aeab606bbe2b20a606c272d3021ed64929c3ae67dce32c3"/>
+	</game>
+	<game name="Oil Panic (World)" id="0002">
+		<category>Games</category>
+		<description>Oil Panic (World)</description>
+		<game_id>OP-51</game_id>
+		<rom name="Oil Panic (World).bin" size="4096" crc="31c288c9" md5="fceded56809d0894644b07248c76fcba" sha1="4bfd0fba94a9927cefc925db8196b063c5dd9b19" sha256="8e042b8e03f3a09f0c7fa4730fb2d6ce29c5265ae429993cdd7d0436758e9ef1"/>
+	</game>
+	<game name="Parachute (World)" id="0010">
+		<category>Games</category>
+		<description>Parachute (World)</description>
+		<game_id>PR-21</game_id>
+		<rom name="Parachute (World).bin" size="1856" crc="392b545e" md5="93a5ab5e364066acc9003e522e16599a" sha1="e71940cd4cee07ba1e62c1c7d9e9b19410e7232d" sha256="13f95a9d6e1d02677267b488476e09ab2b8d179112ab9da86397731a433b1bab"/>
+	</game>
+	<game name="Pinball (World)" id="0039">
+		<category>Games</category>
+		<description>Pinball (World)</description>
+		<game_id>PB-59</game_id>
+		<rom name="Pinball (World).bin" size="4096" crc="d29dab34" md5="c171ff5c7a8268e7a9ae63d4e2126ecd" sha1="69ac9ee63eda67360c21627b7d625093709b5cd9" sha256="9dc1b7e3b7a7b2868127ee204849bdd92347548f75f8ca1e3c71ae58bef12138"/>
+	</game>
+	<game name="Popeye (World) (Panorama Screen)" id="0030">
+		<category>Games</category>
+		<description>Popeye (World) (Panorama Screen)</description>
+		<game_id>PG-92</game_id>
+		<rom name="Popeye (World) (Panorama Screen).bin" size="4096" crc="f9a2f181" md5="363d1ce1e15894ba5f6beca9b09e339a" sha1="f97969abe63285964ef9585660e82590014bbece" sha256="fb0621194a49a9c565bf883e394c71c8e1ab023a154c87b34af910cf4de5fb8e"/>
+	</game>
+	<game name="Popeye (World) (Wide Screen)" id="0029">
+		<category>Games</category>
+		<description>Popeye (World) (Wide Screen)</description>
+		<game_id>PP-23</game_id>
+		<rom name="Popeye (World) (Wide Screen).bin" size="1856" crc="49987769" md5="52e1454b7f12e0401f08f8b55889d124" sha1="ad90659a3ce7169a4df16367c5307435d9f9d956" sha256="101981fee60fee7e0343373b19b1ae414e54eb8212e6b320e3fb6e1f3a87738f"/>
+	</game>
+	<game name="Rain Shower (World)" id="0007">
+		<category>Games</category>
+		<description>Rain Shower (World)</description>
+		<game_id>LP-57</game_id>
+		<rom name="Rain Shower (World).bin" size="4096" crc="51a2c5c4" md5="46a629afea1b787260f0982e75c640c7" sha1="d60542e6785ba7b6a44153a66c739787cf670816" sha256="78bdee56533b5dfa4a031b5c14ae3614e3fa113642c86d1a96e628e1d8990ba5"/>
+	</game>
+	<game name="Safe Buster (World)" id="0035">
+		<category>Games</category>
+		<description>Safe Buster (World)</description>
+		<game_id>JB-63</game_id>
+		<rom name="Safe Buster (World).bin" size="4096" crc="231d358d" md5="4e2ca1ae50512d9bf9604994c4c01cf3" sha1="c748788da125e77b9d0fe1228f64de71f41af42b" sha256="254d103f04eac2352a2697561e15b60f0e2b8a4b78bcdeae32bd6990a788f3ab"/>
+	</game>
+	<game name="Snoopy (World)" id="0032">
+		<category>Games</category>
+		<description>Snoopy (World)</description>
+		<game_id>SM-91</game_id>
+		<rom name="Snoopy (World).bin" size="4096" crc="893bd7e3" md5="745538b327c93b47f8dd9ea3775c52d4" sha1="94e218f464b2ec8c81bd4c0f13f3a3049c4effe9" sha256="921f7b1683598c928ac486dbdf3741bfa09a28c975aead8fa15375a902699885"/>
+	</game>
+	<game name="Snoopy Tennis (World)" id="0031">
+		<category>Games</category>
+		<description>Snoopy Tennis (World)</description>
+		<game_id>SP-30</game_id>
+		<rom name="Snoopy Tennis (World).bin" size="4096" crc="ba1d9504" md5="9d363315575161f2aa2787bd95689242" sha1="ff601765d88564b1570a59f5b1a4005c7b0fd66c" sha256="f48929ec8c9a9a1e131f4a5d48333fe2dc2b1fbafcdf41815f267b7c73516247"/>
+	</game>
+	<game name="Spitball Sparky (World)" id="0024">
+		<category>Games</category>
+		<description>Spitball Sparky (World)</description>
+		<game_id>BU-201</game_id>
+		<rom name="Spitball Sparky (World).bin" size="4096" crc="ae0d28e7" md5="6af204be55029a6d4d8d433941c1d970" sha1="1427cca1f3aaf3ef6fc3499171a5220428d9894f" sha256="d156fde38a4d54e12015aa820cd8363e20455b13f5cc2ab3808c02268107c5a7"/>
+	</game>
+	<game name="Squish (World)" id="0003">
+		<category>Games</category>
+		<description>Squish (World)</description>
+		<game_id>MG-61</game_id>
+		<rom name="Squish (World).bin" size="4096" crc="79cd509c" md5="460997b2d5b26f1f8ad2eda66f748dfe" sha1="969e5425984ba9e5183c68b38b3588f53d1e8e5d" sha256="09148c55a0dc823556f2c98caea9761b5062a7e5614bae4e96b692d8390f9fad"/>
+	</game>
+	<game name="Super Mario Bros. (World)" id="0053">
+		<category>Games</category>
+		<description>Super Mario Bros. (World)</description>
+		<game_id>YM-801, YM-105</game_id>
+		<rom name="Super Mario Bros. (World).bin" size="4096" crc="0dff3b12" md5="d9247fe954cf53bfed738be36455be41" sha1="3fa83f88e49ea9d7080fe935ec90ce69acbe8850" sha256="d4a1eb9d9401edadcb7f903f86918be3000e7afee5ede4b51efa1ea266e38de9"/>
+	</game>
+	<game name="Tropical Fish (World)" id="0006">
+		<category>Games</category>
+		<description>Tropical Fish (World)</description>
+		<game_id>TF-104</game_id>
+		<rom name="Tropical Fish (World).bin" size="4096" crc="53cde918" md5="5a5c7ddab35287fcce4d10ba2ad6bea1" sha1="bc1e1b8f8b282bb886bb076c1c7ce35d00eca6fc" sha256="9cb2b6d604d930c94dc8a3d548656b563d487427c957c5c71828b5174385e667"/>
+	</game>
+	<game name="Turtle Bridge (World)" id="0009">
+		<category>Games</category>
+		<description>Turtle Bridge (World)</description>
+		<game_id>TL-28</game_id>
+		<rom name="Turtle Bridge (World).bin" size="4096" crc="284e7224" md5="00d425a0b8536e4249beb4f4de247981" sha1="b50d7f3a527ffe50771ef55fdf8214929bfa2253" sha256="af4fed4fe0102e17ab18ea005a74026d5c5545f3193eeb195af7daca8df27ee2"/>
+	</game>
+	<game name="Vermin (World)" id="0025">
+		<category>Games</category>
+		<description>Vermin (World)</description>
+		<game_id>MT-03</game_id>
+		<rom name="Vermin (World).bin" size="1856" crc="f8493177" md5="0a12e4a372f87126f05a480cb605035f" sha1="d629432ef8e9fbd7bbdc3fbeb45d9bd70d9d571b" sha256="9e1237404bcd8edf0b9d415b928d9ef5d5d475e3fbac65d6678a6dcb3eb47c87"/>
+	</game>
+	<game name="Zelda (World)" id="0036">
+		<category>Games</category>
+		<description>Zelda (World)</description>
+		<game_id>ZL-65</game_id>
+		<rom name="Zelda (World).bin" size="4096" crc="b96aa64e" md5="991a3bf8021e47f127a9cdcd82a87aa5" sha1="d1f0c64104eb3ecbf370674d5078a3a85b2b7227" sha256="6a53d017f6b18c52472f7cb40a3fb45a9744c1a3c4bb453a162a168705c0f3c1"/>
+	</game>
+</datafile>

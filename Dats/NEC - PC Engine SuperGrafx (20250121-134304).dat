@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>13</id>
+		<name>NEC - PC Engine SuperGrafx</name>
+		<description>NEC - PC Engine SuperGrafx</description>
+		<version>20250121-134304</version>
+		<author>Hiccup, kazumi213, omonim2007, psykopat, rarenight, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="1941 - Counter Attack (Japan)" id="0001">
+		<category>Games</category>
+		<description>1941 - Counter Attack (Japan)</description>
+		<rom name="1941 - Counter Attack (Japan).sgx" size="1048576" crc="8c4588e2" md5="30686dba4795521174658de2492e0046" sha1="66873b0e0cc699aa75daf06a3f74c0508037e605" sha256="5006f2da9cb645312a0c589044df50d3f97106d2d2291bf9883dacf98960c2fe"/>
+	</game>
+	<game name="Aldynes - The Misson Code for Rage Crisis (Japan) (En)" id="0003">
+		<category>Games</category>
+		<description>Aldynes - The Misson Code for Rage Crisis (Japan) (En)</description>
+		<rom name="Aldynes - The Misson Code for Rage Crisis (Japan) (En).sgx" size="1048576" crc="4c2126b0" md5="8ce21667658ef9c025ad007f65147c6d" sha1="d876248ee1b80ad11633fd4be8aa21a187b52193" sha256="5f3b430e34c79218a9f89a403a286037b2fb172b528373df5ba70aedbecd36d7"/>
+	</game>
+	<game name="Battle Ace (Japan) (En)" id="0004">
+		<category>Games</category>
+		<description>Battle Ace (Japan) (En)</description>
+		<rom name="Battle Ace (Japan) (En).sgx" size="524288" crc="3b13af61" md5="fc0053c0c050353b87886b1b89349168" sha1="edc8f7d2233c92ebd309ac804527c461851a4b63" sha256="41e06beeacfd05c837c9bb76da73c28d14dc2f66250a245b6931712f36c4e457"/>
+	</game>
+	<game name="Daimakaimura (Japan) (En)" id="0005">
+		<category>Games</category>
+		<description>Daimakaimura (Japan) (En)</description>
+		<rom name="Daimakaimura (Japan) (En).sgx" size="1048576" crc="b486a8ed" md5="6d9ff6f70608166c88fd2553d44ca17a" sha1="cab9e4a1a8b6da07cc2c5cc35949928199a417ee" sha256="482fff401f8a0f4248af16224c31bc166a583b491413559a89c425165420a9dd"/>
+	</game>
+	<game name="Madou King Granzort (Japan) (En)" id="0006">
+		<category>Games</category>
+		<description>Madou King Granzort (Japan) (En)</description>
+		<rom name="Madou King Granzort (Japan) (En).sgx" size="524288" crc="1f041166" md5="7e1e489c50fc6213196e6dbb704f6671" sha1="5ed16565753c902e14da9a0c5361ef01fa74463b" sha256="9b57cdf0d0b110f4128b863419d5be99a3708bfb11cfbe1696f25449b991026d"/>
+	</game>
+</datafile>

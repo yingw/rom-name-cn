@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>78</id>
+		<name>Nintendo - Sufami Turbo</name>
+		<description>Nintendo - Sufami Turbo</description>
+		<version>20240622-035607</version>
+		<author>Blank, C. V. Reynolds, omonim2007, psykopat</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)" id="0249">
+		<description>Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)</description>
+		<rom name="Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan).st" size="1048576" crc="bb5c4238" md5="55d6940953b7e1ea4d88725cba2fdbca" sha1="f72ea67468cf34360042bdd7974fd588a2407566" status="verified"/>
+	</game>
+	<game name="Crayon Shin-chan - Nagagutsu Dobon!! (Japan)" id="0491">
+		<description>Crayon Shin-chan - Nagagutsu Dobon!! (Japan)</description>
+		<rom name="Crayon Shin-chan - Nagagutsu Dobon!! (Japan).st" size="524288" crc="8eb753f3" md5="3c951183ae15567c811a675cf44aa22c" sha1="98a99807a958c1175a2b257166d7b08b2be6d442" sha256="afb3f2a83b5bfcb1b8829b6995f108cc4d64ca322d1ba4a50b83af6e1f2e89bd" status="verified"/>
+	</game>
+	<game name="Gegege no Kitarou - Youkai Donjara (Japan)" id="0927">
+		<description>Gegege no Kitarou - Youkai Donjara (Japan)</description>
+		<rom name="Gegege no Kitarou - Youkai Donjara (Japan).st" size="524288" crc="4296500d" md5="c9cae86f503bd0b6ebef6c481b179536" sha1="965b2582b13ee361eca93937b1b093049bc8d958" sha256="d93b3a570e7cf343f680ab0768a50b77e3577f9c555007e2de3decd6bc4765c8" status="verified"/>
+	</game>
+	<game name="Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)" id="0928">
+		<description>Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)</description>
+		<rom name="Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan).st" size="524288" crc="14c66fca" md5="27eb2c85bb733416762fa1bcd91a4ab7" sha1="50b9d6ebf0e3f4b9dad5d0660d6c834820cbe391" sha256="89aecd4e23d8219c8de3e71bb75db3dfe667d51c1eba4ea7239d2f772743d0cc" status="verified"/>
+	</game>
+	<game name="Poi Poi Ninja World (Japan)" id="2012">
+		<description>Poi Poi Ninja World (Japan)</description>
+		<rom name="Poi Poi Ninja World (Japan).st" size="524288" crc="32b2b3dd" md5="d5c6e9038e60c23b05d5690a03ffa4c9" sha1="ae7421b87a9f4cc7c189680dfbb39453905aa5e6" sha256="602b20b788640f5743487108a10f3f77bca5ce2d24208b25b1ca498a96eb0d69" status="verified"/>
+	</game>
+	<game name="SD Gundam Generation - Axis Senki (Japan)" id="2243">
+		<description>SD Gundam Generation - Axis Senki (Japan)</description>
+		<rom name="SD Gundam Generation - Axis Senki (Japan).st" size="524288" crc="72b4235f" md5="16375432c8ffc540b459cfd31723572b" sha1="6f5be110a606f34bb797a30c1f07b84b2ff38425" sha256="2a9d7c9a61318861028a73ca03e32a48cff162d76cba36fbaab8690b212efe9b" status="verified"/>
+	</game>
+	<game name="SD Gundam Generation - Babylonia Kenkoku Senki (Japan)" id="2244">
+		<description>SD Gundam Generation - Babylonia Kenkoku Senki (Japan)</description>
+		<rom name="SD Gundam Generation - Babylonia Kenkoku Senki (Japan).st" size="524288" crc="792d884c" md5="c1305ecd913e12719c5ea07eea4a440e" sha1="f18f680b981077cfa025161cfe6c9594b6d18078" sha256="60ac017c18f534e8cf24ca7f38e22ce92db95ea6c30b2d59d76f13c4f1c8a6e4" status="verified"/>
+	</game>
+	<game name="SD Gundam Generation - Colony Kakutouki (Japan)" id="2245">
+		<description>SD Gundam Generation - Colony Kakutouki (Japan)</description>
+		<rom name="SD Gundam Generation - Colony Kakutouki (Japan).st" size="524288" crc="c5dfa8fd" md5="3e84a2bccc251ff42c01166ba55dfdaf" sha1="0a335ef645d058c2da5389ad622c62d0bffce944" sha256="e639b5d5d722432b6809ccc6801dc584e1a3016379f34b335ed2dfa73b1ebf69" status="verified"/>
+	</game>
+	<game name="SD Gundam Generation - Gryps Senki (Japan)" id="2246">
+		<description>SD Gundam Generation - Gryps Senki (Japan)</description>
+		<rom name="SD Gundam Generation - Gryps Senki (Japan).st" size="524288" crc="48ecae44" md5="3bf7fd80b609beb19fd4c40b65f9224c" sha1="f280004dd92b70b1bf4518e054b4181a9bbba245" sha256="8547a08ed11fe408eac282a90ac46654bd2e5f49bda3aec8e5edf166a0a4b9af" status="verified"/>
+	</game>
+	<game name="SD Gundam Generation - Ichinen Sensouki (Japan)" id="2247">
+		<description>SD Gundam Generation - Ichinen Sensouki (Japan)</description>
+		<rom name="SD Gundam Generation - Ichinen Sensouki (Japan).st" size="524288" crc="afd74dcb" md5="84d83ded05c6ec31654dd1e2116e32d3" sha1="adc7716a4b081aba5cde3525881c51ee6d600396" sha256="3e82215bed08274874b30d461fc4a965c6bca932229da5d46d56e36f484d65eb" status="verified"/>
+	</game>
+	<game name="SD Gundam Generation - Zanscare Senki (Japan)" id="2248">
+		<description>SD Gundam Generation - Zanscare Senki (Japan)</description>
+		<rom name="SD Gundam Generation - Zanscare Senki (Japan).st" size="524288" crc="efd3a865" md5="9892637e1523509c16b4e8017e99200f" sha1="d0ebe3cfcc76ec275151c3b9392fc2ff5d3b50da" sha256="5951a58a91d8e397d0a237ccc2b1248e17c7312cb9cc11cbc350200a97b4e021" status="verified"/>
+	</game>
+	<game name="SD Ultra Battle - Seven Densetsu (Japan)" id="2254">
+		<description>SD Ultra Battle - Seven Densetsu (Japan)</description>
+		<rom name="SD Ultra Battle - Seven Densetsu (Japan).st" size="524288" crc="43ad5a45" md5="bb8daddcf18fc44442baa041888da924" sha1="bfe85a6e6e8c24584ed5983dbf56048c4c8f2287" sha256="2fec5f2bc7dee010af10569a3d2bc18715a79a126940800c3eade5abbd625e3f" status="verified"/>
+	</game>
+	<game name="SD Ultra Battle - Ultraman Densetsu (Japan)" id="2255">
+		<description>SD Ultra Battle - Ultraman Densetsu (Japan)</description>
+		<rom name="SD Ultra Battle - Ultraman Densetsu (Japan).st" size="524288" crc="04939d14" md5="bd6aee0e7a861fe738f9cfe69084a3c5" sha1="5527fcc136ff0c0ef53a1c9c2756d4a27afa1526" sha256="2bb55214fb668ca603d7b944b14f105dfb10b987a8902d420fe4ae1cb69c1d4a" status="verified"/>
+	</game>
+</datafile>
