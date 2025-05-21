@@ -1,0 +1,548 @@
+{
+    "Super Mario": {
+        "alias": [
+            "超级马里奥",
+            "超级马力欧",
+            "超级玛丽"
+        ],
+        "default": "超级马里奥"
+    },
+    "Mario": {
+        "alias": [
+            "马里奥",
+            "马力欧",
+            "玛丽"
+        ],
+        "default": "马里奥",
+        "exclude": [
+            "Mario Lemieux Hockey",
+            "Mario Andretti Racing"
+        ]
+    },
+    "Meta Gear": {
+        "alias": [
+            "合金装备",
+            "潜龙谍影",
+            "燃烧战车"
+        ],
+        "default": "合金装备"
+    },
+    "Pokemon": {
+        "alias": [
+            "口袋妖怪",
+            "宝可梦",
+            "宠物小精灵",
+            "神奇宝贝"
+        ],
+        "default": "口袋妖怪"
+    },
+    "Tactics Ogre": {
+        "alias-en": [
+            "Ogre Battle"
+        ],
+        "alias": [
+            "皇家骑士团",
+            "奥迦战争"
+        ],
+        "default": "皇家骑士团",
+        "others": [
+            "奥伽战争",
+            "奥加战争"
+        ]
+    },
+    "Darius": {
+        "alias": [
+            "太空战斗机",
+            "变形战机",
+            "大流士战机"
+        ],
+        "default": "太空战斗机"
+    },
+    "Metroid": {
+        "alias": [
+            "银河战士",
+            "密特罗德"
+        ],
+        "default": "银河战士"
+    },
+    "Final Fantasy Legend": {
+        "alias": [
+            "浪漫沙加",
+            "最终幻想传说"
+        ],
+        "default": "浪漫沙加"
+    },
+    "Final Fantasy": {
+        "alias": [
+            "最终幻想",
+            "太空战士"
+        ],
+        "default": "最终幻想"
+    },
+    "Langrisser": {
+        "alias": [
+            "梦幻模拟战",
+            "兰古利萨"
+        ],
+        "default": "梦幻模拟战"
+    },
+    "Sonic": {
+        "alias": [
+            "索尼克",
+            "音速小子"
+        ],
+        "default": "索尼克",
+        "exclude": [
+            "Sonic Blast Man",
+            "Sonic Wings"
+        ]
+    },
+    "Puyo Puyo": {
+        "alias": [
+            "魔法气泡",
+            "噗呦噗呦"
+        ],
+        "default": "魔法气泡"
+    },
+    "Donkey Kong": {
+        "alias": [
+            "大金刚",
+            "森喜刚"
+        ],
+        "default": "大金刚",
+        "exclude": [
+            "Donkey Kong Jr."
+        ]
+    },
+    "Gradius": {
+        "alias": [
+            "宇宙巡航机"
+        ],
+        "default": "宇宙巡航机"
+    },
+    "Pac-Man": {
+        "alias": [
+            "吃豆人",
+            "小精灵"
+        ],
+        "default": "吃豆人",
+        "exclude": [
+            "Ms. Pac-Man"
+        ]
+    },
+    "Tiny Toon Adventures": {
+        "alias": [
+            "兔宝宝大冒险",
+            "乐一通大冒险",
+            "兔宝宝历险记"
+        ],
+        "default": "兔宝宝大冒险"
+    },
+    "Bugs Bunny": {
+        "alias": [
+            "兔八哥",
+            "兔宝宝",
+            "宾尼兔",
+            "兔巴哥",
+            "邦尼兔"
+        ],
+        "default": "兔八哥"
+    },
+    "Castlevania": {
+        "alias-en": [
+            "Akumajou Dracula",
+            "Akumajou"
+        ],
+        "alias": [
+            "恶魔城"
+        ],
+        "default": "恶魔城"
+    },
+    "Chip 'n Dale": {
+        "alias": [
+            "松鼠大作战"
+        ],
+        "default": "松鼠大作战"
+    },
+    "Dragon Ball": {
+        "alias": [
+            "龙珠",
+            "七龙珠"
+        ],
+        "default": "龙珠"
+    },
+    "Dragon Quest": {
+        "alias-en": [
+            "Dragon Warrior",
+            "Dragon Quest"
+        ],
+        "alias": [
+            "勇者斗恶龙"
+        ],
+        "default": "勇者斗恶龙"
+    },
+    "DuckTales": {
+        "alias": [
+            "唐老鸭俱乐部",
+            "唐老鸭历险记",
+            "唐老鸭大冒险",
+            "唐老鸭冒险",
+            "唐老鸭梦冒险"
+        ],
+        "default": "唐老鸭大冒险"
+    },
+    "QuackShot Starring": {
+        "alias": [
+            "唐老鸭的奇幻射击",
+            "唐老鸭大冒险"
+        ],
+        "default": "唐老鸭的奇幻射击"
+    },
+    "Advance Wars": {
+        "alias": [
+            "高级战争",
+            "高精战争"
+        ],
+        "default": "高级战争"
+    },
+    "Ghost'n Goblins": {
+        "alias": [
+            "魔界村"
+        ],
+        "default": "魔界村"
+    },
+    "Godzilla": {
+        "alias": [
+            "哥斯拉",
+            "哥吉拉"
+        ],
+        "default": "哥斯拉"
+    },
+    "Legend of Zelda": {
+        "alias": [
+            "塞尔达传说",
+            "萨尔达传说"
+        ],
+        "default": "塞尔达传说"
+    },
+    "Mega Man": {
+        "alias-en": [
+            "Rockman"
+        ],
+        "alias": [
+            "洛克人"
+        ],
+        "default": "洛克人"
+    },
+    "Mr. Driller": {
+        "alias": [
+            "钻地小子",
+            "钻子先生"
+        ],
+        "default": "钻地小子"
+    },
+    "Landstalker": {
+        "alias": [
+            "皇帝的财宝",
+            "秘境魔宝"
+        ],
+        "default": "皇帝的财宝"
+    },
+    "Fushigi no Umi no Nadia": {
+        "alias": [
+            "蓝宝石之迷",
+            "海底两万里"
+        ],
+        "default": "蓝宝石之迷"
+    },
+    "Tamagotchi": {
+        "alias": [
+            "拓麻歌子",
+            "宠物蛋"
+        ],
+        "default": "拓麻歌子"
+    },
+    "I Spy": {
+        "alias": [
+            "大家来找茬",
+            "视觉大发现",
+            "间谍游戏"
+        ],
+        "default": "大家来找茬"
+    },
+    "Okamiden": {
+        "alias": [
+            "大神传",
+            "大神"
+        ],
+        "default": "大神传",
+        "alias-en": [
+            "Okami"
+        ],
+        "exclude": [
+            "Ookami"
+        ]
+    },
+    "Power Rangers": {
+        "alias": [
+            "恐龙战队",
+            "超凡战队",
+            "超级战队",
+            "超能战士"
+        ],
+        "alias-en": [
+            "Choujin Sentai"
+        ],
+        "default": "恐龙战队"
+    },
+    "Silverlicious": {
+        "alias": [
+            "小花生",
+            "粉红控"
+        ],
+        "alias-en": [
+            "Pinkalicious"
+        ],
+        "default": "小花生"
+    },
+    "SpongeBob": {
+        "alias": [
+            "海绵宝宝",
+            "海棉巴伯",
+            "海绵笨伯"
+        ],
+        "default": "海绵宝宝"
+    },
+    "Scooby-Doo": {
+        "alias": [
+            "史酷比",
+            "模板2"
+        ],
+        "default": "史酷比"
+    },
+    "Inazuma Eleven": {
+        "alias": [
+            "闪电十一人",
+            "模板2"
+        ],
+        "default": "闪电十一人"
+    },
+    "Ben 10": {
+        "alias": [
+            "少年骇客",
+            "模板2"
+        ],
+        "default": "少年骇客"
+    },
+    "Fuurai no Shiren": {
+        "alias": [
+            "风来的西林",
+            "模板2"
+        ],
+        "default": "风来的西林"
+    },
+    "Nobunaga No Yabou": {
+        "alias": [
+            "信长的野望",
+            "模板2"
+        ],
+        "default": "信长的野望"
+    },
+    "Nobunaga": {
+        "alias": [
+            "信长",
+            "模板2"
+        ],
+        "default": "信长"
+    },
+    "Power Pro Kun": {
+        "alias": [
+            "实况棒球",
+            "实况野球"
+        ],
+        "default": "实况棒球"
+    },
+    "Jjangguneun Monmallyeo": {
+        "alias": [
+            "蜡笔小新",
+            "模板2"
+        ],
+        "alias-en": [
+            "Jjangguneun Motmallyeo",
+            "Crayon Shin-chan"
+        ],
+        "default": "蜡笔小新"
+    },
+    "Super Robot Taisen": {
+        "alias": [
+            "超级机器人大战",
+            "模板2"
+        ],
+        "default": "超级机器人大战"
+    },
+    "Parodius": {
+        "alias": [
+            "Q版沙罗曼蛇",
+            "疯狂大射击"
+        ],
+        "default": "Q版沙罗曼蛇"
+    },
+    "Fire Emblem": {
+        "alias": [
+            "火焰之纹章",
+            "火焰纹章",
+            "圣火降魔录",
+            "圣炎勋章"
+        ],
+        "default": "火焰之纹章"
+    },
+    "3x3 Eyes": {
+        "alias": [
+            "3X3只眼",
+            "三只眼"
+        ],
+        "default": "3X3只眼"
+    },
+    "Bloody Roar": {
+        "alias": [
+            "兽化格斗",
+            "血腥咆哮"
+        ],
+        "default": "兽化格斗"
+    },
+    "Winning Eleven": {
+        "alias": [
+            "胜利十一人",
+            "实况足球"
+        ],
+        "alias-en": [
+            "Pro Evolution Soccer",
+            "World Soccer Winning Eleven"
+        ],
+        "default": "实况足球"
+    },
+    "Digimon": {
+        "alias": [
+            "数码暴龙",
+            "数码宝贝"
+        ],
+        "default": "数码暴龙"
+    },
+    "Powerful Pro Yakyuu": {
+        "alias": [
+            "实况棒球",
+            "实况力量棒球",
+            "实况职业棒球"
+        ],
+        "default": "实况棒球"
+    },
+    "Kamen Rider": {
+        "alias": [
+            "假面骑士",
+            "假面超人"
+        ],
+        "default": "假面骑士"
+    },
+    "Klonoa": {
+        "alias": [
+            "克罗诺亚"
+        ],
+        "default": "克罗诺亚"
+    },
+    "Dalmatians": {
+        "alias": [
+            "斑点狗",
+            "忠狗",
+            "真狗"
+        ],
+        "default": "斑点狗"
+    },
+    "Dynamite Headdy": {
+        "alias": [
+            "铁头蚂蚁",
+            "铁头小子",
+            "大头小子"
+        ],
+        "default": "铁头小子"
+    },
+    "Light Crusader": {
+        "alias": [
+            "光明十字军",
+            "光之十字军战士"
+        ],
+        "default": "光明十字军"
+    },
+    "Alien Soldier": {
+        "alias": [
+            "异形战士",
+            "外星战士"
+        ],
+        "default": "异形战士"
+    },
+    "Banjo-Kazooie": {
+        "alias": [
+            "班卓与卡祖",
+            "班卓熊"
+        ],
+        "alias-en": [
+            "Banjo-Tooie",
+            "Banjo to Kazooie"
+        ],
+        "default": "班卓熊"
+    },
+    "Gex": {
+        "alias": [
+            "杰克龙",
+            "杰克斯"
+        ],
+        "default": "杰克龙"
+    },
+    "Monopoly": {
+        "alias": [
+            "大富翁",
+            "地产大亨",
+            "强手棋"
+        ],
+        "default": "大富翁"
+    },
+    "Tom and Jerry": {
+        "alias": [
+            "猫和老鼠",
+            "汤姆和杰瑞"
+        ],
+        "alias-en": [
+            "Tom & Jerry",
+            "Tom to Jerry"
+        ],
+        "default": "猫和老鼠"
+    },
+    "OutRun": {
+        "alias": [
+            "户外大飙车",
+            "街头大飙车"
+        ],
+        "default": "户外大飙车"
+    },
+    "Turrican": {
+        "alias": [
+            "外星悍将",
+            "超级战士"
+        ],
+        "default": "外星悍将"
+    },
+    "Medarot": {
+        "alias": [
+            "徽章战士",
+            "徽章机器人",
+            "金属机器人"
+        ],
+        "default": "徽章战士"
+    },
+    "template": {
+        "alias": [
+            "template",
+            "template"
+        ],
+        "default": "template"
+    }
+}
