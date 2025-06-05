@@ -40,26 +40,26 @@ No-Intro 和 Redump 是两个非常专业的 ROM 数据网站，一个专注于�
 
 家用机：
 
-| 平台                                                                              | 版本                 | ROM 数 | 完成度                           |
-| --------------------------------------------------------------------------------- | -------------------- | ------ | -------------------------------- |
-| [任天堂 FC/NES](./Nintendo%20-%20Nintendo%20Entertainment%20System.csv)           | 20250317 (Retail)    | 2428   | ![Completed 100%][Completed 100] |
-| [任天堂 SFC/SNES](./Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.csv) | 20250318 (Retail+ST) | 3139   | ![Completed 100%][Completed 100] |
-| [任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv)                                  | 20250208             | 1137   | ![Completed 100%][Completed 100] |
-| 任天堂 FDS                                                                        | 待更新               | 324    |                                  |
-| 任天堂 NGC                                                                        |                      | 0/1999 | ![Not Started][Not Started]      |
-| 任天堂 Wii/WiiU                                                                   |                      | 3772   | ![Not Started][Not Started]      |
-| [索尼 PS1](./Sony%20-%20PlayStation.csv)                                          | 20250329 (Retail)    | 6193   | ![Completed 100%][Completed 100] |
-| [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv)                     | 20250305 (Retail)    | 1591   | ![Completed 100%][Completed 100] |
-| [世嘉 SS](./Sega%20-%20Saturn.csv)                                                | 待更新               | 1956   | ![Completed 100%][Completed 100] |
-| [世嘉 DC](./Sega%20-%20Dreamcast.csv)                                             | 待更新               | 1124   | ![Completed 100%][Completed 100] |
-| [世嘉 CD](./Sega%20-%20Mega%20CD%20&%20Sega%20CD.csv)                             | 2025-01-21           | 543    | ![Completed 100%][Completed 100] |
-| 微软 MSX1                                                                         |                      | 0/936  | ![In Progress][In Progress]      |
-| [微软 MSX2](./Microsoft%20-%20MSX2.csv)                                           |                      | 195    |                                  |
-| [雅达利 2600](./Atari%20-%20Atari%202600.csv)                                     | 20250501             | 845    | ![Completed 100%][Completed 100] |
-| [雅达利 5200](./Atari%20-%20Atari%205200.csv)                                     | 20250406             | 182    | ![Completed 100%][Completed 100] |
-| [雅达利 7800](./Atari%20-%20Atari%207800.csv)                                     | 20250416             | 126    | ![Completed 100%][Completed 100] |
-| [NEC PC Engine (TurboGrafx-16)](./NEC%20-%20PC%20Engine%20-%20TurboGrafx-16.csv)  | 20250224             | 454    | ![Completed 100%][Completed 100] |
-| [NEC PC Engine SuperGrafx](./NEC%20-%20PC%20Engine%20SuperGrafx.csv)              | 20250121             | 5      | ![Completed 100%][Completed 100] |
+| 平台                                                                              | 版本                 | ROM 数    | 完成度                           |
+| --------------------------------------------------------------------------------- | -------------------- | --------- | -------------------------------- |
+| [任天堂 FC/NES](./Nintendo%20-%20Nintendo%20Entertainment%20System.csv)           | 20250317 (Retail)    | 2428      | ![Completed 100%][Completed 100] |
+| [任天堂 SFC/SNES](./Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.csv) | 20250318 (Retail+ST) | 3139      | ![Completed 100%][Completed 100] |
+| [任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv)                                  | 20250208             | 1137      | ![Completed 100%][Completed 100] |
+| 任天堂 FDS                                                                        | 待更新               | 324       |                                  |
+| [任天堂 NGC](./Nintendo%20-%20GameCube.csv)                                       | 20250601 (Retail)    | 1777/2011 | ![Completed 100%][Completed 100] |
+| 任天堂 Wii/WiiU                                                                   |                      | 3772      | ![Not Started][Not Started]      |
+| [索尼 PS1](./Sony%20-%20PlayStation.csv)                                          | 20250329 (Retail)    | 6193      | ![Completed 100%][Completed 100] |
+| [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv)                     | 20250305 (Retail)    | 1591      | ![Completed 100%][Completed 100] |
+| [世嘉 SS](./Sega%20-%20Saturn.csv)                                                | 待更新               | 1956      | ![Completed 100%][Completed 100] |
+| [世嘉 DC](./Sega%20-%20Dreamcast.csv)                                             | 待更新               | 1124      | ![Completed 100%][Completed 100] |
+| [世嘉 CD](./Sega%20-%20Mega%20CD%20&%20Sega%20CD.csv)                             | 2025-01-21           | 543       | ![Completed 100%][Completed 100] |
+| 微软 MSX1                                                                         |                      | 0/936     | ![In Progress][In Progress]      |
+| [微软 MSX2](./Microsoft%20-%20MSX2.csv)                                           |                      | 195       |                                  |
+| [雅达利 2600](./Atari%20-%20Atari%202600.csv)                                     | 20250501             | 845       | ![Completed 100%][Completed 100] |
+| [雅达利 5200](./Atari%20-%20Atari%205200.csv)                                     | 20250406             | 182       | ![Completed 100%][Completed 100] |
+| [雅达利 7800](./Atari%20-%20Atari%207800.csv)                                     | 20250416             | 126       | ![Completed 100%][Completed 100] |
+| [NEC PC Engine (TurboGrafx-16)](./NEC%20-%20PC%20Engine%20-%20TurboGrafx-16.csv)  | 20250224             | 454       | ![Completed 100%][Completed 100] |
+| [NEC PC Engine SuperGrafx](./NEC%20-%20PC%20Engine%20SuperGrafx.csv)              | 20250121             | 5         | ![Completed 100%][Completed 100] |
 
 <!-- 
 [任天堂 FDC](./Nintendo%20-%20Family%20Computer%20Disk%20System.csv) | 315/323 | ![Completed 98%](https://img.shields.io/badge/Completed-98%25-green)
