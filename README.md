@@ -46,7 +46,7 @@ No-Intro 和 Redump 是两个非常专业的 ROM 数据网站，一个专注于�
 | [任天堂 SFC/SNES](./Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.csv) | 20250318 (Retail+ST) | 3139      | ![Completed 100%][Completed 100] |
 | [任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv)                                  | 20250208             | 1137      | ![Completed 100%][Completed 100] |
 | 任天堂 FDS                                                                        | 待更新               | 324       |                                  |
-| [任天堂 NGC](./Nintendo%20-%20GameCube.csv)                                       | 20250601 (Retail)    | 1777/2011 | ![Completed 100%][Completed 100] |
+| [任天堂 NGC](./Nintendo%20-%20GameCube.csv)                                       | 20250601 (Retail)    | 1785/2011 | ![Completed 100%][Completed 100] |
 | 任天堂 Wii/WiiU                                                                   |                      | 3772      | ![Not Started][Not Started]      |
 | [索尼 PS1](./Sony%20-%20PlayStation.csv)                                          | 20250329 (Retail)    | 6193      | ![Completed 100%][Completed 100] |
 | [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv)                     | 20250305 (Retail)    | 1591      | ![Completed 100%][Completed 100] |
@@ -74,22 +74,22 @@ PICO-8、ONS、PortMaster
 
 掌机：
 
-| 平台                                                            | 版本              | ROM 数    | 完成度                                                                           |
-| --------------------------------------------------------------- | ----------------- | --------- | -------------------------------------------------------------------------------- |
-| [任天堂 GB](./Nintendo%20-%20Game%20Boy.csv)                    | 20250316 (Retail) | 1574      | ![Completed 100%][Completed 100]                                                 |
-| [任天堂 GBC](./Nintendo%20-%20Game%20Boy%20Color.csv)           | 20250314 (Retail) | 1393      | ![Completed 100%][Completed 100]                                                 |
-| [任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv)         | 20250313 (Retail) | 3046      | ![Completed 100%][Completed 100]                                                 |
-| [任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv)                | 20250304 (Retail) | 6768/7092 | ![In Progress 80%](https://img.shields.io/badge/In%20Progress-80%25-yellowgreen) |
-| [任天堂 3DS](./Nintendo%20-%20Nintendo%203DS.csv)               | 20250502 (Retail) | 1870      | ![Completed 100%][Completed 100]                                                 |
-| 任天堂 New 3DS                                                  |                   | 0/10      | ![In Progress][In Progress]                                                      |
-| [任天堂 Game & Watch](./Nintendo%20-%20Game%20%20&%20Watch.csv) | 20241105          | 53        | ![Completed 100%][Completed 100]                                                 |
-| [任天堂 宝可梦迷你](./Nintendo%20-%20Pokemon%20Mini.csv)        | 20250407          | 44        | ![Completed 100%][Completed 100]                                                 |
-| [索尼 PSP](./Sony%20-%20PlayStation%20Portable.csv)             | 20250329          | 3131      | ![Completed 100%][Completed 100]                                                 |
-| [世嘉 GG](./Sega%20-%20Game%20Gear.csv)                         | 20241203          | 818       | ![Completed 100%][Completed 100]                                                 |
-| [万代 WS](./Bandai%20-%20WonderSwan.csv)                        | 20241208 (Retail) | 125       | ![Completed 100%][Completed 100]                                                 |
-| [万代 WSC](./Bandai%20-%20WonderSwan%20Color.csv)               | 20250117 (Retail) | 108       | ![Completed 100%][Completed 100]                                                 |
-| [SNK NGP](./SNK%20-%20Neo%20Geo%20Pocket.csv)                   | 20250222          | 10        | ![Completed 100%][Completed 100]                                                 |
-| [SNK NGPC](./SNK%20-%20Neo%20Geo%20Pocket%20Color.csv)          | 20240506          | 127       | ![Completed 100%][Completed 100]                                                 |
+| 平台                                                                | 版本              | ROM 数    | 完成度                             |
+| ------------------------------------------------------------------- | ----------------- | --------- | ---------------------------------- |
+| [任天堂 GB](./Nintendo%20-%20Game%20Boy.csv)                        | 20250316 (Retail) | 1574      | ![Completed 100%][Completed 100]   |
+| [任天堂 GBC](./Nintendo%20-%20Game%20Boy%20Color.csv)               | 20250314 (Retail) | 1393      | ![Completed 100%][Completed 100]   |
+| [任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv)             | 20250313 (Retail) | 3046      | ![Completed 100%][Completed 100]   |
+| [任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv)                    | 20250304 (Retail) | 6996/7092 | ![In Progress 97%][In Progress 90] |
+| [任天堂 3DS](./Nintendo%20-%20Nintendo%203DS.csv)                   | 20250502 (Retail) | 1870      | ![Completed 100%][Completed 100]   |
+| 任天堂 New 3DS                                                      |                   | 0/10      | ![In Progress][In Progress]        |
+| [任天堂 Game &amp; Watch](./Nintendo%20-%20Game%20%20&%20Watch.csv) | 20241105          | 53        | ![Completed 100%][Completed 100]   |
+| [任天堂 宝可梦迷你](./Nintendo%20-%20Pokemon%20Mini.csv)            | 20250407          | 44        | ![Completed 100%][Completed 100]   |
+| [索尼 PSP](./Sony%20-%20PlayStation%20Portable.csv)                 | 20250329          | 3131      | ![Completed 100%][Completed 100]   |
+| [世嘉 GG](./Sega%20-%20Game%20Gear.csv)                             | 20241203          | 818       | ![Completed 100%][Completed 100]   |
+| [万代 WS](./Bandai%20-%20WonderSwan.csv)                            | 20241208 (Retail) | 125       | ![Completed 100%][Completed 100]   |
+| [万代 WSC](./Bandai%20-%20WonderSwan%20Color.csv)                   | 20250117 (Retail) | 108       | ![Completed 100%][Completed 100]   |
+| [SNK NGP](./SNK%20-%20Neo%20Geo%20Pocket.csv)                       | 20250222          | 10        | ![Completed 100%][Completed 100]   |
+| [SNK NGPC](./SNK%20-%20Neo%20Geo%20Pocket%20Color.csv)              | 20240506          | 127       | ![Completed 100%][Completed 100]   |
 
 <!-- 
 NDSi的可能要实机测试
@@ -118,10 +118,6 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 
 乱马1/2 文件名不能有“/”
 
-![In Progress](https://img.shields.io/badge/In%20Progress-16-yellow)
-![Completed](https://img.shields.io/badge/Completed-13-brightgreen)
-![Not Started](https://img.shields.io/badge/Not%20Started-9-red)
-
 也希望大家一起[贡献](./CONTRIBUTING.md)。
 
 英文数据主要来源：
@@ -130,11 +126,6 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - [Reddit](https://www.reddit.com/r/Roms/)
 - [Mame](https://github.com/retropie/retropie-setup/wiki/MAME)
 - [libretro-database](https://github.com/libretro/libretro-database)
-
-
-[In Progress]: https://img.shields.io/badge/In%20Progress-0%25-yellow
-[Not Started]: https://img.shields.io/badge/Not%20Started-0%25-red
-[Completed 100]: https://img.shields.io/badge/Completed-100%25-brightgreen
 
 各平台使用的数据源：
 
@@ -194,3 +185,8 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - 百度、谷歌
 
  ROM 提供中文名称。
+
+[In Progress]: https://img.shields.io/badge/In%20Progress-0%25-yellow
+[In Progress 90]: https://img.shields.io/badge/In%20Progress-90%25-yellow
+[Not Started]: https://img.shields.io/badge/Not%20Started-0%25-red
+[Completed 100]: https://img.shields.io/badge/Completed-100%25-brightgreen
