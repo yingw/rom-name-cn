@@ -1,0 +1,123 @@
+
+<img src="./resource/Dark - Color/Consoles/3DO Interactive Multiplayer.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Amstrad GX4000.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/APF Imagination Machine-03.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Apple Pippin-02.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Atari 2600.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Atari 5200.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Atari 7800.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Atari Jaguar CD.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Atari Jaguar.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Bally Astrocade.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Casio Loopy.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Casio PV-1000.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/ColecoVision.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Commodore Amiga CD32.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Commodore CDTV.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Emerson Arcadia 2001.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Epoch Cassette Vision.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Epoch Super Cassette Vision.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Fairchild Channel F.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Fujitsu FM Towns Marty.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Funtech Super Acan.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/GCE Vectrex.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Magnavox Odyssey 2.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Magnavox Odyssey.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Mattel Intellivision.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Microsoft Xbox 360.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Microsoft Xbox Game Pass.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Microsoft Xbox Live Arcade-10.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Microsoft Xbox One.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Microsoft Xbox Series.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Microsoft Xbox.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/NEC PC Engine -7-03.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/NEC PC Engine CD -7-10.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/NEC PC Engine SuperGrafx.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/NEC PC-FX.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/NEC Turbo Duo-13.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/NEC TurboGrafx-16.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/NEC TurboGrafx-CD.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo 64.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo 64DD.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Color TV-Game.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Entertainment System.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Famicom Disk System-02.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Famicom.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Game Boy Player-04.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo GameCube.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Satellaview.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Sufami Turbo.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Super Famicom.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Super Game Boy 2-02.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Super Game Boy-02.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Switch eShop-02.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Switch.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Virtual Boy.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Wii U eShop-04.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Wii U.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo Wii.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Nintendo WiiWare-02.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/OpenBOR-01.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Philips CD-i.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Phillips Videopac+.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Pico-8-10.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/RCA Studio II.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega 32X.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega CD 32X.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega CD.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega Dreamcast.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega Genesis.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega Mark III.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega Master System.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega Mega Drive.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega Mega-CD.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega Saturn (Japan).png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega Saturn.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sega SG-1000.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/SNK Neo Geo CD.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/SNK Neo Geo.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sony Playstation 2.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sony PlayStation 3 Network-06.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sony Playstation 3.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sony Playstation 4.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sony Playstation 5.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sony PlayStation Network-02.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sony Playstation VR-05.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Sony Playstation.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/Super Nintendo Entertainment System.png" width="100" />
+<img src="./resource/Dark - Color/Consoles/VTech CreatiVision.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Android.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Apple iOS.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Atari Lynx.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Entex Adventure Vision.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Gamate.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Hartung Game Master.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Mega Duck.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Milton Bradley Microvision.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/New Nintendo 3DS.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo 3DS eShop.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo 3DS.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo DS.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo DSi Ware.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo DSi.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo e-Reader.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo Game & Watch.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo Game Boy Advance.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo Game Boy Color.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo Game Boy.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nintendo Pokémon Mini.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Nokia N-Gage.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Panic Playdate.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Sega Dreamcast VMU.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Sega Game Gear.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/SNK Neo Geo Pocket Color.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/SNK Neo Geo Pocket.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Sony PocketStation.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Sony PS Vita.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Sony PSP Minis.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Sony PSP.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Tiger Game.com.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Tiger LCD Handhelds.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Watara Supervision.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/Wonderswan Color.png" width="100" />
+<img src="./resource/Dark - Color/Handhelds/WonderSwan.png

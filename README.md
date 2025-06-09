@@ -1,6 +1,89 @@
 # ROM Name CN
 
 项目介绍：
+:white_check_mark:
+
+
+:warning:
+
+Nintendo Color TV-Game
+:white_check_mark:Nintendo Entertainment System (Nintendo Famicom)
+Nintendo Famicom Disk System
+
+Nintendo Game Boy :white_check_mark:
+Nintendo GameCube :white_check_mark:
+Nintendo Satellaview :white_check_mark:
+Nintendo Sufami Turbo :white_check_mark:
+Nintendo Super Famicom :white_check_mark:
+Nintendo Super Game Boy 2
+Nintendo Super Game Boy
+Nintendo Switch eShop-02
+Nintendo Switch
+Nintendo Virtual Boy :white_check_mark:
+Nintendo Wii U :x:
+Nintendo Wii
+
+Sega 32X :white_check_mark:
+Sega CD 32X
+Sega CD :white_check_mark:
+Sega Dreamcast
+Sega Genesis
+Sega Mark III
+Sega Master System
+Sega Mega Drive :white_check_mark:
+Sega Mega-CD
+Sega Saturn (Japan)
+Sega Saturn :white_check_mark:
+Sega SG-1000
+SNK Neo Geo CD
+SNK Neo Geo
+Sony Playstation 2 :x:
+Sony Playstation 3 :x:
+Super Nintendo Entertainment System
+VTech CreatiVision
+
+
+
+
+Android
+Apple iOS
+Atari Lynx
+Entex Adventure Vision
+Gamate
+Hartung Game Master
+Mega Duck
+Milton Bradley Microvision
+New Nintendo 3DS :white_check_mark:
+Nintendo 3DS eShop
+Nintendo 3DS :white_check_mark:
+Nintendo DS :white_check_mark:
+Nintendo DSi Ware
+Nintendo DSi
+Nintendo e-Reader
+Nintendo Game & Watch :white_check_mark:
+Nintendo Game Boy Advance :white_check_mark:
+Nintendo Game Boy Color :white_check_mark:
+Nintendo Game Boy :white_check_mark:
+Nintendo Pokémon Mini :white_check_mark:
+Nokia N-Gage
+Panic Playdate
+Sega Dreamcast VMU
+Sega Game Gear :white_check_mark:
+SNK Neo Geo Pocket Color :white_check_mark:
+SNK Neo Geo Pocket :white_check_mark:
+Sony PocketStation
+Sony PS Vita
+Sony PSP Minis
+Sony PSP :white_check_mark:
+Wonderswan Color :white_check_mark:
+WonderSwan :white_check_mark:
+
+
+
+Microsoft MSX :hourglass:
+Microsoft MSX2 :hourglass:
+ScummVM :hourglass:
+
 
 本项目旨在为 No-Intro, Redump 等 ROM 数据整理网站提供的 ROM dat 数据提供一个相对统一的中文译名。
 
