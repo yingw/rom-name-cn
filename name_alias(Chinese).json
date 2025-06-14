@@ -100,6 +100,7 @@
     "Puyo Puyo": {
         "alias": [
             "魔法气泡",
+            "噗哟噗哟",
             "噗呦噗呦"
         ],
         "default": "魔法气泡"
@@ -531,12 +532,29 @@
         "default": "外星悍将"
     },
     "Medarot": {
+        "alias-en": [
+            "Medabot"
+        ],
         "alias": [
             "徽章战士",
             "徽章机器人",
             "金属机器人"
         ],
         "default": "徽章战士"
+    },
+    "Burnout": {
+        "alias": [
+            "火爆狂飙",
+            "横冲直撞"
+        ],
+        "default": "火爆狂飙"
+    },
+    "Soulcalibur": {
+        "alias": [
+            "灵魂能力",
+            "刀魂"
+        ],
+        "default": "template"
     },
     "template": {
         "alias": [

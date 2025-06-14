@@ -6,33 +6,13 @@
 
 > 本项目旨在为 No-Intro, Redump 等 ROM 数据整理网站提供的 ROM dat 数据提供一个相对统一的中文译名。
 
-No-Intro 和 Redump 是两个非常专业的 ROM 数据网站，大部分的 ROM 管理工具/模拟器后台使用的都是他们的数据，如 RetroArch/EmulationStation/Playnite。
-
-很多年前我就开始用各种工具收集和整理自己的 romset，但是一直以来，这样的 romset 在使用到实际前台时，都有一个痛点：只有英文名。
-
-虽然也可以用网上很多玩家自己收集整理翻译的 romset，但是这样有很多问题：romset 不全、命名格式不一、翻译不一、最重要的是：这些 remset 和我自己用 dat 整理好的 set 是对照不起来的，有些使用了 dat 整理并发布了大而且的 set，但是数据也比较老了（比如老男人站辛苦整理的一部分）
-
-- 格式：原版 ROM："Super Mario World (USA)"，简单点的翻译可能是："超级马里奥世界"，这完全 OK，精确点的可能叫："超级马里奥世界 (美版)"，或者："超级马里奥世界美版"，或者："超级马里奥世界-美"；不同的来源和翻译者命名的方式是不一致的。
-- 译名一致性："马里奥"，这个老任最大IP的中文名，可能有"马里奥", "马力欧"，"玛莉"，"玛丽"，这些当然都没错，其中"马力欧"还是任天堂在进入中国后的官方译名。
-- 在寻找网上已经有的各个平台中英文翻译对照表的过程中发现，有很多小众的游戏的翻译都是机翻的，只看名字，根本不知道是什么鬼，再加上很多游戏的官方名称也是一些英文造词，机翻很难理解是个什么，如：，甚至有些大 IP 比如著名的：魔鬼五月哭。
-- 而且一旦用了他人整理的 romset，自己就很难在这基础上做自定制了。
-
-所以这个项目的目标就是根据最新的 dat，来做英文-中文的对照翻译对照。目前使用的大部分平台 dat 数据都是基于 2025 年 3 月 ～ 5 月的数据，部分比较老的（有些我是在 20 年开始翻译的还没更新）逐步更新。
-
-怀旧游戏的名称虽然不太会变，但是这里有个问题是 No-Intro 和 Redump 也会经常更新一些游戏名称的书写方法、日语的英文名称；虽然这个项目是大部分以 hash 比对，不依赖于名称的变化，但是为了照顾到一些 hash 并么有匹配到的 ROM，比如改版 ROM（改版 ROM 数据完全不收录），还是可以根据 ROM 的文件名或者匹配到的 gamelist 里面的名称做对照。所以 dat 的数据我会保持更新，并且更新时会保留新老译名的多种写法。
-
-这个项目搜集工作，可能只是很小的一部分，最难的是已有的中英文对照表的英文部分，和 No-Intro / Redump 的英文也是对不起来的，这里面有很多原因，而且这两个数据网站本身的命名规则也在不断地完善和更新。
-
-目前，已经完成了大部分平台的游戏的对照、补充翻译工作。
-
 ## 翻译范围
 
-大致范围是：雅达利、FC 时代到 PS2/XBOX/3DS 时代，一个原因是再早的平台我也不熟悉了，另一个是从 PS3 开始，大部分游戏平台都有了国行版，游戏都有了中文官方译名。
+大致范围：雅达利、FC 时代（198X）到 PS2/XBOX/3DS 时代（201X），一个原因是再早的平台我也不熟悉了，另一个是从 PS3 开始，大部分游戏平台都有了国行版，游戏都有了中文官方译名。
 
 :white_check_mark: 已翻译的平台：
 
-
-- 任天堂：家用机：FC（NES）, SFC（SNES）, N64, GameCube, Virtual Boy, Famicom Disk System；掌机：Game & Watch, GameBoy, GameBoy Color, GameBoy Advance, NDS（90%）, 3DS, 宝可梦迷你
+- 任天堂：家用机：FC（NES）, SFC（SNES）, N64, GameCube, Virtual Boy, Famicom Disk System；掌机：Game & Watch, GameBoy, GameBoy Color, GameBoy Advance, NDS（90%）,3DS, 宝可梦迷你
 - 世嘉：MD, CD, 32X, GameGear, 土星, DreamCast, Master System - III
 - 索尼：PS1, PSP
 - SNK：NeoGeo Pocket, NeoGeo Pocket Color
@@ -55,17 +35,16 @@ No-Intro 和 Redump 是两个非常专业的 ROM 数据网站，大部分的 ROM
 - [ReDump](http://redump.org/) - 光碟类平台游戏 dat
 - [Mame](https://www.mamedev.org/) - 街机模拟器，dat 数据使用一些工具从其中提取出，以及网站[progetto-SNAPS](https://www.progettosnaps.net/index.php)采集整理
 - [英化版 dat](https://archive.org/download/En-ROMs/DATs/)  - 英化版 dat*
-- [libretro-database](https://github.com/libretro/libretro-database) - 汇总得比较完整，一些比较小众的平台采用 libretro 整理的 dat，只是许久不更新了
+- [libretro-database](https://github.com/libretro/libretro-database) - 一些比较小众的平台采用 libretro 整理的 dat，只是许久不更新了
 
 > \* 英化版即是国外一些“英化组”或个人，他们将一些没有英文版的日版游戏“英化”成英语版，类似国内的“汉化版”，比如“逆转裁判123”，这些游戏原本应该和 dat 一一对应，但是由于“英化组”采用的英文名很可能是旧版本 dat，或者自己做了翻译，比如“逆转裁判”的 dat 名称即为：`Gyakuten Saiban`，这其实是日语的英文发音写法，英化组肯定会采用他们看得懂的`Phoenix Wright - Ace Attorney`，这也是逆转系列后续平台美版欧版的官方名称，为保持一致，将这部分数据也纳入进来并做了和中文对照
 
-
 ## 翻译格式说明
 
-目前仅提供了 CSV 文件格式数据（未来如果有多字段需求考虑改成 json），但是输出有2个版本：
+目前仅提供了 CSV 文件格式数据（未来如果有多字段需求考虑改成 json），输出有2个版本：
 
-1. 仅翻译游戏名称，即：`Ace of Aces (USA)` 翻译为：`王牌飞行员`，即只翻译了游戏名称部分，游戏的后缀（也叫：代码，英文：Code、Decoration）并不翻译。（后面会提到会在另一个项目里统一翻译）
-2. 翻译名称+代码，即：`Ace of Aces (USA)` 翻译为：`王牌飞行员(美版)`。这个模式是之前采用的，现已放弃，这个记录方法的好处是完整，确定是格式一旦定了，改了就麻烦，后续用另一个项目可以进行自动翻译和自定义格式。
+1. 仅翻译`游戏名称`，即：`Ace of Aces (USA)` 翻译为：`王牌飞行员`，即只翻译了游戏名称部分，游戏的后缀（也叫：代码，英文：Code、Decoration）并不翻译。（后面会提到会在另一个项目里统一翻译）
+2. 翻译`名称+代码`，即：`Ace of Aces (USA)` 翻译为：`王牌飞行员(美版)`。这个记录方法的好处是完整，确定是格式一旦定了，改了就麻烦，后续用另一个项目可以进行自动翻译和自定义格式。这里提供了一个默认的代码翻译结果。参考[代码说明](#代码说明)
 
 目前可能个别平台的翻译结果文件 `*.csv` 采用的还是方式2，逐步更新。
 
@@ -73,10 +52,9 @@ No-Intro 和 Redump 是两个非常专业的 ROM 数据网站，大部分的 ROM
 
 有时候，一个游戏会有多个历史不同版本、或者不同团队的翻译方式，这里基本上采用了：
 
-- 大 IP 统一：如 马里奥、索尼克 等等，这里收集整理了 50 多个大 IP 的常见译名和采用的译名，如果有定制需求，可以参考：可以在设置了希望使用的译名后动态产生不同的翻译结果
-- 百度指数 - 一个游戏的多个译名如果存在多个，而且并没有哪个特别不合理的情况下，采用百度指数对比，有些不大的 IP 就不记录中上诉的多译名选择中了
+- 大 IP 统一：如 马里奥、索尼克 等等，这里收集整理了 50 多个大 IP 的常见译名和采用的译名，参考[别名](#别名)，如果有定制需求，可以参考：可以在设置了希望使用的译名后动态产生不同的翻译结果
+- 百度指数 - 一个游戏的多个译名如果存在多个，而且并没有哪个特别不合理的情况下，采用百度指数对比，有些不大的 IP 就不记录在上述的多译名选择中了。
 - AI 翻译和建议：是的，即使在翻译过程中，我也采用了：名称 + 简介 + 定制需求 的方式来让多个 AI 帮我翻译和取舍，简单说就是将游戏的原英文名和从 ss 刮削来的简介发给 AI，并附上特点的要求（如字数、风格）来让 AI 翻译并互相评判
-
 
 关于名称的格式
 
@@ -172,8 +150,7 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - 一些平台，即使在平台生命周期中，由于多种原因，中一些非英语、日语地区，一些企业开发的“非官方”游戏，如 MD 时代的很多台湾厂商开发的中文游戏
 - 一些平台即使生命周期很后面，也有不少企业或开发者还在为这个平台开发的一些比较知名的游戏，如 2023 年正式发布的《好狗狗星系》
 
-这些也尽量收录进翻译中
-
+这些也尽量收录进翻译中。
 
 各平台使用的数据源：
 
@@ -222,8 +199,8 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 - [小鸡模拟器](https://wwww.xiaoji001.com/xiaoji.php?s=index-gamelist-type-NDS) - 小鸡作为模拟平台，游戏比较全，中文翻译也比较彻底，缺点是没有英文
 - [i3DS.fun](https://i3ds.fun/) - 3DS的专题网站，3DS的翻译最全，最近也在维护
 - [掌机迷](https://www.gbarom.cn/pspyxml) - 可以看出站长也在整理类似的对照表，可下载几个平台目录的Excel文档
-- GameTDB - GameCube 和 Wii 的中文名称翻译来源
-- 其他还有些百度随机找的不一一列举，一并感谢
+- [GameTDB](https://www.gametdb.com/) - GameCube 和 Wii 的中文名称翻译来源
+- 其他还许多随机找的不一一列举，一并感谢
 
 英文数据主要来源：
 
@@ -237,6 +214,52 @@ No-Intro：Exclude: x### ROMs/Proto/Beta/Demo/Aftermarket/Pirate/Unlicensed/BIOS
 [In Progress 90]: https://img.shields.io/badge/In%20Progress-90%25-yellow
 [Not Started]: https://img.shields.io/badge/Not%20Started-0%25-red
 [Completed 100]: https://img.shields.io/badge/Completed-100%25-brightgreen
+
+## 代码说明
+
+## 别名
+
+目前整理了 69 个大游戏 IP 极其常见的别名，见  [别名](./alias.md)，格式如下：
+
+```json
+    "Tactics Ogre": {
+        "alias-en": [
+            "Ogre Battle"
+        ],
+        "alias": [
+            "皇家骑士团",
+            "奥迦战争"
+        ],
+        "default": "皇家骑士团",
+        "others": [
+            "奥伽战争",
+            "奥加战争"
+        ]
+    },
+```
+
+json Key 为英文名，alias-en 为可能得英文别名（可选），alias 为整理到的中文别名，default 为默认的中文翻译用名称，others 为其他见到的但未支持的中文别名。
+
+此外还有一种特殊的 exclude ：
+
+```json
+
+    "Sonic": {
+        "alias": [
+            "索尼克",
+            "音速小子"
+        ],
+        "default": "索尼克",
+        "exclude": [
+            "Sonic Blast Man",
+            "Sonic Wings"
+        ]
+    },
+```
+
+表示正好有其他游戏的英文名中也包含了这里的 Sonic，但是不依据这个 IP 的翻译。
+
+这个 json 文件放在这里仅供参考使用，具体的用法参考项目<>。
 
 ## 协作
 
