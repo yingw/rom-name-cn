@@ -12,7 +12,7 @@
 
 :white_check_mark: 已翻译的平台：
 
-- 任天堂：家用机：FC（NES）, SFC（SNES）, N64, GameCube, Virtual Boy, Famicom Disk System；掌机：Game & Watch, GameBoy, GameBoy Color, GameBoy Advance, NDS（90%）,3DS, 宝可梦迷你
+- 任天堂：家用机：FC（NES）, SFC（SNES）, N64, GameCube, Wii, Virtual Boy, Famicom Disk System；掌机：Game & Watch, GameBoy, GameBoy Color, GameBoy Advance, NDS（90%）,3DS, 宝可梦迷你
 - 世嘉：MD, CD, 32X, GameGear, 土星, DreamCast, Master System - III
 - 索尼：PS1, PSP
 - SNK：NeoGeo Pocket, NeoGeo Pocket Color
@@ -23,7 +23,7 @@
 
 :hourglass: 待翻译平台：
 
-- PS2, PSV, XBOX, Wii, Wii U, 3DO, ScummVM
+- PS2, PSV, XBOX, Wii U, 3DO, ScummVM
 
 :x: 一些暂时无法翻译的平台（主要是数量太多或缺失dat）：
 
@@ -73,6 +73,7 @@
 | [任天堂 N64](./Nintendo%20-%20Nintendo%2064.csv)                                  | 20250208             | 1137      | ![Completed 100%][Completed 100] |
 | 任天堂 FDS                                                                        | 待更新               | 324       |                                  |
 | [任天堂 NGC](./Nintendo%20-%20GameCube.csv)                                       | 20250601 (Retail)    | 1785/2011 | ![Completed 100%][Completed 100] |
+| [任天堂 Wii](./Nintendo%20-Wii.csv)                                               | 2025-05-17           | 3412/3776 | ![Completed 100%][Completed 100] |
 | 任天堂 Wii/WiiU                                                                   |                      | 3772      | ![Not Started][Not Started]      |
 | [索尼 PS1](./Sony%20-%20PlayStation.csv)                                          | 20250329 (Retail)    | 6193      | ![Completed 100%][Completed 100] |
 | [世嘉 MD/Gensis](./Sega%20-%20Mega%20Drive%20-%20Genesis.csv)                     | 20250305 (Retail)    | 1591      | ![Completed 100%][Completed 100] |

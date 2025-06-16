@@ -3,3 +3,4 @@ temp/
 template/
 backup*/
 resource/**
+.DS_Store
