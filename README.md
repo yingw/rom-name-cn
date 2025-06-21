@@ -108,7 +108,7 @@ PICO-8、ONS、PortMaster
 | [任天堂 GBA](./Nintendo%20-%20Game%20Boy%20Advance.csv)             | 20250313 (Retail) | 3046      | ![Completed 100%][Completed 100]   |
 | [任天堂 NDS](./Nintendo%20-%20Nintendo%20DS.csv)                    | 20250304 (Retail) | 6996/7092 | ![In Progress 97%][In Progress 90] |
 | [任天堂 3DS](./Nintendo%20-%20Nintendo%203DS.csv)                   | 20250502 (Retail) | 1870      | ![Completed 100%][Completed 100]   |
-| 任天堂 New 3DS                                                      |                   | 0/10      | ![In Progress][In Progress]        |
+| [任天堂 New 3DS](./Nintendo%20-%20New%20Nintendo%203DS.csv)         | 20250110          | 11/11     | ![Completed 100%][Completed 100]   |
 | [任天堂 Game &amp; Watch](./Nintendo%20-%20Game%20%20&%20Watch.csv) | 20241105          | 53        | ![Completed 100%][Completed 100]   |
 | [任天堂 宝可梦迷你](./Nintendo%20-%20Pokemon%20Mini.csv)            | 20250407          | 44        | ![Completed 100%][Completed 100]   |
 | [索尼 PSP](./Sony%20-%20PlayStation%20Portable.csv)                 | 20250329          | 3131      | ![Completed 100%][Completed 100]   |
