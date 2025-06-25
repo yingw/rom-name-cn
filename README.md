@@ -1,33 +1,32 @@
 # ROM Name CN
 
-[TOC]
-
-## 项目介绍
-
-> 本项目旨在为 No-Intro, Redump 等 ROM 数据整理网站提供的 ROM dat 数据提供一个相对统一的中文译名。
+本项目旨在为 No-Intro, Redump 等 ROM 数据整理网站提供的 ROM dat 数据提供一个相对统一的中文译名。
 
 ## 翻译范围
 
-大致范围：雅达利、FC 时代（198X）到 PS2/XBOX/3DS 时代（201X），一个原因是再早的平台我也不熟悉了，另一个是从 PS3 开始，大部分游戏平台都有了国行版，游戏都有了中文官方译名。
+大致范围：雅达利、FC 时代（198X）到 PS2/XBOX/3DS 时代（201X），一个原因是再早的平台我也不熟悉了，另一边是从 PS3 开始，大部分游戏平台都有了国行版，游戏都有了中文官方译名。
 
 :white_check_mark: 已翻译的平台：
 
-- 任天堂：家用机：FC（NES）, SFC（SNES）, N64, GameCube, Wii, Virtual Boy, Famicom Disk System；掌机：Game & Watch, GameBoy, GameBoy Color, GameBoy Advance, NDS（90%）,3DS, 宝可梦迷你
-- 世嘉：MD, CD, 32X, GameGear, 土星, DreamCast, Master System - III
+- 任天堂：
+  - 家用机：FC（NES）, SFC（SNES）, N64, GameCube, Wii, Wii U, Virtual Boy, Famicom Disk System；
+  - 掌机：Game & Watch, GameBoy, GameBoy Color, GameBoy Advance, NDS（90%）,3DS, Pokemon Mini
+- 世嘉：MD, CD, 32X, GameGear, Saturn, DreamCast, Master System - III
 - 索尼：PS1, PSP
 - SNK：NeoGeo Pocket, NeoGeo Pocket Color
 - 万代：神奇天鹅, 神奇天鹅 彩色版
 - 街机：Mame（90%），还分了 CSP1～3/FBA 等
 - NEC：PC-Engine, PC-Engine SuperGrafx
 - 雅达利：2600, 5200, 7800, Lynx
+- 松下 3DO
 
 :hourglass: 待翻译平台：
 
-- PS2, PSV, XBOX, Wii U, 3DO, ScummVM
+- PS2, PSV, XBOX, Wii U, ScummVM
 
 :x: 一些暂时无法翻译的平台（主要是数量太多或缺失dat）：
 
-- MSX, Pico8, PC/Dos, J2ME
+- MSX, PC/Dos, J2ME
 
 ## dat 数据来源
 
@@ -37,7 +36,7 @@
 - [英化版 dat](https://archive.org/download/En-ROMs/DATs/)  - 英化版 dat*
 - [libretro-database](https://github.com/libretro/libretro-database) - 一些比较小众的平台采用 libretro 整理的 dat，只是许久不更新了
 
-> \* 英化版即是国外一些“英化组”或个人，他们将一些没有英文版的日版游戏“英化”成英语版，类似国内的“汉化版”，比如“逆转裁判123”，这些游戏原本应该和 dat 一一对应，但是由于“英化组”采用的英文名很可能是旧版本 dat，或者自己做了翻译，比如“逆转裁判”的 dat 名称即为：`Gyakuten Saiban`，这其实是日语的英文发音写法，英化组肯定会采用他们看得懂的`Phoenix Wright - Ace Attorney`，这也是逆转系列后续平台美版欧版的官方名称，为保持一致，将这部分数据也纳入进来并做了和中文对照
+> \* 英化版即是国外一些“英化组”或个人，他们将一些没有英文版的日版游戏“英化”成英语版，类似国内的“汉化版”，比如“逆转裁判123”，这些游戏原本应该和 dat 一一对应，但是由于“英化组”采用的英文名很可能是旧版本 dat，或者自己做了翻译，比如“逆转裁判”的 dat 名称即为：`Gyakuten Saiban`，这其实是日语的英文发音写法，英化组会采用他们看得懂的`Phoenix Wright - Ace Attorney`，这也是逆转系列后续平台美版欧版的官方名称，为保持一致，将这部分数据也纳入进来并做了和中文对照
 
 ## 翻译格式说明
 

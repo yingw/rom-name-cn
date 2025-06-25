@@ -316,43 +316,40 @@
     },
     "Scooby-Doo": {
         "alias": [
-            "史酷比",
-            "模板2"
+            "史酷比"
         ],
         "default": "史酷比"
     },
     "Inazuma Eleven": {
         "alias": [
-            "闪电十一人",
-            "模板2"
+            "闪电十一人"
         ],
         "default": "闪电十一人"
     },
     "Ben 10": {
         "alias": [
-            "少年骇客",
-            "模板2"
+            "少年骇客"
         ],
         "default": "少年骇客"
     },
     "Fuurai no Shiren": {
         "alias": [
-            "风来的西林",
-            "模板2"
+            "风来的西林"
         ],
         "default": "风来的西林"
     },
     "Nobunaga No Yabou": {
         "alias": [
             "信长的野望",
-            "模板2"
+            "信长之野望",
+            "信长野望"
         ],
         "default": "信长的野望"
     },
     "Nobunaga": {
         "alias": [
             "信长",
-            "模板2"
+            "织田信长"
         ],
         "default": "信长"
     },
@@ -365,8 +362,7 @@
     },
     "Jjangguneun Monmallyeo": {
         "alias": [
-            "蜡笔小新",
-            "模板2"
+            "蜡笔小新"
         ],
         "alias-en": [
             "Jjangguneun Motmallyeo",
@@ -376,8 +372,7 @@
     },
     "Super Robot Taisen": {
         "alias": [
-            "超级机器人大战",
-            "模板2"
+            "超级机器人大战"
         ],
         "default": "超级机器人大战"
     },
@@ -446,7 +441,8 @@
     },
     "Klonoa": {
         "alias": [
-            "克罗诺亚"
+            "克罗诺亚",
+            "风之克罗诺亚"
         ],
         "default": "克罗诺亚"
     },
@@ -554,9 +550,27 @@
             "灵魂能力",
             "刀魂"
         ],
+        "default": "灵魂能力"
+    },
+    "Bubble Bobble": {
+        "alias": [
+            "泡泡龙",
+            "template"
+        ],
+        "alias-en": [
+            "Bust-A-Move",
+            "Puzzle Bobble"
+        ],
         "default": "template"
     },
-    "template": {
+    "Hello Kitty": {
+        "alias": [
+            "凯蒂猫",
+            "Kitty猫"
+        ],
+        "default": "template"
+    },
+    "template2": {
         "alias": [
             "template",
             "template"
