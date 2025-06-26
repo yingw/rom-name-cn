@@ -22,11 +22,10 @@
 
 :hourglass: 待翻译平台：
 
-- PS2, PSV, XBOX, Wii U, ScummVM
-
+- PS2, PSV, XBOX, Wii U
 :x: 一些暂时无法翻译的平台（主要是数量太多或缺失dat）：
 
-- MSX, PC/Dos, J2ME
+- MSX, PC/Dos, J2ME, ScummVM
 
 ## dat 数据来源
 
