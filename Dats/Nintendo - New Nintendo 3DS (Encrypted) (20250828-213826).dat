@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>81</id>
+		<name>Nintendo - New Nintendo 3DS (Encrypted)</name>
+		<description>Nintendo - New Nintendo 3DS (Encrypted)</description>
+		<version>20250828-213826</version>
+		<author>aci68, Arctic Circle System, b2071988, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kaos, nnssxx, PPLToast, psykopat, rarenight, SonGoku, xprism</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Fire Emblem Musou (Japan)" id="0007" cloneofid="0008">
+		<description>Fire Emblem Musou (Japan)</description>
+		<game_id>000400000F70C100</game_id>
+		<rom name="Fire Emblem Musou (Japan).3ds" size="4294967296" crc="6145b1de" md5="9bf7d4696b794cd110aada07bf552486" sha1="d554795721e385878705f1822d85d1d1961ce616" serial="KTR-P-CFMJ"/>
+	</game>
+	<game name="Fire Emblem Warriors (Europe) (En,Fr,De,Es,It)" id="0008">
+		<description>Fire Emblem Warriors (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>000400000F70CD00</game_id>
+		<rom name="Fire Emblem Warriors (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="372a3ba3" md5="59a7191e4b5b4e4d0b2349ee7a931062" sha1="575e165013c6e65200f190615cbf2df12e2e6307" serial="KTR-P-CFMP"/>
+	</game>
+	<game name="Fire Emblem Warriors (USA)" id="0009" cloneofid="0008">
+		<description>Fire Emblem Warriors (USA)</description>
+		<game_id>000400000F70CC00</game_id>
+		<rom name="Fire Emblem Warriors (USA).3ds" size="2147483648" crc="b410ed52" md5="8407aba2da875f5e0cfcea8ae688c9d4" sha1="9e161d87d0e8e2ad776f8fca170a3a10426c2c36" sha256="04489d54d9a75e42ec4ea52d2fa075eb92559940a5ef74e8d262631afe8f943f" serial="KTR-P-CFME"/>
+	</game>
+	<game name="Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru)" id="0010">
+		<category>Games</category>
+		<description>Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru)</description>
+		<game_id>00040000001B8700</game_id>
+		<rom name="Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).3ds" size="1073741824" crc="dfa829b2" md5="06c5021262b80830bdde0df4fe37bb05" sha1="6987148022dd6fc3a60d467f45a2348b70818a27" sha256="06e473af139ee89867a4aefd8607d79054edb32ea88cc76777d7261bb6c2cd83" status="verified" serial="KTR-P-BD3E"/>
+	</game>
+	<game name="Runbow Pocket Deluxe Edition (USA)" id="0006">
+		<description>Runbow Pocket Deluxe Edition (USA)</description>
+		<game_id>000400000F708700</game_id>
+		<rom name="Runbow Pocket Deluxe Edition (USA).3ds" size="536870912" crc="186039e7" md5="b6a9d1b1f38fb3f594f3660d055c3017" sha1="9bb78892c919c4651196a2bd6864a47786166337" sha256="85ec3e7b8e24c28e309ece5d10fee76829c3bc0139a7fc25cc1137fb8629e4a4" serial="KTR-P-CDRE"/>
+	</game>
+	<game name="Xenoblade (Japan)" id="0002" cloneofid="0001">
+		<description>Xenoblade (Japan)</description>
+		<game_id>000400000F700000</game_id>
+		<rom name="Xenoblade (Japan).3ds" size="4294967296" crc="48415166" md5="ed0bbcca7e7e484337c05c6e0d804292" sha1="6e4f449a952e1c53ed869cfda2a70a9a755e08af" serial="KTR-P-CAFJ"/>
+	</game>
+	<game name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It)" id="0001">
+		<description>Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It)</description>
+		<game_id>000400000F700200</game_id>
+		<rom name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It).3ds" size="4294967296" crc="1ab128fd" md5="38f416faef16182e379e5e5d82a87427" sha1="45ed8560b9d6e468efa9934d2bc5efb20a3a4e67" sha256="1988c1f6b9567bd7fd32a9775f0d402f2b75f7e4875520ca56892e7fd0838cfd" status="verified" serial="KTR-P-CAFP"/>
+	</game>
+	<game name="Xenoblade Chronicles 3D (USA) (En,Fr,Es)" id="0003" cloneofid="0001">
+		<description>Xenoblade Chronicles 3D (USA) (En,Fr,Es)</description>
+		<game_id>000400000F700100</game_id>
+		<rom name="Xenoblade Chronicles 3D (USA) (En,Fr,Es).3ds" size="4294967296" crc="74b4bbc4" md5="79038cc5c2ae422e78cef12c3f6d0269" sha1="bc15888053cd4dbaf63c98444b34bb3aa4342888" sha256="508d23299003e370e85d88b6244036b847dbabad2477b97cb36539438a732751" status="verified" serial="KTR-P-CAFE"/>
+	</game>
+	<game name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1)" id="0004" cloneofid="0001">
+		<description>Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+		<game_id>000400000F700200</game_id>
+		<rom name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="4294967296" crc="d393b012" md5="7b497975721ec31cfed6737d7fedf32e" sha1="5e7a8f086db246a66ce705ae74c21923c59d07c8" serial="KTR-P-CAFP"/>
+	</game>
+	<game name="Xenoblade Chronicles 3D (USA) (En,Fr,Es) (Rev 1)" id="0005" cloneofid="0001">
+		<description>Xenoblade Chronicles 3D (USA) (En,Fr,Es) (Rev 1)</description>
+		<game_id>000400000F700100</game_id>
+		<rom name="Xenoblade Chronicles 3D (USA) (En,Fr,Es) (Rev 1).3ds" size="4294967296" crc="4b9b89d8" md5="0c8eeb6b9ff3b6b5df7aa7bac58bffc5" sha1="753c0312fcc54011aef80c420c90392ec0fa4af0" sha256="1eef4f910641818c02a9f067b1d69e98d142cb5da7d8ea53e8667304532cc717" status="verified" serial="KTR-P-CAFE"/>
+	</game>
+	<game name="Xenoblade Chronicles 3D (USA) (Beta)" id="z002" cloneofid="0001">
+		<description>Xenoblade Chronicles 3D (USA) (Beta)</description>
+		<rom name="Xenoblade Chronicles 3D (USA) (Beta).3ds" size="4294967296" crc="6d75f6da" md5="a373526756ea2ddc3d8b5e3d9bfedff2" sha1="8afec05316b5acaf40160d7140189d246768ef2e" sha256="4190bff0c06075bcdf268e36b659d8c54f203de7aed59c78a6fd647cc52d527a" serial="KTR-P-CAFE"/>
+	</game>
+</datafile>

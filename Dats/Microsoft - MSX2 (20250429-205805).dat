@@ -1,0 +1,805 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>11</id>
+		<name>Microsoft - MSX2</name>
+		<description>Microsoft - MSX2</description>
+		<version>20250429-205805</version>
+		<author>C. V. Reynolds, Gefflon, gigadeath, MeguCocoa, number, Powerpuff, rarenight, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan)" id="0002">
+		<description>[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan)</description>
+		<rom name="[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan).rom" size="262144" crc="17e58926" md5="cb30a978bd4bddf957c66d1d05273658" sha1="f4dba5ba267b5dd1a35eb74a6ec4fd4d5ca9a1b4"/>
+	</game>
+	<game name="1942 (Japan)" id="0001">
+		<description>1942 (Japan)</description>
+		<rom name="1942 (Japan).rom" size="131072" crc="c99e5601" md5="668570dd413d5cdf271e58d61b5b99e7" sha1="c9135b1e451193bd4c06d8143eaca934cc89fe05"/>
+	</game>
+	<game name="A Ressha de Ikou MSX (Japan)" id="0007">
+		<description>A Ressha de Ikou MSX (Japan)</description>
+		<rom name="A Ressha de Ikou MSX (Japan).rom" size="131072" crc="c956e1df" md5="9c8bc23c7acad95ba2cbda6cbf48339b" sha1="5fd07ed5b7c0492d42ed91a54a0fe80ce6e4e40d"/>
+	</game>
+	<game name="AcroJet (Japan)" id="0008">
+		<description>AcroJet (Japan)</description>
+		<rom name="AcroJet (Japan).rom" size="131072" crc="d2ee4051" md5="1f73a16c2b3cd400e026b578b7567a72" sha1="1f17e46190635a3214057d33ad4a768939d5a071"/>
+	</game>
+	<game name="Akumajo Dracula (Japan) (Wii U Virtual Console)" id="0198">
+		<description>Akumajo Dracula (Japan) (Wii U Virtual Console)</description>
+		<rom name="Akumajo Dracula (Japan) (Wii U Virtual Console).rom" size="131072" crc="76545096" md5="f2716d4c1fc8ade19d4e1421ae4c2de6" sha1="0b7197542864930497ec6912ceb68458cd9813b5" sha256="039bb200068c4c207aa8931741a321c0fa4c0e7b94304f50b177af5f99e831fc"/>
+	</game>
+	<game name="Aleste (Japan)" id="0009">
+		<description>Aleste (Japan)</description>
+		<rom name="Aleste (Japan).rom" size="262144" crc="c29edd84" md5="7087b51f3ccfdf314ce60d5d8aaf644a" sha1="12f6f31f495bfb384c9ca9067bfbf8f98af6adf9"/>
+	</game>
+	<game name="Alges no Yoku (Japan)" id="0010">
+		<description>Alges no Yoku (Japan)</description>
+		<rom name="Alges no Yoku (Japan).rom" size="262144" crc="225705cc" md5="790e45f34cec0f5064161109653537c5" sha1="a8059dc1820b461418713acf2af14f3a25734bd3"/>
+	</game>
+	<game name="American Soccer (Japan)" id="0011">
+		<description>American Soccer (Japan)</description>
+		<rom name="American Soccer (Japan).rom" size="65536" crc="bcf03d8b" md5="a3648a5dd95179c00fc11fe455bb5828" sha1="1545566bd7decb1612009daa2daa71758fa6e4a1"/>
+	</game>
+	<game name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)" id="0012">
+		<description>Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)</description>
+		<rom name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).rom" size="1048576" crc="075ab646" md5="76bba6b3f1ae93cfafb3af904b978098" sha1="74d1c7f66242335c736da29413037bd23384efaa"/>
+	</game>
+	<game name="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)" id="0013">
+		<description>Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)</description>
+		<rom name="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).rom" size="524288" crc="3b5b3fd8" md5="67bc15b268c9e35df72121911d4412ea" sha1="8a4bcf0f38c9f243443a4d4865278f695bd83dc8"/>
+	</game>
+	<game name="Arctic - Active Rail Playing (Japan) (Alt)" id="0015" cloneofid="0014">
+		<description>Arctic - Active Rail Playing (Japan) (Alt)</description>
+		<rom name="Arctic - Active Rail Playing (Japan) (Alt).rom" size="131072" crc="614554c4" md5="634dd13762378630bfe50ac9b87dbf5f" sha1="9c89215dd36eded769691708eb8c82dec1ce5109"/>
+	</game>
+	<game name="Arctic - Active Rail Playing (Japan)" id="0014">
+		<description>Arctic - Active Rail Playing (Japan)</description>
+		<rom name="Arctic - Active Rail Playing (Japan).rom" size="131072" crc="ae3167ee" md5="f709083da5b2b078c3621a17374aaf1e" sha1="e8e416977f5dae3635362c513bba004ea89a0bf4"/>
+	</game>
+	<game name="Arkanoid II - Revenge of Doh (Japan)" id="0016">
+		<description>Arkanoid II - Revenge of Doh (Japan)</description>
+		<rom name="Arkanoid II - Revenge of Doh (Japan).rom" size="131072" crc="00d36af6" md5="2d594d9ebfb36faba7eea3c6b4e55dc8" sha1="1642891b693df616f27431299352e1d7750ac94b"/>
+	</game>
+	<game name="AshGuine - Densetsu no Seisenshi (Japan)" id="0017">
+		<description>AshGuine - Densetsu no Seisenshi (Japan)</description>
+		<rom name="AshGuine - Densetsu no Seisenshi (Japan).rom" size="131072" crc="3cb34efb" md5="851aca1e5d3f0e8d9b1cbec2e8451831" sha1="f57b46154cf0711e3f5218e00f67c375d95d1d5d"/>
+	</game>
+	<game name="AshGuine Story II - Kokuu no Gajou (Japan)" id="0019">
+		<description>AshGuine Story II - Kokuu no Gajou (Japan)</description>
+		<rom name="AshGuine Story II - Kokuu no Gajou (Japan).rom" size="262144" crc="47a82d74" md5="3b191ba16e7c5def2f1e9febc1fb92e5" sha1="efdf63f01293251dc593163a42f31556fd042282"/>
+	</game>
+	<game name="AshGuine Story III - Fukushuu no Honoo (Japan)" id="0018">
+		<description>AshGuine Story III - Fukushuu no Honoo (Japan)</description>
+		<rom name="AshGuine Story III - Fukushuu no Honoo (Japan).rom" size="262144" crc="353382ce" md5="f582df437dde65d958eec72260801b32" sha1="6fd90e7573abdb5a7bd6e4e8dc44db80fc163e30"/>
+	</game>
+	<game name="Bubble Bobble (Japan) (Alt)" id="0021" cloneofid="0020">
+		<description>Bubble Bobble (Japan) (Alt)</description>
+		<rom name="Bubble Bobble (Japan) (Alt).rom" size="131072" crc="8b73f133" md5="78cfcd46880a80b26839158cba7094a1" sha1="c5edd1c74e72ddaeba1027da1e848e2c4fda94f5"/>
+	</game>
+	<game name="Bubble Bobble (Japan)" id="0020">
+		<description>Bubble Bobble (Japan)</description>
+		<rom name="Bubble Bobble (Japan).rom" size="131072" crc="6524d9fc" md5="bd8b1f6c998657b96bf7dc7825d0a600" sha1="e73946f1f26589d77926276ca4f9dbee60c53fde"/>
+	</game>
+	<game name="Cheese 2 (Japan) (Program)" id="0003">
+		<description>Cheese 2 (Japan) (Program)</description>
+		<rom name="Cheese 2 (Japan) (Program).rom" size="32768" crc="2ffb49c3" md5="16f08e7cdce9aa13259b9e904eeb0e2b" sha1="930b4896c1590ebbb74d330447ec36e3feb5cab6"/>
+	</game>
+	<game name="Cockpit, The (Japan)" id="0022">
+		<description>Cockpit, The (Japan)</description>
+		<rom name="Cockpit, The (Japan).rom" size="131072" crc="5f354e65" md5="10b02d5c4600b342e98559518bdbc96d" sha1="e36e16acfdfa76fa72b218da2bebc668db39d21e"/>
+	</game>
+	<game name="Contra (Japan) (Wii U Virtual Console)" id="0023">
+		<description>Contra (Japan) (Wii U Virtual Console)</description>
+		<rom name="Contra (Japan) (Wii U Virtual Console).rom" size="131072" crc="4e82660d" md5="855dc91e683d897662c2f676b4dc3e3a" sha1="90003c78975d00b1e5612fd00dffabb70d616ecd" sha256="f823346e745203ff87dd2a00a414c729a5556e42332489219538d169395ea62a"/>
+	</game>
+	<game name="Crimson (Japan)" id="0024">
+		<description>Crimson (Japan)</description>
+		<rom name="Crimson (Japan).rom" size="262144" crc="8528a795" md5="c787a2825169fa5b13bcb1eaec3e289a" sha1="a21adba681956ec35816af673a9d4f6c7743253a"/>
+	</game>
+	<game name="Daikoukai Jidai (Japan)" id="0025">
+		<description>Daikoukai Jidai (Japan)</description>
+		<rom name="Daikoukai Jidai (Japan).rom" size="524288" crc="ec7a8012" md5="cc6d64c4a9880b6111f6b491275eb62a" sha1="2a4aef32db28c059c30f5f972f1c09708ef6ce62"/>
+	</game>
+	<game name="Daisenryaku (Japan)" id="0026">
+		<description>Daisenryaku (Japan)</description>
+		<rom name="Daisenryaku (Japan).rom" size="131072" crc="43f14f1f" md5="596e1e1a4e4aef2e640a69c8c0396519" sha1="052691219a7a6e8eadbeb6efa91b8e83c96aa691"/>
+	</game>
+	<game name="Darwin 4078 (Japan) (Alt 2)" id="0029" cloneofid="0027">
+		<description>Darwin 4078 (Japan) (Alt 2)</description>
+		<rom name="Darwin 4078 (Japan) (Alt 2).rom" size="131072" crc="6fb05f43" md5="1a06186f14de3c724215997eee18d6fd" sha1="3f072673752badfbd234d6005ddad60a494a9438"/>
+	</game>
+	<game name="Darwin 4078 (Japan)" id="0027">
+		<description>Darwin 4078 (Japan)</description>
+		<rom name="Darwin 4078 (Japan).rom" size="131072" crc="7098faf0" md5="ca9cb10e2415775418c85f47e1bfb5d5" sha1="d4da7236bd09d735dcb92127c73e43b3ca94dd7f"/>
+	</game>
+	<game name="Darwin 4078 (Japan) (Alt)" id="0028" cloneofid="0027">
+		<description>Darwin 4078 (Japan) (Alt)</description>
+		<rom name="Darwin 4078 (Japan) (Alt).rom" size="131072" crc="ce86a52f" md5="e84d7e53b40d406042e9b3ae837aad62" sha1="3bb2f9f4be38b5b08da03ee190c39caec30e2f08"/>
+	</game>
+	<game name="Deep Forest (Japan) (Alt)" id="0031" cloneofid="0030">
+		<description>Deep Forest (Japan) (Alt)</description>
+		<rom name="Deep Forest (Japan) (Alt).rom" size="131072" crc="3615e623" md5="56dae5f0998359d68cdba7cb6947fd3f" sha1="35c02d8d590d92053f083b0c0c897277a5375af6"/>
+	</game>
+	<game name="Deep Forest (Japan)" id="0030">
+		<description>Deep Forest (Japan)</description>
+		<rom name="Deep Forest (Japan).rom" size="131072" crc="f221b845" md5="dc9c2178fec7958fdde3f7762ffe0b2e" sha1="fc9adbd816109f7705f342c01f168bb09ca4b2ff"/>
+	</game>
+	<game name="Dires - Giger Loop (Japan)" id="0032">
+		<description>Dires - Giger Loop (Japan)</description>
+		<rom name="Dires - Giger Loop (Japan).rom" size="131072" crc="5acbd591" md5="9c16b2ba7956a86819bdbc12cd266e29" sha1="1ba6b699b4e34c23ee60db4e58e1265dc03f0b50"/>
+	</game>
+	<game name="Double Vision (Japan)" id="0033">
+		<description>Double Vision (Japan)</description>
+		<rom name="Double Vision (Japan).rom" size="262144" crc="e1148738" md5="0cb6d4d086306f22d6d4a8c96a0f44e3" sha1="87a7fa43602f74c47151e79f1aaf7f641331ba51"/>
+	</game>
+	<game name="Dragon Buster (Japan)" id="0034">
+		<description>Dragon Buster (Japan)</description>
+		<rom name="Dragon Buster (Japan).rom" size="131072" crc="49252882" md5="52bd14a491aa5802e842bff023d4f728" sha1="ecbf33a376a7a108176f8d1009d042e01519241c"/>
+	</game>
+	<game name="Dragon Quest (Japan)" id="0035">
+		<description>Dragon Quest (Japan)</description>
+		<rom name="Dragon Quest (Japan).rom" size="131072" crc="7729e7a9" md5="b6a39a89fb0df0be5dff7d64f5fe8900" sha1="5577e483caca553cfbfc0cba26f3ab2444569f81"/>
+	</game>
+	<game name="Dragon Quest II (Japan) (Alt)" id="0037" cloneofid="0036">
+		<description>Dragon Quest II (Japan) (Alt)</description>
+		<rom name="Dragon Quest II (Japan) (Alt).rom" size="262144" crc="e012ee7a" md5="92139e59f1e8fe30d5550112b300cc5c" sha1="77fcce7b7c9c915fb0adff059141d4d4307f5a22"/>
+	</game>
+	<game name="Dragon Quest II (Japan)" id="0036">
+		<description>Dragon Quest II (Japan)</description>
+		<rom name="Dragon Quest II (Japan).rom" size="262144" crc="0bf0c3f5" md5="b2e0120f0a937fab09a37a252ab0faea" sha1="05280f0a26ac5c42ab63b80a487bb909683e7461"/>
+	</game>
+	<game name="Dragon Slayer IV - Drasle Family (Japan)" id="0038">
+		<description>Dragon Slayer IV - Drasle Family (Japan)</description>
+		<rom name="Dragon Slayer IV - Drasle Family (Japan).rom" size="262144" crc="98095852" md5="38209dd384ca5a791e97ffc6c68097a2" sha1="6d7a8ea1b283ecc1cc94c359e5f053a6e82ab3f5"/>
+	</game>
+	<game name="Dragon Slayer IV - Drasle Family (Japan) (Alt)" id="0039" cloneofid="0038">
+		<description>Dragon Slayer IV - Drasle Family (Japan) (Alt)</description>
+		<rom name="Dragon Slayer IV - Drasle Family (Japan) (Alt).rom" size="262144" crc="53163cbc" md5="e6936c2b6472591505acd1ee1b6c5865" sha1="3f87c3413c8cc2a25e1f64cfdcd01155a13711f0"/>
+	</game>
+	<game name="Dragon Slayer Jr. - Romancia (Japan)" id="0148">
+		<description>Dragon Slayer Jr. - Romancia (Japan)</description>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan).rom" size="131072" crc="17f9ee7f" md5="560544f37bf6f806b200d5db3d562e26" sha1="b63fc17c1d004ca4d7f3b1ef8962210a779ca665"/>
+	</game>
+	<game name="Druid (Japan)" id="0040">
+		<description>Druid (Japan)</description>
+		<rom name="Druid (Japan).rom" size="131072" crc="94982598" md5="62f67225074fec95baa131f687238fd0" sha1="b11c0ded529af18c29ec46b9e0a795ed0405e7ec"/>
+	</game>
+	<game name="Druid (Japan) (Alt)" id="0041" cloneofid="0040">
+		<description>Druid (Japan) (Alt)</description>
+		<rom name="Druid (Japan) (Alt).rom" size="131072" crc="c3242b0a" md5="65845a220992ea4962d96919278b7a23" sha1="af3524caccd33ccb7a5b42b1ce4314d055e01672"/>
+	</game>
+	<game name="Dynamite Bowl (Japan)" id="0042">
+		<description>Dynamite Bowl (Japan)</description>
+		<rom name="Dynamite Bowl (Japan).rom" size="131072" crc="9935e9bd" md5="14311b9fe54716ed22efe313a7503e53" sha1="bd70b00ccb8fafca883c7160585e9c5920cca58f"/>
+	</game>
+	<game name="Dynamite Bowl (Japan) (Alt)" id="0043" cloneofid="0042">
+		<description>Dynamite Bowl (Japan) (Alt)</description>
+		<rom name="Dynamite Bowl (Japan) (Alt).rom" size="131072" crc="a4996aaa" md5="a495dc8678497b284b8a2b675f8bb6cc" sha1="a6d285e515ad1e2c15b4352d9b699ebe060b1dba"/>
+	</game>
+	<game name="Eidolon, The (Europe)" id="0044">
+		<description>Eidolon, The (Europe)</description>
+		<rom name="Eidolon, The (Europe).rom" size="131072" crc="14913432" md5="ff25f8ccde5cf7d49a758d19f46e41d0" sha1="cd8ee800822ff0cd295621faafafc73be4bacad0"/>
+	</game>
+	<game name="Elthlead (Japan)" id="0045">
+		<description>Elthlead (Japan)</description>
+		<rom name="Elthlead (Japan).rom" size="131072" crc="a8e9ac9b" md5="3f68d8e286b9b46b5400381bdacbaa52" sha1="caeca37113c56e696d7053d90f5f9f3e02de8ad1"/>
+	</game>
+	<game name="Empereur, L' (Japan)" id="0046">
+		<description>Empereur, L' (Japan)</description>
+		<rom name="Empereur, L' (Japan).rom" size="524288" crc="c7521809" md5="cafaa2eab655943ad4064a1dbdb09a67" sha1="22f5998b4de47bf2ccc077d5881ac448e6b0484d"/>
+	</game>
+	<game name="Europe Sensen (Japan)" id="0047">
+		<description>Europe Sensen (Japan)</description>
+		<rom name="Europe Sensen (Japan).rom" size="1048576" crc="413d4700" md5="35d9d247a298181bb0c70a45d5e0746e" sha1="475c3af7495922759a5f424d2e22d7e4073d5992"/>
+	</game>
+	<game name="F-15 Strike Eagle (Japan)" id="0048">
+		<description>F-15 Strike Eagle (Japan)</description>
+		<rom name="F-15 Strike Eagle (Japan).rom" size="131072" crc="53cce88d" md5="c4c2bf153650b33aaab97ac00d07685b" sha1="39bc111c953bdf25683db7ff4c0bad79b5c49958"/>
+	</game>
+	<game name="Famicle Parodic (Japan)" id="0049">
+		<description>Famicle Parodic (Japan)</description>
+		<rom name="Famicle Parodic (Japan).rom" size="262144" crc="0e03847b" md5="eccbb5b0e92ba466da7a55434bbc0556" sha1="f12ad34dc3b4279da0fc7094f3d50d6b8bb517dc"/>
+	</game>
+	<game name="Family Billiards (Japan)" id="0050">
+		<description>Family Billiards (Japan)</description>
+		<rom name="Family Billiards (Japan).rom" size="65536" crc="7c867d98" md5="54038e0dcc4ad3f0a2fd3859eb3e5c9b" sha1="924fcf87b3747dae06e621975903ee73c42016f2"/>
+	</game>
+	<game name="Family Boxing - MSX Title Match (Japan)" id="0051">
+		<description>Family Boxing - MSX Title Match (Japan)</description>
+		<rom name="Family Boxing - MSX Title Match (Japan).rom" size="262144" crc="7030f2ab" md5="9b92eb8a340fed695fb4d86d94e6a4d6" sha1="d78d763e72e23418f31dc3ce91deea1e8ee10490"/>
+	</game>
+	<game name="Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt)" id="0053" cloneofid="0052">
+		<description>Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt)</description>
+		<rom name="Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt).rom" size="262144" crc="3459ce01" md5="88ab9038be379184c70ed4aef1766a57" sha1="1f39c472f1e02511fa7eaaf8ed9fcce4d45861b9"/>
+	</game>
+	<game name="Fantasy Zone II - The Tears of Opa-Opa (Japan)" id="0052">
+		<description>Fantasy Zone II - The Tears of Opa-Opa (Japan)</description>
+		<rom name="Fantasy Zone II - The Tears of Opa-Opa (Japan).rom" size="262144" crc="1bdfaeeb" md5="cf739db66adc5a2f2d06f19e3d852ccb" sha1="a58ca651f4c12bf07cf3840d5e37b534f5fc075e"/>
+	</game>
+	<game name="Final Mystery Murder Club - Satsujin Club (Japan)" id="0054">
+		<description>Final Mystery Murder Club - Satsujin Club (Japan)</description>
+		<rom name="Final Mystery Murder Club - Satsujin Club (Japan).rom" size="524288" crc="fe797d88" md5="f65b39a6475911f935b3d8c00b8b52a0" sha1="c1923ab5c5dcaf67af3e23fd1ac42e2d4c61aca7"/>
+	</game>
+	<game name="Fire Ball (Japan)" id="0055">
+		<description>Fire Ball (Japan)</description>
+		<rom name="Fire Ball (Japan).rom" size="131072" crc="cdcdc6c0" md5="beae4b0bee7b028644804fa41da96f40" sha1="cdeadd6cf7bf5b53aa7d901446b0ce586542c580"/>
+	</game>
+	<game name="Fleet Commander II - Koukon no Kaiiki (Japan)" id="0056">
+		<description>Fleet Commander II - Koukon no Kaiiki (Japan)</description>
+		<rom name="Fleet Commander II - Koukon no Kaiiki (Japan).rom" size="262144" crc="9f152e9b" md5="c164b82e38be62c3cfe38d587e20cc31" sha1="8cbfd94324f297a418e7eec6920dfead7b9bed08"/>
+	</game>
+	<game name="Gakuen Monogatari - High School Story (Japan)" id="0057">
+		<description>Gakuen Monogatari - High School Story (Japan)</description>
+		<rom name="Gakuen Monogatari - High School Story (Japan).rom" size="262144" crc="fbdafe4e" md5="d58d87e7a359df92c3aeae0ea93672b5" sha1="32dd4df2b39461c0694f6bb84de0709478a69d31"/>
+	</game>
+	<game name="Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)" id="0058">
+		<description>Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)</description>
+		<rom name="Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan).rom" size="262144" crc="eb67d4d6" md5="889e438fea6eeece702446311afce84f" sha1="1f3f586255dd49b0f912bf41e07e88fe3eb3fb61"/>
+	</game>
+	<game name="Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console)" id="0059">
+		<description>Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console)</description>
+		<rom name="Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console).rom" size="131072" crc="40e53ea3" md5="44c47ae77d38ee95d311f90204ed4ac5" sha1="fd71df03b0e9f3caf701ecfc6d5232060cab3b13" sha256="a436addc241d977ba38081463322e7e611d6bab4d10cd06305fe5a71f02a549c"/>
+	</game>
+	<game name="Garakuta (Japan)" id="0060">
+		<description>Garakuta (Japan)</description>
+		<rom name="Garakuta (Japan).rom" size="65536" crc="33c37313" md5="a0fb9b61195d7cfa9905f72d32c0c730" sha1="f4da2be2ee712ba2e7cccf56fcd15483fe0023ed"/>
+	</game>
+	<game name="Garyuu Ou (Japan)" id="0061">
+		<description>Garyuu Ou (Japan)</description>
+		<rom name="Garyuu Ou (Japan).rom" size="262144" crc="2fb0ed30" md5="c9a6c43add06e8f57ffdb4fe40df753c" sha1="1f26dfa026b116c80c951a995633b4c2f7fa033d"/>
+	</game>
+	<game name="Garyuu Ou (Japan) (Alt)" id="0062" cloneofid="0061">
+		<description>Garyuu Ou (Japan) (Alt)</description>
+		<rom name="Garyuu Ou (Japan) (Alt).rom" size="262144" crc="40d009fe" md5="ed4978ec21c4d0e7c7a336c58e9b7800" sha1="2a1c91bcc9b1b621773232061d74b7098420f1d4"/>
+	</game>
+	<game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)" id="0066" cloneofid="0063">
+		<description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)</description>
+		<rom name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).rom" size="131072" crc="bc1b1ace" md5="933618a3d26ee6beb32527113996f483" sha1="d89922ed43ea4fc0b87d7e5baef3f072bb566849"/>
+	</game>
+	<game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt)" id="0064" cloneofid="0063">
+		<description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt)</description>
+		<rom name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt).rom" size="131072" crc="b0a7800f" md5="ab8c5e6d4be4a2979019df24ca0ad679" sha1="b8f4ee146c3cdb8f506371d001e6398ecda85251"/>
+	</game>
+	<game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)" id="0065" cloneofid="0063">
+		<description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)</description>
+		<rom name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).rom" size="131072" crc="0ad36e2b" md5="b82bddbc0dec393986c0fadaa7dac22c" sha1="ad995ede603a28c72dad06c245fc7d4dad85d230"/>
+	</game>
+	<game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)" id="0063">
+		<description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)</description>
+		<rom name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).rom" size="131072" crc="c08faf0e" md5="d289fa8bcf442197900082a0d6f87b25" sha1="e22a6317747903475095008d0d5ad9427ddb34af"/>
+	</game>
+	<game name="Gekitotsu Pennant Race 2 (Japan) (English Menu)" id="0068">
+		<description>Gekitotsu Pennant Race 2 (Japan) (English Menu)</description>
+		<rom name="Gekitotsu Pennant Race 2 (Japan) (English Menu).rom" size="131072" crc="e92fc432" md5="97936e206e44474e7a2062d2682d5f54" sha1="dbed87a53c604f7140577d6707ca0fc8490463a6"/>
+	</game>
+	<game name="Gekitotsu Pennant Race 2 (Japan)" id="0067" cloneofid="0068">
+		<description>Gekitotsu Pennant Race 2 (Japan)</description>
+		<rom name="Gekitotsu Pennant Race 2 (Japan).rom" size="131072" crc="c44c6330" md5="af91306740ff42ffd25f0f75d3e4fca8" sha1="93b07e3cd5ae2f00b36824a74f83a3ef0d65d0d5"/>
+	</game>
+	<game name="Girly Block (Japan)" id="0069">
+		<description>Girly Block (Japan)</description>
+		<rom name="Girly Block (Japan).rom" size="131072" crc="28094960" md5="8a5f64a74e66be96ebf1f1719e669b89" sha1="bb99fe7702733ab0f9e8856e91f5ddcb55d30b5f"/>
+	</game>
+	<game name="Hacker (Japan)" id="0070">
+		<description>Hacker (Japan)</description>
+		<rom name="Hacker (Japan).rom" size="131072" crc="8df56d42" md5="5fd491b7b8c674fc78a56405c27d9221" sha1="920f141db0d42952130855ac1dce446c327e7d9c"/>
+	</game>
+	<game name="Hai no Majutsushi (Japan)" id="0071">
+		<description>Hai no Majutsushi (Japan)</description>
+		<rom name="Hai no Majutsushi (Japan).rom" size="131072" crc="e0e72736" md5="a9187c70ab0f678e06c773dabf2f7e5f" sha1="25022c4f5cfc805e93026fd5fda781e9a1807474"/>
+	</game>
+	<game name="Hal Note (Japan)" id="0004">
+		<description>Hal Note (Japan)</description>
+		<rom name="Hal Note (Japan).rom" size="1048576" crc="ff05fbbf" md5="cd72ed8e95ce71868643e156106a56b0" sha1="daca5d29a5999b71ce96ce1f8c485e6617dbdb17"/>
+	</game>
+	<game name="Han Seimei Senki Andorogynus (Japan)" id="0072">
+		<description>Han Seimei Senki Andorogynus (Japan)</description>
+		<rom name="Han Seimei Senki Andorogynus (Japan).rom" size="262144" crc="c6f74489" md5="65ed7fce763e5e7ec60306e86fff872f" sha1="55183b7b7df66950dbb65ef1065d7d987e0fdf5a"/>
+	</game>
+	<game name="Han Seimei Senki Andorogynus (Japan) (Alt)" id="0073" cloneofid="0072">
+		<description>Han Seimei Senki Andorogynus (Japan) (Alt)</description>
+		<rom name="Han Seimei Senki Andorogynus (Japan) (Alt).rom" size="262144" crc="eaf2bfcd" md5="79363f8f57233e4e4ae544fdbb6e21a0" sha1="ae3c3c2c022f566d2e790aba193470d5826f36cf"/>
+	</game>
+	<game name="Hard Ball (Japan)" id="0074">
+		<description>Hard Ball (Japan)</description>
+		<rom name="Hard Ball (Japan).rom" size="131072" crc="1d7040af" md5="53cb808a7a5a5e4cb13f8905e8bd9a34" sha1="32151ddc4303290c09889bf8107493dd34296043"/>
+	</game>
+	<game name="Heroes of the Lance (Japan)" id="0075">
+		<description>Heroes of the Lance (Japan)</description>
+		<rom name="Heroes of the Lance (Japan).rom" size="524288" crc="95f2eb6d" md5="20698b1fd96753f31d4a577d7f151460" sha1="6e1d2d5b0688860b0a04d53fe9e5e3939dfba547"/>
+	</game>
+	<game name="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)" id="0076">
+		<description>Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)</description>
+		<rom name="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).rom" size="131072" crc="17baf3ed" md5="1811f67fac1f6c98c83ef0281371c7fb" sha1="de0eb1c46c47924879e2a49f9eafba0ab344fe5f"/>
+	</game>
+	<game name="High School! Kimengumi (Japan)" id="0077">
+		<description>High School! Kimengumi (Japan)</description>
+		<rom name="High School! Kimengumi (Japan).rom" size="131072" crc="1123545c" md5="d18fa99ae42ebb6ac7b10556c172de7e" sha1="13fbb273a95481330d33c9edc4263e30ccf1774d"/>
+	</game>
+	<game name="Hinotori - Houou Hen (Japan)" id="0078">
+		<description>Hinotori - Houou Hen (Japan)</description>
+		<rom name="Hinotori - Houou Hen (Japan).rom" size="131072" crc="3ab5ae57" md5="8d89caf4804637e302fe1d57d2e2af73" sha1="d723f2eb1c887db5448fd56be5e7c57e60d88e63"/>
+	</game>
+	<game name="Hinotori - Houou Hen (Japan) (Alt)" id="0079" cloneofid="0078">
+		<description>Hinotori - Houou Hen (Japan) (Alt)</description>
+		<rom name="Hinotori - Houou Hen (Japan) (Alt).rom" size="131072" crc="d95116b0" md5="c35d87613bc6c7f5c03bfb8fa220a3f6" sha1="612c18616bc800d9eb69b9da3cd29eca31f50c1c"/>
+	</game>
+	<game name="Hinotori - Houou Hen (Japan) (Alt 2)" id="0080" cloneofid="0078">
+		<description>Hinotori - Houou Hen (Japan) (Alt 2)</description>
+		<rom name="Hinotori - Houou Hen (Japan) (Alt 2).rom" size="131072" crc="5928f406" md5="e2ae336ebffbc696633a57fe46e170b5" sha1="300f20adde3941ab10eb158db48250e8e856a911"/>
+	</game>
+	<game name="Hole in One Special (Japan)" id="0081">
+		<description>Hole in One Special (Japan)</description>
+		<rom name="Hole in One Special (Japan).rom" size="131072" crc="f35df283" md5="6beaf41221e7cd325d32b3112cc898da" sha1="facb967717c21fed9b375481908aa337b3361c45"/>
+	</game>
+	<game name="Hole in One Special (Japan) (Alt)" id="0082" cloneofid="0081">
+		<description>Hole in One Special (Japan) (Alt)</description>
+		<rom name="Hole in One Special (Japan) (Alt).rom" size="131072" crc="4708bdd1" md5="df9d9e1dd54409d5b35339ea60b1045e" sha1="3837d3a72498caa070866d947956a2e30fb94fbe"/>
+	</game>
+	<game name="Hydlide 3 - The Space Memories (Japan)" id="0083">
+		<description>Hydlide 3 - The Space Memories (Japan)</description>
+		<rom name="Hydlide 3 - The Space Memories (Japan).rom" size="524288" crc="00db86c8" md5="c8f2a1a93f852096eaebaa18e59350cf" sha1="f182d4785e3eed00292f7ff4795c9dcc6c990a0a"/>
+	</game>
+	<game name="Ide Yousuke Meijin no Jissen Mahjong (Japan)" id="0084">
+		<description>Ide Yousuke Meijin no Jissen Mahjong (Japan)</description>
+		<rom name="Ide Yousuke Meijin no Jissen Mahjong (Japan).rom" size="131072" crc="935f1bde" md5="77a23da8af09ccb05f19ca50e717875b" sha1="219e9acc2c023c25a8bbe9fb7d1764ffcff66034"/>
+	</game>
+	<game name="Ikari (Japan)" id="0085">
+		<description>Ikari (Japan)</description>
+		<rom name="Ikari (Japan).rom" size="262144" crc="a9a66075" md5="65c426e4cf02a1f211641a2dfc035486" sha1="e065238580b9e118b6c9e789d797cdd99e0a1c69"/>
+	</game>
+	<game name="Ikari (Japan) (Alt)" id="0086" cloneofid="0085">
+		<description>Ikari (Japan) (Alt)</description>
+		<rom name="Ikari (Japan) (Alt).rom" size="262144" crc="93999a38" md5="ccab31de87cc187e5a3cc63401f43b00" sha1="fe8aae62fdec28631d8f7b6659dd95135c1bcbb7"/>
+	</game>
+	<game name="Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)" id="0087">
+		<description>Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)</description>
+		<rom name="Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).rom" size="131072" crc="f5174422" md5="4761dc4891d87f2f2feeeb237c9cd526" sha1="66508bbdc3b133b9a69ea96789bc134eea46796a"/>
+	</game>
+	<game name="Inindou - Datou Nobunaga (Japan)" id="0088">
+		<description>Inindou - Datou Nobunaga (Japan)</description>
+		<rom name="Inindou - Datou Nobunaga (Japan).rom" size="1048576" crc="881b3849" md5="d2f178fb8b16b2ebe002fefccb7d3191" sha1="0cc6c30c6918fcf780e57d40f58a4cf2a82225cd"/>
+	</game>
+	<game name="Ishin no Arashi (Japan)" id="0089">
+		<description>Ishin no Arashi (Japan)</description>
+		<rom name="Ishin no Arashi (Japan).rom" size="524288" crc="8bc34dca" md5="6c3ac4fc067d82977a11611ec29ae4c4" sha1="6420d61002da325403fcb6f41afb1d348eeba3b4"/>
+	</game>
+	<game name="Jansei (Japan)" id="0090">
+		<description>Jansei (Japan)</description>
+		<rom name="Jansei (Japan).rom" size="131072" crc="00b8e82e" md5="d9c9ee473b5e1e372b2b53a3c9558d5f" sha1="0eb3a48a8ab90826726f0c06daadf4bf13390758"/>
+	</game>
+	<game name="Jansei (Japan) (Alt)" id="0091" cloneofid="0090">
+		<description>Jansei (Japan) (Alt)</description>
+		<rom name="Jansei (Japan) (Alt).rom" size="131072" crc="2c2924ed" md5="f64c38d0010b872a435b041936100cbd" sha1="d78293133b075f48c9dc5c4cf0c4a985ae964b08"/>
+	</game>
+	<game name="Japanese MSX-Write II (Japan) (Program)" id="0005">
+		<description>Japanese MSX-Write II (Japan) (Program)</description>
+		<rom name="Japanese MSX-Write II (Japan) (Program).rom" size="524288" crc="459478cb" md5="1e4ef11e18575f052ea5de49872d4f4b" sha1="9afdee40e7b243f99cc50dd1ad710ab0928dd820"/>
+	</game>
+	<game name="Kempelen Chess (Japan)" id="0093">
+		<description>Kempelen Chess (Japan)</description>
+		<rom name="Kempelen Chess (Japan).rom" size="131072" crc="053aa66e" md5="a7e3b3b64a54078d7d92fbea2e1cf8a8" sha1="a0c486d0f25a3dc586717d5d3e1f5a46d36735fc"/>
+	</game>
+	<game name="Kiki Kaikai (Japan)" id="0094">
+		<description>Kiki Kaikai (Japan)</description>
+		<rom name="Kiki Kaikai (Japan).rom" size="131072" crc="5c859406" md5="7c981f0ddf3a459fb854c9b827061a44" sha1="6dd28797f9d1fe7cc041077ebe77d08f2ccc0937"/>
+	</game>
+	<game name="King Kong 2 - Yomigaeru Densetsu (Japan)" id="0095">
+		<description>King Kong 2 - Yomigaeru Densetsu (Japan)</description>
+		<rom name="King Kong 2 - Yomigaeru Densetsu (Japan).rom" size="131072" crc="23b78a2d" md5="a7bc0525d6367fe9b32eb568a14133e7" sha1="fe4bd35e87dd50fddd255172129b9bec38691188"/>
+	</game>
+	<game name="Kisei (Japan)" id="0096">
+		<description>Kisei (Japan)</description>
+		<rom name="Kisei (Japan).rom" size="131072" crc="167a53da" md5="8cfe4ebb5bfd4c2ab838b81b0d2acb37" sha1="2e2543ac99193f76b4f35463142294c016f0cf3d"/>
+	</game>
+	<game name="Kitahei (Japan)" id="0097">
+		<description>Kitahei (Japan)</description>
+		<rom name="Kitahei (Japan).rom" size="131072" crc="0767af40" md5="cb955ec12b62b62d8f3df6f2073acfc1" sha1="b74f759ba3837968a04e9b64321b47cf087e76ff"/>
+	</game>
+	<game name="Koronis Rift (Europe)" id="0098">
+		<description>Koronis Rift (Europe)</description>
+		<rom name="Koronis Rift (Europe).rom" size="262144" crc="fb348de6" md5="e95759a5332959a0f497c99508f738cc" sha1="523330d609ca0e527f3e28a078635b3d28489ec9"/>
+	</game>
+	<game name="Labyrinth (Japan)" id="0099">
+		<description>Labyrinth (Japan)</description>
+		<rom name="Labyrinth (Japan).rom" size="262144" crc="9926f43c" md5="121eb1b9dce5c12832a5c7b97265a773" sha1="e003d57d2102e8fdf5d9eea7bd78a3cf67d75778"/>
+	</game>
+	<game name="Labyrinth (Japan) (Alt)" id="0100" cloneofid="0099">
+		<description>Labyrinth (Japan) (Alt)</description>
+		<rom name="Labyrinth (Japan) (Alt).rom" size="262144" crc="a295e608" md5="82a73f6b3186409232f988f28226f9e6" sha1="51e4231e245ffd733590e3205fa3ffea92ad509f"/>
+	</game>
+	<game name="Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt)" id="0102" cloneofid="0101">
+		<description>Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt)</description>
+		<rom name="Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt).rom" size="131072" crc="5a090675" md5="2bd8b20b342976a5cf7b4b30399c5083" sha1="1aee947b1ad6d478c0def550868a3851c2910809"/>
+	</game>
+	<game name="Lupin Sansei - Babylon no Ougon Densetsu (Japan)" id="0101">
+		<description>Lupin Sansei - Babylon no Ougon Densetsu (Japan)</description>
+		<rom name="Lupin Sansei - Babylon no Ougon Densetsu (Japan).rom" size="131072" crc="bfe150c4" md5="b15c73f408756e444bd8ee347e7f98ae" sha1="c4a919f31d20008b5d6540aa5d2be59aa4cef5cf"/>
+	</game>
+	<game name="Lupin Sansei - Cagliostro no Shiro (Japan)" id="0103">
+		<description>Lupin Sansei - Cagliostro no Shiro (Japan)</description>
+		<rom name="Lupin Sansei - Cagliostro no Shiro (Japan).rom" size="131072" crc="c4096e6b" md5="14c078a9ed5c14ac54a6eb5e94fa34d2" sha1="e89fc7437d8f9aed1640689a32ebbf047699b147"/>
+	</game>
+	<game name="Lupin Sansei - Cagliostro no Shiro (Japan) (Alt)" id="0104" cloneofid="0103">
+		<description>Lupin Sansei - Cagliostro no Shiro (Japan) (Alt)</description>
+		<rom name="Lupin Sansei - Cagliostro no Shiro (Japan) (Alt).rom" size="131072" crc="f12bec91" md5="4fefe2334038d0f2f189a8434b1c8bc2" sha1="ae8172bcf76adfa3d401467cbc89cbec2db86ee2"/>
+	</game>
+	<game name="Mad Rider (Japan) (Alt)" id="0106" cloneofid="0105">
+		<description>Mad Rider (Japan) (Alt)</description>
+		<rom name="Mad Rider (Japan) (Alt).rom" size="131072" crc="dfc2a720" md5="668f400e33557d24c9413310634c8ace" sha1="a53feafa4c70d2378998f0dcb837905e5070c541"/>
+	</game>
+	<game name="Mad Rider (Japan)" id="0105">
+		<description>Mad Rider (Japan)</description>
+		<rom name="Mad Rider (Japan).rom" size="131072" crc="f87bd172" md5="93c665dab6503b4ff2712adfeb3a8531" sha1="4c44939a95a20d701f60830499254e5dabedeeaa"/>
+	</game>
+	<game name="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)" id="0107">
+		<description>Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)</description>
+		<rom name="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).rom" size="524288" crc="94191aae" md5="ed5c5d1f0a3ccd435ac3d28668ee5ec9" sha1="55fb4e3d3a762b613b635ee9745d92f0f3711272"/>
+	</game>
+	<game name="Maison Ikkoku - Omoide no Photograph (Japan)" id="0108">
+		<description>Maison Ikkoku - Omoide no Photograph (Japan)</description>
+		<rom name="Maison Ikkoku - Omoide no Photograph (Japan).rom" size="262144" crc="f4d127c0" md5="68ee449de249d7b2cf0e1900a6cd319c" sha1="ee501fde62b25ddd1c82798ee1b233b8813e717b"/>
+	</game>
+	<game name="Malaya no Hibou (Japan)" id="0109">
+		<description>Malaya no Hibou (Japan)</description>
+		<rom name="Malaya no Hibou (Japan).rom" size="131072" crc="f7a9591d" md5="8153cc9023d0e38d7da0b359c47df5e8" sha1="e6c01bd90cf0b2793282fc53e9a3150a6d7804c5"/>
+	</game>
+	<game name="Metal Gear (Japan)" id="0111" cloneofid="0110">
+		<description>Metal Gear (Japan)</description>
+		<rom name="Metal Gear (Japan).rom" size="131072" crc="fafe1303" md5="12e302954fa9b23c11ce7c8f5770b82a" sha1="a52021f1b257c7c35d626d5d642134091c45e4f4"/>
+	</game>
+	<game name="Metal Gear (Europe)" id="0110">
+		<description>Metal Gear (Europe)</description>
+		<rom name="Metal Gear (Europe).rom" size="131072" crc="e85c5731" md5="e8c260a29aa082e5330827364aa86ba8" sha1="b656bd19df58fc1ba4628342b87beeec5948e0b3"/>
+	</game>
+	<game name="Metal Gear 2 - Solid Snake (Japan) (Demo)" id="0113" cloneofid="0112">
+		<description>Metal Gear 2 - Solid Snake (Japan) (Demo)</description>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) (Demo).rom" size="131072" crc="dcee5080" md5="0b5fd35204aa279fb106e3761f90085e" sha1="21ac0ae7da47abf30986b479489134c79405f95d"/>
+	</game>
+	<game name="Metal Gear 2 - Solid Snake (Japan)" id="0112">
+		<description>Metal Gear 2 - Solid Snake (Japan)</description>
+		<rom name="Metal Gear 2 - Solid Snake (Japan).rom" size="524288" crc="18b1f34b" md5="9f50d92d35e19d5de37d75a36a410588" sha1="af567ea6e27912d6d5bf1c8e9bc18e9b393fd1ab"/>
+	</game>
+	<game name="Mirai (Japan)" id="0114">
+		<description>Mirai (Japan)</description>
+		<rom name="Mirai (Japan).rom" size="131072" crc="70aa93cf" md5="f15a35b66270858d4c1c5d1351e04d6e" sha1="1c17e58f1a602e07f185bce1aa8589fae76e8b44"/>
+	</game>
+	<game name="Mississippi Satsujinjiken (Japan)" id="0115">
+		<description>Mississippi Satsujinjiken (Japan)</description>
+		<rom name="Mississippi Satsujinjiken (Japan).rom" size="131072" crc="3f69a464" md5="5564c666d127fa6765b756311a19f45d" sha1="d53a8efefe3714269538a91e5256c2938fe13239"/>
+	</game>
+	<game name="Moero!! Nettou Yakyuu '88 (Japan)" id="0116">
+		<description>Moero!! Nettou Yakyuu '88 (Japan)</description>
+		<rom name="Moero!! Nettou Yakyuu '88 (Japan).rom" size="262144" crc="68745c64" md5="50b6f805f48865d0a0021d604be1c58e" sha1="1cbd5c7849f97dea1e3375a842f784ff9283310c"/>
+	</game>
+	<game name="Monmon Kaibutsu (Japan)" id="0117">
+		<description>Monmon Kaibutsu (Japan)</description>
+		<rom name="Monmon Kaibutsu (Japan).rom" size="131072" crc="ebccb796" md5="924f7eb26bcdf28047ec4211eec5f8b7" sha1="ab087d04eb5c2c8894758c7cee32ccafd80989a7"/>
+	</game>
+	<game name="Nekketsu Juudou (Japan) (Alt)" id="0119" cloneofid="0118">
+		<description>Nekketsu Juudou (Japan) (Alt)</description>
+		<rom name="Nekketsu Juudou (Japan) (Alt).rom" size="262144" crc="fda1977a" md5="0e2697ed7769d3aa3650b215808c5335" sha1="1d97922a5ab63e73611d0edbe952f041af3385b3"/>
+	</game>
+	<game name="Nekketsu Juudou (Japan)" id="0118">
+		<description>Nekketsu Juudou (Japan)</description>
+		<rom name="Nekketsu Juudou (Japan).rom" size="262144" crc="758c6087" md5="7a3012784c5e42194c141edbf0f7a94d" sha1="721a2ded692d34d864d0440ac347c60880942d19"/>
+	</game>
+	<game name="Ninja-kun - Asura no Shou (Japan)" id="0120">
+		<description>Ninja-kun - Asura no Shou (Japan)</description>
+		<rom name="Ninja-kun - Asura no Shou (Japan).rom" size="131072" crc="f56a00e6" md5="01d18e427d829e3f1aa3550ff15c107c" sha1="5c278deb1390eb45c79b7667b1ea1c54183123ac"/>
+	</game>
+	<game name="Nobunaga no Yabou - Bushou Fuuun Roku (Japan)" id="0121">
+		<description>Nobunaga no Yabou - Bushou Fuuun Roku (Japan)</description>
+		<rom name="Nobunaga no Yabou - Bushou Fuuun Roku (Japan).rom" size="1048576" crc="0ff8e2c7" md5="65e30c8ef671b789fdc1c08780207e26" sha1="cb6bd26961387def757c7faeec7563d77d404d01"/>
+	</game>
+	<game name="Nobunaga no Yabou - Sengoku Gunyuuden (Japan)" id="0122">
+		<description>Nobunaga no Yabou - Sengoku Gunyuuden (Japan)</description>
+		<rom name="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).rom" size="524288" crc="69c11d81" md5="c2cbcad9411b575e9291c3739118785c" sha1="89943ae938fb308f4b5149ebc0cbea597b9b0223"/>
+	</game>
+	<game name="Nobunaga no Yabou - Zenkoku Ban (Japan)" id="0123">
+		<description>Nobunaga no Yabou - Zenkoku Ban (Japan)</description>
+		<rom name="Nobunaga no Yabou - Zenkoku Ban (Japan).rom" size="524288" crc="653f1c73" md5="4fe04555caed46046b80d5624d44151f" sha1="fbfdd89ec183ceae63d3d66b0ab45faa951b525a"/>
+	</game>
+	<game name="Ogre (Japan)" id="0124">
+		<description>Ogre (Japan)</description>
+		<rom name="Ogre (Japan).rom" size="131072" crc="f2544e2e" md5="82cd46d7908c42417ff7f40b4d277e45" sha1="c9c272ffa69d3e0af5be42e7636b02dc2af6ea8c"/>
+	</game>
+	<game name="Ogre (Japan) (Alt)" id="0125" cloneofid="0124">
+		<description>Ogre (Japan) (Alt)</description>
+		<rom name="Ogre (Japan) (Alt).rom" size="524288" crc="b19e88aa" md5="a04139da653fc41fdc576a5ffa273cf7" sha1="82397096d5ef436b99b943c2a52d6eff87694183"/>
+	</game>
+	<game name="Ouke no Tani - El Giza no Fuuin (Japan)" id="0126">
+		<description>Ouke no Tani - El Giza no Fuuin (Japan)</description>
+		<rom name="Ouke no Tani - El Giza no Fuuin (Japan).rom" size="131072" crc="b1cb1052" md5="dfcaf859e699f8995d054622c5a561ba" sha1="5ec8811254dc762c6852289a08acf22954404f0d"/>
+	</game>
+	<game name="Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)" id="0127" cloneofid="0126">
+		<description>Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)</description>
+		<rom name="Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).rom" size="131072" crc="774c70fc" md5="a94a47593514299cae379b974dc088f5" sha1="2e0436303648097e8e936c5467574aff5e3f1517"/>
+	</game>
+	<game name="Out Run (Japan)" id="0128">
+		<description>Out Run (Japan)</description>
+		<rom name="Out Run (Japan).rom" size="262144" crc="0a9f8d6c" md5="eff230804098ffe4d342f389b5209eac" sha1="0f10d77d1536993b8455b3b47278ca5782ef9275"/>
+	</game>
+	<game name="Pac-Mania (Japan)" id="0129">
+		<description>Pac-Mania (Japan)</description>
+		<rom name="Pac-Mania (Japan).rom" size="262144" crc="7df16fc8" md5="45f9b96088f36697f779af7de373f8fe" sha1="d5902afbd8dfb1ea96fc8cf4d62cf6e4fa40d4f7"/>
+	</game>
+	<game name="Pachi Pro Densetsu (Japan)" id="0130">
+		<description>Pachi Pro Densetsu (Japan)</description>
+		<rom name="Pachi Pro Densetsu (Japan).rom" size="131072" crc="252798f6" md5="aee5bfde07da953eada70d618a933d06" sha1="78507f3f8b8601d99bbedb6517bec6cddf0bd5b4"/>
+	</game>
+	<game name="Penguin-kun Wars 2 (Japan)" id="0131">
+		<description>Penguin-kun Wars 2 (Japan)</description>
+		<rom name="Penguin-kun Wars 2 (Japan).rom" size="262144" crc="b1b24da1" md5="3db77573e81184156486fe743b828e58" sha1="b7104477c8801fe54d1ba91f3a77ac6e4f399f52"/>
+	</game>
+	<game name="Penguin-kun Wars 2 (Japan) (Alt)" id="0132" cloneofid="0131">
+		<description>Penguin-kun Wars 2 (Japan) (Alt)</description>
+		<rom name="Penguin-kun Wars 2 (Japan) (Alt).rom" size="262144" crc="70dc14a6" md5="415a5337eb46846cab8fc36390700e7d" sha1="788c53657d9ea180d04f29ccaf1f1c29a9b75519"/>
+	</game>
+	<game name="Predator (Japan)" id="0133">
+		<description>Predator (Japan)</description>
+		<rom name="Predator (Japan).rom" size="131072" crc="e85a4a6b" md5="3a3bef37cb175a665e7abbbc80b32e92" sha1="ae6ad52d5ebcad7722ea070109a286fe13b06cb7"/>
+	</game>
+	<game name="Pro Yakyuu Family Stadium - Pennant Race (Japan)" id="0134">
+		<description>Pro Yakyuu Family Stadium - Pennant Race (Japan)</description>
+		<rom name="Pro Yakyuu Family Stadium - Pennant Race (Japan).rom" size="262144" crc="356b7d2a" md5="206945b66a897271269cdcf12070993b" sha1="970e26f3c2c085e39267115991add6ccc6e9ff80"/>
+	</game>
+	<game name="Pro Yakyuu Fan - Telenet Stadium (Japan)" id="0135">
+		<description>Pro Yakyuu Fan - Telenet Stadium (Japan)</description>
+		<rom name="Pro Yakyuu Fan - Telenet Stadium (Japan).rom" size="262144" crc="c065bc29" md5="3cd4e9d0369842440ad5888a52cdcf9a" sha1="f52690157a51c662ffdf4ae3592ada93d7be4032"/>
+	</game>
+	<game name="Professional Mahjong Gokuu (Japan)" id="0136">
+		<description>Professional Mahjong Gokuu (Japan)</description>
+		<rom name="Professional Mahjong Gokuu (Japan).rom" size="131072" crc="2abb1ec4" md5="4f9c53d6f5ed2aa2876bb78408b39084" sha1="81143d2a8ef7cc593a604f3cc890312b42bdff01"/>
+	</game>
+	<game name="Project A2 - Shijousaidai no Hyouteki (Japan)" id="0137">
+		<description>Project A2 - Shijousaidai no Hyouteki (Japan)</description>
+		<rom name="Project A2 - Shijousaidai no Hyouteki (Japan).rom" size="131072" crc="1b285fe3" md5="9ffa0d56003931c45b232521724b2b8b" sha1="418f6248221c79039fe6c44fc5a9514842e3ec71"/>
+	</game>
+	<game name="Quarth (Korea)" id="0140" cloneofid="0138">
+		<description>Quarth (Korea)</description>
+		<rom name="Quarth (Korea).rom" size="131072" crc="6681d322" md5="384527f9303a9a7a632b33c05d738f63" sha1="2312bff70c83e60d1ca0fb9ca78a50637d02771c"/>
+	</game>
+	<game name="Quarth (Japan) (Demo)" id="0139" cloneofid="0138">
+		<description>Quarth (Japan) (Demo)</description>
+		<rom name="Quarth (Japan) (Demo).rom" size="131072" crc="c4ccb75f" md5="a95a4348dfbb8c0d9e3e0a9da770031b" sha1="1ccac7caeaaa1c5a89503221b0a5eec2f34b1c91"/>
+	</game>
+	<game name="Quarth (Japan) (Wii U Virtual Console)" id="0138">
+		<description>Quarth (Japan) (Wii U Virtual Console)</description>
+		<rom name="Quarth (Japan) (Wii U Virtual Console).rom" size="131072" crc="a0014e7f" md5="b34b756e16f07e26c2052823bab93592" sha1="0c62591033aa4e5e6b9eeb21eb2e5e60dcd8ee8e" sha256="5f6048c69de81c3d1fb74ab1e1fcf0c770977c3cbcbf46924a0d47d26aea9f0f"/>
+	</game>
+	<game name="Quinpl (Japan)" id="0141">
+		<description>Quinpl (Japan)</description>
+		<rom name="Quinpl (Japan).rom" size="262144" crc="8d94af7d" md5="bc946d90bd20e0805984f67bb4b93fc2" sha1="c82c6e054313f4c8864e64897baea8b63776020d"/>
+	</game>
+	<game name="Rastan Saga (Japan)" id="0142">
+		<description>Rastan Saga (Japan)</description>
+		<rom name="Rastan Saga (Japan).rom" size="262144" crc="84461e73" md5="114264bbcd0fdfa7bd083a983606a200" sha1="f787271597abbcb1297e4e8a4a9561959a195649"/>
+	</game>
+	<game name="Relics (Japan)" id="0143">
+		<description>Relics (Japan)</description>
+		<rom name="Relics (Japan).rom" size="262144" crc="babc68f2" md5="dd3e2f7c437f00ac77eeb9e9975ed947" sha1="02c3ec94190c6fce6fa4984d92be48b2697e7706"/>
+	</game>
+	<game name="Replicart (Japan)" id="0144">
+		<description>Replicart (Japan)</description>
+		<rom name="Replicart (Japan).rom" size="131072" crc="6eee12c4" md5="7d4c77200788e78126b98a7d7ba53d3c" sha1="afb693fd0a138cfc59a2bf81eabd7ca2abd4e162"/>
+	</game>
+	<game name="Return of Ishtar, The (Japan)" id="0145">
+		<description>Return of Ishtar, The (Japan)</description>
+		<rom name="Return of Ishtar, The (Japan).rom" size="262144" crc="8ee8212c" md5="795918ec755dbd76a8e1138f1c9abb73" sha1="d17acc97bf2f853a5fff58da733e4cd53cdaa3ed"/>
+	</game>
+	<game name="Return of Jelda (Japan)" id="0146">
+		<description>Return of Jelda (Japan)</description>
+		<rom name="Return of Jelda (Japan).rom" size="131072" crc="5ccc09ab" md5="50312d8faaef4ffa55f49feab5669b0c" sha1="59f679c5ebf75de98b5e909da9182dbd80413364"/>
+	</game>
+	<game name="Rick to Mick no Daibouken (Japan)" id="0147">
+		<description>Rick to Mick no Daibouken (Japan)</description>
+		<rom name="Rick to Mick no Daibouken (Japan).rom" size="131072" crc="e79aa962" md5="9df54a16476239e572747cc9a83c5b32" sha1="a57f8ec4f89ab84936f46821969de6bca9f46d8e"/>
+	</game>
+	<game name="Royal Blood (Japan)" id="0149">
+		<description>Royal Blood (Japan)</description>
+		<rom name="Royal Blood (Japan).rom" size="1048576" crc="fb9e42e1" md5="6a1571a643e6c34837535a3240f85ef2" sha1="522a53034cf40448d441683f3308fcb4b65e6d7c"/>
+	</game>
+	<game name="Sangokushi (Japan)" id="0150">
+		<description>Sangokushi (Japan)</description>
+		<rom name="Sangokushi (Japan).rom" size="524288" crc="b83aa6f5" md5="afe6a9160c79d579f18b2980f8874a6e" sha1="dab5a9f93a35fcb92c01e4250b01928fe8bd294b"/>
+	</game>
+	<game name="Sangokushi II (Japan)" id="0151">
+		<description>Sangokushi II (Japan)</description>
+		<rom name="Sangokushi II (Japan).rom" size="1048576" crc="c89b93b5" md5="34301e3f3f3aa4e0cbd657caab003237" sha1="25ffc7e8ca90274566c31e10b5998cca6522673a"/>
+	</game>
+	<game name="Scramble Formation (Japan)" id="0152">
+		<description>Scramble Formation (Japan)</description>
+		<rom name="Scramble Formation (Japan).rom" size="262144" crc="226795e0" md5="5951dc047c5a102e9cf9e1a59d2596d2" sha1="24384e63bfe450bce6abd327eae3e27969025379"/>
+	</game>
+	<game name="Seikima II Special - Akuma no Gyakushuu (Japan)" id="0153">
+		<description>Seikima II Special - Akuma no Gyakushuu (Japan)</description>
+		<rom name="Seikima II Special - Akuma no Gyakushuu (Japan).rom" size="131072" crc="e37b681e" md5="42b81e1c71ec8af3f37d90e4c020c697" sha1="c74a5a6164536750d6b3ea90e19798ab6fad79d7"/>
+	</game>
+	<game name="Seikima II Special - Akuma no Gyakushuu (Japan) (Alt)" id="0154" cloneofid="0153">
+		<description>Seikima II Special - Akuma no Gyakushuu (Japan) (Alt)</description>
+		<rom name="Seikima II Special - Akuma no Gyakushuu (Japan) (Alt).rom" size="131072" crc="816aceb5" md5="76a2fd7f38d9fb6b5192115fc5182b7f" sha1="510f6d854f813269f67ee15a4cc2ed77d96d2903"/>
+	</game>
+	<game name="Shanghai (Japan)" id="0155">
+		<description>Shanghai (Japan)</description>
+		<rom name="Shanghai (Japan).rom" size="131072" crc="3b815dc6" md5="6429d308164ccb0aea2888f5cffa66aa" sha1="77d95640c80bc4868d04a913f9dbf4b5f6d877d2"/>
+	</game>
+	<game name="Shiryou Sensen - War of the Dead (Japan)" id="0156">
+		<description>Shiryou Sensen - War of the Dead (Japan)</description>
+		<rom name="Shiryou Sensen - War of the Dead (Japan).rom" size="262144" crc="39e1c37a" md5="89db61d03a72aede925d79e02706f666" sha1="3194153a9c93aa24b37804a764f112bdef091bf8"/>
+	</game>
+	<game name="Space Manbow (Japan) (Wii U Virtual Console)" id="0157">
+		<description>Space Manbow (Japan) (Wii U Virtual Console)</description>
+		<rom name="Space Manbow (Japan) (Wii U Virtual Console).rom" size="262144" crc="27405eed" md5="f78b9f4ea885cf072e5b41dce9f15436" sha1="f6199f48ff994fc9a8e33a8581bb3bb16dd301ab" sha256="058f5768ad39a74dafc2dd4e3d7558b82117aee0b6735a02be379f1018694dc9"/>
+	</game>
+	<game name="Star Virgin (Japan) (Alt)" id="0159" cloneofid="0158">
+		<description>Star Virgin (Japan) (Alt)</description>
+		<rom name="Star Virgin (Japan) (Alt).rom" size="131072" crc="441fc425" md5="21eaba844f408c094c2d190d68df3842" sha1="2bfa08db95502ee9bde61c5fe7b6557c0e4aef5a"/>
+	</game>
+	<game name="Star Virgin (Japan)" id="0158">
+		<description>Star Virgin (Japan)</description>
+		<rom name="Star Virgin (Japan).rom" size="131072" crc="cbdfcc35" md5="d2f51a8ac5b78d322d6ba404e962f07a" sha1="2fc050dbc44ba9dfb72299129d48e5e5e1c892c3"/>
+	</game>
+	<game name="Strategic Mars (Japan)" id="0160">
+		<description>Strategic Mars (Japan)</description>
+		<rom name="Strategic Mars (Japan).rom" size="131072" crc="4a3abb65" md5="0f235700eecb79b0e5a517118d48112c" sha1="dc56cff1211bacd94f59e188e44a58d6f40a0c26"/>
+	</game>
+	<game name="Suikoden - Tenmei no Chikai (Japan)" id="0161">
+		<description>Suikoden - Tenmei no Chikai (Japan)</description>
+		<rom name="Suikoden - Tenmei no Chikai (Japan).rom" size="524288" crc="187d3a21" md5="22f48218a0db04edd8f90bc4355e2de9" sha1="de251a0af1df3be18469578dc00d414e572ee33e"/>
+	</game>
+	<game name="Super Daisenryaku (Japan)" id="0162">
+		<description>Super Daisenryaku (Japan)</description>
+		<rom name="Super Daisenryaku (Japan).rom" size="262144" crc="8df9945a" md5="4350a658720a2e8f7ecc46fb99c2209e" sha1="d1cc2a77fb17608d542c50e2a1404cf5b4231521"/>
+	</game>
+	<game name="Super Load Runner (Japan)" id="0163">
+		<description>Super Load Runner (Japan)</description>
+		<rom name="Super Load Runner (Japan).rom" size="131072" crc="80ecac11" md5="581fd0c7ab5d2e355c5bffa3946bdbf6" sha1="4164dcdfe0613d0f4c53b6f3581548bbbad5eb43"/>
+	</game>
+	<game name="Super Rambo Special (Japan)" id="0164">
+		<description>Super Rambo Special (Japan)</description>
+		<rom name="Super Rambo Special (Japan).rom" size="131072" crc="b2392ef3" md5="1a504223fdc2476a57198f80e8410a2a" sha1="2a3c7ad70e34989fa5170028bad760e65ebe9d57"/>
+	</game>
+	<game name="Super Runner (Japan)" id="0165">
+		<description>Super Runner (Japan)</description>
+		<rom name="Super Runner (Japan).rom" size="131072" crc="5a5be701" md5="a5fc4e9b290ee0e2e8ebb7f8b49d1ace" sha1="3202af113265e67e130a0b948dc167a9f9e9cc79"/>
+	</game>
+	<game name="Super Tritorn (Japan)" id="0166">
+		<description>Super Tritorn (Japan)</description>
+		<rom name="Super Tritorn (Japan).rom" size="131072" crc="cbb00ef1" md5="3032194b7fbc4c7af47b140739e7ce84" sha1="795d47c6aae378d0d5bedc9f104a597bcc1ee16b"/>
+	</game>
+	<game name="Synthe Saurus (Japan) (Program)" id="0006">
+		<description>Synthe Saurus (Japan) (Program)</description>
+		<rom name="Synthe Saurus (Japan) (Program).rom" size="65536" crc="7122e8e3" md5="81404a245c25a421c8ec4dc629ec4952" sha1="cf088b4eefe7f426e438dd2fe7a3433140abba52"/>
+	</game>
+	<game name="Taiyou no Shinden - Asteka II (Japan)" id="0167">
+		<description>Taiyou no Shinden - Asteka II (Japan)</description>
+		<rom name="Taiyou no Shinden - Asteka II (Japan).rom" size="262144" crc="ae82a874" md5="3ea01c97fe0201aede87a3f772b1871a" sha1="414fd2a22076f45502c2329b45bda9f8730dcaae"/>
+	</game>
+	<game name="Tanikawa Hiroshi no Shougi Shinan 2 (Japan)" id="0168">
+		<description>Tanikawa Hiroshi no Shougi Shinan 2 (Japan)</description>
+		<rom name="Tanikawa Hiroshi no Shougi Shinan 2 (Japan).rom" size="131072" crc="f640670c" md5="29020908bafea060960ca7e65cdfe6ca" sha1="39d500fbf22168be2a12ac89ff5a50131bb1c30b"/>
+	</game>
+	<game name="Teitoku no Ketsudan (Japan)" id="0169">
+		<description>Teitoku no Ketsudan (Japan)</description>
+		<rom name="Teitoku no Ketsudan (Japan).rom" size="1048576" crc="c31f459c" md5="5dee9db145d631a97bf4c645e76f3b20" sha1="b2ce0bc86f82f727db956dfbbe2a3fd0cb72f5fc"/>
+	</game>
+	<game name="Tengoku Yoitoko (Japan)" id="0170">
+		<description>Tengoku Yoitoko (Japan)</description>
+		<rom name="Tengoku Yoitoko (Japan).rom" size="131072" crc="7e637801" md5="88e940bb5c15d201bf1779821c10d923" sha1="00c70cf37c71cb8f99567ae407ff6dd52c4774c2"/>
+	</game>
+	<game name="Tetris (Japan)" id="0171">
+		<description>Tetris (Japan)</description>
+		<rom name="Tetris (Japan).rom" size="131072" crc="aa598dfd" md5="3ae183edb7f89666b23f041fd592df3c" sha1="af310ee21b5534f32ea92c0ae34a44d828d157a7"/>
+	</game>
+	<game name="Topple Zip (Japan)" id="0172">
+		<description>Topple Zip (Japan)</description>
+		<rom name="Topple Zip (Japan).rom" size="131072" crc="96b33497" md5="d5ec6055da9a7acf301e3e7fd8ebee27" sha1="e3036a7bc6ed3ece1c85d5e37fb2ff39ba98ba47"/>
+	</game>
+	<game name="Treasure of the Usas (Japan) (Wii U Virtual Console)" id="0199">
+		<description>Treasure of the Usas (Japan) (Wii U Virtual Console)</description>
+		<rom name="Treasure of the Usas (Japan) (Wii U Virtual Console).rom" size="131072" crc="7372f63e" md5="f53413f98ede110ee751a0dd917bf964" sha1="19b083bd9c1e46d9bca5d5afa58e841c0229ef15" sha256="68c4e5dc438d581a615332f6b83922d410be1ffc6a56b09f46ca3cfc1a8ba5ee"/>
+	</game>
+	<game name="Treasure of Usas, The (Japan, Europe) (En) (Alt)" id="0174" cloneofid="0173">
+		<description>Treasure of Usas, The (Japan, Europe) (En) (Alt)</description>
+		<rom name="Treasure of Usas, The (Japan, Europe) (En) (Alt).rom" size="131072" crc="1f1f1f26" md5="750d755fa577e033754c95c6a850b878" sha1="632cb0834441626d20cc113cfad2e3a7ec0e0dc7"/>
+	</game>
+	<game name="Treasure of Usas, The (Japan, Europe) (En)" id="0173">
+		<description>Treasure of Usas, The (Japan, Europe) (En)</description>
+		<rom name="Treasure of Usas, The (Japan, Europe) (En).rom" size="131072" crc="30396650" md5="9aab75984b06c21ed8e6214474d3a68e" sha1="4ff2aad8371e382e203c7f29b665612a8c9d937c"/>
+	</game>
+	<game name="Tsurikichi Sanpei - Blue Marine Hen (Japan)" id="0175">
+		<description>Tsurikichi Sanpei - Blue Marine Hen (Japan)</description>
+		<rom name="Tsurikichi Sanpei - Blue Marine Hen (Japan).rom" size="131072" crc="ff7395a3" md5="ac309104c4bcc0cbf56ac1d2295f1119" sha1="338460029d65ebce0d9119d811187a35c866a958"/>
+	</game>
+	<game name="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)" id="0176">
+		<description>Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)</description>
+		<rom name="Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).rom" size="262144" crc="24238b21" md5="b94a21a6017844335f0ad989968f0786" sha1="108e9164ef6cf1ffe6e3c5303bfbbc3bd807b6df"/>
+	</game>
+	<game name="Ultima Exodus (Japan)" id="0177">
+		<description>Ultima Exodus (Japan)</description>
+		<rom name="Ultima Exodus (Japan).rom" size="262144" crc="37b9e10f" md5="dfd60916a37e37b3a5b36523f6349109" sha1="18be429f8b5c7bc4775c99292110aa09341cd644"/>
+	</game>
+	<game name="Urusei Yatsura - Koi no Survival Birthday (Japan)" id="0178">
+		<description>Urusei Yatsura - Koi no Survival Birthday (Japan)</description>
+		<rom name="Urusei Yatsura - Koi no Survival Birthday (Japan).rom" size="524288" crc="e564a25f" md5="2b4f2b6eac82422eda32badf60aee213" sha1="92bada2d019fcd6eee6d332a8068a9ddfa30d518"/>
+	</game>
+	<game name="Vampire Killer (Japan, Europe) (En) (Alt 3)" id="0182" cloneofid="0179">
+		<description>Vampire Killer (Japan, Europe) (En) (Alt 3)</description>
+		<rom name="Vampire Killer (Japan, Europe) (En) (Alt 3).rom" size="131072" crc="217935d0" md5="273c3dff8315a6a4fced758f07d54aaa" sha1="e78511a2b8cca37a96aa396c938863c92a20c797"/>
+	</game>
+	<game name="Vampire Killer (Japan, Europe) (En) (Alt)" id="0180" cloneofid="0179">
+		<description>Vampire Killer (Japan, Europe) (En) (Alt)</description>
+		<rom name="Vampire Killer (Japan, Europe) (En) (Alt).rom" size="131072" crc="0aedea40" md5="51d021af50c3a48124331a9fbc738b97" sha1="5460a88c25386b1b950b57fc1325fd75587cc825"/>
+	</game>
+	<game name="Vampire Killer (Japan, Europe) (En) (Alt 2)" id="0181" cloneofid="0179">
+		<description>Vampire Killer (Japan, Europe) (En) (Alt 2)</description>
+		<rom name="Vampire Killer (Japan, Europe) (En) (Alt 2).rom" size="131072" crc="038c250d" md5="5d50c1c7bc164c3d01c41b0b8a501d72" sha1="b58e77f819dfbde72845801cff4b4e0a2f20ef5f"/>
+	</game>
+	<game name="Vampire Killer (Japan, Europe) (En)" id="0179">
+		<description>Vampire Killer (Japan, Europe) (En)</description>
+		<rom name="Vampire Killer (Japan, Europe) (En).rom" size="131072" crc="5953d084" md5="92ba9dab3c7a4ac6c8a130f6ccbac91c" sha1="5ef7d03b138a2023f6def241b671c666f97ed83b"/>
+	</game>
+	<game name="Victorious Nine II - Koukou Yakyuu Hen (Japan)" id="0183">
+		<description>Victorious Nine II - Koukou Yakyuu Hen (Japan)</description>
+		<rom name="Victorious Nine II - Koukou Yakyuu Hen (Japan).rom" size="131072" crc="94ebc319" md5="4f4d65a9e3f86349abfcab82e52cd207" sha1="7ed1308179c41ae62cfb46124ab0ce22d8b0513b"/>
+	</game>
+	<game name="Wizardry (Japan)" id="0184">
+		<description>Wizardry (Japan)</description>
+		<rom name="Wizardry (Japan).rom" size="524288" crc="08a5ca60" md5="53975cfff7a51f79e707e29e984d215a" sha1="34635bf3518c7b33164f3d96da769c7a01102d28"/>
+	</game>
+	<game name="Woody Poco (Japan) (Alt)" id="0186" cloneofid="0185">
+		<description>Woody Poco (Japan) (Alt)</description>
+		<rom name="Woody Poco (Japan) (Alt).rom" size="131072" crc="d1621bae" md5="24b443a15da41134a366f145fc336fab" sha1="f2361230358bd945690ca1c2a9dcc1cbce83941b"/>
+	</game>
+	<game name="Woody Poco (Japan)" id="0185">
+		<description>Woody Poco (Japan)</description>
+		<rom name="Woody Poco (Japan).rom" size="131072" crc="aea8d064" md5="3d8c2a836a4b16a739003b07d76c0459" sha1="ebe20c85c5314957fafc223c26bf393847e3bb03"/>
+	</game>
+	<game name="Xevious - Fardraut Saga (Japan)" id="0187">
+		<description>Xevious - Fardraut Saga (Japan)</description>
+		<rom name="Xevious - Fardraut Saga (Japan).rom" size="262144" crc="97591725" md5="261a860dee771ea77c2d813b97366f9e" sha1="f84d7fc089b31440cac1f4fbee3d45b2f6c90e37"/>
+	</game>
+	<game name="Xevious - Fardraut Saga (Japan) (Alt)" id="0188" cloneofid="0187">
+		<description>Xevious - Fardraut Saga (Japan) (Alt)</description>
+		<rom name="Xevious - Fardraut Saga (Japan) (Alt).rom" size="262144" crc="21489e1d" md5="72430889f4e5239a5ed9742a1b84c03a" sha1="ab3f375b6890b2a9bb1b6124f0fa690950c749f2"/>
+	</game>
+	<game name="Yaksa (Japan)" id="0189">
+		<description>Yaksa (Japan)</description>
+		<rom name="Yaksa (Japan).rom" size="262144" crc="ff974ee3" md5="c271c503c50bbbba7efc04f5f9ac6dec" sha1="3e57fad130be79223068ab29f1e77ecb7f2ad237"/>
+	</game>
+	<game name="Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)" id="0190">
+		<description>Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)</description>
+		<rom name="Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan).rom" size="262144" crc="dcb1a61e" md5="4140b44e0923026e50f88787e208ccb5" sha1="f9486dd810d6321bad4bc9d7703a67d630167f98"/>
+	</game>
+	<game name="Yuurei-kun (Japan)" id="0191">
+		<description>Yuurei-kun (Japan)</description>
+		<rom name="Yuurei-kun (Japan).rom" size="262144" crc="712ae3c6" md5="fd325b9f4997d70397f59379e679e420" sha1="efed48854beb2803d9f2b5644edff2aacf7c6af9"/>
+	</game>
+	<game name="Zanac Ex (Japan)" id="0192">
+		<description>Zanac Ex (Japan)</description>
+		<rom name="Zanac Ex (Japan).rom" size="131072" crc="d153b2f2" md5="03d381a40baed2be60f09a91b52316cc" sha1="23e702084e3031158a50a0560746767bbc1b7bee"/>
+	</game>
+	<game name="Zanac Ex (Japan) (Alt)" id="0193" cloneofid="0192">
+		<description>Zanac Ex (Japan) (Alt)</description>
+		<rom name="Zanac Ex (Japan) (Alt).rom" size="131072" crc="089c8164" md5="9bf8ee3fb42f475f6c6c1789f4b93c42" sha1="9200fd6f1e92f78e3d9c6d082837f719ad0500d4"/>
+	</game>
+	<game name="Zoids - Chuuou Tairiku no Tatakai (Japan)" id="0194">
+		<description>Zoids - Chuuou Tairiku no Tatakai (Japan)</description>
+		<rom name="Zoids - Chuuou Tairiku no Tatakai (Japan).rom" size="131072" crc="2605031e" md5="3ba77f331a92acf0d3e64847d4a2ca24" sha1="d526249c1a35cf1174300df75bc28662f579290a"/>
+	</game>
+	<game name="Zombie Hunter (Japan)" id="0195">
+		<description>Zombie Hunter (Japan)</description>
+		<rom name="Zombie Hunter (Japan).rom" size="131072" crc="a29e6ab4" md5="81a5853b8d046a8b3078283ac78bf2d1" sha1="a322d4e572467be5e1b452214143f88db526b49f"/>
+	</game>
+	<game name="Zukkoke Yajikita Onmitsu Douchuu (Japan)" id="0196">
+		<description>Zukkoke Yajikita Onmitsu Douchuu (Japan)</description>
+		<rom name="Zukkoke Yajikita Onmitsu Douchuu (Japan).rom" size="131072" crc="d0ececc6" md5="532c46b3f3b28ea4e1ddb215ba7ab5b0" sha1="094d11ebf8a20b6bfc07902c7f136bdd18b1e7ca"/>
+	</game>
+	<game name="Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt)" id="0197" cloneofid="0196">
+		<description>Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt)</description>
+		<rom name="Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt).rom" size="131072" crc="4968e84e" md5="ba2e644a68677cf42c116781579896d7" sha1="06c527db4fbe929b4da005e7463078c05944f477"/>
+	</game>
+</datafile>
